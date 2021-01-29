@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data</title>
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        @media only screen and (max-width: 600px) {
+            * {
+                font-size: 12px;
+            }
+        }
+
+
+        table,
+        td,
+        th {
+            border: 1px solid black;
+            padding: 5px 10px;
+        }
+
+        th {
+            background-color: black;
+            color: white;
+        }
+
+        table {
+            max-width: 600px;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .card-img {
+            height: 50px;
+        }
+
+        .emp {
+            width: 100%;
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- <table>
+        <tr>
+            <th>ড্রাইভারের নাম</th>
+            <th>ফোন নম্বর</th>
+            <th>লোকেশন</th>
+        </tr>
+    </table> -->
+
+
+
+    <div class="emp" id="employee_table">
+       
+    </div>
+
+
+
+
+    <script>
+        $(document).ready(function () {
+            $.getJSON("/users.json", function (data) {
+                var employee_data = '';
+                $.each(data, function (key, value) {
+                    // employee_data += '<tr>';
+                    // employee_data += '<td>' + value.name + '</td>';
+                    // employee_data += '<td> <a href="tel:' + value.number + '">' + value.number + '</a> </td>';
+                    // employee_data += '<td> <a href="' + value.map + '" target="_blank">' + value.location + '</a> </td>';
+                    // employee_data += '<tr>';
+
+
+                    employee_data += '<img class="card-img" src="' + value.image + '" alt="">';
+
+                    employee_data += '<h4>' + value.name + '</h4>';
+                    employee_data += '<p> <a href="tel:' + value.number + '">' + value.number + '</a> </p>';
+                    employee_data += '<p> <a href="' + value.map + '" target="_blank">' + value.location + '</a> </p>';
+                });
+                $('#employee_table').append(employee_data);
+            });
+
+        });
+    </script>
+
+
+
+
+
+</body>
+
+</html>
