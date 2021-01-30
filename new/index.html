@@ -2,46 +2,79 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JSON Card - Demo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="shortcut icon" href="https://freeiconshop.com/wp-content/uploads/edd/bank-flat.png" type="image/x-icon">
+    <title>Area Phonebook</title>
 
-  <link rel="stylesheet" href="./style.css">
+    <!-- external css bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- internal css -->
+    <link rel="stylesheet" href="css/index.css">
+
 </head>
 
 <body>
 
+    <!-- login area -->
+    <div id="login-area">
 
-  <section>
-    <div class="container">
-      <div class="row">
-        <div id="app"></div>
-      </div>
+        <ul>
+            <li>
+                <a href="#" id="login">জরুরী সেবা</a>
+            </li>
+            <li>
+                <a href="#" id="page">চিকিৎসা সেবা</a>
+            </li>
+            <li>
+                <a href="#">দোকান</a>
+            </li>
+        </ul>
+
     </div>
-  </section>
+
+    <!-- transaction area -->
+    <div id="transaction-area">
+
+        <a href="#" id="logout">&#8592; Back to Home</a>
+
+        <hr>
+        <ul>
+            <li><a href="ambulance/">এ্যাম্বুলেন্স</a></li>
+            <li><a href="#">হাঁসপাতাল</a></li>
+            <li><a href="#">ফায়ার সার্ভিস</a></li>
+            <li><a href="#">পুলিশ স্টেশন</a></li>
+            <li><a href="#">বিদ্যুৎ অফিস</a></li>
+            <li><a href="#">গ্যাস অফিস</a></li>
+            <li><a href="#">পানি অফিস</a></li>
+            <li><a href="#">গাড়ি ভাড়া</a></li>
+        </ul>
+
+    </div>
+
+    <!-- transaction area2 -->
+    <div id="page-area">
+
+        <a href="#" id="logout2">&#8592; Back to Home</a>
+
+        <hr>
+        <ul>
+            <li><a href="#">এ্যাম্বুলেন্স</a></li>
+            <li><a href="#">হাঁসপাতাল</a></li>
+            <li><a href="#">ফার্মেসী</a></li>
+            <li><a href="#">হোমিওপ্যাথি</a></li>
+            <li><a href="#">ডাক্তার বসেন</a></li>
+            <li><a href="#">ডাক্তার ল্যাব</a></li>
+        </ul>
+
+    </div>
 
 
-
-
-
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-    crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-    crossorigin="anonymous"></script>
-
-
-  <script src="data.js"></script>
-
-  <script src="index.js"></script>
-
+    <!-- internal javascript -->
+    <script src="js/index.js"></script>
 </body>
 
 </html>
