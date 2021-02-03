@@ -1,0 +1,33 @@
+function cardTemplate(card) {
+    return `
+    <div class="col-xl-4 col-md-6">
+        <a href="#">
+            <div class="card overflow-hidden">
+                <div class="card-content">
+                    <div class="card-body cleartfix">
+                        <div class="media align-items-stretch">
+                            <div class="align-self-center">
+                                <img class="manu-img" src="${card.img}" alt="${card.alt}">
+                            </div>
+                            <div class="media-body">
+                                <h4 class="manu-item">${card.manuName}</h4>
+                                <span class="topic tp1">${card.tp1}</span>
+                                <span class="topic tp2">${card.tp2}</span>
+                                <span class="topic tp3">${card.tp3}</span>
+                                <span class="topic tp4">...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    `;
+}
+
+
+document.getElementById("card").innerHTML = `
+    ${cardsData.map(cardTemplate).join("")}
+  `;
+
+
