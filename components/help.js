@@ -1,6 +1,6 @@
 const helpsData = [
     {
-        img: "resources/images/help-card/call.png"
+        img: "../resources/images/help-card/call.png"
     }
 ];
 

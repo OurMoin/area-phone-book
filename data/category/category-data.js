@@ -1,6 +1,6 @@
 const categorysData = [
     {
-        link: "#",
+        link: "emergency-services",
         img: "resources/images/icon/category/emergency-services.png",
         alt: "emergency services",
         manuName: "জরুরী সেবা",

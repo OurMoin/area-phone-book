@@ -1,6 +1,6 @@
 const navsData = [
     {
-        name: "Area Phonebook",
+        name: "Area PhoneBook",
         version: "Alpha",
         ourNumber: "0179889911"
     }
