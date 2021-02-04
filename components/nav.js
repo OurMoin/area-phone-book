@@ -1,12 +1,3 @@
-const navsData = [
-    {
-        name: "Area Phonebook",
-        version: "Alpha",
-        ourNumber: "0179889911"
-    }
-];
-
-
 function navTemplate(nav) {
     return `
     <nav class="blog-header fixed-top">
