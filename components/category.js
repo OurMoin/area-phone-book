@@ -10,7 +10,7 @@ function categoryTemplate(category) {
                                 <img class="manu-img" src="${category.img}" alt="${category.alt}">
                             </div>
                             <div class="media-body">
-                                <h4 class="manu-item">${category.manuName}</h4>
+                                <h4 class="manu-item">${category.name}</h4>
                                 <span class="topic tp1">${category.tp1}</span>
                                 <span class="topic tp2">${category.tp2}</span>
                                 <span class="topic tp3">${category.tp3}</span>

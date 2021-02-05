@@ -4,7 +4,7 @@ function navTemplate(nav) {
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-2 pt-1 logo-div">
-                    <a href="/"><i class="fas fa-address-book"></i></a>
+                    <a href="${nav.link}"><i class="fas ${nav.icon}"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
                     <a class="blog-header-logo" href="/">${nav.name}</a><sup>${nav.version}</sup>
