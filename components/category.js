@@ -7,7 +7,7 @@ function categoryTemplate(category) {
                     <div class="card-body cleartfix">
                         <div class="media align-items-stretch">
                             <div class="align-self-center">
-                                <img class="manu-img" src="${category.img}" alt="${category.alt}">
+                                <img class="manu-img" src="${category.img}" alt="${category.name}">
                             </div>
                             <div class="media-body">
                                 <h4 class="manu-item">${category.name}</h4>
