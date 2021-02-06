@@ -87,5 +87,95 @@ const categorysData = [{
         tp1: "স্কুল",
         tp2: "কলেজ",
         tp3: "মাদ্রসা"
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/gift-corner.png",
+        alt: "gift-corner",
+        name: "গিফট কর্নার",
+        tp1: "গিফট এর দোকান",
+        tp2: "1 to 99 দোকান",
+        tp3: "লাইব্রেরি"
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/market.png",
+        alt: "market",
+        name: "মার্কেট",
+        tp1: "কাঁচা বাজার",
+        tp2: "পোশাকের বাজার",
+        tp3: "পাইকারি বাজার"
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/training-center.png",
+        alt: "training-center",
+        name: "প্রশিক্ষণ কেন্দ্র",
+        tp1: "কম্পিউটার ট্রেনিং",
+        tp2: "ড্রাইভিং ট্রেনিং",
+        tp3: "ভাষা ট্রেনিং"
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/decorator.png",
+        alt: "decorator",
+        name: "ডেকোরেটস",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/tourist-spot.png",
+        alt: "tourist-spot",
+        name: "ঘোরার জায়গা",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/rental-services.png",
+        alt: "rental-services",
+        name: "ভাড়া সেবা",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/security-services.png",
+        alt: "security-services",
+        name: "সুরক্ষা সেবা",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/civic-service.png",
+        alt: "civic-service",
+        name: "নাগরিক সেবা",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/banking-services.png",
+        alt: "banking-services",
+        name: "ব্যাংকিং সেবা",
+        tp1: "",
+        tp2: "",
+        tp3: ""
+    },
+    {
+        link: "#",
+        img: "../../resources/images/icon/category/religious-place.png",
+        alt: "religious-place",
+        name: "ধার্মিক স্থান",
+        tp1: "",
+        tp2: "",
+        tp3: ""
     }
 ];
