@@ -3,6 +3,7 @@
 ************************************/
 a {
     text-decoration: none !important;
+    color: rgb(43, 42, 42);
 }
 
 
@@ -96,7 +97,6 @@ sup {
 }
 
 .manu-img {
-    width: 64px;
     padding-right: 1rem;
 }
 .manu-item {
@@ -157,28 +157,23 @@ footer ul li a {
 
 
 
-
-
-
-
-
+/************************************
+                cards
+************************************/
 .icon-card {
-    background-color: #F0FFF0;
+    background-color: #f0faff;
     text-align: center;
-    padding: 10px;
+    padding: 8px;
     color: #413960;
-    margin: 15px 0;
+    margin-bottom: 15px;
 }
-
 .icon-card:hover {
     background-color: #f2f2f2;
     cursor: pointer;
 }
-
-.user-img {
-    margin-right: .8rem;
+.icon {
+    margin-bottom: 10px;
 }
-
-.call-loc {
+.call-icon {
     padding-right: 15px;
 }
