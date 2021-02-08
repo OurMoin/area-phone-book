@@ -45,16 +45,17 @@ sup {
 .hero-text {
     background-color: #81D4FA;
     text-align: center;
-    padding: 15px 0;
+    padding: 10px 0;
+    margin-bottom: 15px;
 }
-.hero-text h1 {
+.hero-text span {
     padding: 0;
     margin: 0;
-    font-size: 22px;
     color: #37474F;
-    margin-bottom: 10px;
 }
-
+.active {
+    color: #77065b;
+}
 
 
 
@@ -63,7 +64,11 @@ sup {
             help card section
 ************************************/
 .help-card {
-    margin: 15px 0;
+    margin: 15px 0 0 0;
+    overflow: hidden;
+}
+.carousel-indicators {
+    bottom: -5px;
 }
 
 
