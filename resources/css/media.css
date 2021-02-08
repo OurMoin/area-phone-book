@@ -13,11 +13,6 @@
         font-size: 10px;
     }
 
-    /* help card section */
-    .help-card {
-        height: 100px;
-    }
-
 }
 
 /* iPhone */
@@ -33,11 +28,6 @@
     sup {
         top: -9px;
         font-size: 8px;
-    }
-
-    /* help card section */
-    .help-card {
-        height: auto;
     }
     
 }
