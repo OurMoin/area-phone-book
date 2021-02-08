@@ -1,7 +1,7 @@
 const usersData = [
   {
     photo: "../../resources/images/icon/user/man.png",
-    name: "Moiul Islam",
+    name: "Moinul Islam",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01303002226",
     location: "Bowbazar",
