@@ -1,6 +1,8 @@
 const helpsData = [
     {
-        img: "../resources/images/help-card/call.png"
+        img1: "../resources/images/help-card/slider1.png",
+        img2: "../resources/images/help-card/slider2.png",
+        img3: "../resources/images/help-card/slider3.png"
     }
 ];
 
@@ -15,13 +17,13 @@ function helpTemplate(help) {
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img class="d-block w-100 help-card" src="${help.img}" alt="First slide">
+            <img class="d-block w-100 help-card" src="${help.img1}" alt="First slide">
             </div>
             <div class="carousel-item">
-            <img class="d-block w-100 help-card" src="${help.img}" alt="Second slide">
+            <img class="d-block w-100 help-card" src="${help.img2}" alt="Second slide">
             </div>
             <div class="carousel-item">
-            <img class="d-block w-100 help-card" src="${help.img}" alt="Third slide">
+            <img class="d-block w-100 help-card" src="${help.img3}" alt="Third slide">
             </div>
         </div>        
     </div>

@@ -3,7 +3,7 @@ function navTemplate(nav) {
     <nav class="blog-header fixed-top">
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
-                <div class="col-2 pt-1 logo-div">
+                <div class="col-2 logo-div">
                     <a href="${nav.link}"><i class="fas ${nav.icon}"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">

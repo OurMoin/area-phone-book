@@ -3,7 +3,10 @@
 ************************************/
 a {
     text-decoration: none !important;
-    color: rgb(43, 42, 42);
+    color: #413960;
+}
+a:hover {
+    color: #21B573;
 }
 
 
@@ -14,7 +17,7 @@ a {
              nav section
 ************************************/
 nav {
-    background-color: #29B6F6;
+    background-color: #21B573;
     height: 50px;
 }
 nav a {
@@ -43,7 +46,7 @@ sup {
              nav section
 ************************************/
 .hero-text {
-    background-color: #81D4FA;
+    background-color: #F0FFF0;
     text-align: center;
     padding: 10px 0;
     margin-bottom: 15px;
@@ -51,10 +54,13 @@ sup {
 .hero-text span {
     padding: 0;
     margin: 0;
-    color: #37474F;
+    color: #413960;
 }
 .active {
-    color: #77065b;
+    color: #21B573;
+}
+nav a:hover {
+    color: #413960;
 }
 
 
@@ -84,7 +90,7 @@ sup {
     margin-bottom: 15px;
 }
 .card:hover {
-    border-color:#0056b3;;
+    border-color:#21B573;;
 }
 .card-body {
     padding: 1rem;
@@ -98,22 +104,25 @@ sup {
 }
 
 .topic {
-    color: white;
     font-size: 12px;
     padding: 2px 4px;
     border-radius: 3px;
 }
 .tp1 {
-    background-color: #2196F3;
+    background-color: #F0FFF0;
+    color: #21B573;
 }
 .tp2 {
-    background-color: #00897B;
+    background-color: #fff0f0;
+    color: #b52121;
 }
 .tp3 {
-    background-color: #673AB7;
+    background-color: #f0f1ff;
+    color: #2150b5;
 }
 .tp4 {
-    background-color: #f44336;
+    background-color: #fdfde6;
+    color: #b5b321;
 }
 
 
@@ -124,7 +133,7 @@ sup {
             footer section
 ************************************/
 footer {
-    background-color: #455A64;
+    background-color: #413960;
     padding: 30px 0;
 }
 
@@ -155,14 +164,14 @@ footer ul li a {
                 cards
 ************************************/
 .icon-card {
-    background-color: #f0faff;
+    background-color: #f2f2f2;
     text-align: center;
     padding: 8px;
     color: #413960;
     margin-bottom: 15px;
 }
 .icon-card:hover {
-    background-color: #f2f2f2;
+    background-color: #F0FFF0;
     cursor: pointer;
 }
 .icon {
