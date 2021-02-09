@@ -64,7 +64,7 @@ const categorysData = [
         tp3: "বিরিয়ানির দোকান"
     },
     {
-        link: "#",
+        link: "servicing-center",
         img: "../../resources/images/icon/category/servicing-center.png",
         name: "সার্ভিসিং সেন্টার",
         tp1: "টিভি",
