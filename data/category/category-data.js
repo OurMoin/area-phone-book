@@ -88,7 +88,7 @@ const categorysData = [
         tp3: "লাইব্রেরি"
     },
     {
-        link: "#",
+        link: "market",
         img: "../../resources/images/icon/category/market.png",
         name: "মার্কেট",
         tp1: "কাঁচা বাজার",
