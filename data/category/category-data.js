@@ -48,7 +48,7 @@ const categorysData = [
         tp3: "ট্রেন স্টেশন"
     },
     {
-        link: "#",
+        link: "transportation-services",
         img: "../../resources/images/icon/category/transportation-services.png",
         name: "পরিবহন সেবা",
         tp1: "পেট্রোল পাম্প",

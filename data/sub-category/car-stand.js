@@ -1,7 +1,7 @@
 const subCategorysData = [
     {
         link: "cng-stand.html",
-        img: "../../resources/images/icon/sub-category/cng-stand.png",
+        img: "../../resources/images/icon/sub-category/cng.png",
         name: "সিএনজি স্ট্যান্ড"
     },
     {
