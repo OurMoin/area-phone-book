@@ -56,7 +56,7 @@ const categorysData = [
         tp3: "পিকাপ"
     },
     {
-        link: "#",
+        link: "food-corner_food-store",
         img: "../../resources/images/icon/category/food-corner.png",
         name: "ফুড কর্নার / খাবার দোকান",
         tp1: "হোটেল",
