@@ -80,7 +80,7 @@ const categorysData = [
         tp3: "মাদ্রসা"
     },
     {
-        link: "#",
+        link: "gift-corner",
         img: "../../resources/images/icon/category/gift-corner.png",
         name: "গিফট কর্নার",
         tp1: "গিফট এর দোকান",
