@@ -7,7 +7,7 @@ const categorysData = [{
         tp3: "ফায়ার সার্ভিস"
     },
     {
-        link: "#",
+        link: "medical-services",
         img: "../../resources/images/icon/category/medical-services.png",
         name: "চিকিৎসা সেবা",
         tp1: "ফার্মেসী",
