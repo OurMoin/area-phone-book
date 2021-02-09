@@ -40,7 +40,7 @@ const categorysData = [
         tp3: "লাইব্রেরি"
     },
     {
-        link: "#",
+        link: "car-stand",
         img: "../../resources/images/icon/category/car-stand.png",
         name: "গাড়ী স্ট্যান্ড",
         tp1: "CNG স্ট্যান্ড",
