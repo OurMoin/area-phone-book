@@ -15,7 +15,7 @@ const categorysData = [{
         tp3: "ডাক্তার ল্যাব"
     },
     {
-        link: "#",
+        link: "shop",
         img: "../../resources/images/icon/category/shop.png",
         name: "দোকান",
         tp1: "সুপার সপ",
