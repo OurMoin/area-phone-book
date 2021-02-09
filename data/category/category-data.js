@@ -32,7 +32,7 @@ const categorysData = [
         tp3: "কসমিটিক্স এর দোকান"
     },
     {
-        link: "#",
+        link: "studio-computer_shop",
         img: "../../resources/images/icon/category/studio-computer-shop.png",
         name: "স্টুডিও / কম্পিউটার দোকান",
         tp1: "স্টুডিও",
