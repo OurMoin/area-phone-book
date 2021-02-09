@@ -1,4 +1,5 @@
-const categorysData = [{
+const categorysData = [
+    {
         link: "emergency-services",
         img: "../../resources/images/icon/category/emergency-services.png",
         name: "জরুরী সেবা",
@@ -23,7 +24,7 @@ const categorysData = [{
         tp3: "পাইকারী দোকান"
     },
     {
-        link: "#",
+        link: "parlor-salon",
         img: "../../resources/images/icon/category/parlor-salon.png",
         name: "পার্লার / সেলুন",
         tp1: "পার্লার",

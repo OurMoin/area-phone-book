@@ -1,4 +1,5 @@
-const subCategorysData = [{
+const subCategorysData = [
+    {
         link: "super-shop.html",
         img: "../../resources/images/icon/sub-category/super-shop.png",
         name: "সুপার সপ"
