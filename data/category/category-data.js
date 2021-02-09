@@ -107,56 +107,56 @@ const categorysData = [
         link: "#",
         img: "../../resources/images/icon/category/decorator.png",
         name: "ডেকোরেটস",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "রং মিস্ত্রী",
+        tp2: "কাঠ মিস্ত্রী",
+        tp3: "থাই এন্ড গ্লাস মিস্ত্রী"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/tourist-spot.png",
         name: "ঘোরার জায়গা",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "পার্ক",
+        tp2: "সিনেমা হল",
+        tp3: "রেস্তোঁরা"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/rental-services.png",
         name: "ভাড়া সেবা",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "বাসা ভাড়া",
+        tp2: "দোকান ভাড়া",
+        tp3: "গ্যারেজ ভাড়া"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/security-services.png",
         name: "সুরক্ষা সেবা",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "ব্যাংক",
+        tp2: "গাড়ী",
+        tp3: "মার্কেট"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/civic-service.png",
         name: "নাগরিক সেবা",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "ইউনিয়ন অফিস",
+        tp2: "চেয়ারম্যান অফিস",
+        tp3: "ভোটার অফিস"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/banking-services.png",
         name: "ব্যাংকিং সেবা",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "ব্যাংক",
+        tp2: "কিস্তি অফিস",
+        tp3: "জীবন বিমা"
     },
     {
         link: "#",
         img: "../../resources/images/icon/category/religious-place.png",
         name: "ধার্মিক স্থান",
-        tp1: "",
-        tp2: "",
-        tp3: ""
+        tp1: "মসজিদ",
+        tp2: "মন্দির",
+        tp3: "গির্জা"
     }
 ];
