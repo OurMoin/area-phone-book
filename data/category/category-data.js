@@ -96,7 +96,7 @@ const categorysData = [
         tp3: "পাইকারি বাজার"
     },
     {
-        link: "#",
+        link: "training-center",
         img: "../../resources/images/icon/category/training-center.png",
         name: "প্রশিক্ষণ কেন্দ্র",
         tp1: "কম্পিউটার ট্রেনিং",
