@@ -72,7 +72,7 @@ const categorysData = [
         tp3: "কম্পিউটার"
     },
     {
-        link: "#",
+        link: "education-services",
         img: "../../resources/images/icon/category/education-services.png",
         name: "শিক্ষা সেবা",
         tp1: "স্কুল",
