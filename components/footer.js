@@ -31,7 +31,7 @@ function footerTemplate(footer) {
             </div>
             <div class="row">
                 <div class="col-12 text-center copyright">
-                    <p>Area Phonebook &#169; 2021</p>
+                    <p>Area PhoneBook &#169; 2021</p>
                 </div>
             </div>
         </div>

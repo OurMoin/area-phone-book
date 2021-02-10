@@ -5,7 +5,8 @@ const usersData = [
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01303002226",
     location: "Bowbazar",
-    map: "https://goo.gl/maps/4uVocYHH8xVrECex6"
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   },
   {
     photo: "../../resources/images/icon/user/woman.png",
@@ -13,6 +14,7 @@ const usersData = [
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01521216013",
     location: "Noyamati",
-    map: "https://goo.gl/maps/4uVocYHH8xVrECex6"
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   }
 ];

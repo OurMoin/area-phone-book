@@ -13,6 +13,8 @@ function userTemplate(user) {
                 <span><a href="tel:${user.phoneNumber}" target="_blank">${user.phoneNumber}</a></span>
                 <br>
                 <span><a href="${user.map}" target="_blank">${user.location}</a></span>
+                <br>
+                <span>${user.detail}</span>
               </div>
               <div class="align-self-center">
                 <a href="tel:${user.phoneNumber}">
