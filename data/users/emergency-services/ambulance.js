@@ -358,5 +358,122 @@ const usersData = [
     location: "Noyamati",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "দিয়া লাইব্রেরী",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "ওয়াফি ট্রেডার্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আকরাম ট্রেডার্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "ইসলামী ব্যাংক এজেন্ট ব্যাংকিং",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "বড় সাহেব টেইলার্স এন্ড ফেব্রিক্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আর. এস ইলেকট্রনিক্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মনোয়ারা কনফেকশনারী",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আদর্শনগর সি.এন.জি স্ট্যান্ড",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "সিটি মার্ট(মুদি, কনফেকশনারী, কসমেটিক, ষ্টেশনারী)",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মেসার্স খান ইলেকট্রিক ও হার্ডওয়্যার",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "বিসমিল্লাহ টেইলার্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "ফলের দোকান",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "বাদ্যযন্ত্রসমূহ বিক্রয় এবং পরিষেবা বিক্রয়",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   }
 ];
