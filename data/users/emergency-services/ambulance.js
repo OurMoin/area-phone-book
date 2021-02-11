@@ -178,5 +178,95 @@ const usersData = [
     location: "Noyamati",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "তাসফিয়া ট্রেডার্স",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মেসার্স নিউ জান্নাত",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "সা'দাতীয়া জামে মসজিদ",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "কনফিডেন্স হারবাল বিউটি পার্লার এন্ড কসমেটিক সেন্টার",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "নেয়ার ইস্ট কোচিং সেন্টার",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আহসান উদ্দিন উচ্চ বিদ্যালয়",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আলহামদুলিল্লাহ স্টিল এন্ড প্লাস্টিক ডোর স্টোর",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "সিরাজ উদ্দিন আইডিয়াল ইনস্টিটিউট",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "নেপচুন কম্পিউটার ট্রেনিং সেন্টার স্টুডিও এন্ড সাইবার ক্যাফে",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "জামিয়া তা'লীমিয়া মাদ্রাসা ঢাকা",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   }
 ];
