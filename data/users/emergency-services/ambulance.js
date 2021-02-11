@@ -268,5 +268,95 @@ const usersData = [
     location: "Noyamati",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মেসার্স মিজান স্যানিটারি হার্ডওয়্যার এন্ড ইলেকট্রিক",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মোঃ তামজিদুর রহমান ভূইয়া",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "নুর থাই এ্যালুমিনিয়াম এন্ড গ্লাস হাউস",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মমতাজ ডেকোরেটর",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আইডিয়াল আর্কিটেকচার এবং কনসালটেন্ট",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "AHM Tasty Food",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "ওয়ায়েস করণী আদর্শ নগর সুপার মার্কেট",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আয়েশা সিদ্দিকা রা. মহিলা মাদ্রাসা",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "হাজী আহসান উদ্দিন সুপার মার্কেট",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "নিমকি ফাস্টফুড এবং কনফেকশনারী",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01521216013",
+    location: "Noyamati",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   }
 ];
