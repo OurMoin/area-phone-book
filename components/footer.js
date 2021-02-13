@@ -13,7 +13,7 @@ function footerTemplate(footer) {
                         <li><a href="#" title="Privacy"><i class="fas fa-user-secret"></i></a></li>
                         <li><a href="#" title="Terms"><i class="fas fa-file-alt"></i></a></li>
                         <li><a href="#" title="Sponsor"><i class="fas fa-handshake"></i></a></li>
-                        <li><a href="#" title="About"><i class="fas fa-info-circle"></i></a></li>
+                        <li><a href="../about" title="About"><i class="fas fa-info-circle"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-6 d-flex justify-content-end align-items-center">
