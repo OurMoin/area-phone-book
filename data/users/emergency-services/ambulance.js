@@ -1,6 +1,6 @@
 const usersData = [
   {
-    photo: "../../resources/images/icon/user/man.png",
+    photo: "https://drive.google.com/file/d/1RdTd06wt0O9j5_VPwGYaXtPamngTaGz6/view",
     name: "নিয়ম কম্পিউটার ট্রেনিং",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01303002226",
