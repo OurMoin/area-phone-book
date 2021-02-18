@@ -480,8 +480,35 @@ const usersData = [
     photo: "../../resources/images/icon/user/woman.png",
     name: "মসজিদ",
     facebook: "https://www.facebook.com/moinulislam.dev/",
-    phoneNumber: "01930086518",
+    phoneNumber: "***",
     location: "শাহী বাজার, আমতলা",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "আল লতিফ ড্রাগ হাউস",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01880118922",
+    location: "শরীফবাগ, শাহী বাজার",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মীর আব্দুল মান্নান",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01674006301",
+    location: "শরীফবাগ, কদমতলী রোড",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "দৌলতপুর আইডিয়াল স্কুল",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01951499180",
+    location: "দৌলতপুর, কদমতলী রোড",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   }
