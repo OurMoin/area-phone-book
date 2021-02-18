@@ -475,5 +475,14 @@ const usersData = [
     location: "শাহী বাজার, আমতোলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
+  },
+  {
+    photo: "../../resources/images/icon/user/woman.png",
+    name: "মসজিদ",
+    facebook: "https://www.facebook.com/moinulislam.dev/",
+    phoneNumber: "01930086518",
+    location: "শাহী বাজার, আমতোলা",
+    map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
+    detail: "Details about this service"
   }
 ];
