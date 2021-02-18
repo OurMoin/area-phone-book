@@ -22,7 +22,7 @@ const usersData = [
     name: "হ্রদয় সাইকেল স্টোর",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01910109968",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -49,7 +49,7 @@ const usersData = [
     name: "জনসেবা ফার্মেসী",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01811017855",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -76,7 +76,7 @@ const usersData = [
     name: "অভিজাত ফার্নিচার মার্ট",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01712654319, 01937622255",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -85,7 +85,7 @@ const usersData = [
     name: "মায়ের দোয়া গ্রিল",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01826198282",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -355,7 +355,7 @@ const usersData = [
     name: "নিমকি ফাস্টফুড এবং কনফেকশনারী",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01984547441",
-    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ২য় তলা",
+    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ২য় তলা, আদর্শ নগর",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -391,7 +391,7 @@ const usersData = [
     name: "ইসলামী ব্যাংক এজেন্ট ব্যাংকিং",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01736767076",
-    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ২য় তলা",
+    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ২য় তলা, আদর্শ নগর",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -418,7 +418,7 @@ const usersData = [
     name: "মনোয়ারা কনফেকশনারী",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01684291504",
-    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ১ম তলা",
+    location: "হাজী আহসান উদ্দিন সুপার মার্কেট ১ম তলা, আদর্শ নগর",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -472,7 +472,7 @@ const usersData = [
     name: "বাদ্যযন্ত্রসমূহ বিক্রয় এবং পরিষেবা বিক্রয়",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01930086518",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   },
@@ -481,7 +481,7 @@ const usersData = [
     name: "মসজিদ",
     facebook: "https://www.facebook.com/moinulislam.dev/",
     phoneNumber: "01930086518",
-    location: "শাহী বাজার, আমতোলা",
+    location: "শাহী বাজার, আমতলা",
     map: "https://goo.gl/maps/4uVocYHH8xVrECex6",
     detail: "Details about this service"
   }
