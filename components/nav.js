@@ -10,7 +10,7 @@ function navTemplate(nav) {
                     <a class="blog-header-logo" href="/">${nav.name}</a><sup>${nav.version}</sup>
                 </div>
                 <div class="col-2 d-flex justify-content-end align-items-center logo-div">
-                    <a href="tel:${nav.ourNumber}"><i class="fas fa-phone-alt"></i></a>
+                    <a href="tel:${nav.ourNumber}"><i class="fas fa-ellipsis-v"></i></a>
                 </div>
             </div>
         </div>

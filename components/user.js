@@ -12,7 +12,7 @@ function userTemplate(user) {
                 <h4><a href="${user.facebook}" target="_blank">${user.name}</a></h4>
                 <span><a href="tel:${user.phoneNumber}" target="_blank">${user.phoneNumber}</a></span>
                 <br>
-                <span><a href="${user.map}" target="_blank">${user.location}</a></span>
+                <span>ওয়ার্ড নং: ${user.wordNo}, ${user.location}</span>
                 <br>
                 <span>${user.detail}</span>
               </div>
@@ -20,9 +20,9 @@ function userTemplate(user) {
                 <a href="tel:${user.phoneNumber}">
                   <i class="call-icon fas fa-phone-alt"></i>
                 </a>
-                <a href="${user.map}" target="_blank">
-                  <i class="fas fa-map-marker-alt"></i>
-                </a>
+                <a href="#">
+                  <i class="fas fa-arrow-alt-circle-down"></i>
+                </a>                
               </div>
             </div>
           </div>

@@ -16,7 +16,7 @@ const subCategorysData = [
     },
     {
         link: "cameraman.html",
-        img: "../../resources/images/icon/sub-category/cameraman.png",
+        img: "../../resources/images/icon/sub-category/camerauser.png",
         name: "ক্যামেরামেন"
     }
 ];
