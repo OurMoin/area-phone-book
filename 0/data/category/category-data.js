@@ -3,9 +3,16 @@ const categorysData = [
         link: "training-center",
         img: "../../resources/images/icon/category/training-center.png",
         name: "প্রশিক্ষণ কেন্দ্র",
-        tp1: "কম্পিউটার ট্রেনিং",
-        tp2: "ড্রাইভিং ট্রেনিং",
-        tp3: "ভাষা ট্রেনিং"
+        subCategory: 
+        {
+            tp1: {
+                name: "কম্পিউটার ট্রেনিং",
+                link: "abc"
+            },
+            tp2: "ড্রাইভিং ট্রেনিং",
+            tp3: "ভাষা ট্রেনিং"
+        }
+        
     },
     
 ];

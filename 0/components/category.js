@@ -11,9 +11,9 @@ function categoryTemplate(category) {
                             </div>
                             <div class="media-body">
                                 <h4 class="manu-item">${category.name}</h4>
-                                <span class="topic tp1">${category.tp1}</span>
-                                <span class="topic tp2">${category.tp2}</span>
-                                <span class="topic tp3">${category.tp3}</span>
+                                <span class="topic tp1">${category.subCategory.tp1.name} ${category.subCategory.tp1.link}</span>
+                                <span class="topic tp2">${category.subCategory.tp2}</span>
+                                <span class="topic tp3">${category.subCategory.tp3}</span>
                                 <span class="topic tp4">...</span>
                             </div>
                         </div>

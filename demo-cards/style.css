@@ -1,0 +1,166 @@
+/************************************
+             global css 
+************************************/
+a {
+    text-decoration: none !important;
+    color: #413960;
+}
+a:hover {
+    color: #21B573;
+}
+
+
+
+
+
+/************************************
+             nav section
+************************************/
+nav {
+    background-color: #21B573;
+    height: 50px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.blog-header-logo {    
+    font-weight: bold;
+    font-size: 22px;
+}
+.logo-div {
+    top: 8px;
+}
+sup {
+    color: whitesmoke;
+    top: -12px;    
+    font-size: 12px;
+}
+
+
+
+
+
+/************************************
+             nav section
+************************************/
+.hero-text {
+    background-color: #F0FFF0;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 15px;
+}
+.hero-text span {
+    padding: 0;
+    margin: 0;
+    color: #413960;
+}
+.active {
+    color: #21B573;
+}
+nav a:hover {
+    color: #413960;
+}
+
+
+
+
+/************************************
+            help card section
+************************************/
+.help-card {
+    margin: 15px 0 0 0;
+    overflow: hidden;
+}
+.carousel-indicators {
+    bottom: -5px;
+}
+
+
+
+
+
+/************************************
+            card section
+************************************/
+.card {
+    border-radius: 0;
+    transition: .3s;
+    margin-bottom: 15px;
+}
+.card:hover {
+    border-color:#21B573;;
+}
+.card-body {
+    padding: 1rem;
+}
+
+.manu-img {
+    padding-right: 1rem;
+    width: 64px;
+}
+.manu-item {
+    font-size: 18px;
+}
+
+.topic {
+    font-size: 12px;
+}
+
+
+
+
+
+
+/************************************
+            footer section
+************************************/
+footer {
+    background-color: #413960;
+    padding: 30px 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+footer ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+footer ul li:last-child {
+    margin-right: 0;
+}
+footer ul li a {
+    color: white;
+}
+.copyright {
+    color: white;
+    padding: 20px 0 0 0;
+}
+
+
+
+
+
+/************************************
+                cards
+************************************/
+.icon-card {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 8px;
+    color: #413960;
+    margin-bottom: 15px;
+}
+.icon-card:hover {
+    background-color: #F0FFF0;
+    cursor: pointer;
+}
+.icon {
+    margin: 10px 0;
+}
+.call-icon {
+    padding-right: 15px;
+}
