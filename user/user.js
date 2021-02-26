@@ -9,7 +9,7 @@ function userTemplate(user) {
                             <div class="media align-items-stretch">
                                 <div class="align-self-center">
                                     <img class="manu-img"
-                                        src="https://qph.fs.quoracdn.net/main-qimg-02b0c4c2747053452b356d4a60a27984"
+                                        src="${user.photo}"
                                         alt="${user.name}">
                                 </div>
                                 <div class="media-body">
@@ -18,7 +18,7 @@ function userTemplate(user) {
                                     <div class="row">
                                         <span class="col-6 topic tp1"> <a href="tel:${user.number}">${user.number}</a> </span>
                                         <span class="col-6 topic tp1">ওয়ার্ড নং: ${user.wordNo}</span>
-                                        <span class="col-6 topic tp1"><a href="${user.locationLink}" target="_blank">${user.location}</a></span>
+                                        <span class="col-6 topic tp1"><a href="https://www.google.com/search?q=${user.location}" target="_blank">${user.location}</a></span>
                                         <span class="col-6 topic tp4"> <a href="#${user.id}"
                                                 data-toggle="collapse">আরো দেখুন <i
                                                     class="fa fa-chevron-down"></i></a> </span>
