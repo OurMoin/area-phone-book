@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;700&display=swap');
+
 /************************************
              global css 
 ************************************/
@@ -10,8 +12,9 @@ a:hover {
 }
 
 
-
-
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+}
 
 /************************************
              nav section
@@ -106,25 +109,8 @@ nav a:hover {
 
 .topic {
     font-size: 12px;
-    padding: 2px 4px;
-    border-radius: 3px;
 }
-.tp1 {
-    background-color: #F0FFF0;
-    color: #21B573;
-}
-.tp2 {
-    background-color: #fff0f0;
-    color: #b52121;
-}
-.tp3 {
-    background-color: #f0f1ff;
-    color: #2150b5;
-}
-.tp4 {
-    background-color: #fdfde6;
-    color: #b5b321;
-}
+
 
 
 
