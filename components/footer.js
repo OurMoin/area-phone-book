@@ -10,10 +10,10 @@ function footerTemplate(footer) {
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-6 pt-1">
                     <ul>
-                        <li><a href="privacy.html" title="Privacy"><i class="fas fa-user-secret"></i></a></li>
-                        <li><a href="terms.html" title="Terms"><i class="fas fa-file-alt"></i></a></li>
-                        <li><a href="sponsor.html" title="Sponsor"><i class="fas fa-handshake"></i></a></li>
-                        <li><a href="about.html" title="About"><i class="fas fa-info-circle"></i></a></li>
+                        <li><a href="privacy-policy.html" title="Privacy Policy"><i class="fas fa-user-secret"></i></a></li>
+                        <li><a href="terms-and-conditions.html" title="Terms and Conditions"><i class="fas fa-file-alt"></i></a></li>
+                        <li><a href="sponsors.html" title="Sponsors"><i class="fas fa-handshake"></i></a></li>
+                        <li><a href="about-us.html" title="About Us"><i class="fas fa-info-circle"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-6 d-flex justify-content-end align-items-center">
