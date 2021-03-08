@@ -1,7 +1,7 @@
 const categoryData = [
     {
       id: 1,
-      photo: "../resources/images/icon/category/emergency-services.png",
+      photo: "../resources/icons/emergency-services.png",
       name: "জরুরী সেবা",
       subCategory:
         [
@@ -21,7 +21,7 @@ const categoryData = [
     },
     {
       id: 2,
-      photo: "../resources/images/icon/category/training-center.png",
+      photo: "../resources/icons/training-center.png",
       name: "প্রশিক্ষণ কেন্দ্র",
       subCategory:
         [
