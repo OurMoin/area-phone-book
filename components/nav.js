@@ -21,7 +21,7 @@ function navTemplate(nav) {
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> Sign Up</a>
                             <a class="dropdown-item" href="tel:0179889911"><i class="fas fa-phone-alt"></i> Call Us</a>
-                            <a class="dropdown-item" href="#"><i class="fas fa-info-circle"></i> About Us</a>
+                            <a class="dropdown-item" href="about.html"><i class="fas fa-info-circle"></i> About Us</a>
                         </div>
                     </div>
                 </div>

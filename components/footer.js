@@ -10,17 +10,17 @@ function footerTemplate(footer) {
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-6 pt-1">
                     <ul>
-                        <li><a href="#" title="Privacy"><i class="fas fa-user-secret"></i></a></li>
-                        <li><a href="#" title="Terms"><i class="fas fa-file-alt"></i></a></li>
-                        <li><a href="#" title="Sponsor"><i class="fas fa-handshake"></i></a></li>
-                        <li><a href="#" title="About"><i class="fas fa-info-circle"></i></a></li>
+                        <li><a href="privacy.html" title="Privacy"><i class="fas fa-user-secret"></i></a></li>
+                        <li><a href="terms.html" title="Terms"><i class="fas fa-file-alt"></i></a></li>
+                        <li><a href="sponsor.html" title="Sponsor"><i class="fas fa-handshake"></i></a></li>
+                        <li><a href="about.html" title="About"><i class="fas fa-info-circle"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-6 d-flex justify-content-end align-items-center">
                     <ul>
-                        <li><a href="tel:01798899911" target="_blank"><i class="fas fa-phone-square-alt"></i></a>
+                        <li><a href="tel:01798899911"><i class="fas fa-phone-square-alt"></i></a>
                         </li>
-                        <li><a href="mailto:areaphonebook@gmail.com" target="_blank"><i
+                        <li><a href="mailto:areaphonebook@gmail.com"><i
                                     class="fas fa-envelope"></i></a></li>
                         <li><a href="https://www.facebook.com/groups/Paglabashi" target="_blank"><i
                                     class="fas fa-users"></i></a></li>
