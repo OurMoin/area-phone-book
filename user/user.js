@@ -8,9 +8,11 @@ function userTemplate(user) {
                         <div class="cleartfix">
                             <div class="media align-items-stretch">
                                 <div class="align-self-center">
-                                    <img class="manu-img"
-                                        src="${user.photo}"
-                                        alt="${user.name}">
+                                    <a href="#" class="pop">
+                                        <img class="manu-img"
+                                            src="${user.photo}"
+                                            alt="${user.name}">
+                                    </a>
                                 </div>
                                 <div class="media-body">
 
@@ -55,6 +57,10 @@ function userTemplate(user) {
             </div>
         </div>
     </div>
+
+
+    
+
   `;
 }
 
