@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "https://images.jdmagicbox.com/comp/jaipur/x9/0141px141.x141.130414141842.e2x9/catalogue/ganesh-ambulance-mansarovar-jaipur-ambulance-services-76ar5rpq2q.jpg?clr=#333333",
+    photo: "../cdn/ambulance/ambulance 1.jpg",
     name: "Khaled Ambulance Service",
     number: "01933246577",
     wordNo: "5",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "https://content3.jdmagicbox.com/comp/hyderabad/j8/040pxx40.xx40.181106113503.h6j8/catalogue/sai-krishna-ambulance-santosh-nagar-hyderabad-ambulance-services-0ncwwtwlyc.jpg?clr=382e2e",
+    photo: "../cdn/ambulance/ambulance 2.webp",
     name: "Lamyea Ambulance Services",
     number: "01710070011",
     wordNo: "6",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "https://images.jdmagicbox.com/comp/hyderabad/z8/040pxx40.xx40.190424161805.i1z8/catalogue/mj-ambulance-services-hyderabad-ambulance-services-kqekom0qv0.jpg?clr=#264026",
+    photo: "../cdn/ambulance/ambulance 3.jpg",
     name: "Conscious Ambulance Service",
     number: "01912603094",
     wordNo: "4",
