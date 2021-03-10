@@ -27,7 +27,7 @@ const categoryData = [
         [
           {
             name: "কম্পিউটার ট্রেনিং",
-            link: "#"
+            link: "computer-training.html"
           },
           {
             name: "ড্রাইভিং ট্রেনিং",
