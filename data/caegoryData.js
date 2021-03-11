@@ -31,7 +31,7 @@ const categoryData = [
           },
           {
             name: "ড্রাইভিং ট্রেনিং",
-            link: "#"
+            link: "driving-training.html"
           },
           {
             name: "ভাষা ট্রেনিং",
