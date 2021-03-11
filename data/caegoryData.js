@@ -21,6 +21,26 @@ const categoryData = [
     },
     {
       id: 2,
+      photo: "../resources/icons/medical-services.png",
+      name: "চিকিৎসা সেবা",
+      subCategory:
+        [
+          {
+            name: "ফার্মেসী",
+            link: "pharmacy.html"
+          },
+          {
+            name: "ডাক্তার বসেন",
+            link: "#"
+          },
+          {
+            name: "ডাক্তার ল্যাব",
+            link: "#"
+          }
+        ]
+    },
+    {
+      id: 3,
       photo: "../resources/icons/training-center.png",
       name: "প্রশিক্ষণ কেন্দ্র",
       subCategory:
