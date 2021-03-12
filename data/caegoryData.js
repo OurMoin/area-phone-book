@@ -11,7 +11,7 @@ const categoryData = [
           },
           {
             name: "হাঁসপাতাল",
-            link: "hospital.html"
+            link: "coming-soon.html"
           },
           {
             name: "ফায়ার সার্ভিস",
