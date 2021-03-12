@@ -95,7 +95,7 @@ const categoryData = [
           },
           {
             name: "কোচিং সেন্টার",
-            link: "#"
+            link: "coaching-center.html"
           },
           {
             name: "লাইব্রেরি",

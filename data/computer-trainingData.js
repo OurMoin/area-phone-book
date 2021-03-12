@@ -12,17 +12,6 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/computer-training/computer-training.png",
-    name: "নেয়ার ইস্ট কোচিং সেন্টার",
-    number: "01969700990",
-    wordNo: "৫",
-    location: "আর্দশ নগর",
-    detail: "Details about this service",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
-  },
-  {
-    id: 3,
    photo: "../cdn/computer-training/computer-training.png",
     name: "নেপচুন কম্পিউটার ট্রেনিং সেন্টার স্টুডিও এন্ড সাইবার ক্যাফে",
     number: "01918638692",
@@ -33,7 +22,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
  },
  {
-    id: 4,
+    id: 3,
    photo: "../cdn/computer-training/computer-training.png",
     name: "বেষ্ট কম্পিউটার ট্রেনিং",
     number: "01673068354",
