@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/computer-training/computer-traning.jpg",
+    photo: "../cdn/computer-training/computer-training.png",
     name: "নেয়ার ইস্ট কোচিং সেন্টার",
     number: "01969700990",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/computer-training/computer-traning.jpg",
+   photo: "../cdn/computer-training/computer-training.png",
     name: "নেপচুন কম্পিউটার ট্রেনিং সেন্টার স্টুডিও এন্ড সাইবার ক্যাফে",
     number: "01918638692",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
  },
  {
     id: 4,
-    photo: "../cdn/computer-training/computer-traning.jpg",
+   photo: "../cdn/computer-training/computer-training.png",
     name: "বেষ্ট কম্পিউটার ট্রেনিং",
     number: "01673068354",
     wordNo: "৫",

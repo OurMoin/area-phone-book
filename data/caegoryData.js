@@ -62,6 +62,26 @@ const categoryData = [
             link: "#"
           }
         ]
+    },
+    {
+      id: 4,
+      photo: "../resources/icons/training-center.png",
+      name: "ব্যাংকিং সেবা",
+      subCategory:
+        [
+          {
+            name: "ব্যাংক",
+            link: "computer-training.html"
+          },
+          {
+            name: "এজেন্ট ব্যাংক",
+            link: "driving-training.html"
+          },
+          {
+            name: "কিস্তি অফিস",
+            link: "#"
+          }
+        ]
     }
   ];
   

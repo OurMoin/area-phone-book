@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/driving-training/driving-training.jpg",
+    photo: "../cdn/driving-training/driving-training.png",
     name: "মা বাবার দোয়া কার ড্রাইভিং ট্রেনিং",
     number: "01941724006",
     wordNo: "৫",
