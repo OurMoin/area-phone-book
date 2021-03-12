@@ -55,11 +55,11 @@ const categoryData = [
           },
           {
             name: "ডাক্তার বসেন",
-            link: "coming-soon.html"
+            link: "doctor-sat-down.html"
           },
           {
             name: "ডাক্তার ল্যাব",
-            link: "coming-soon.html"
+            link: "doctor-lab.html"
           }
         ]
     },
@@ -71,15 +71,43 @@ const categoryData = [
         [
           {
             name: "কম্পিউটার ট্রেনিং",
-            link: "computer-training.html"
+            link: "computer-training.html"          
           },
           {
             name: "ড্রাইভিং ট্রেনিং",
-            link: "driving-training.html"
-          },
+            link: "driving-training.html"         
+           },
           {
             name: "ভাষা ট্রেনিং",
-            link: "coming-soon.html"
+            link: "language-training.html"         
+           },
+          {
+            name: "স্কিল ট্রেনিং",
+            link: "skill-training.html"            
+          },
+          {
+            name: "ইলিক্টিক ট্রেনিং",
+            link: "electrical-training.html"              
+          },
+          {
+            name: "ওয়ার্কসপ ট্রেনিং",
+            link: "workshop-training.html"              
+          },
+          {
+            name: "ট্রেইলারিং ট্রেনিং",
+            link: "trailing-training.html"              
+          },
+          {
+            name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
+            link: "ac-fridge-servicing-training.html"              
+          },
+          {
+            name: "পার্লার ট্রেনিং",
+            link: "parlor.html"              
+          },
+          {
+            name: "Gym",
+            link: "gym.html"              
           }
         ]
     },
