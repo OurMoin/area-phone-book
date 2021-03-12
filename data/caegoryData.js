@@ -11,11 +11,31 @@ const categoryData = [
           },
           {
             name: "হাঁসপাতাল",
-            link: "coming-soon.html"
+            link: "hospital.html"
           },
           {
             name: "ফায়ার সার্ভিস",
-            link: "#"
+            link: "fire-service.html"
+          },
+          {
+            name: "পুলিশ স্টেশন",
+            link: "police-station.html"
+          },
+          {
+            name: "বিদ্যুৎ অফিস",
+            link: "electricity-office.html"
+          },
+          {
+            name: "গ্যাস অফিস",
+            link: "gas-office.html"
+          },
+          {
+            name: "পানি অফিস",
+            link: "water-office.html"
+          },
+          {
+            name: "গাড়ি ভাড়া",
+            link: "car-rental.html"
           }
         ]
     },
@@ -35,11 +55,11 @@ const categoryData = [
           },
           {
             name: "ডাক্তার বসেন",
-            link: "#"
+            link: "coming-soon.html"
           },
           {
             name: "ডাক্তার ল্যাব",
-            link: "#"
+            link: "coming-soon.html"
           }
         ]
     },
@@ -59,7 +79,7 @@ const categoryData = [
           },
           {
             name: "ভাষা ট্রেনিং",
-            link: "#"
+            link: "coming-soon.html"
           }
         ]
     },
@@ -71,7 +91,7 @@ const categoryData = [
         [
           {
             name: "ব্যাংক",
-            link: "#"
+            link: "coming-soon.html"
           },
           {
             name: "এজেন্ট ব্যাংক",
@@ -79,7 +99,7 @@ const categoryData = [
           },
           {
             name: "কিস্তি অফিস",
-            link: "#"
+            link: "coming-soon.html"
           }
         ]
     },
