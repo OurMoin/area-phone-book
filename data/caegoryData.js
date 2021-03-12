@@ -198,6 +198,26 @@ const categoryData = [
             link: "flower-shop.html"
           }
         ]
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/parlor-salon.png",
+      name: "পার্লার / সেলুন",
+      subCategory:
+        [
+          {
+            name: "পার্লার",
+            link: "parlor.html"
+          },
+          {
+            name: "সেলুন",
+            link: "salon.html"
+          },
+          {
+            name: "কসমিটিক্স এর দোকান",
+            link: "cosmetics-shop.html"
+          }
+        ]
     }
   ];
   
