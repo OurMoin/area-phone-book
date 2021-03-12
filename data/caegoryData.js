@@ -91,7 +91,7 @@ const categoryData = [
         [
           {
             name: "স্কুল",
-            link: "#"
+            link: "school.html"
           },
           {
             name: "কোচিং সেন্টার",

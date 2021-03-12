@@ -1,5 +1,4 @@
-const userData = [
-  
+const userData = [  
   {
     id: 1,
     photo: "../cdn/library/library.png",
