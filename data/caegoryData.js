@@ -150,6 +150,54 @@ const categoryData = [
             link: "library.html"
           }
         ]
+    },
+    {
+      id: 6,
+      photo: "../resources/icons/shop.png",
+      name: "দোকান",
+      subCategory:
+        [
+          {
+            name: "সুপার সপ",
+            link: "super-shop.html"
+          },
+          {
+            name: "মিনি সুপার সপ",
+            link: "mini-super-shop.html"
+          },
+          {
+            name: "পাইকারী দোকান",
+            link: "wholesale-store.html"
+          },
+          {
+            name: "মুদি দোকান",
+            link: "grocery-store.html"
+          },
+          {
+            name: "কনফেকশনারী",
+            link: "confectionary.html"
+          },
+          {
+            name: "ফলের দোকান",
+            link: "fruit-shop.html"
+          },
+          {
+            name: "মশলার দোকান",
+            link: "spice-shop.html"
+          },
+          {
+            name: "হার্ডওয়্যার",
+            link: "hardware.html"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
+          },
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop.html"
+          }
+        ]
     }
   ];
   
