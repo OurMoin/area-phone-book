@@ -42,5 +42,16 @@ const userData = [
     detail: "ইসলামিক লাইব্রেরী",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+  },
+  {
+    id: 5,
+    photo: "../cdn/library/library.png",
+    name: "ওয়াফি ট্রেডার্স",
+    number: "01999906669",
+    wordNo: "৪",
+    location: "হাজী আহসান উদ্দিন সুপার মার্কেট, ১ম তলা, আদর্শ নগর",
+    detail: "Details about this service",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
 ];
