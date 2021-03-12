@@ -218,6 +218,30 @@ const categoryData = [
             link: "cosmetics-shop.html"
           }
         ]
+    },
+    {
+      id: 8,
+      photo: "../resources/icons/studio-computer-shop.png",
+      name: "স্টুডিও / কম্পিউটার দোকান",
+      subCategory:
+        [
+          {
+            name: "স্টুডিও",
+            link: "studio.html"
+          },
+          {
+            name: "কম্পিউটার দোকান",
+            link: "computer-shop.html"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
+          },
+          {
+            name: "ক্যামেরামেন",
+            link: "cameraman.html"
+          }
+        ]
     }
   ];
   
