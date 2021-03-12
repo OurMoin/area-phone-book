@@ -82,6 +82,26 @@ const categoryData = [
             link: "#"
           }
         ]
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/education-services.png",
+      name: "শিক্ষা সেবা",
+      subCategory:
+        [
+          {
+            name: "স্কুল",
+            link: "#"
+          },
+          {
+            name: "কোচিং সেন্টার",
+            link: "#"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
+          }
+        ]
     }
   ];
   
