@@ -30,6 +30,10 @@ const categoryData = [
             link: "pharmacy.html"
           },
           {
+            name: "হোমিওপ্যাথি",
+            link: "homeopathy.html"
+          },
+          {
             name: "ডাক্তার বসেন",
             link: "#"
           },
