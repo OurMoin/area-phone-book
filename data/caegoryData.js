@@ -266,6 +266,46 @@ const categoryData = [
             link: "auto-stand.html"
           }
         ]
+    },
+    {
+      id: 10,
+      photo: "../resources/icons/transportation-services.png",
+      name: "পরিবহন সেবা",
+      subCategory:
+        [
+          {
+            name: "পেট্রোল পাম্প",
+            link: "petrol-pump.html"
+          },
+          {
+            name: "রেন্ট এ কার",
+            link: "rent-a-car.html"
+          },
+          {
+            name: "পিকাপ",
+            link: "pickup.html"
+          },
+          {
+            name: "ট্রাক",
+            link: "truck.html"
+          },
+          {
+            name: "ডিস্টিক ট্রাক",
+            link: "district-truck.html"
+          },
+          {
+            name: "সিএনজি",
+            link: "cng.html"
+          },
+          {
+            name: "ভ্যান গাড়ি",
+            link: "water-office.html"
+          },
+          {
+            name: "জলযান",
+            link: "watercraft.html"
+          }
+        ]
     }
   ];
   
