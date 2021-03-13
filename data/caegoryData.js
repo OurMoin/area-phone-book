@@ -322,6 +322,42 @@ const categoryData = [
             link: "watercraft.html"
           }
         ]
+    },
+    {
+      id: 11,
+      photo: "../resources/icons/food-corner_food-store.png",
+      name: "ফুড কর্নার / খাবার দোকান",
+      subCategory:
+        [
+          {
+            name: "হোটেল",
+            link: "hotel.html"
+          },
+          {
+            name: "রেস্তরাঁ",
+            link: "restaurant.html"
+          },
+          {
+            name: "বিরিয়ানির দোকান",
+            link: "biryani-shop.html"
+          },
+          {
+            name: "ফুচকার দোকান",
+            link: "fuchka-shop.html"
+          },
+          {
+            name: "ফাস্ট ফুড",
+            link: "fast-food.html"
+          },
+          {
+            name: "মিষ্টির দোকান",
+            link: "sweet-shop.html"
+          },
+          {
+            name: "ফলের দোকান",
+            link: "fruit-shop.html"
+          }
+        ]
     }
   ];
   
