@@ -119,7 +119,7 @@ const categoryData = [
         [
           {
             name: "ব্যাংক",
-            link: "coming-soon.html"
+            link: "bank.html"
           },
           {
             name: "এজেন্ট ব্যাংক",
@@ -127,7 +127,7 @@ const categoryData = [
           },
           {
             name: "কিস্তি অফিস",
-            link: "coming-soon.html"
+            link: "installment-office.html"
           }
         ]
     },
@@ -148,6 +148,22 @@ const categoryData = [
           {
             name: "লাইব্রেরি",
             link: "library.html"
+          },
+          {
+            name: "কলেজ",
+            link: "college.html"
+          },
+          {
+            name: "মাদ্রসা",
+            link: "madrasa.html"
+          },
+          {
+            name: "হোম টিচার",
+            link: "home-teacher.html"
+          },
+          {
+            name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
+            link: "all-services-of-educational-institutions.html"
           }
         ]
     },
