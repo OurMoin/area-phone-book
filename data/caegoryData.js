@@ -254,7 +254,7 @@ const categoryData = [
             link: "library.html"
           },
           {
-            name: "ক্যামেরামেন",
+            name: "ক্যামেরাম্যান",
             link: "cameraman.html"
           }
         ]
