@@ -478,6 +478,26 @@ const categoryData = [
             link: "restaurant.html"
           }
         ]
+    },
+    {
+      id: 17,
+      photo: "../resources/icons/rental-services.png",
+      name: "ভাড়া সেবা",
+      subCategory:
+        [
+          {
+            name: "বাসা ভাড়া",
+            link: "house-rent.html"
+          },
+          {
+            name: "দোকান ভাড়া",
+            link: "shop-rent.html"
+          },
+          {
+            name: "গ্যারেজ ভাড়া",
+            link: "garage-rent.html"
+          }
+        ]
     }
   ];
   
