@@ -53,5 +53,16 @@ const userData = [
     detail: "Details about this service",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+  },
+  {
+    id: 6,
+    photo: "../cdn/library/library.png",
+    name: "গাউছিয়া লাইব্রেরী এন্ড ষ্টেশনারী",
+    number: "0194943927",
+    wordNo: "৫",
+    location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
+    detail: "লাইব্রেরী এন্ড ষ্টেশনারী পণ্য ও ফটোকপি করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
 ];
