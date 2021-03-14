@@ -470,6 +470,10 @@ const categoryData = [
             link: "decorators.html"
           },
           {
+            name: "কমিউনিটি সেন্টার",
+            link: "community-center.html"
+          },
+          {
             name: "রং মিস্ত্রী",
             link: "painter.html"
           },
