@@ -451,7 +451,7 @@ const categoryData = [
           },
           {
             name: "কাঠ মিস্ত্রী",
-            ink: "carpenter.html"
+            link: "carpenter.html"
           },
           {
             name: "থাই এন্ড গ্লাস মিস্ত্রী",
