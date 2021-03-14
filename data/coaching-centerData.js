@@ -4,14 +4,25 @@ const userData = [
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "এস বি এডুকেয়ার জোন",
     number: "01685322989",
-    wordNo: "৫",
+    wordNo: "৬",
     location: "মধ্য রসুলপুর, জসিম মার্কেট সংলগ্ন",
-    detail: "৫- ১২ শ্রেনী",
+    detail: "৫- ১২ শ্রেনীর সকল বিষয় পড়ানো হয়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
     id: 2,
+    photo: "../cdn/coaching-center/coaching-center.png",
+    name: "উদয়ন একাডেমিক কেয়ার",
+    number: "01608060915",
+    wordNo: "৬",
+    location: "বড় মসজিদ সংলগ্ন (দেলোয়ার মেম্বার বাড়ি), মধ্য রসুলপুর",
+    detail: "৩য় শ্রেণী থেকে দ্বাদশ শ্রেণীর সকল বিষয় পড়ানো হয়",
+    postLink: "https://www.facebook.com/watch/udayan.ac.4/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fudayan.ac.4%2Fvideos%2F160341869245864%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 3,
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "ডিসেন্ট কেয়ার কোচিং",
     number: "01927106412",
@@ -22,7 +33,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 3,
+    id: 4,
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "M.M Academy",
     number: "01718479907",
@@ -30,10 +41,10 @@ const userData = [
     location: "নয়ামাটি, মুসলিম পাড়া",
     detail: "ইকরা আদর্শ বিদ্যানিকেতন সহকারী শিক্ষক ( গণিত )",
     postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 4,
+    id: 5,
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "নেয়ার ইস্ট কোচিং সেন্টার",
     number: "01969700990",
