@@ -438,6 +438,26 @@ const categoryData = [
             link: "cosmetics-market.html"
           }
         ]
+    },
+    {
+      id: 15,
+      photo: "../resources/icons/decorator.png",
+      name: "ডেকোরেটর",
+      subCategory:
+        [
+          {
+            name: "রং মিস্ত্রী",
+            link: "painter.html"
+          },
+          {
+            name: "কাঠ মিস্ত্রী",
+            ink: "carpenter.html"
+          },
+          {
+            name: "থাই এন্ড গ্লাস মিস্ত্রী",
+            link: "thai-and-glass-mechanic.html"
+          }
+        ]
     }
   ];
   
