@@ -358,6 +358,38 @@ const categoryData = [
             link: "fruit-shop.html"
           }
         ]
+    },
+    {
+      id: 12,
+      photo: "../resources/icons/servicing-center.png",
+      name: "সার্ভিসিং সেন্টার",
+      subCategory:
+        [
+          {
+            name: "টিভি",
+            link: "tv-servicing.html"
+          },
+          {
+            name: "এসি / ফ্রিজ",
+            link: "ac-fridge-servicing.html"
+          },
+          {
+            name: "কম্পিউটার",
+            link: "computer-servicing.html"
+          },
+          {
+            name: "ইলেক্টিক",
+            link: "electric.html"
+          },
+          {
+            name: "মোবাইল",
+            link: "mobile-servicing.html"
+          },
+          {
+            name: "গাড়ি",
+            link: "car-servicing.html"
+          }
+        ]
     }
   ];
   
