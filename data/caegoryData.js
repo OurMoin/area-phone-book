@@ -40,6 +40,26 @@ const categoryData = [
         ]
     },
     {
+      id: 19,
+      photo: "../resources/icons/service-organization.png",
+      name: "সেবামূলক সংগঠন",
+      subCategory:
+        [
+          {
+            name: "সামাজিক সংগঠন",
+            link: "social-organization.html"
+          },
+          {
+            name: "যুব সংগঠন",
+            link: "youth-organizations.html"
+          },
+          {
+            name: "রক্ত দান",
+            link: "blood-donation.html"
+          }
+        ]
+    },
+    {
       id: 2,
       photo: "../resources/icons/medical-services.png",
       name: "চিকিৎসা সেবা",
