@@ -458,6 +458,26 @@ const categoryData = [
             link: "thai-and-glass-mechanic.html"
           }
         ]
+    },
+    {
+      id: 16,
+      photo: "../resources/icons/tourist-spot.png",
+      name: "ঘোরার জায়গা",
+      subCategory:
+        [
+          {
+            name: "পার্ক",
+            link: "park.html"
+          },
+          {
+            name: "সিনেমা হল",
+            link: "cinema-hall.html"
+          },
+          {
+            name: "রেস্তোরাঁ",
+            link: "restaurant.html"
+          }
+        ]
     }
   ];
   
