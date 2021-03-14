@@ -498,6 +498,26 @@ const categoryData = [
             link: "garage-rent.html"
           }
         ]
+    },
+    {
+      id: 18,
+      photo: "../resources/icons/civic-service.png",
+      name: "নাগরিক সেবা",
+      subCategory:
+        [
+          {
+            name: "ইউনিয়ন অফিস",
+            link: "union-office.html"
+          },
+          {
+            name: "চেয়ারম্যান অফিস",
+            link: "chairman's-office.html"
+          },
+          {
+            name: "ভোটার অফিস",
+            link: "voter-office.html"
+          }
+        ]
     }
   ];
   
