@@ -446,6 +446,10 @@ const categoryData = [
       subCategory:
         [
           {
+            name: "ডেকোরেটর",
+            link: "decorators.html"
+          },
+          {
             name: "রং মিস্ত্রী",
             link: "painter.html"
           },
