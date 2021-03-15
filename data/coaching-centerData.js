@@ -26,7 +26,7 @@ const userData = [
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "ডিসেন্ট কেয়ার কোচিং",
     number: "01927106412",
-    wordNo: "৫",
+    wordNo: "৬",
     location: "প্যারাডাইস সিটি, পাগলা রেলস্টেশন সংলগ্ন",
     detail: "৬ষ্ঠ থেকে অনার্স গণিত, ইংরেজি, ICT, অর্থনীতি, হিসাব বিজ্ঞানের সকল বিষয় পড়ানো হয়",
     postLink: "http://fb.com/areaPhonebook",
