@@ -57,17 +57,6 @@ const userData = [
   {
     id: 6,
     photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
-    name: "সাজ্জাদ ইঞ্জিনিয়ারিং ওয়ার্কস",
-    number: "01916881369",
-    wordNo: "৫",
-    location: "বউবাজার শাহীবাজার রোড, বউবাজার",
-    detail: "গ্রিলের সকল কাজ করা হয়, হোম সার্ভিস",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
-  {
-    id: 7,
-    photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
     name: "আল বায়েদ গ্রীল ওয়ার্কসপ",
     number: "null",
     wordNo: "৫",
