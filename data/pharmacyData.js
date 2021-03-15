@@ -284,5 +284,49 @@ const userData = [
     detail: "চোখের ডাক্তার বসে - প্রতি মঙ্গলবার ১০ টা থেকে ৩ টা।<br>দাতের ডাক্তার বসে - প্রতি বৃহস্পতিবার ৩ টা থেকে ৬ টা।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 27,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "নাঈম মেডিসিন কর্নার",
+    number: "01680034159",
+    wordNo: "৫",
+    location: "মধ্য রসুলপুর, নোভা কমিউনিটি সেন্টার সংলগ্ন",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 28,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "আল-ইহসান ফার্মা",
+    number: "01672664134",
+    wordNo: "৬",
+    location: "কুমিল্লা সমিতি মার্কেট, শাহী বাজার",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 29,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "নিলকন্ঠ ফার্মেসি",
+    number: "01672259059",
+    wordNo: "৬",
+    location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 30,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "মা মেডিসিন কর্নার",
+    number: "01824639560",
+    wordNo: "৪",
+    location: "দেলপাড়া রোড, এ এস এম সুপার মার্কেট",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   }
 ];
