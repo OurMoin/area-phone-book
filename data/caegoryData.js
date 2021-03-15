@@ -194,6 +194,10 @@ const categoryData = [
       subCategory:
         [
           {
+            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
+            link: "grillshop-and-workshop.html"
+          },
+          {
             name: "সুপার সপ",
             link: "super-shop.html"
           },
@@ -204,10 +208,6 @@ const categoryData = [
           {
             name: "পাইকারী দোকান",
             link: "wholesale-store.html"
-          },
-          {
-            name: "মুদি দোকান",
-            link: "grocery-store.html"
           },
           {
             name: "কনফেকশনারী",
