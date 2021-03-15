@@ -396,6 +396,10 @@ const categoryData = [
           {
             name: "এসি / ফ্রিজ",
             link: "ac-fridge-servicing.html"
+          },          
+          {
+            name: "মোবাইল",
+            link: "mobile-servicing.html"
           },
           {
             name: "কম্পিউটার",
@@ -404,10 +408,6 @@ const categoryData = [
           {
             name: "ইলেক্টিক",
             link: "electric.html"
-          },
-          {
-            name: "মোবাইল",
-            link: "mobile-servicing.html"
           },
           {
             name: "গাড়ি",
