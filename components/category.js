@@ -1,6 +1,6 @@
 function items(items) {
   return `
-    ${items.map(item => `<span class="col-6 topic"><a href="${item.link}">${item.name}</a></span>`).join("")}
+    ${items.map(item => `<div class="col-6"><span class="topic"><a href="${item.link}" class="lol">${item.name}</a></span></div>`).join("")}
 `;
 }
 
@@ -34,7 +34,7 @@ function catagoryTemplate(category) {
               </div>
           </div>
 
-          <div id="${category.id}" class="collapse" data-parent="#accordionExample">
+          <div id="${category.id}" class="collapse sader" data-parent="#accordionExample">
               <div class="row">
                   ${category.subCategory ? items(category.subCategory) : ""}
               </div>
