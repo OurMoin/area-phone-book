@@ -386,6 +386,10 @@ const categoryData = [
       subCategory:
         [
           {
+            name: "সাইকেল",
+            link: "cycle.html"
+          },
+          {
             name: "টিভি",
             link: "tv-servicing.html"
           },
