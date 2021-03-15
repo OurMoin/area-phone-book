@@ -41,7 +41,41 @@ sup {
     font-size: 12px;
 }
 
+.sader .row {
+    margin: 0 0;
+}
 
+.topic-text {
+    margin: 15px 0;
+}
+
+.lol {
+    display: inline-block;
+    border: 1px #21B573 solid;
+    padding: 5px 10px;
+    margin: 5px 0 0 0;
+    border-radius: 3px;
+    width: 100%;
+    background-color: #21B573;
+    color: #fff;
+    text-align: center;
+    transition: .4s;
+}
+
+.lol:last-child {
+    margin-bottom: 5px;
+}
+
+.lol:hover {
+    display: inline-block;
+    border: 1px #21B573 solid;
+    padding: 5px 10px;
+    margin: 5px 0 0 0;
+    border-radius: 3px;
+    width: 100%;
+    background-color: #fff;
+    color: #21B573;
+}
 
 
 
