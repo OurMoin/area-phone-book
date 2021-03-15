@@ -446,6 +446,10 @@ const categoryData = [
       subCategory:
         [
           {
+            name: "সুপার মার্কেট",
+            link: "supermarket.html"
+          },
+          {
             name: "কাঁচা বাজার",
             link: "raw-market.html"
           },
