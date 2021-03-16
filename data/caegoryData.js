@@ -222,10 +222,6 @@ const categoryData = [
             link: "spice-shop.html"
           },
           {
-            name: "হার্ডওয়্যার",
-            link: "hardware.html"
-          },
-          {
             name: "লাইব্রেরি",
             link: "library.html"
           },
@@ -576,6 +572,26 @@ const categoryData = [
           {
             name: "গির্জা",
             link: "girja.html"
+          }
+        ]
+    },
+    {
+      id: 21,
+      photo: "../resources/icons/hardware_sanitary_electronics.png",
+      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      subCategory:
+        [
+          {
+            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+            link: "hardware-sanitary-electronics.html"
+          },
+          {
+            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+            link: "thai-aluminum-and-glass.html"
+          },
+          {
+            name: "help",
+            link: "#"
           }
         ]
     }
