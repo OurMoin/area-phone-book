@@ -350,7 +350,7 @@ const categoryData = [
             link: "hotel.html"
           },
           {
-            name: "রেস্তরাঁ",
+            name: "রেস্টুরেন্ট",
             link: "restaurant.html"
           },
           {
@@ -506,7 +506,7 @@ const categoryData = [
             link: "cinema-hall.html"
           },
           {
-            name: "রেস্তোরাঁ",
+            name: "রেস্টুরেন্ট",
             link: "restaurant.html"
           }
         ]
