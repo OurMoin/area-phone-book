@@ -53,16 +53,5 @@ const userData = [
     detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
-  {
-    id: 6,
-    photo: "../cdn/dental-care/dental-care.png",
-    name: "হিমেল ডেন্টাল কেয়ার ",
-    number: "01687014219",
-    wordNo: "৬",
-    location: "এ এস এম সুপার মার্কেট, পাগলা",
-    detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
