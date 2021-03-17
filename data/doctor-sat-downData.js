@@ -115,7 +115,7 @@ const userData = [
     name: "রিমা ডেন্টাল কেয়ার",
     number: "01748585601",
     wordNo: "৫",
-    location: "হাজী ফজলুল হক মার্কেট, ভাঙার-পুল",
+    location: "হাজী ফজলুল হক মার্কেট, ভাঙ্গাপুল, রসুলপুর",
     detail: "দাঁতের ডাক্তার বসে।<br>রবিবার ও বুধবার।<br> ৫টা থেকে রাত ১০টা পর্যন্ত (আগে যোগাযোগ করবেন)",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

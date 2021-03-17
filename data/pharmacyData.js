@@ -204,7 +204,7 @@ const userData = [
     number: "01630243900",
     wordNo: "৫",
     location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
-    detail: "সকল ধরনের চিকিৎসা করা হয়। ওষুধ হোম ডেলিভারি করা হয়। সরাসরী কোম্পানি থেকে ক্রয়-ক্রীত ওষুধ পাওয়া যায়। ",
+    detail: "সকল ধরনের চিকিৎসা করা হয়। ওষুধ হোম ডেলিভারি করা হয়। সরাসরী কোম্পানি থেকে ক্রয়-ক্রীত ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },

@@ -80,6 +80,10 @@ const categoryData = [
           {
             name: "ডাক্তার ল্যাব",
             link: "doctor-lab.html"
+          },
+          {
+            name: "ডেন্টাল কেয়ার",
+            link: "dental-care.html"
           }
         ]
     },
