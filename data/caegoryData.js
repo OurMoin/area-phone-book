@@ -234,6 +234,10 @@ const categoryData = [
             link: "flower-shop.html"
           },
           {
+            name: "ফার্নিচার",
+            link: "furniture.html"
+          },
+          {
             name: "টেইলার্স এন্ড ফেব্রিক্স",
             link: "tailors-and-fabrics.html"
           },
