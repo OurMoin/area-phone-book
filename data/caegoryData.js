@@ -248,6 +248,9 @@ const categoryData = [
           {
             name: "টেইলার্স এন্ড ফেব্রিক্স",
             link: "tailors-and-fabrics.html"
+          },{
+            name: "বাদ্যযন্ত্র সমূহ",
+            link: "musical-instruments.html"
           },
           {
             name: "গ্রিল এবং ওয়ার্কশপের দোকান",
