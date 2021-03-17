@@ -50,7 +50,18 @@ const userData = [
     number: "Hidden",
     wordNo: "৫",
     location: "শাহীবাজার, আমতলা রোড",
-    detail: "Details about this service",
+    detail: "রেস্টুরেন্ট এন্ড ক্যাফে",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/restaurant/restaurant.png",
+    name: "ফ্রেশ ফুড কর্নার",
+    number: "01710614422",
+    wordNo: "৫",
+    location: "দেলপাড়া কলেজ রোড",
+    detail: "চাইনিজ রেষ্টুরেন্ট",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
