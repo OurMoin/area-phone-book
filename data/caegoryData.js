@@ -146,6 +146,10 @@ const categoryData = [
             link: "agent-bank.html"
           },
           {
+            name: "এটিএম বুথ",
+            link: "atm-booth.html"
+          },
+          {
             name: "কিস্তি অফিস",
             link: "installment-office.html"
           }
