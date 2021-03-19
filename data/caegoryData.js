@@ -88,6 +88,10 @@ const categoryData = [
           {
             name: "চক্ষু চিকিৎসালয়",
             link: "ophthalmology.html"
+          },
+          {
+            name: "ফিজিওথেরাপি",
+            link: "physiotherapy.html"
           }
         ]
     },
