@@ -64,5 +64,16 @@ const userData = [
     detail: "চাইনিজ রেষ্টুরেন্ট",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/restaurant/restaurant.png",
+    name: "Grand Area Restauran",
+    number: "01851596976",
+    wordNo: "৫",
+    location: "মুসলিম মার্কেট, ডি এন রোড, পাগলা",
+    detail: "ইন্ডিয়ান এন্ড চাইনিজ খাবার ও ফাস্ট ফুড ড্রিংস পাওয়া যায়। হোম ডেলিভারি করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
