@@ -84,6 +84,10 @@ const categoryData = [
           {
             name: "ডেন্টাল কেয়ার",
             link: "dental-care.html"
+          },
+          {
+            name: "চক্ষু চিকিৎসালয়",
+            link: "ophthalmology.html"
           }
         ]
     },
