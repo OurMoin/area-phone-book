@@ -31,5 +31,16 @@ const userData = [
     detail: "চোখের ডাক্তার বসে - প্রতি মঙ্গলবার ১০ টা থেকে ৩ টা।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/ophthalmology/ophthalmology.png",
+    name: "ইসলামিয়া চক্ষু চিকিৎসালয়",
+    number: "01950094825",
+    wordNo: "৬",
+    location: "এ এস এম সুপার মার্কেট, পাগলা",
+    detail: "চক্ষু এর সকল চিকিৎসা হয়।<br>প্রতিদিন বিকাল ৫ টা থেকে রাত ৯ টা পর্যন্ত।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
