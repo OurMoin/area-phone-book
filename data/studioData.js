@@ -86,5 +86,16 @@ const userData = [
     detail: "ছবি তোলা, ছবি থেকে ছবি, এবং বিভিন্ন অনুষ্ঠানের ভিডিও ও ছবি তোলার কাজ করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 9,
+    photo: "../cdn/studio/studio.png",
+    name: "মারিয়া ডিজিটাল স্টুডিও",
+    number: "01673984967",
+    wordNo: "৫",
+    location: "দেলপাড়া কলেজ রোড, দেলপাড়া",
+    detail: "ছবি তোলা, ছবি থেকে ছবি, বিভিন্ন অনুষ্ঠানের ভিডিও এর কাজ করা হয়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
