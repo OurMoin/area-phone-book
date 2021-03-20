@@ -185,5 +185,49 @@ const userData = [
     detail: "সিসি ক্যামেরা, রাউটার, ইলেকট্রনিক পণ্য",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 18,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "মেসার্স নিউ জান্নাত",
+    number: "01770184207",
+    wordNo: "৫",
+    location: "দৌলত পূর",
+    detail: "স্যানিটারি এন্ড এন্টারপ্রাইজ",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 19,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "মেসার্স মোরছালিন এন্টারপ্রাইজ",
+    number: "01919757369",
+    wordNo: "৫",
+    location: "ইকরা স্কুল সংলগ্ন, কুসুম বাগ, চিতাসাল রোড",
+    detail: "গ্যাস সিলিন্ডার, চুলার যাবতীয় মালামাল পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 20,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "মুরসালিন এন্টারপ্রাইজ",
+    number: "01401370444",
+    wordNo: "৫",
+    location: "চিতাসাল, ইকরা স্কুল সংলগ্ন",
+    detail: "গ্যাস ও চুলার যাবতীয় মালামাল পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 21,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
+    number: "01734547676",
+    wordNo: "৫",
+    location: "উত্তর-পূর্ব শাহী মহল্লা",
+    detail: "রড সিমেন্টের দোকান",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
