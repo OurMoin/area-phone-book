@@ -145,11 +145,11 @@ const userData = [
   {
     id: 14,
     photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
-    name: "বাহার হার্ডওয়ার এন্ড সেনেটারী",
-    number: "01915867582",
+    name: "আল-রাফি এন্টারপ্রাইজ",
+    number: "01861864519",
     wordNo: "৫",
-    location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
-    detail: "হার্ডওয়্যার, সেনেটারী পণ্য। বার্জার, এশিয়ান পেইন্টস এর ডিলার।",
+    location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড ব্রিজ সংলগ্ন, নুরবাগ",
+    detail: "হার্ডওয়ার, ইলেকট্রিক, সেনেটারী, খুচরা পাইকারি বিক্রেতা",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
