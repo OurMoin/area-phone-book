@@ -13,6 +13,17 @@ const userData = [
   {
     id: 2,
     photo: "../cdn/ophthalmology/ophthalmology.png",
+    name: "নয়ন অপটিক্স এবং ওয়াচ",
+    number: "0146369460",
+    wordNo: "৬",
+    location: "হাজী নুরুল ইসলাম সুপার মার্কেট, পাগলা",
+    detail: "একটি অভিজাত সানগ্লাস, পাওয়া গ্লাস এবং হাত ঘড়ি বিক্রয় কেন্দ্র",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/ophthalmology/ophthalmology.png",
     name: "ইবনে সিনা মেডিসিন কর্নার",
     number: "01916204618",
     wordNo: "৫",
@@ -22,7 +33,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 3,
+    id: 4,
     photo: "../cdn/ophthalmology/ophthalmology.png",
     name: "জনসেবা ফার্মেসি",
     number: "01917566006",
@@ -33,7 +44,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 4,
+    id: 5,
     photo: "../cdn/ophthalmology/ophthalmology.png",
     name: "ইসলামিয়া চক্ষু চিকিৎসালয়",
     number: "01950094825",
