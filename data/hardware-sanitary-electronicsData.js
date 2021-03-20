@@ -174,5 +174,16 @@ const userData = [
     detail: "ইলেকট্রনিক্স সামগ্রী পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 17,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "এই টি মেশিন ঘর",
+    number: "01817084851",
+    wordNo: "৫",
+    location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড সংলগ্ন, নুরবাগ",
+    detail: "সিসি ক্যামেরা, রাউটার, ইলেকট্রনিক পণ্য",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
