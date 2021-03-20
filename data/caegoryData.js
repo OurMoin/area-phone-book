@@ -248,6 +248,10 @@ const categoryData = [
           {
             name: "জুয়েলার্স",
             link: "jewelers.html"
+          },          
+          {
+            name: "ক্রোকারিজ",
+            link: "crockery.html"
           },
           {
             name: "ফার্নিচার",
