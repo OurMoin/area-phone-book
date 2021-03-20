@@ -31,5 +31,16 @@ const userData = [
     detail: "সকল প্রকারের পাইকারি পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/wholesale-store/wholesale-store.png",
+    name: "হক রাইস এজেন্সি",
+    number: "01742155141",
+    wordNo: "৫",
+    location: "নিশ্চিন্ত পূর",
+    detail: "পাইকারি দোকান",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
