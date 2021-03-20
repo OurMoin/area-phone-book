@@ -543,6 +543,10 @@ const categoryData = [
           {
             name: "রেস্টুরেন্ট",
             link: "restaurant.html"
+          },
+          {
+            name: "নার্সারী",
+            link: "nursery.html"
           }
         ]
     },
