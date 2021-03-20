@@ -621,8 +621,8 @@ const categoryData = [
             link: "thai-aluminum-and-glass.html"
           },
           {
-            name: "help",
-            link: "#"
+            name: "স্টিল এন্ড প্লাস্টিক ডোর",
+            link: "steel-and-plastic-door.html"
           }
         ]
     }
