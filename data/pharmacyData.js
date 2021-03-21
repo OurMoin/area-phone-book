@@ -17,7 +17,7 @@ const userData = [
     number: "01677255264",
     wordNo: "৫",
     location: "নিশ্চিন্ত পূর",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -28,7 +28,7 @@ const userData = [
     number: "01880118922",
     wordNo: "৫",
     location: "শরীফবাগ, শাহীবাজার",
-    detail: "Details about this service",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -50,7 +50,7 @@ const userData = [
     number: "01712649188",
     wordNo: "৫",
     location: "দক্ষিণ রসুলপুর, মাদ্রাসা রোড",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -61,7 +61,7 @@ const userData = [
     number: "Hidden",
     wordNo: "৫",
     location: "ভাঙ্গাপুল, রসুলপুর",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -72,7 +72,7 @@ const userData = [
     number: "01886626026",
     wordNo: "৫",
     location: "ভাঙ্গাপুল, রসুলপুর",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -83,7 +83,7 @@ const userData = [
     number: "01916061648",
     wordNo: "৫",
     location: "নুরবাগ পুরাতন সি এন জি স্ট্যান্ড, নুরবাগ",
-    detail: "Details about this service",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -94,7 +94,7 @@ const userData = [
     number: "01916204618",
     wordNo: "৫",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
-    detail: "ডাক্তার বসে চোখের, মেডিসিন, চক্ষু",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়<br> ডাক্তার বসে চোখের, মেডিসিন, চক্ষু",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -204,7 +204,7 @@ const userData = [
     number: "01630243900",
     wordNo: "৫",
     location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
-    detail: "শুধু দাতের ডাক্তার বসে, ৬টা - ১০টা। সকল ধরনের চিকিৎসা করা হয়। ওষুধ হোম ডেলিভারি করা হয়। সরাসরী কোম্পানি থেকে ক্রয়-ক্রীত ওষুধ পাওয়া যায়। ",
+    detail: "সকল ধরনের চিকিৎসা করা হয়। ওষুধ হোম ডেলিভারি করা হয়। সরাসরী কোম্পানি থেকে ক্রয়-ক্রীত ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -248,7 +248,7 @@ const userData = [
     number: "01680034159",
     wordNo: "৫",
     location: "মধ্য রসুলপুর, কমিউনিটি সেন্টার সংলগ্ন",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -270,7 +270,7 @@ const userData = [
     number: "01711052055",
     wordNo: "৫",
     location: "জসিম মার্কেট, রসুলপুর",
-    detail: "Details about this service",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -282,6 +282,50 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "চোখের ডাক্তার বসে - প্রতি মঙ্গলবার ১০ টা থেকে ৩ টা।<br>দাতের ডাক্তার বসে - প্রতি বৃহস্পতিবার ৩ টা থেকে ৬ টা।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 27,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "নাঈম মেডিসিন কর্নার",
+    number: "01680034159",
+    wordNo: "৫",
+    location: "মধ্য রসুলপুর, নোভা কমিউনিটি সেন্টার সংলগ্ন",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 28,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "আল-ইহসান ফার্মা",
+    number: "01672664134",
+    wordNo: "৬",
+    location: "কুমিল্লা সমিতি মার্কেট, শাহী বাজার",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 29,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "নিলকন্ঠ ফার্মেসি",
+    number: "01672259059",
+    wordNo: "৬",
+    location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 30,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "মা মেডিসিন কর্নার",
+    number: "01824639560",
+    wordNo: "৪",
+    location: "দেলপাড়া রোড, এ এস এম সুপার মার্কেট",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   }

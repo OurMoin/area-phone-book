@@ -80,6 +80,18 @@ const categoryData = [
           {
             name: "ডাক্তার ল্যাব",
             link: "doctor-lab.html"
+          },
+          {
+            name: "ডেন্টাল কেয়ার",
+            link: "dental-care.html"
+          },
+          {
+            name: "চক্ষু চিকিৎসালয়",
+            link: "ophthalmology.html"
+          },
+          {
+            name: "ফিজিওথেরাপি",
+            link: "physiotherapy.html"
           }
         ]
     },
@@ -146,6 +158,10 @@ const categoryData = [
             link: "agent-bank.html"
           },
           {
+            name: "এটিএম বুথ",
+            link: "atm-booth.html"
+          },
+          {
             name: "কিস্তি অফিস",
             link: "installment-office.html"
           }
@@ -206,10 +222,6 @@ const categoryData = [
             link: "wholesale-store.html"
           },
           {
-            name: "মুদি দোকান",
-            link: "grocery-store.html"
-          },
-          {
             name: "কনফেকশনারী",
             link: "confectionary.html"
           },
@@ -222,16 +234,39 @@ const categoryData = [
             link: "spice-shop.html"
           },
           {
-            name: "হার্ডওয়্যার",
-            link: "hardware.html"
-          },
-          {
             name: "লাইব্রেরি",
             link: "library.html"
           },
           {
             name: "ফুলের দোকান",
             link: "flower-shop.html"
+          },
+          {
+            name: "মিষ্টির দোকান",
+            link: "sweet-shop.html"
+          },
+          {
+            name: "জুয়েলার্স",
+            link: "jewelers.html"
+          },          
+          {
+            name: "ক্রোকারিজ",
+            link: "crockery.html"
+          },
+          {
+            name: "ফার্নিচার",
+            link: "furniture.html"
+          },
+          {
+            name: "টেইলার্স এন্ড ফেব্রিক্স",
+            link: "tailors-and-fabrics.html"
+          },{
+            name: "বাদ্যযন্ত্র সমূহ",
+            link: "musical-instruments.html"
+          },
+          {
+            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
+            link: "grillshop-and-workshop.html"
           }
         ]
     },
@@ -354,7 +389,7 @@ const categoryData = [
             link: "hotel.html"
           },
           {
-            name: "রেস্তরাঁ",
+            name: "রেস্টুরেন্ট",
             link: "restaurant.html"
           },
           {
@@ -396,6 +431,10 @@ const categoryData = [
           {
             name: "এসি / ফ্রিজ",
             link: "ac-fridge-servicing.html"
+          },          
+          {
+            name: "মোবাইল",
+            link: "mobile-servicing.html"
           },
           {
             name: "কম্পিউটার",
@@ -404,10 +443,6 @@ const categoryData = [
           {
             name: "ইলেক্টিক",
             link: "electric.html"
-          },
-          {
-            name: "মোবাইল",
-            link: "mobile-servicing.html"
           },
           {
             name: "গাড়ি",
@@ -488,10 +523,6 @@ const categoryData = [
           {
             name: "কাঠ মিস্ত্রী",
             link: "carpenter.html"
-          },
-          {
-            name: "থাই এন্ড গ্লাস মিস্ত্রী",
-            link: "thai-and-glass-mechanic.html"
           }
         ]
     },
@@ -510,8 +541,12 @@ const categoryData = [
             link: "cinema-hall.html"
           },
           {
-            name: "রেস্তোরাঁ",
+            name: "রেস্টুরেন্ট",
             link: "restaurant.html"
+          },
+          {
+            name: "নার্সারী",
+            link: "nursery.html"
           }
         ]
     },
@@ -541,6 +576,10 @@ const categoryData = [
       name: "নাগরিক সেবা",
       subCategory:
         [
+          {
+            name: "দলিল লেখক",
+            link: "author-of-the-document.html"
+          },
           {
             name: "ইউনিয়ন অফিস",
             link: "union-office.html"
@@ -572,6 +611,30 @@ const categoryData = [
           {
             name: "গির্জা",
             link: "girja.html"
+          }
+        ]
+    },
+    {
+      id: 21,
+      photo: "../resources/icons/hardware_sanitary_electronics.png",
+      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      subCategory:
+        [
+          {
+            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+            link: "hardware-sanitary-electronics.html"
+          },
+          {
+            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+            link: "thai-aluminum-and-glass.html"
+          },
+          {
+            name: "স্টিল এন্ড প্লাস্টিক ডোর",
+            link: "steel-and-plastic-door.html"
+          },
+          {
+            name: "অটো পার্টস",
+            link: "auto-parts.html"
           }
         ]
     }
