@@ -229,5 +229,16 @@ const userData = [
     detail: "রড সিমেন্টের দোকান",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 22,
+    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    name: "ইউ-শা ইলেকট্রনিক",
+    number: "01912064880",
+    wordNo: "৫",
+    location: "কাজী প্লাজা, পাগলা",
+    detail: "ইলেকট্রনিক পণ্য",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
