@@ -22,9 +22,9 @@ function catagoryTemplate(category) {
                                 
                                   <h3 class="manu-item">${category.name}</h3>
                                   <div class="row">
-                                  <span class="col-6 topic tp1"> <a href="${category.subCategory[0].link}">${category.subCategory[0].name}</a> </span>
-                                  <span class="col-6 topic tp1"> <a href="${category.subCategory[1].link}">${category.subCategory[1].name}</a> </span>
-                                  <span class="col-6 topic tp1"> <a href="${category.subCategory[2].link}">${category.subCategory[2].name}</a> </span>
+                                  <span class="col-6 topic tp1">${category.subCategory[0].name}</span>
+                                  <span class="col-6 topic tp1">${category.subCategory[1].name}</span>
+                                  <span class="col-6 topic tp1">${category.subCategory[2].name}</span>
                                   <span class="col-6 topic tp4"> <a href="#${category.id}" data-toggle="collapse">আরো দেখুন <i class="fa fa-chevron-down"></i></a> </span>
                                  </div>
                               </div>
