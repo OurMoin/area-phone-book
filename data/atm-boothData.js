@@ -54,6 +54,6 @@ const userData = [
     detail: "আল-আরাফাহ ইসলামী ব্যাংক এর এটিএম বুথ",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F109240667279751%2Fvideos%2F369014363985895%2F&width=500&show_text=false&height=280&appId"
-  },  
+  }
 ];
   
