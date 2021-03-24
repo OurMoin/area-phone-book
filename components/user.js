@@ -45,15 +45,7 @@ function userTemplate(user) {
                 <div>
                     <small>${user.detail}</small>
                 </div>
-<br>
-                <div>
-                    <iframe
-                        src="${user.videoLink}"
-                        width="100%" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-                        allowfullscreen="true"
-                        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                        allowFullScreen="true"></iframe>
-                </div>
+
             </div>
         </div>
     </div>
@@ -67,3 +59,17 @@ function userTemplate(user) {
 document.getElementById("user").innerHTML = `
   ${userData.map(userTemplate).join("")}  
 `;
+
+
+
+
+
+// <br>
+//                 <div>
+//                     <iframe
+//                         src="${user.videoLink}"
+//                         width="100%" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+//                         allowfullscreen="true"
+//                         allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+//                         allowFullScreen="true"></iframe>
+//                 </div>
