@@ -490,7 +490,7 @@ const categoryData = [
           },
           {
             name: "পোশাকের বাজার",
-            ink: "clothing-market.html"
+            link: "clothing-market.html"
           },
           {
             name: "পাইকারি বাজার",
