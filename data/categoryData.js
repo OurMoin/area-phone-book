@@ -122,7 +122,7 @@ const categoryData = [
             link: "electrical-training.html"              
           },
           {
-            name: "ওয়ার্কসপ ট্রেনিং",
+            name: "ওয়ার্কশপ ট্রেনিং",
             link: "workshop-training.html"              
           },
           {
