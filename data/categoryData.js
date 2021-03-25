@@ -139,7 +139,7 @@ const categoryData = [
           },
           {
             name: "Gym",
-            link: "gym.html"              
+            link: "gym.html"
           }
         ]
     },
@@ -586,7 +586,7 @@ const categoryData = [
           },
           {
             name: "চেয়ারম্যান অফিস",
-            link: "chairman's-office.html"
+            link: "chairman-office.html"
           },
           {
             name: "ভোটার অফিস",
