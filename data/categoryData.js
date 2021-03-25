@@ -210,11 +210,11 @@ const categoryData = [
       subCategory:
         [
           {
-            name: "সুপার সপ",
+            name: "সুপার শপ",
             link: "super-shop.html"
           },
           {
-            name: "মিনি সুপার সপ",
+            name: "মিনি সুপার শপ",
             link: "mini-super-shop.html"
           },
           {
