@@ -135,7 +135,7 @@ const categoryData = [
           },
           {
             name: "পার্লার ট্রেনিং",
-            link: "parlor.html"              
+            link: "parlor-training.html"              
           },
           {
             name: "Gym",
