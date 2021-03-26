@@ -20,16 +20,5 @@ const userData = [
     detail: "মুদি, কনফেকশনারী, কসমেটিক, ষ্টেশনারী",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
-  {
-    id: 3,
-    photo: "../cdn/confectionary/confectionary.png",
-    name: "হাজী ফুড সুইস্ট এন্ড বেকারি",
-    number: "01748271952",
-    wordNo: "৫",
-    location: "দেলপাড়া বাজার, দেলপাড়া",
-    detail: "মিষ্টি, বেকারি এর সকল পন্য",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
