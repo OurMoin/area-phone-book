@@ -635,6 +635,10 @@ const categoryData = [
           {
             name: "অটো পার্টস",
             link: "auto-parts.html"
+          },
+          {
+            name: "টাইলস",
+            link: "tiles.html"
           }
         ]
     }
