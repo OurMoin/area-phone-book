@@ -31,5 +31,16 @@ const userData = [
     detail: "হাইস গাড়ি ভাড়া দেওয়া হয়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/rent-a-car/rent-a-car.png",
+    name: "আব্দুর রব মিয়ার গ্যারেজ",
+    number: "01687774539",
+    wordNo: "৫",
+    location: "নয়ামাটি, ভাবি বাজার রোড।",
+    detail: "সকল প্রকার গাড়ি ভাড়া দেওয়া হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
