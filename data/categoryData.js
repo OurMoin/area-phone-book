@@ -405,6 +405,10 @@ const categoryData = [
             link: "fast-food.html"
           },
           {
+            name: "কেক ঘর",
+            link: "cake-house.html"
+          },
+          {
             name: "মিষ্টির দোকান",
             link: "sweet-shop.html"
           },
