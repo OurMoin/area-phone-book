@@ -40,6 +40,46 @@ const categoryData = [
         ]
     },
     {
+      id: 22,
+      photo: "../resources/icons/blood-donation.png",
+      name: "রক্ত দান",
+      subCategory:
+        [
+          {
+            name: "A+",
+            link: "a-pluse.html"
+          },
+          {
+            name: "A-",
+            link: "a-minus.html"
+          },
+          {
+            name: "B+",
+            link: "blood-donation.html"
+          },
+          {
+            name: "B-",
+            link: "blood-donation.html"
+          },
+          {
+            name: "AB+",
+            link: "blood-donation.html"
+          },
+          {
+            name: "AB-",
+            link: "blood-donation.html"
+          },
+          {
+            name: "O+",
+            link: "blood-donation.html"
+          },
+          {
+            name: "O-",
+            link: "blood-donation.html"
+          }
+        ]
+    },
+    {
       id: 20,
       photo: "../resources/icons/service-organization.png",
       name: "সেবামূলক সংগঠন",
@@ -109,30 +149,30 @@ const categoryData = [
             name: "ড্রাইভিং ট্রেনিং",
             link: "driving-training.html"         
            },
-          {
-            name: "ভাষা ট্রেনিং",
-            link: "language-training.html"         
-           },
-          {
-            name: "স্কিল ট্রেনিং",
-            link: "skill-training.html"            
-          },
-          {
-            name: "ইলিক্টিক ট্রেনিং",
-            link: "electrical-training.html"              
-          },
-          {
-            name: "ওয়ার্কশপ ট্রেনিং",
-            link: "workshop-training.html"              
-          },
-          {
-            name: "ট্রেইলারিং ট্রেনিং",
-            link: "trailing-training.html"              
-          },
-          {
-            name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
-            link: "ac-fridge-servicing-training.html"              
-          },
+          // {
+          //   name: "ভাষা ট্রেনিং",
+          //   link: "language-training.html"         
+          //  },
+          // {
+          //   name: "স্কিল ট্রেনিং",
+          //   link: "skill-training.html"            
+          // },
+          // {
+          //   name: "ইলিক্টিক ট্রেনিং",
+          //   link: "electrical-training.html"              
+          // },
+          // {
+          //   name: "ওয়ার্কশপ ট্রেনিং",
+          //   link: "workshop-training.html"              
+          // },
+          // {
+          //   name: "ট্রেইলারিং ট্রেনিং",
+          //   link: "trailing-training.html"              
+          // },
+          // {
+          //   name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
+          //   link: "ac-fridge-servicing-training.html"              
+          // },
           {
             name: "পার্লার ট্রেনিং",
             link: "parlor-training.html"              
@@ -176,15 +216,7 @@ const categoryData = [
           {
             name: "স্কুল",
             link: "school.html"
-          },
-          {
-            name: "কোচিং সেন্টার",
-            link: "coaching-center.html"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library.html"
-          },
+          },        
           {
             name: "কলেজ",
             link: "college.html"
@@ -194,8 +226,16 @@ const categoryData = [
             link: "madrasa.html"
           },
           {
+            name: "কোচিং সেন্টার",
+            link: "coaching-center.html"
+          },
+          {
             name: "হোম টিচার",
             link: "home-teacher.html"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
           },
           {
             name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
@@ -209,14 +249,14 @@ const categoryData = [
       name: "দোকান",
       subCategory:
         [
-          {
-            name: "সুপার শপ",
-            link: "super-shop.html"
-          },
-          {
-            name: "মিনি সুপার শপ",
-            link: "mini-super-shop.html"
-          },
+          // {
+          //   name: "সুপার শপ",
+          //   link: "super-shop.html"
+          // },
+          // {
+          //   name: "মিনি সুপার শপ",
+          //   link: "mini-super-shop.html"
+          // },
           {
             name: "পাইকারী দোকান",
             link: "wholesale-store.html"
@@ -305,43 +345,39 @@ const categoryData = [
             link: "studio.html"
           },
           {
-            name: "কম্পিউটার দোকান",
-            link: "computer-shop.html"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library.html"
-          },
-          {
             name: "ক্যামেরাম্যান",
             link: "cameraman.html"
+          },
+          {
+            name: "কম্পিউটার দোকান",
+            link: "computer-shop.html"
           }
         ]
     },
-    {
-      id: 9,
-      photo: "../resources/icons/car-stand.png",
-      name: "গাড়ী স্ট্যান্ড",
-      subCategory:
-        [
-          {
-            name: "সিএনজি স্ট্যান্ড",
-            link: "cng-stand.html"
-          },
-          {
-            name: "বাস স্ট্যান্ড",
-            link: "bus-stand.html"
-          },
-          {
-            name: "ট্রেন স্টেশন",
-            link: "train-station.html"
-          },
-          {
-            name: "অটো স্ট্যান্ড",
-            link: "auto-stand.html"
-          }
-        ]
-    },
+    // {
+    //   id: 9,
+    //   photo: "../resources/icons/car-stand.png",
+    //   name: "গাড়ী স্ট্যান্ড",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "সিএনজি স্ট্যান্ড",
+    //         link: "cng-stand.html"
+    //       },
+    //       {
+    //         name: "বাস স্ট্যান্ড",
+    //         link: "bus-stand.html"
+    //       },
+    //       {
+    //         name: "ট্রেন স্টেশন",
+    //         link: "train-station.html"
+    //       },
+    //       {
+    //         name: "অটো স্ট্যান্ড",
+    //         link: "auto-stand.html"
+    //       }
+    //     ]
+    // },
     {
       id: 10,
       photo: "../resources/icons/transportation-services.png",
@@ -372,14 +408,14 @@ const categoryData = [
             name: "সিএনজি",
             link: "cng.html"
           },
-          {
-            name: "ভ্যান গাড়ি",
-            link: "van.html"
-          },
-          {
-            name: "জলযান",
-            link: "watercraft.html"
-          }
+          // {
+          //   name: "ভ্যান গাড়ি",
+          //   link: "van.html"
+          // },
+          // {
+          //   name: "জলযান",
+          //   link: "watercraft.html"
+          // }
         ]
     },
     {
@@ -388,10 +424,10 @@ const categoryData = [
       name: "ফুড কর্নার / খাবার দোকান",
       subCategory:
         [
-          {
-            name: "হোটেল",
-            link: "hotel.html"
-          },
+          // {
+          //   name: "হোটেল",
+          //   link: "hotel.html"
+          // },
           {
             name: "রেস্টুরেন্ট",
             link: "restaurant.html"
@@ -525,6 +561,10 @@ const categoryData = [
             link: "community-center.html"
           },
           {
+            name: "ফুলের দোকান",
+            link: "flower-shop.html"
+          },
+          {
             name: "রং মিস্ত্রী",
             link: "painter.html"
           },
@@ -575,7 +615,19 @@ const categoryData = [
           {
             name: "গ্যারেজ ভাড়া",
             link: "garage-rent.html"
-          }
+          },
+          {
+            name: "office ভাড়া",
+            link: "office-rent.html"
+          },
+          {
+            name: "গাড়ি ভাড়া",
+            link: "car-rental.html"
+          },
+          // {
+          //   name: "camera ভাড়া",
+          //   link: "camera-rental.html"
+          // }
         ]
     },
     {
@@ -589,6 +641,10 @@ const categoryData = [
             link: "author-of-the-document.html"
           },
           {
+            name: "lawyer",
+            link: "lawyer.html"
+          },
+          {
             name: "ইউনিয়ন অফিস",
             link: "union-office.html"
           },
@@ -599,29 +655,33 @@ const categoryData = [
           {
             name: "ভোটার অফিস",
             link: "voter-office.html"
+          },
+          {
+            name: "vhumi অফিস",
+            link: "voter-office.html"
           }
         ]
     },
-    {
-      id: 19,
-      photo: "../resources/icons/religious-place.png",
-      name: "ধার্মিক স্থান",
-      subCategory:
-        [
-          {
-            name: "মসজিদ",
-            link: "mosque.html"
-          },
-          {
-            name: "মন্দির",
-            link: "temple.html"
-          },
-          {
-            name: "গির্জা",
-            link: "girja.html"
-          }
-        ]
-    },
+    // {
+    //   id: 19,
+    //   photo: "../resources/icons/religious-place.png",
+    //   name: "ধার্মিক স্থান",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "মসজিদ",
+    //         link: "mosque.html"
+    //       },
+    //       {
+    //         name: "মন্দির",
+    //         link: "temple.html"
+    //       },
+    //       {
+    //         name: "গির্জা",
+    //         link: "girja.html"
+    //       }
+    //     ]
+    // },
     {
       id: 21,
       photo: "../resources/icons/hardware_sanitary_electronics.png",
