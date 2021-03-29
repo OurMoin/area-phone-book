@@ -26,7 +26,7 @@ const userData = [
     photo: "../cdn/school/school.png",
     name: "আহসান উদ্দিন উচ্চ বিদ্যালয়",
     number: "01674066555",
-    wordNo: "৫",
+    wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "উচ্চ বিদ্যালয়",
     postLink: "http://fb.com/areaPhonebook",
@@ -45,13 +45,24 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/school/school.png",
+    photo: "../cdn/school/daulatpur-ideal-school.jpg",
     name: "দৌলতপুর আইডিয়াল স্কুল",
     number: "01951499180",
     wordNo: "৫",
     location: "দৌলতপুর, কদমতলী রোড",
     detail: "প্লে - ৯ম শ্রেণী পর্যন্ত",
     postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/school/imperial-kindergarten-and-school.jpg",
+    name: "ইম্পেরিয়াল কিন্ডারগার্টেন এন্ড স্কুল",
+    number: "01671845456",
+    wordNo: "৬",
+    location: "রসুলপুর (বাগানবাড়ি)",
+    detail: "প্রাথমিক ও মাধ্যমিক শিক্ষা",
+    postLink: "https://www.facebook.com/imperialkindergarten",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
