@@ -561,6 +561,10 @@ const categoryData = [
             link: "decorators.html"
           },
           {
+            name: "বাবুর্চি",
+            link: "chef.html"
+          },
+          {
             name: "কমিউনিটি সেন্টার",
             link: "community-center.html"
           },
