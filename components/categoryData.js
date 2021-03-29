@@ -280,7 +280,11 @@ const categoryData = [
           {
             name: "লাইব্রেরি",
             link: "library.html"
-          },
+          },      
+          {
+            name: "টেলিকম সেন্টার",
+            link: "telecom-center.html"
+          },  
           {
             name: "ফুলের দোকান",
             link: "flower-shop.html"
