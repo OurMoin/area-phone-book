@@ -59,7 +59,7 @@ const userData = [
     photo: "../cdn/pharmacy/pharmacy.png",
     name: "সেবা ফার্মেসি",
     number: "Hidden",
-    wordNo: "৫",
+    wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
     detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/pharmacy/Janaseba-pharmacy.jpg",
+    photo: "../cdn/pharmacy/janaseba-pharmacy.jpg",
     name: "জনসেবা ফার্মেসী",
     number: "01902322132",
     wordNo: "৪",
