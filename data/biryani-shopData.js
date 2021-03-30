@@ -1,10 +1,10 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/biryani-shop/biryani-shop.png",
+    photo: "../cdn/biryani-shop/al-araf-tehri-house.jpg",
     name: "আল-আরাফ তেহারি ঘর",
     number: "01319926473",
-    wordNo: "৫",
+    wordNo: "৪",
     location: "দেলপাড়া কলেজ রোড সংলগ্ন",
     detail: "মোরগ পোলাও, ভুনা খিচুড়ি, গরুর কাচ্চি, গরুর বিরিয়ানি।",
     postLink: "http://fb.com/areaPhonebook",
