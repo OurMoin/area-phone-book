@@ -4,7 +4,7 @@ const userData = [
     photo: "../cdn/parlor/faria-jahan-puspo.jpg",
     name: "Puspo's Mehedi World",
     number: "01302880960",
-    wordNo: "৬",
+    wordNo: "৫",
     location: "পূর্ব রসুলপুর",
     detail: "ডিজাইনার:- ফারিয়া জাহান পুস্প<br> ব্রাইডাল মেহেদি বুকিং এবং প্রফেশনাল ও ইউনিক মেহেদি ডিজাইনের জন্য আমাদের সাথে যোগাযোগ করুন।<br> ব্রাইডাল মেহেদি, সেমি ব্রাইডাল, নন-ব্রাইডাল এবং মেহেদি নাইট এর জন্য বুকিং নেওয়া হয়।<br> নারায়ণগঞ্জ ও ঢাকার মধ্যে হোম সার্ভিস দেয়া হচ্ছে।",
     postLink: "https://www.facebook.com/Puspojahanfaria/",
