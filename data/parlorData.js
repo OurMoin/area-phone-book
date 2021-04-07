@@ -26,7 +26,7 @@ const userData = [
     photo: "../cdn/parlor/parlor.png",
     name: "Women's land Beauty salon & Spa",
     number: "01909547850",
-    wordNo: "৫",
+    wordNo: "৬",
     location: "রসুলপুর জসিম মার্কেট সংলগ্ন",
     detail: "Beauty salon & Spa",
     postLink: "http://fb.com/areaPhonebook",
