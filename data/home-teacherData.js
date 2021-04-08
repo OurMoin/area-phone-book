@@ -20,6 +20,17 @@ const userData = [
     detail: "ক্লাস ৬ - ক্লাস ১০ (ব্যবসায়ী বিভাগ) হোম টিচার",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/home-teacher/abbas-uddin.jpg",
+    name: "মোঃ আব্বাস উদ্দিন",
+    number: "01927106412",
+    wordNo: "৬",
+    location: "প্যারাডাইস সিটি, রেল স্টেশন সংলগ্ন",
+    detail: "৫ম - অনার্স, মানবিক ও বানিজ্য (কমার্স) এর সকল বিষয় এবং বিজ্ঞানের - গনিত, বাংলা ও ইংরেজি পড়ানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
