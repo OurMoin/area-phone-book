@@ -4,7 +4,7 @@ const userData = [
     photo: "../cdn/cameraman/cameraman.png",
     name: "মোঃ রাসেল",
     number: "01687133461",
-    wordNo: "5",
+    wordNo: "null",
     location: "কদমতলী পাকার মাথা",
     detail: "স্টিল ফটো শুট এন্ড ভিডিও করা হয়",
     postLink: "http://fb.com/areaPhonebook",
