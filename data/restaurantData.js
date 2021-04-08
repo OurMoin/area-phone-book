@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "../cdn/restaurant/afc-restaurant-and-fastfood.jpg",
     name: "এ এফ সি রেস্টুরেন্ট এন্ড ফাস্টফুড",
     number: "01714275316",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "../cdn/restaurant/generation-restaurant-and-cafe.jpg",
     name: "প্রজন্ম রেস্টুরেন্ট এন্ড ক্যাফে",
     number: "Hidden",
     wordNo: "৫",
@@ -59,7 +59,7 @@ const userData = [
     photo: "../cdn/restaurant/restaurant.png",
     name: "ফ্রেশ ফুড কর্নার",
     number: "01710614422",
-    wordNo: "৫",
+    wordNo: "৪",
     location: "দেলপাড়া কলেজ রোড",
     detail: "চাইনিজ রেষ্টুরেন্ট",
     postLink: "http://fb.com/areaPhonebook",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "../cdn/restaurant/grand-area-restaurant.jpg",
     name: "Grand Area Restaurant",
     number: "01851596976",
     wordNo: "৬",
