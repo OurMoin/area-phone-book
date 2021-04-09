@@ -71,6 +71,14 @@
 
                 <div id="category" class="row"></div>
             </div>
+            
+            
+            <div id="fb-root"></div>
+            <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution="page_inbox"
+        page_id="105459978200542">
+      </div>
         </section>
     </main>
 
@@ -80,7 +88,26 @@
         <div id="footer"></div>
     </footer>
 
+<!-- Messenger Chat Plugin Code -->
+    
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v10.0'
+          });
+        };
 
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      </script>
+
+      
 
     <!-- bootstrap4 js cdn -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
