@@ -202,7 +202,7 @@ const categoryData = [
           //   link: "skill-training.html"            
           // },
           // {
-          //   name: "ইলিক্টিক ট্রেনিং",
+          //   name: "ইলেকট্রিক ট্রেনিং",
           //   link: "electrical-training.html"              
           // },
           // {
@@ -210,7 +210,7 @@ const categoryData = [
           //   link: "workshop-training.html"              
           // },
           // {
-          //   name: "ট্রেইলারিং ট্রেনিং",
+          //   name: "টেইলারিং ট্রেনিং",
           //   link: "trailing-training.html"              
           // },
           // {
