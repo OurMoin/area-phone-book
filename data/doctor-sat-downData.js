@@ -26,7 +26,7 @@ const userData = [
     photo: "../cdn/doctor-sat-down/care-medicine-corner.jpg",
     name: "কেয়ার মেডিসিন কর্নার",
     number: "01630243900",
-    wordNo: "৫",
+    wordNo: "৬",
     location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
     detail: "শুধু দাতের ডাক্তার বসে,<br>ডাক্তার বসেনঃ ৬টা - ১০টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",

@@ -1,8 +1,8 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/doctor-lab/doctor-lab.png",
-    name: "নিউ ডক্টরস ডায়াগনস্টিক ল্যাব",
+    photo: "../cdn/doctor-lab/new-doctors-diagnostic-lab-and-consultant-service.jpg",
+    name: "নিউ ডক্টরস ডায়াগনস্টিক ল্যাব এন্ড কনসালট্যান্ট সার্ভিস",
     number: "01772200965",
     wordNo: "৬",
     location: "হাজী নুর ইসলাম সুপার মার্কেট, ২য় তলা, পাগলা",
