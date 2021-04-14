@@ -739,25 +739,25 @@ const categoryData = [
           }
         ]
     },
-    {
-      id: 24,
-      photo: "../resources/icons/religious-place.png",
-      name: "ধার্মিক স্থান",
-      subCategory:
-        [
-          {
-            name: "মসজিদ",
-            link: "mosque.html"
-          },
-          {
-            name: "মন্দির",
-            link: "temple.html"
-          },
-          {
-            name: "গির্জা",
-            link: "girja.html"
-          }
-        ]
-    }
+    // {
+    //   id: 24,
+    //   photo: "../resources/icons/religious-place.png",
+    //   name: "ধার্মিক স্থান",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "মসজিদ",
+    //         link: "mosque.html"
+    //       },
+    //       {
+    //         name: "মন্দির",
+    //         link: "temple.html"
+    //       },
+    //       {
+    //         name: "গির্জা",
+    //         link: "girja.html"
+    //       }
+    //     ]
+    // }
   ];
   
