@@ -135,7 +135,7 @@ const categoryData = [
           },
           {
             name: "বাইক",
-            link: "bikes.html"
+            link: "bikes-servicing.html"
           },
           {
             name: "গাড়ি",
