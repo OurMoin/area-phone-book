@@ -14,16 +14,16 @@ const categoryData = [
             link: "hospital.html"
           },
           {
-            name: "ফায়ার সার্ভিস",
-            link: "fire-service.html"
+            name: "বিদ্যুৎ অফিস",
+            link: "electricity-office.html"
           },
           {
             name: "পুলিশ স্টেশন",
             link: "police-station.html"
           },
           {
-            name: "বিদ্যুৎ অফিস",
-            link: "electricity-office.html"
+            name: "ফায়ার সার্ভিস",
+            link: "fire-service.html"
           },
           {
             name: "গ্যাস অফিস",
