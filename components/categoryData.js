@@ -46,36 +46,16 @@ const categoryData = [
       subCategory:
         [
           {
-            name: "A+",
-            link: "a-pluse.html"
+            name: "ব্লাড ব্যাংক",
+            link: "blood-bank.html"
           },
           {
-            name: "A-",
-            link: "a-minus.html"
+            name: "রক্তদান সংগঠন",
+            link: "blood-donation-organization.html"
           },
           {
-            name: "B+",
-            link: "blood-donation.html"
-          },
-          {
-            name: "B-",
-            link: "blood-donation.html"
-          },
-          {
-            name: "AB+",
-            link: "blood-donation.html"
-          },
-          {
-            name: "AB-",
-            link: "blood-donation.html"
-          },
-          {
-            name: "O+",
-            link: "blood-donation.html"
-          },
-          {
-            name: "O-",
-            link: "blood-donation.html"
+            name: "রক্তদাতা",
+            link: "blood-donor.html"
           }
         ]
     },
