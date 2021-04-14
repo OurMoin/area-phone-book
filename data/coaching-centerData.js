@@ -48,7 +48,7 @@ const userData = [
     photo: "../cdn/coaching-center/coaching-center.png",
     name: "নেয়ার ইস্ট কোচিং সেন্টার",
     number: "01969700990",
-    wordNo: "৫",
+    wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "সকল বিষয় পড়ানো হয়।",
     postLink: "http://fb.com/areaPhonebook",
