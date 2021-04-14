@@ -369,10 +369,10 @@ const categoryData = [
             name: "মিষ্টির দোকান",
             link: "sweet-shop.html"
           },
-          {
-            name: "ফলের দোকান",
-            link: "fruit-shop.html"
-          }
+          // {
+          //   name: "ফলের দোকান",
+          //   link: "fruit-shop.html"
+          // }
         ]
     },
     {
