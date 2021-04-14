@@ -2,11 +2,11 @@ const userData = [
   {
     id: 1,
     photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
-    name: "আল- ইহসান ফার্মা",
+    name: "আল-ইহসান ফার্মা",
     number: "01672664134",
     wordNo: "৫",
     location: "কুমিল্লা সমিতির মার্কেট, শাহী বাজার",
-    detail: "ডাঃ মোঃ আবদুন নূর সায়েম।<br> এম. বি. বি. এস, বি. সি. এস (স্বাস্থ্য)<br> রোগী দেখার সময়ঃ বিকাল ৫.৩০ মিঃ হইতে রাত ৯.০০ টা পর্যন্ত।<br> শনি, সোম ও বুধবার",
+    detail: "ডাঃ মোঃ আবদুন নূর সায়েম।<br> এম. বি. বি. এস, বি. সি. এস (স্বাস্থ্য)<br> রোগী দেখার সময়ঃ বিকাল ৫.৩০ মিঃ হইতে রাত ৯.০০ টা পর্যন্ত।<br> শনিবার, সোমবার ও বুধবার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -16,7 +16,7 @@ const userData = [
     name: "শহিদুল মেডিকেল হল",
     number: "01916382877",
     wordNo: "৫",
-    location: "বাবির বাজার",
+    location: "ভাবির বাজার",
     detail: "ডাঃ কাজী আশ্ররাফ (মাতুইল)<br> ডাক্তার বসেনঃ সন্ধা ৭ টা থেকে ৯ টা পর্যন্ত।<br> শনিবার, সোমবার, বুধবার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
@@ -28,7 +28,7 @@ const userData = [
     number: "01630243900",
     wordNo: "৫",
     location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
-    detail: "শুধু দাতের ডাক্তার বসে,<br>ডাক্তার বসেনঃ ৬টা - ১০টা পর্যন্ত",
+    detail: "শুধু দাতের ডাক্তার বসে,<br>ডাক্তার বসেনঃ ৬টা - ১০টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -39,7 +39,7 @@ const userData = [
     number: "01819271396",
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
-    detail: "মেডিসিন বিশেষজ্ঞ)<br> ডাক্তার বসেনঃ বিকাল ৪ টা থেকে রাত ৯.৩০ টা পর্যন্ত",
+    detail: "মেডিসিন বিশেষজ্ঞ)<br> ডাক্তার বসেনঃ বিকাল ৪ টা থেকে রাত ৯.৩০ টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -50,7 +50,7 @@ const userData = [
     number: "01687014219",
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
-    detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত",
+    detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -72,7 +72,7 @@ const userData = [
     number: "01779881842",
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
-    detail: "দাঁতের ডাক্তার বসে।<br> ডাক্তার বসেনঃ প্রতিদিন বিকাল ৫টা থেকে রাত ১০টা পর্যন্ত",
+    detail: "দাঁতের ডাক্তার বসে।<br> ডাক্তার বসেনঃ প্রতিদিন বিকাল ৫টা থেকে রাত ১০টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -83,7 +83,7 @@ const userData = [
     number: "01911798538",
     wordNo: "৪",
     location: "ইকরা স্কুল সংলগ্ন, কুসুমবাগ",
-    detail: "ডাক্তার বসে, শিশু, গাইনি, নাক-কান গলা, মেডিসিন বিশেষজ্ঞ",
+    detail: "ডাক্তার বসে, শিশু, গাইনি, নাক-কান গলা ও মেডিসিন বিশেষজ্ঞ।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -94,7 +94,7 @@ const userData = [
     number: "01902322132",
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
-    detail: "ডাক্তার বসে, মেডিসিন বিশেষজ্ঞ",
+    detail: "ডাক্তার বসে, মেডিসিন বিশেষজ্ঞ।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -105,7 +105,7 @@ const userData = [
     number: "01916204618",
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
-    detail: "ডাক্তার বসে চোখের, মেডিসিন বিশেষজ্ঞ ও চক্ষু",
+    detail: "ডাক্তার বসে চোখের, মেডিসিন বিশেষজ্ঞ ও চক্ষু।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -116,7 +116,7 @@ const userData = [
     number: "01748585601",
     wordNo: "৬",
     location: "হাজী ফজলুল হক মার্কেট, ভাঙ্গাপুল, রসুলপুর",
-    detail: "দাঁতের ডাক্তার বসে।<br>রবিবার ও বুধবার।<br> ৫টা থেকে রাত ১০টা পর্যন্ত (আগে যোগাযোগ করবেন)",
+    detail: "দাঁতের ডাক্তার বসে।<br>রবিবার ও বুধবার।<br>বিকাল ৫টা থেকে রাত ১০টা পর্যন্ত (আগে যোগাযোগ করবেন)।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
