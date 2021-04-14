@@ -40,7 +40,7 @@ const categoryData = [
         ]
     },
     {
-      id: 22,
+      id: 2,
       photo: "../resources/icons/blood-donation.png",
       name: "রক্ত দান",
       subCategory:
@@ -80,27 +80,7 @@ const categoryData = [
         ]
     },
     {
-      id: 20,
-      photo: "../resources/icons/service-organization.png",
-      name: "সেবামূলক সংগঠন",
-      subCategory:
-        [
-          {
-            name: "সামাজিক সংগঠন",
-            link: "social-organization.html"
-          },
-          {
-            name: "যুব সংগঠন",
-            link: "youth-organizations.html"
-          },
-          {
-            name: "রক্ত দান",
-            link: "blood-donation.html"
-          }
-        ]
-    },
-    {
-      id: 2,
+      id: 3,
       photo: "../resources/icons/medical-services.png",
       name: "চিকিৎসা সেবা",
       subCategory:
@@ -136,7 +116,79 @@ const categoryData = [
         ]
     },
     {
-      id: 3,
+      id: 4,
+      photo: "../resources/icons/servicing-center.png",
+      name: "সার্ভিসিং সেন্টার",
+      subCategory:
+        [
+          {
+            name: "সাইকেল",
+            link: "cycle.html"
+          },
+          {
+            name: "টিভি",
+            link: "tv-servicing.html"
+          },
+          {
+            name: "এসি / ফ্রিজ",
+            link: "ac-fridge-servicing.html"
+          },          
+          {
+            name: "মোবাইল",
+            link: "mobile-servicing.html"
+          },
+          {
+            name: "কম্পিউটার",
+            link: "computer-servicing.html"
+          },
+          {
+            name: "ইলেক্টিক",
+            link: "electric.html"
+          },
+          {
+            name: "গাড়ি",
+            link: "car-servicing.html"
+          }
+        ]
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/education-services.png",
+      name: "শিক্ষা সেবা",
+      subCategory:
+        [
+          {
+            name: "স্কুল",
+            link: "school.html"
+          },        
+          {
+            name: "কলেজ",
+            link: "college.html"
+          },
+          {
+            name: "মাদ্রসা",
+            link: "madrasa.html"
+          },
+          {
+            name: "কোচিং সেন্টার",
+            link: "coaching-center.html"
+          },
+          {
+            name: "হোম টিচার",
+            link: "home-teacher.html"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
+          },
+          {
+            name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
+            link: "all-services-of-educational-institutions.html"
+          }
+        ]
+    },
+    {
+      id: 6,
       photo: "../resources/icons/training-center.png",
       name: "প্রশিক্ষণ কেন্দ্র",
       subCategory:
@@ -184,67 +236,7 @@ const categoryData = [
         ]
     },
     {
-      id: 4,
-      photo: "../resources/icons/banking-services.png",
-      name: "ব্যাংকিং সেবা",
-      subCategory:
-        [
-          {
-            name: "ব্যাংক",
-            link: "bank.html"
-          },
-          {
-            name: "এজেন্ট ব্যাংক",
-            link: "agent-bank.html"
-          },
-          {
-            name: "এটিএম বুথ",
-            link: "atm-booth.html"
-          },
-          {
-            name: "কিস্তি অফিস",
-            link: "installment-office.html"
-          }
-        ]
-    },
-    {
-      id: 5,
-      photo: "../resources/icons/education-services.png",
-      name: "শিক্ষা সেবা",
-      subCategory:
-        [
-          {
-            name: "স্কুল",
-            link: "school.html"
-          },        
-          {
-            name: "কলেজ",
-            link: "college.html"
-          },
-          {
-            name: "মাদ্রসা",
-            link: "madrasa.html"
-          },
-          {
-            name: "কোচিং সেন্টার",
-            link: "coaching-center.html"
-          },
-          {
-            name: "হোম টিচার",
-            link: "home-teacher.html"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library.html"
-          },
-          {
-            name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
-            link: "all-services-of-educational-institutions.html"
-          }
-        ]
-    },
-    {
-      id: 6,
+      id: 7,
       photo: "../resources/icons/shop.png",
       name: "দোকান",
       subCategory:
@@ -319,111 +311,39 @@ const categoryData = [
         ]
     },
     {
-      id: 7,
-      photo: "../resources/icons/parlor-salon.png",
-      name: "পার্লার / সেলুন",
-      subCategory:
-        [
-          {
-            name: "পার্লার",
-            link: "parlor.html"
-          },
-          {
-            name: "সেলুন",
-            link: "salon.html"
-          },
-          {
-            name: "কসমিটিক্স এর দোকান",
-            link: "cosmetics-shop.html"
-          }
-        ]
-    },
-    {
       id: 8,
-      photo: "../resources/icons/studio-computer-shop.png",
-      name: "স্টুডিও / কম্পিউটার দোকান",
+      photo: "../resources/icons/rental-services.png",
+      name: "ভাড়া সেবা",
       subCategory:
         [
           {
-            name: "স্টুডিও",
-            link: "studio.html"
+            name: "বাসা ভাড়া",
+            link: "house-rent.html"
           },
           {
-            name: "ক্যামেরাম্যান",
-            link: "cameraman.html"
+            name: "দোকান ভাড়া",
+            link: "shop-rent.html"
           },
           {
-            name: "কম্পিউটার দোকান",
-            link: "computer-shop.html"
-          }
-        ]
-    },
-    // {
-    //   id: 9,
-    //   photo: "../resources/icons/car-stand.png",
-    //   name: "গাড়ী স্ট্যান্ড",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "সিএনজি স্ট্যান্ড",
-    //         link: "cng-stand.html"
-    //       },
-    //       {
-    //         name: "বাস স্ট্যান্ড",
-    //         link: "bus-stand.html"
-    //       },
-    //       {
-    //         name: "ট্রেন স্টেশন",
-    //         link: "train-station.html"
-    //       },
-    //       {
-    //         name: "অটো স্ট্যান্ড",
-    //         link: "auto-stand.html"
-    //       }
-    //     ]
-    // },
-    {
-      id: 10,
-      photo: "../resources/icons/transportation-services.png",
-      name: "পরিবহন সেবা",
-      subCategory:
-        [
-          {
-            name: "পেট্রোল পাম্প",
-            link: "petrol-pump.html"
+            name: "গ্যারেজ ভাড়া",
+            link: "garage-rent.html"
           },
           {
-            name: "রেন্ট এ কার",
-            link: "rent-a-car.html"
+            name: "office ভাড়া",
+            link: "office-rent.html"
           },
           {
-            name: "পিকাপ",
-            link: "pickup.html"
-          },
-          {
-            name: "ট্রাক",
-            link: "truck.html"
-          },
-          {
-            name: "ডিস্টিক ট্রাক",
-            link: "district-truck.html"
-          },
-          {
-            name: "সিএনজি",
-            link: "cng.html"
+            name: "গাড়ি ভাড়া",
+            link: "car-rental.html"
           },
           // {
-          //   name: "ভ্যান গাড়ি",
-          //   link: "van.html"
-          // },
-          // {
-          //   name: "জলযান",
-          //   link: "watercraft.html"
+          //   name: "camera ভাড়া",
+          //   link: "camera-rental.html"
           // }
         ]
     },
     {
-      id: 11,
+      id: 9,
       photo: "../resources/icons/food-corner_food-store.png",
       name: "ফুড কর্নার / খাবার দোকান",
       subCategory:
@@ -463,95 +383,111 @@ const categoryData = [
         ]
     },
     {
-      id: 12,
-      photo: "../resources/icons/servicing-center.png",
-      name: "সার্ভিসিং সেন্টার",
+      id: 10,
+      photo: "../resources/icons/studio-computer-shop.png",
+      name: "স্টুডিও / কম্পিউটার দোকান",
       subCategory:
         [
           {
-            name: "সাইকেল",
-            link: "cycle.html"
+            name: "স্টুডিও",
+            link: "studio.html"
           },
           {
-            name: "টিভি",
-            link: "tv-servicing.html"
+            name: "ক্যামেরাম্যান",
+            link: "cameraman.html"
           },
           {
-            name: "এসি / ফ্রিজ",
-            link: "ac-fridge-servicing.html"
-          },          
-          {
-            name: "মোবাইল",
-            link: "mobile-servicing.html"
-          },
-          {
-            name: "কম্পিউটার",
-            link: "computer-servicing.html"
-          },
-          {
-            name: "ইলেক্টিক",
-            link: "electric.html"
-          },
-          {
-            name: "গাড়ি",
-            link: "car-servicing.html"
+            name: "কম্পিউটার দোকান",
+            link: "computer-shop.html"
           }
         ]
     },
     {
-      id: 13,
-      photo: "../resources/icons/gift-corner.png",
-      name: "গিফট কর্নার",
+      id: 11,
+      photo: "../resources/icons/parlor-salon.png",
+      name: "পার্লার / সেলুন",
       subCategory:
         [
           {
-            name: "গিফট এর দোকান",
-            link: "gift-shop.html"
+            name: "পার্লার",
+            link: "parlor.html"
           },
           {
-            name: "1 to 99 দোকান",
-            link: "1-to-99-store.html"
+            name: "সেলুন",
+            link: "salon.html"
           },
           {
-            name: "লাইব্রেরি",
-            link: "library.html"
+            name: "কসমিটিক্স এর দোকান",
+            link: "cosmetics-shop.html"
+          }
+        ]
+    },
+    {
+      id: 12,
+      photo: "../resources/icons/transportation-services.png",
+      name: "পরিবহন সেবা",
+      subCategory:
+        [
+          {
+            name: "পেট্রোল পাম্প",
+            link: "petrol-pump.html"
           },
           {
-            name: "ফুলের দোকান",
-            link: "flower-shop.html"
+            name: "রেন্ট এ কার",
+            link: "rent-a-car.html"
+          },
+          {
+            name: "পিকাপ",
+            link: "pickup.html"
+          },
+          {
+            name: "ট্রাক",
+            link: "truck.html"
+          },
+          {
+            name: "ডিস্টিক ট্রাক",
+            link: "district-truck.html"
+          },
+          {
+            name: "সিএনজি",
+            link: "cng.html"
+          },
+          // {
+          //   name: "ভ্যান গাড়ি",
+          //   link: "van.html"
+          // },
+          // {
+          //   name: "জলযান",
+          //   link: "watercraft.html"
+          // }
+        ]
+    },
+    {
+      id: 13,
+      photo: "../resources/icons/car-stand.png",
+      name: "গাড়ী স্ট্যান্ড",
+      subCategory:
+        [
+          {
+            name: "সিএনজি স্ট্যান্ড",
+            link: "cng-stand.html"
+          },
+          {
+            name: "বাস স্ট্যান্ড",
+            link: "bus-stand.html"
+          },
+          {
+            name: "ট্রেন স্টেশন",
+            link: "train-station.html"
+          },
+          {
+            name: "অটো স্ট্যান্ড",
+            link: "auto-stand.html"
           }
         ]
     },
     {
       id: 14,
-      photo: "../resources/icons/market.png",
-      name: "মার্কেট",
-      subCategory:
-        [
-          {
-            name: "সুপার মার্কেট",
-            link: "supermarket.html"
-          },
-          {
-            name: "কাঁচা বাজার",
-            link: "raw-market.html"
-          },
-          {
-            name: "পোশাকের বাজার",
-            link: "clothing-market.html"
-          },
-          {
-            name: "পাইকারি বাজার",
-            link: "wholesale-market.html"
-          },
-          {
-            name: "কসমিটিক্স এর বাজার",
-            link: "cosmetics-market.html"
-          }
-        ]
-    },
-    {
-      id: 15,
       photo: "../resources/icons/decorator.png",
       name: "ডেকোরেটর",
       subCategory:
@@ -583,63 +519,55 @@ const categoryData = [
         ]
     },
     {
-      id: 16,
-      photo: "../resources/icons/tourist-spot.png",
-      name: "ঘোরার জায়গা",
+      id: 15,
+      photo: "../resources/icons/mechanic.png",
+      name: "মিস্ত্রী",
       subCategory:
         [
           {
-            name: "পার্ক",
-            link: "park.html"
+            name: "রং মিস্ত্রী",
+            link: "painter.html"
           },
           {
-            name: "সিনেমা হল",
-            link: "cinema-hall.html"
+            name: "কাঠ মিস্ত্রী",
+            link: "carpenter.html"
           },
           {
-            name: "রেস্টুরেন্ট",
-            link: "restaurant.html"
+            name: "ইলেকট্রনিক্স মিস্ত্রী",
+            link: "electronics-mechanic.html"
+          }
+        ]
+    },
+    {
+      id: 16,
+      photo: "../resources/icons/hardware_sanitary_electronics.png",
+      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      subCategory:
+        [
+          {
+            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+            link: "hardware-sanitary-electronics.html"
           },
           {
-            name: "নার্সারী",
-            link: "nursery.html"
+            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+            link: "thai-aluminum-and-glass.html"
+          },
+          {
+            name: "স্টিল এন্ড প্লাস্টিক ডোর",
+            link: "steel-and-plastic-door.html"
+          },
+          {
+            name: "অটো পার্টস",
+            link: "auto-parts.html"
+          },
+          {
+            name: "টাইলস",
+            link: "tiles.html"
           }
         ]
     },
     {
       id: 17,
-      photo: "../resources/icons/rental-services.png",
-      name: "ভাড়া সেবা",
-      subCategory:
-        [
-          {
-            name: "বাসা ভাড়া",
-            link: "house-rent.html"
-          },
-          {
-            name: "দোকান ভাড়া",
-            link: "shop-rent.html"
-          },
-          {
-            name: "গ্যারেজ ভাড়া",
-            link: "garage-rent.html"
-          },
-          {
-            name: "office ভাড়া",
-            link: "office-rent.html"
-          },
-          {
-            name: "গাড়ি ভাড়া",
-            link: "car-rental.html"
-          },
-          // {
-          //   name: "camera ভাড়া",
-          //   link: "camera-rental.html"
-          // }
-        ]
-    },
-    {
-      id: 18,
       photo: "../resources/icons/civic-service.png",
       name: "নাগরিক সেবা",
       subCategory:
@@ -670,51 +598,175 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 19,
-    //   photo: "../resources/icons/religious-place.png",
-    //   name: "ধার্মিক স্থান",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "মসজিদ",
-    //         link: "mosque.html"
-    //       },
-    //       {
-    //         name: "মন্দির",
-    //         link: "temple.html"
-    //       },
-    //       {
-    //         name: "গির্জা",
-    //         link: "girja.html"
-    //       }
-    //     ]
-    // },
     {
-      id: 21,
-      photo: "../resources/icons/hardware_sanitary_electronics.png",
-      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      id: 18,
+      photo: "../resources/icons/market.png",
+      name: "মার্কেট",
       subCategory:
         [
           {
-            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
-            link: "hardware-sanitary-electronics.html"
+            name: "সুপার মার্কেট",
+            link: "supermarket.html"
           },
           {
-            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
-            link: "thai-aluminum-and-glass.html"
+            name: "কাঁচা বাজার",
+            link: "raw-market.html"
           },
           {
-            name: "স্টিল এন্ড প্লাস্টিক ডোর",
-            link: "steel-and-plastic-door.html"
+            name: "পোশাকের বাজার",
+            link: "clothing-market.html"
           },
           {
-            name: "অটো পার্টস",
-            link: "auto-parts.html"
+            name: "পাইকারি বাজার",
+            link: "wholesale-market.html"
           },
           {
-            name: "টাইলস",
-            link: "tiles.html"
+            name: "কসমিটিক্স এর বাজার",
+            link: "cosmetics-market.html"
+          }
+        ]
+    },
+    {
+      id: 19,
+      photo: "../resources/icons/banking-services.png",
+      name: "ব্যাংকিং সেবা",
+      subCategory:
+        [
+          {
+            name: "ব্যাংক",
+            link: "bank.html"
+          },
+          {
+            name: "এজেন্ট ব্যাংক",
+            link: "agent-bank.html"
+          },
+          {
+            name: "এটিএম বুথ",
+            link: "atm-booth.html"
+          },
+          {
+            name: "কিস্তি অফিস",
+            link: "installment-office.html"
+          }
+        ]
+    },
+    {
+      id: 20,
+      photo: "../resources/icons/gift-corner.png",
+      name: "গিফট কর্নার",
+      subCategory:
+        [
+          {
+            name: "গিফট এর দোকান",
+            link: "gift-shop.html"
+          },
+          {
+            name: "1 to 99 দোকান",
+            link: "1-to-99-store.html"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library.html"
+          },
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop.html"
+          }
+        ]
+    },
+    {
+      id: 21,
+      photo: "../resources/icons/tourist-spot.png",
+      name: "ঘোরার জায়গা",
+      subCategory:
+        [
+          {
+            name: "পার্ক",
+            link: "park.html"
+          },
+          {
+            name: "সিনেমা হল",
+            link: "cinema-hall.html"
+          },
+          {
+            name: "রেস্টুরেন্ট",
+            link: "restaurant.html"
+          },
+          {
+            name: "নার্সারী",
+            link: "nursery.html"
+          }
+        ]
+    },
+    {
+      id: 22,
+      photo: "../resources/icons/service-organization.png",
+      name: "সেবামূলক সংগঠন",
+      subCategory:
+        [
+          {
+            name: "সামাজিক সংগঠন",
+            link: "social-organization.html"
+          },
+          {
+            name: "যুব সংগঠন",
+            link: "youth-organizations.html"
+          },
+          {
+            name: "রক্ত দান",
+            link: "blood-donation.html"
+          }
+        ]
+    },
+    {
+      id: 23,
+      photo: "../resources/icons/it-support.png",
+      name: "IT Support",
+      subCategory:
+        [
+          {
+            name: "Online Marketing",
+            link: "online-marketing.html"
+          },
+          {
+            name: "Graphic Design",
+            link: "graphic-design.html"
+          },
+          {
+            name: "Web Design",
+            link: "web-design.html"
+          },
+          {
+            name: "Web Development",
+            link: "web-development.html"
+          },
+          {
+            name: "SEO",
+            link: "seo.html"
+          },
+          {
+            name: "Apps Developer",
+            link: "apps-developer.html"
+          }
+        ]
+    },
+    {
+      id: 24,
+      photo: "../resources/icons/religious-place.png",
+      name: "ধার্মিক স্থান",
+      subCategory:
+        [
+          {
+            name: "মসজিদ",
+            link: "mosque.html"
+          },
+          {
+            name: "মন্দির",
+            link: "temple.html"
+          },
+          {
+            name: "গির্জা",
+            link: "girja.html"
           }
         ]
     }
