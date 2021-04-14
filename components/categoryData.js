@@ -565,10 +565,10 @@ const categoryData = [
             name: "দলিল লেখক",
             link: "author-of-the-document.html"
           },
-          {
-            name: "lawyer",
-            link: "lawyer.html"
-          },
+          // {
+          //   name: "আইনজীবী",
+          //   link: "lawyer.html"
+          // },
           {
             name: "ইউনিয়ন অফিস",
             link: "union-office.html"
@@ -582,8 +582,8 @@ const categoryData = [
             link: "voter-office.html"
           },
           {
-            name: "vhumi অফিস",
-            link: "voter-office.html"
+            name: "ভূমি অফিস",
+            link: "land-office.html"
           }
         ]
     },
