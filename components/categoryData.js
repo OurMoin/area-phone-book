@@ -322,7 +322,7 @@ const categoryData = [
             link: "garage-rent.html"
           },
           {
-            name: "office ভাড়া",
+            name: "অফিস ভাড়া",
             link: "office-rent.html"
           },
           {
@@ -330,7 +330,7 @@ const categoryData = [
             link: "car-rental.html"
           },
           // {
-          //   name: "camera ভাড়া",
+          //   name: "ক্যামেরা ভাড়া",
           //   link: "camera-rental.html"
           // }
         ]
