@@ -244,34 +244,38 @@ const categoryData = [
           {
             name: "পাইকারী দোকান",
             link: "wholesale-store.html"
+          }, 
+          {
+            name: "ডিলার পয়েন্ট",
+            link: "dealer-points.html"
           },
           {
             name: "কনফেকশনারী",
             link: "confectionary.html"
           },
+          // {
+          //   name: "বেকারি",
+          //   link: "bakery.html"
+          // },
+          // {
+          //   name: "মশলার দোকান",
+          //   link: "spice-shop.html"
+          // },
           {
-            name: "বেকারি",
-            link: "bakery.html"
-          },
-          {
-            name: "ফলের দোকান",
-            link: "fruit-shop.html"
-          },
-          {
-            name: "মশলার দোকান",
-            link: "spice-shop.html"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library.html"
-          },      
-          {
-            name: "টেলিকম সেন্টার",
-            link: "telecom-center.html"
+            name: "টেইলার্স এন্ড ফেব্রিক্স",
+            link: "tailors-and-fabrics.html"
           },  
           {
             name: "ফুলের দোকান",
             link: "flower-shop.html"
+          },
+          // {
+          //   name: "ফলের দোকান",
+          //   link: "fruit-shop.html"
+          // },
+          {
+            name: "টেলিকম সেন্টার",
+            link: "telecom-center.html"
           },
           {
             name: "মিষ্টির দোকান",
@@ -280,7 +284,7 @@ const categoryData = [
           {
             name: "জুয়েলার্স",
             link: "jewelers.html"
-          },          
+          },
           {
             name: "ক্রোকারিজ",
             link: "crockery.html"
@@ -290,15 +294,12 @@ const categoryData = [
             link: "furniture.html"
           },
           {
-            name: "টেইলার্স এন্ড ফেব্রিক্স",
-            link: "tailors-and-fabrics.html"
-          },{
+            name: "লাইব্রেরি",
+            link: "library.html"
+          }, 
+          {
             name: "বাদ্যযন্ত্র সমূহ",
             link: "musical-instruments.html"
-          },
-          {
-            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
-            link: "grillshop-and-workshop.html"
           }
         ]
     },
@@ -555,6 +556,10 @@ const categoryData = [
           {
             name: "টাইলস",
             link: "tiles.html"
+          },
+          {
+            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
+            link: "grillshop-and-workshop.html"
           }
         ]
     },
