@@ -649,10 +649,10 @@ const categoryData = [
             name: "গিফট এর দোকান",
             link: "gift-shop.html"
           },
-          {
-            name: "1 to 99 দোকান",
-            link: "1-to-99-store.html"
-          },
+          // {
+          //   name: "1 to 99 দোকান",
+          //   link: "1-to-99-store.html"
+          // },
           {
             name: "লাইব্রেরি",
             link: "library.html"
