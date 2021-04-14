@@ -6,7 +6,7 @@ const userData = [
     number: "01811017855",
     wordNo: "৫",
     location: "আমতলা",
-    detail: "সকল প্রকার ওষুধ পাওয়া যায়। <br>চোখের ও দাতের ডাক্তার বসে (ডাক্তার দেখাতে উল্লেখিত নাম্বারে যোগাযোগ করুন)",
+    detail: "সকল প্রকার ওষুধ পাওয়া যায়। <br>চোখের ও দাতের ডাক্তার বসে (ডাক্তার দেখাতে উল্লেখিত নাম্বারে যোগাযোগ করুন)।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -28,7 +28,7 @@ const userData = [
     number: "01880118922",
     wordNo: "৫",
     location: "শরীফবাগ, শাহীবাজার",
-    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -39,7 +39,7 @@ const userData = [
     number: "01918934496",
     wordNo: "৫",
     location: "কদমতলী পাকার মাথা ব্রিজ সংলগ্ন, পশ্চিম দৌলতপুর।",
-    detail: "ফার্মেসি এবং চোখের ডাক্তার বসে",
+    detail: "ফার্মেসি এবং চোখের ডাক্তার বসে।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -83,7 +83,7 @@ const userData = [
     number: "01916061648",
     wordNo: "৪",
     location: "নুরবাগ পুরাতন সি এন জি স্ট্যান্ড, নুরবাগ",
-    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -94,7 +94,7 @@ const userData = [
     number: "01916204618",
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
-    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়<br> ডাক্তার বসে চোখের, মেডিসিন, চক্ষু",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।<br> ডাক্তার বসে চোখের, মেডিসিন ও চক্ষু।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -105,7 +105,7 @@ const userData = [
     number: "01902322132",
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
-    detail: "ডাক্তার বসে, মেডিসিন বিশেষজ্ঞ",
+    detail: "ডাক্তার বসে, মেডিসিন বিশেষজ্ঞ।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -116,7 +116,7 @@ const userData = [
     number: "01911798538",
     wordNo: "৪",
     location: "ইকরা স্কুল সংলগ্ন, কুসুমবাগ",
-    detail: "ডাক্তার বসে, শিশু, গাইনি, নাক-কান গলা, মেডিসিন",
+    detail: "ডাক্তার বসে, শিশু, গাইনি, নাক-কান গলা, মেডিসিন।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -127,7 +127,7 @@ const userData = [
     number: "01682542020",
     wordNo: "৪",
     location: "দেলপাড়া বাজার সংলগ্ন, দেলপাড়া",
-    detail: "দেশি-বিদেশি সকল  ওষুধ পাওয়া যায়",
+    detail: "দেশি-বিদেশি সকল  ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -138,7 +138,7 @@ const userData = [
     number: "01912987018",
     wordNo: "৫",
     location: "বউবাজার শাহীবাজার রোড, বউবাজার",
-    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়",
+    detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -149,7 +149,7 @@ const userData = [
     number: "01912247622",
     wordNo: "৬",
     location: "বউবাজার বটতলা সংলগ্ন",
-    detail: "সকল প্রকারের ওষুধ পাওয়া যায়",
+    detail: "সকল প্রকারের ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -160,7 +160,7 @@ const userData = [
     number: "01676284786",
     wordNo: "৬",
     location: "বউবাজার নতুন বাজার সংলগ্ন",
-    detail: "সকল প্রকারের প্রাথমিক চিকিৎসা করা হয়",
+    detail: "সকল প্রকারের প্রাথমিক চিকিৎসা করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -171,7 +171,7 @@ const userData = [
     number: "01771230556",
     wordNo: "৬",
     location: "বউবাজার রেললাইন সংলগ্ন",
-    detail: "সকল প্রকারের ওষুধ পাওয়া যায়",
+    detail: "সকল প্রকারের ওষুধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -182,7 +182,7 @@ const userData = [
     number: "01717833419",
     wordNo: "৫",
     location: "নয়ামাটি মুসলিম পাড়া",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -192,7 +192,7 @@ const userData = [
     name: "বিসমিল্লাহ মেডিসিন কর্নার",
     number: "01999560168",
     wordNo: "৫",
-    location: "বাইতুল আমান কেন্দ্রীয় জামে মসজিদ সংলগ্ন, নয়ামাটি",
+    location: "বাইতুল আমান কেন্দ্রীয় জামে মসজিদ সংলগ্ন, নয়ামাটি।",
     detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
@@ -215,7 +215,7 @@ const userData = [
     number: "01777151142",
     wordNo: "৬",
     location: "দেলপাড়া রোড, নয়ামাটি জামে মসজিদ সংলগ্ন",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি হয়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -237,7 +237,7 @@ const userData = [
     number: "01864221924",
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
-    detail: "সকল প্রকার ঔষধ পাওয়া যায়",
+    detail: "সকল প্রকার ঔষধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -259,7 +259,7 @@ const userData = [
     number: "01914909753",
     wordNo: "৬",
     location: "বউবাজার বাজার সংলগ্ন",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -302,7 +302,7 @@ const userData = [
     name: "নিলকন্ঠ ফার্মেসি",
     number: "01672259059",
     wordNo: "৬",
-    location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন",
+    location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন।",
     detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
@@ -314,7 +314,7 @@ const userData = [
     number: "01824639560",
     wordNo: "৪",
     location: "দেলপাড়া রোড, এ এস এম সুপার মার্কেট",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   }
