@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "../cdn/coaching-center/udayan-academic-care.png",
     name: "উদয়ন একাডেমিক কেয়ার",
     number: "01608060915",
     wordNo: "৬",
