@@ -500,14 +500,6 @@ const categoryData = [
           {
             name: "ফুলের দোকান",
             link: "flower-shop.html"
-          },
-          {
-            name: "রং মিস্ত্রী",
-            link: "painter.html"
-          },
-          {
-            name: "কাঠ মিস্ত্রী",
-            link: "carpenter.html"
           }
         ]
     },
