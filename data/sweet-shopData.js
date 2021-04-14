@@ -6,19 +6,19 @@ const userData = [
     number: "01732643373",
     wordNo: "৬",
     location: "বউবাজার রেললাইন সংলগ্ন",
-    detail: "মিস্টি, হোটেল",
+    detail: "মিস্টি ও হোটেল।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
     id: 2,
-    photo: "../cdn/sweet-shop/sweet-shop.png",
+    photo: "../cdn/sweet-shop/haji-food-suites-and-bakery.jpg",
     name: "হাজী ফুড সুইস্ট এন্ড বেকারি",
     number: "01748271952",
     wordNo: "৫",
     location: "দেলপাড়া বাজার, দেলপাড়া",
-    detail: "মিষ্টি, বেকারি এর সকল পন্য",
+    detail: "মিষ্টি, বেকারি এর সকল পন্য।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
+  }
 ];
