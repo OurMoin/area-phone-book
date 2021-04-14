@@ -108,30 +108,34 @@ const categoryData = [
       photo: "../resources/icons/servicing-center.png",
       name: "সার্ভিসিং সেন্টার",
       subCategory:
-        [
+        [          
           {
-            name: "সাইকেল",
-            link: "cycle.html"
-          },
-          {
-            name: "টিভি",
-            link: "tv-servicing.html"
+            name: "মোবাইল",
+            link: "mobile-servicing.html"
           },
           {
             name: "এসি / ফ্রিজ",
             link: "ac-fridge-servicing.html"
-          },          
-          {
-            name: "মোবাইল",
-            link: "mobile-servicing.html"
           },
           {
             name: "কম্পিউটার",
             link: "computer-servicing.html"
           },
           {
+            name: "টিভি",
+            link: "tv-servicing.html"
+          },
+          {
             name: "ইলেক্টিক",
             link: "electric.html"
+          },
+          {
+            name: "সাইকেল",
+            link: "cycle.html"
+          },
+          {
+            name: "বাইক",
+            link: "bikes.html"
           },
           {
             name: "গাড়ি",
