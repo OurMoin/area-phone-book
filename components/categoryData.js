@@ -455,30 +455,30 @@ const categoryData = [
     //       // }
     //     ]
     // },
-    {
-      id: 13,
-      photo: "../resources/icons/car-stand.png",
-      name: "গাড়ী স্ট্যান্ড",
-      subCategory:
-        [
-          {
-            name: "সিএনজি স্ট্যান্ড",
-            link: "cng-stand.html"
-          },
-          {
-            name: "বাস স্ট্যান্ড",
-            link: "bus-stand.html"
-          },
-          {
-            name: "ট্রেন স্টেশন",
-            link: "train-station.html"
-          },
-          {
-            name: "অটো স্ট্যান্ড",
-            link: "auto-stand.html"
-          }
-        ]
-    },
+    // {
+    //   id: 13,
+    //   photo: "../resources/icons/car-stand.png",
+    //   name: "গাড়ী স্ট্যান্ড",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "সিএনজি স্ট্যান্ড",
+    //         link: "cng-stand.html"
+    //       },
+    //       {
+    //         name: "বাস স্ট্যান্ড",
+    //         link: "bus-stand.html"
+    //       },
+    //       {
+    //         name: "ট্রেন স্টেশন",
+    //         link: "train-station.html"
+    //       },
+    //       {
+    //         name: "অটো স্ট্যান্ড",
+    //         link: "auto-stand.html"
+    //       }
+    //     ]
+    // },
     {
       id: 14,
       photo: "../resources/icons/decorator.png",
