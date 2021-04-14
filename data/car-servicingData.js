@@ -1,10 +1,10 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/car-servicing/car-servicing.png",
+    photo: "../cdn/car-servicing/aranyo-autos.jpg",
     name: "অরণ্য অটোস",
     number: "01915620433",
-    wordNo: "৫",
+    wordNo: "৪",
     location: "নুরবাগ পুরাতন সিএনজি স্ট্যান্ড",
     detail: "সিএনজি, অটো, মিশুক সার্ভিসিং করা হয়",
     postLink: "http://fb.com/areaPhonebook",
