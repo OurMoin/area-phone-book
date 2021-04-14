@@ -16,7 +16,7 @@ const userData = [
     name: "বিসমিল্লাহ টেইলার্স",
     number: "01631281711",
     wordNo: "৪",
-    location: "হাজী আহসান উদ্দিন সুপার মার্কেট, ১ম তলা, আদর্শ নগর",
+    location: "আদর্শ নগর",
     detail: "টেইলার্স",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
