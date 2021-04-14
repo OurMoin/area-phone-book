@@ -525,22 +525,10 @@ const categoryData = [
     },
     {
       id: 16,
-      photo: "../resources/icons/hardware_sanitary_electronics.png",
+      photo: "../resources/icons/hardware-sanitary-electronics.png",
       name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
       subCategory:
         [
-          {
-            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
-            link: "hardware-sanitary-electronics.html"
-          },
-          {
-            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
-            link: "thai-aluminum-and-glass.html"
-          },
-          {
-            name: "স্টিল এন্ড প্লাস্টিক ডোর",
-            link: "steel-and-plastic-door.html"
-          },
           {
             name: "অটো পার্টস",
             link: "auto-parts.html"
@@ -548,6 +536,18 @@ const categoryData = [
           {
             name: "টাইলস",
             link: "tiles.html"
+          },
+          {
+            name: "স্টিল এন্ড প্লাস্টিক ডোর",
+            link: "steel-and-plastic-door.html"
+          },
+          {
+            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+            link: "thai-aluminum-and-glass.html"
+          },           
+          {
+            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+            link: "hardware-sanitary-electronics.html"
           },
           {
             name: "গ্রিল এবং ওয়ার্কশপের দোকান",
