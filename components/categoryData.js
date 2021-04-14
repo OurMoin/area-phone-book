@@ -158,7 +158,7 @@ const categoryData = [
             link: "college.html"
           },
           {
-            name: "মাদ্রসা",
+            name: "মাদ্রাসা",
             link: "madrasa.html"
           },
           {
