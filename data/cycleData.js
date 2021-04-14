@@ -6,7 +6,7 @@ const userData = [
     number: "01910109968",
     wordNo: "৫",
     location: "আমতলা মোড়",
-    detail: "গিয়ার সাইকেল মেরামত ও পার্টস পাওয়া যায়",
+    detail: "শুধুমাত্র গিয়ার সাইকেল মেরামত ও রিকশা, সাইকেল এর পার্টস পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
