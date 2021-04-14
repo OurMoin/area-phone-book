@@ -70,8 +70,8 @@ const categoryData = [
             link: "pharmacy.html"
           },
           {
-            name: "হোমিওপ্যাথি",
-            link: "homeopathy.html"
+            name: "হাসপাতাল",
+            link: "hospital.html"
           },
           {
             name: "ডাক্তার বসেন",
@@ -82,16 +82,24 @@ const categoryData = [
             link: "doctor-lab.html"
           },
           {
+            name: "হোমিওপ্যাথি",
+            link: "homeopathy.html"
+          },
+          {
+            name: "ফিজিওথেরাপি",
+            link: "physiotherapy.html"
+          },
+          {
+            name: "হিজামা ",
+            link: "hijama.html"
+          },
+          {
             name: "ডেন্টাল কেয়ার",
             link: "dental-care.html"
           },
           {
             name: "চক্ষু চিকিৎসালয়",
             link: "ophthalmology.html"
-          },
-          {
-            name: "ফিজিওথেরাপি",
-            link: "physiotherapy.html"
           }
         ]
     },
