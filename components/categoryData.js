@@ -518,8 +518,8 @@ const categoryData = [
             link: "carpenter.html"
           },
           {
-            name: "ইলেকট্রনিক্স মিস্ত্রী",
-            link: "electronics-mechanic.html"
+            name: "ইলেকট্রিক মিস্ত্রী",
+            link: "electric-mechanic.html"
           }
         ]
     },
