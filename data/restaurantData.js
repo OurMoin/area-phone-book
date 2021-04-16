@@ -72,7 +72,7 @@ const userData = [
     number: "01851596976",
     wordNo: "৬",
     location: "মুসলিম মার্কেট, ডি এন রোড, পাগলা",
-    detail: "ইন্ডিয়ান এন্ড চাইনিজ খাবার ও ফাস্ট ফুড, ড্রিংস পাওয়া যায়। হোম ডেলিভারি করা হয়।<br>প্রতিদিন সকাল ১০ টা থেকে রাত ১১ টা পর্যন্ত খোলা থাকে।",
+    detail: "ইন্ডিয়ান এন্ড চাইনিজ খাবার ও ফাস্ট ফুড, ড্রিংস পাওয়া যায়।<br> হোম ডেলিভারি করা হয়।<br>প্রতিদিন সকাল ১০ টা থেকে রাত ১১ টা পর্যন্ত খোলা থাকে।",
     postLink: "https://www.facebook.com/grandarea.bd/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrandarea.bd%2Fvideos%2F436528117576241%2F&width=500&show_text=false&height=282&appId"
   }
