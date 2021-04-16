@@ -4,7 +4,7 @@ const userData = [
     photo: "../cdn/telecom-center/arsad-telecom.jpg",
     name: "আরসাদ টেলিকম",
     number: "01811114551",
-    wordNo: "null",
+    wordNo: "৪",
     location: "নুরবাগ ভুইগড় রোড, নুরবাগ",
     detail: "বিকাশ, রকেট এবং নিত্য প্রয়োজনীয় ইলেকট্রিক পণ্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",

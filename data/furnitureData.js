@@ -13,7 +13,7 @@ const userData = [
   {
     id: 2,
     photo: "../cdn/furniture/sanjida-furniture.jpg",
-    name: "সানজিদা ফার্নিচার",
+    name: "সানজিদা ফার্নিচার মার্ট",
     number: "01855003838",
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
@@ -60,7 +60,7 @@ const userData = [
     name: "লিবা ফার্নিচার ওয়ার্ল্ড",
     number: "01914875080",
     wordNo: "৬",
-    location: "কামাল্পুর, পাগলা",
+    location: "কামালপুর, পাগলা",
     detail: "সকল ধরনের ফার্নিচার পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

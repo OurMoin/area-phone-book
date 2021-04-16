@@ -28,18 +28,18 @@ const userData = [
     number: "01748271952",
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
-    detail: "মিষ্টি ও বেকারি এর সকল পন্য পাওয়া যাই।",
+    detail: "মিষ্টি ও বেকারি এর সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
     id: 4,
     photo: "../cdn/confectionary/ms-tabassum-enterprise.jpg",
-    name: "এম এস তাবাসসুম এন্টারপ্রাইজ",
+    name: "কাটাবন এন্ড কোং",
     number: "01817081248",
     wordNo: "৬",
     location: "হাজী ইউনুস মার্কেট, পাগলা",
-    detail: "মিনি সুপার শপ এবং বেকারির সকল পন্য পাওয়া যাই।",
+    detail: "মিনি সুপার শপ এবং বেকারির সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
