@@ -534,8 +534,8 @@ const categoryData = [
             link: "auto-parts.html"
           },
           {
-            name: "টাইলস",
-            link: "tiles.html"
+            name: "এন্টারপ্রাইজ",
+            link: "enterprise.html"
           },
           {
             name: "স্টিল এন্ড প্লাস্টিক ডোর",
