@@ -68,7 +68,7 @@ const userData = [
   {
     id: 7,
     photo: "../cdn/pharmacy/tajmir-pharma.jpg",
-    name: "তাজমির ফার্মা",
+    name: "আজমির ফার্মা",
     number: "01886626026",
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
