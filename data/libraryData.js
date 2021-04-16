@@ -61,7 +61,7 @@ const userData = [
     number: "0194943927",
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
-    detail: "লাইব্রেরী এন্ড ষ্টেশনারী পণ্য ও ফটোকপি করা হয়।",
+    detail: "লাইব্রেরী এন্ড ষ্টেশনারী পন্য ও ফটোকপি করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
@@ -72,7 +72,7 @@ const userData = [
     number: "01933141414",
     wordNo: "৬",
     location: "পাগলা উচ্চ বিদ্যালয় সংলগ্ন, নয়ামাটি, পাগলা",
-    detail: "বই বিক্রি, ফটোকপি, লেমিনেটিং, লাইব্রেরী সকল পণ্য পাওয়া যায় এবং কম্পিউটারের যাবতীয় কাজ করা হয়।",
+    detail: "বই বিক্রি, ফটোকপি, লেমিনেটিং, লাইব্রেরী সকল পন্য পাওয়া যায় এবং কম্পিউটারের যাবতীয় কাজ করা হয়।",
     postLink: "https://www.facebook.com/riyalibrarybd/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
