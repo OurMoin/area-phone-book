@@ -643,30 +643,30 @@ const categoryData = [
           }
         ]
     },
-    {
-      id: 20,
-      photo: "../resources/icons/gift-corner.png",
-      name: "গিফট কর্নার",
-      subCategory:
-        [
-          {
-            name: "গিফট এর দোকান",
-            link: "gift-shop.html"
-          },
-          // {
-          //   name: "1 to 99 দোকান",
-          //   link: "1-to-99-store.html"
-          // },
-          {
-            name: "লাইব্রেরি",
-            link: "library.html"
-          },
-          {
-            name: "ফুলের দোকান",
-            link: "flower-shop.html"
-          }
-        ]
-    },
+    // {
+    //   id: 20,
+    //   photo: "../resources/icons/gift-corner.png",
+    //   name: "গিফট কর্নার",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "গিফট এর দোকান",
+    //         link: "gift-shop.html"
+    //       },
+    //       // {
+    //       //   name: "1 to 99 দোকান",
+    //       //   link: "1-to-99-store.html"
+    //       // },
+    //       {
+    //         name: "লাইব্রেরি",
+    //         link: "library.html"
+    //       },
+    //       {
+    //         name: "ফুলের দোকান",
+    //         link: "flower-shop.html"
+    //       }
+    //     ]
+    // },
     // {
     //   id: 21,
     //   photo: "../resources/icons/tourist-spot.png",
