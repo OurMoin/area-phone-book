@@ -288,6 +288,10 @@ const categoryData = [
           {
             name: "ক্রোকারিজ",
             link: "crockery.html"
+          }, 
+          {
+            name: "কাপড়ের দোকান",
+            link: "clothing-shop.html"
           },
           {
             name: "ফার্নিচার",
