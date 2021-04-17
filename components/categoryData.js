@@ -667,30 +667,30 @@ const categoryData = [
           }
         ]
     },
-    {
-      id: 21,
-      photo: "../resources/icons/tourist-spot.png",
-      name: "ঘোরার জায়গা",
-      subCategory:
-        [
-          {
-            name: "পার্ক",
-            link: "park.html"
-          },
-          {
-            name: "সিনেমা হল",
-            link: "cinema-hall.html"
-          },
-          {
-            name: "রেস্টুরেন্ট",
-            link: "restaurant.html"
-          },
-          {
-            name: "নার্সারী",
-            link: "nursery.html"
-          }
-        ]
-    },
+    // {
+    //   id: 21,
+    //   photo: "../resources/icons/tourist-spot.png",
+    //   name: "ঘোরার জায়গা",
+    //   subCategory:
+    //     [
+    //       {
+    //         name: "পার্ক",
+    //         link: "park.html"
+    //       },
+    //       {
+    //         name: "সিনেমা হল",
+    //         link: "cinema-hall.html"
+    //       },
+    //       {
+    //         name: "রেস্টুরেন্ট",
+    //         link: "restaurant.html"
+    //       },
+    //       {
+    //         name: "নার্সারী",
+    //         link: "nursery.html"
+    //       }
+    //     ]
+    // },
     {
       id: 22,
       photo: "../resources/icons/service-organization.png",
