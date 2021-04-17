@@ -54,15 +54,15 @@ const userData = [
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
-  {
-    id: 6,
-    photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
-    name: "আল বায়েদ গ্রীল ওয়ার্কসপ",
-    number: "01687774539",
-    wordNo: "৬",
-    location: "দক্ষিণ নয়ামাটি, বাজার সংলগ্ন",
-    detail: "গ্রীল, এস.এস এর সকল কাজ করা হয়।",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  }
+  // {
+  //   id: 6,
+  //   photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
+  //   name: "আল বায়েদ গ্রীল ওয়ার্কসপ",
+  //   number: "null",
+  //   wordNo: "৬",
+  //   location: "দক্ষিণ নয়ামাটি, বাজার সংলগ্ন",
+  //   detail: "গ্রীল, এস.এস এর সকল কাজ করা হয়।",
+  //   postLink: "http://fb.com/areaPhonebook",
+  //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  // }
 ];
