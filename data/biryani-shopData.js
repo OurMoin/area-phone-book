@@ -31,5 +31,16 @@ const userData = [
     detail: "সুস্বাদু বিরিয়ানি, ভুনা খিচুরি, মোরগ পোলাউ পাওয়া যায়। এবং বিভিন্ন অনুষ্ঠানের জন্য অর্ডার সরবরাহ করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/biryani-shop/biryani-shop.png",
+    name: "বাবুর্চি এক্সপ্রেস",
+    number: "01712800378",
+    wordNo: "৬",
+    location: "নয়ামাটি দেলপাড়া রোড",
+    detail: "খোকন ভাইয়ের বিরিয়ানির দোকান।<br> অভিজ্ঞ বাবুর্চি ধারা তৈরি বিরিয়ানি ও কাচ্চি পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
