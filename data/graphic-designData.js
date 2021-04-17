@@ -37,7 +37,7 @@ const userData = [
     photo: "../cdn/graphic-design/md-kalam.png",
     name: "মোঃ কালাম",
     number: "01685322989",
-    wordNo: "৬",
+    wordNo: "৫",
     location: "রসুলপুর",
     detail: "প্রফেশনাল গ্রাফিক্স ডিজাইনার।<br> এডবি ফটোশপ- এ দক্ষ।",
     postLink: "https://www.facebook.com/sohag.islam.142",
