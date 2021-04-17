@@ -3,10 +3,10 @@ const userData = [
     id: 1,
     photo: "../cdn/raw-market/raw-market.png",
     name: "বউ-বাজার",
-    number: "No Numbar",
+    number: "কাচা-বাজার",
     wordNo: "৬",
     location: "বউবাজার",
-    detail: "কাচা বাজার",
+    detail: "কাচা বাজারে সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -14,10 +14,10 @@ const userData = [
     id: 2,
     photo: "../cdn/raw-market/raw-market.png",
     name: "বটতলা-বাজার",
-    number: "No Numbar",
+    number: "কাচা-বাজার",
     wordNo: "৬",
     location: "বউবাজার, বটতলা",
-    detail: "কাচা বাজার",
+    detail: "কাচা বাজারে সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -25,10 +25,10 @@ const userData = [
     id: 3,
     photo: "../cdn/raw-market/raw-market.png",
     name: "রসুলপুর-বাজার",
-    number: "No Numbar",
+    number: "কাচা-বাজার",
     wordNo: "৬",
     location: "ভাঙ্গাপুল মসজিদ সংলগ্ন, রসুলপুর",
-    detail: "কাচা বাজার",
+    detail: "কাচা বাজারে সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
