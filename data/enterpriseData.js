@@ -17,7 +17,7 @@ const userData = [
     number: "01861864519",
     wordNo: "৪",
     location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড ব্রিজ সংলগ্ন, নুরবাগ",
-    detail: "হার্ডওয়ার, ইলেকট্রিক ও সেনেটারী বিক্রয় করা হয়।",
+    detail: "হার্ডওয়ার, ইলেকট্রিক ও সেনেটারী পন্য খুচরা বিক্রয় করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
