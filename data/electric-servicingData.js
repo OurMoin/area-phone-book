@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/electric/shahanur-electronics-and-servicing.jpg",
+    photo: "../cdn/electric-servicing/shahanur-electronics-and-servicing.jpg",
     name: "শাহানুর ইলেকট্রনিক্স এন্ড সার্ভিসিং",
     number: "01913070140",
     wordNo: "৫",

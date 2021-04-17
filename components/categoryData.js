@@ -110,35 +110,35 @@ const categoryData = [
       subCategory:
         [          
           {
-            name: "মোবাইল",
+            name: "মোবাইল সার্ভিসিং",
             link: "mobile-servicing.html"
           },
           {
-            name: "এসি / ফ্রিজ",
+            name: "এসি / ফ্রিজ সার্ভিসিং",
             link: "ac-fridge-servicing.html"
           },
           {
-            name: "কম্পিউটার",
+            name: "কম্পিউটার সার্ভিসিং",
             link: "computer-servicing.html"
           },
           {
-            name: "টিভি",
+            name: "টিভি সার্ভিসিং",
             link: "tv-servicing.html"
           },
           {
-            name: "ইলেক্টিক",
-            link: "electric.html"
+            name: "ইলেক্টিক সার্ভিসিং",
+            link: "electric-servicing.html"
           },
           {
-            name: "সাইকেল",
-            link: "cycle.html"
+            name: "সাইকেল সার্ভিসিং",
+            link: "cycle-servicing.html"
           },
           {
-            name: "বাইক",
+            name: "বাইক সার্ভিসিং",
             link: "bikes-servicing.html"
           },
           {
-            name: "গাড়ি",
+            name: "গাড়ি সার্ভিসিং",
             link: "car-servicing.html"
           }
         ]
