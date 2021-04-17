@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/raw-market/raw-market.png",
+    photo: "../cdn/raw-market/rasulpur-bazar.jpg",
     name: "রসুলপুর-বাজার",
     number: "কাচা-বাজার",
     wordNo: "৬",
