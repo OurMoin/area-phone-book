@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/pharmacy/janaseba-pharmacy.jpg",
+    photo: "../cdn/pharmacy/janasheba-pharmacy.jpg",
     name: "জনসেবা ফার্মেসী",
     number: "01902322132",
     wordNo: "৪",
