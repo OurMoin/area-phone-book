@@ -13,7 +13,7 @@ const userData = [
   {
     id: 2,
     photo: "../cdn/online-marketing/md-sharif-imtaz.jpg",
-    name: "মোঃ শরীর ইমতাজ",
+    name: "মোঃ শরীফ ইমতাজ",
     number: "01521216013",
     wordNo: "৫",
     location: "শাহী-মহল্লা",
