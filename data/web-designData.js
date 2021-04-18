@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৫",
     location: "নয়ামাটি",
     detail: "Professional Custom Web Designer and Wordpress Designer.",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/Tuhinahmedst",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
