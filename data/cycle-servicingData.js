@@ -9,5 +9,16 @@ const userData = [
     detail: "শুধুমাত্র গিয়ার সাইকেল মেরামত ও রিকশা, সাইকেল এর পার্টস পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 2,
+    photo: "../cdn/cycle-servicing/rasulpur-bicycle-shop.jpg",
+    name: "রসুলপুর সাইকেল শপ",
+    number: "01933208850",
+    wordNo: "৬",
+    location: "জসিম মার্কেট রোড, দক্ষিণ রসুলপুর",
+    detail: "সকল প্রকার সাইকেল মেরামত ও সাইকেলের সকল সরঞ্জাম বিক্রি করা হয়। সাইকেল ভাড়া দেওয়া হয় ও পুরাতন সাইকেল বিক্রি করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
