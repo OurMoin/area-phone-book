@@ -317,5 +317,16 @@ const userData = [
     detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 30,
+    photo: "../cdn/pharmacy/pharmacy.png",
+    name: "আল-মদিনা মেডিসিন কর্নার",
+    number: "01964615001",
+    wordNo: "৪",
+    location: "আদর্শনগর মসজিদ রোড",
+    detail: "ডাঃ মোঃ সাইফুল ইসলাম (DMA)<br> সকল প্রকার ওষুধ সূলভ মূল্যে বিক্রি করা হয়। ডাইবেটিস, প্রেসার মাপা হয় ও নেবুলাইজার দিয়ে গ্যাস দেওয়া হয়।<br> এবং প্রেগন্যান্সি টেস্ট ও মহিলাদের যাবতীয় চিকিৎসা করানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   }
 ];
