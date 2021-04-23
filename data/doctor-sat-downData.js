@@ -5,7 +5,7 @@ const userData = [
     name: "আল-ইহসান ফার্মা",
     number: "01672664134",
     wordNo: "৫",
-    location: "কুমিল্লা সমিতির মার্কেট, শাহী বাজার",
+    location: "কুমিল্লা সমিতির মার্কেট, শাহী-বাজার",
     detail: "ডাঃ মোঃ আবদুন নূর সায়েম।<br> এম. বি. বি. এস, বি. সি. এস (স্বাস্থ্য)<br> রোগী দেখার সময়ঃ বিকাল ৫.৩০ মিঃ হইতে রাত ৯.০০ টা পর্যন্ত।<br> শনিবার, সোমবার ও বুধবার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

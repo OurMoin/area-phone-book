@@ -16,7 +16,7 @@ const userData = [
     name: "তাসফিয়া ট্রেডার্স",
     number: "01631281616",
     wordNo: "৫",
-    location: "উত্তর-পূর্ব শাহী মহল্লা",
+    location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "সকল পাইকারি পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

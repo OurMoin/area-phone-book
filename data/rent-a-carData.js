@@ -27,7 +27,7 @@ const userData = [
     name: "হোসেন রেন্ট-এ-কার",
     number: "01952835050",
     wordNo: "৫",
-    location: "শাহী বাজার",
+    location: "শাহী-বাজার",
     detail: "হাইস গাড়ি ভাড়া দেওয়া হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

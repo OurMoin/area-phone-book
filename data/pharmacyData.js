@@ -291,7 +291,7 @@ const userData = [
     name: "আল-ইহসান ফার্মা",
     number: "01672664134",
     wordNo: "৫",
-    location: "কুমিল্লা সমিতি মার্কেট, শাহী বাজার",
+    location: "কুমিল্লা সমিতি মার্কেট, শাহী-বাজার",
     detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"

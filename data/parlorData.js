@@ -16,7 +16,7 @@ const userData = [
     name: "জয়া বিউটি পার্লার ও কসমেটিক্স",
     number: "01610717908",
     wordNo: "৫",
-    location: "উত্তর শাহী মহল্লা",
+    location: "উত্তর শাহী-মহল্লা",
     detail: "বিউটি পার্লার ও কসমেটিক্স এর দোকান।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

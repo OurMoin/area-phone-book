@@ -49,8 +49,19 @@ const userData = [
     name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
     number: "01734547676",
     wordNo: "৫",
-    location: "উত্তর-পূর্ব শাহী মহল্লা",
+    location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "রড সিমেন্টের দোকান ইত্যাদি নির্মাণ সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/enterprise/messrs-rafiqul-enterprise.jpg",
+    name: "মেসার্স রফিকুল এন্টারপ্রাইজ",
+    number: "01619086445",
+    wordNo: "৫",
+    location: "শাহী-বাজার কবরস্থান রোড, মুসলিম পাড়া",
+    detail: "এখানে এল.পি গ্যাস ও চুলার যাবতীয় মালামাল পাইকারী ও খুচরা বিক্রি করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
