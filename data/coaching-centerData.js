@@ -64,5 +64,16 @@ const userData = [
     detail: "একাদশ-দ্বাদশ ও বিশ্ববিদ্যালয় ভর্তি কোচিং (ঢাকা বিশ্ববিদ্যালয়ের শিক্ষার্থীদের দ্বারা পরিচালিত)।",
     postLink: "https://www.facebook.com/QuantumAC2016",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/coaching-center/z.m-educare.jpg",
+    name: "Z.M Educare",
+    number: "01647246305",
+    wordNo: "৬",
+    location: "মধ্য রসুলপুর, জসিম মার্কেট (বড় মসজিদ সংলগ্ন)",
+    detail: "ZM EDUCARE  স্থাপিতঃ ২০১৩ইং<br>দীর্ঘ ৮ বছর যাবত সফলতার সাথে কোচিং পরিচালনা করে আসছি।<br>  যা যা পড়ানো হয়:<br> ৬ষ্ঠ থেকে দ্বাদশ শ্রেণির সকল বিভাগের সকল বিষয়।<br> BBA/ BSS/ Hon's এর ICT বিষয়।<br> পরিচালক মোঃ জুয়েল মাহামুদ<br> বি.এস.সি (অনার্স) কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং সাবেক আইসিটি লেকচারার, সিটি মডেল কলেজ।",
+    postLink: "https://www.facebook.com/zmeducare",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
   }
 ];
