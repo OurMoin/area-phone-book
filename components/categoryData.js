@@ -74,6 +74,10 @@ const categoryData = [
             link: "pharmacy.html"
           },
           {
+            name: "পাইকারি মেডিসিন",
+            link: "wholesale-medicine.html"
+          },
+          {
             name: "হাসপাতাল",
             link: "hospital.html"
           },
