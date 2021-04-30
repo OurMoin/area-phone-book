@@ -36,6 +36,10 @@ const categoryData = [
           {
             name: "গাড়ি ভাড়া",
             link: "car-rental.html"
+          },
+          {
+            name: "সরকারি নোটিশ",
+            link: "government-notice.html"
           }
         ]
     },
