@@ -3,41 +3,47 @@
 /************************************
              global css 
 ************************************/
+
 a {
     text-decoration: none !important;
     color: #413960;
 }
+
 a:hover {
     color: #21B573;
 }
-
 
 * {
     font-family: 'Hind Siliguri', sans-serif;
 }
 
+
 /************************************
              nav section
 ************************************/
+
 nav {
     background-color: #21B573;
     height: 50px;
 }
+
 nav a {
     text-decoration: none;
     color: white;
 }
 
-.blog-header-logo {    
+.blog-header-logo {
     font-weight: bold;
     font-size: 22px;
 }
+
 .logo-div {
     top: 8px;
 }
+
 sup {
     color: whitesmoke;
-    top: -12px;    
+    top: -12px;
     font-size: 12px;
 }
 
@@ -78,10 +84,10 @@ sup {
 }
 
 
-
 /************************************
              nav section
 ************************************/
+
 .hero-text {
     background-color: #F0FFF0;
     text-align: center;
@@ -104,42 +110,45 @@ sup {
     margin: 0;
     color: #413960;
 }
+
 .active {
     color: #21B573;
 }
+
 nav a:hover {
     color: #413960;
 }
 
 
-
-
 /************************************
             help card section
 ************************************/
+
 .help-card {
     margin: 15px 0 0 0;
     overflow: hidden;
 }
+
 .carousel-indicators {
     bottom: -5px;
 }
 
 
-
-
-
 /************************************
             card section
 ************************************/
+
 .card {
     border-radius: 0;
     transition: .3s;
     margin-bottom: 15px;
 }
+
 .card:hover {
-    border-color:#21B573;;
+    border-color: #21B573;
+    ;
 }
+
 .card-body {
     padding: 1rem;
 }
@@ -148,6 +157,7 @@ nav a:hover {
     padding-right: 1rem;
     width: 64px;
 }
+
 .manu-item {
     font-size: 18px;
 }
@@ -157,14 +167,12 @@ nav a:hover {
 }
 
 
-
-
-
-
 /************************************
             footer section
 ************************************/
-footer {
+
+
+/* footer {
     background-color: #413960;
     padding: 30px 0;
 }
@@ -186,15 +194,13 @@ footer ul li a {
 .copyright {
     color: white;
     padding: 20px 0 0 0;
-}
-
-
-
+} */
 
 
 /************************************
                 cards
 ************************************/
+
 .icon-card {
     background-color: #f2f2f2;
     text-align: center;
@@ -202,13 +208,16 @@ footer ul li a {
     color: #413960;
     margin-bottom: 15px;
 }
+
 .icon-card:hover {
     background-color: #F0FFF0;
     cursor: pointer;
 }
+
 .icon {
     margin: 10px 0;
 }
+
 .call-icon {
     padding-right: 15px;
 }
