@@ -20,7 +20,7 @@ function navTemplate(nav) {
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
-                            <a class="dropdown-item" href="tel:0179889911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a>
+                            <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a>
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
                             <a class="dropdown-item" href="mailto:areaphonebook@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a>
                             <a class="dropdown-item" href="https://www.facebook.com/AreaPhonebook" target="_blank"><i class="fab fa-facebook-square"></i> ফেসবুক</a>
