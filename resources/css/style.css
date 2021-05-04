@@ -221,3 +221,15 @@ footer ul li a {
 .call-icon {
     padding-right: 15px;
 }
+
+/************************************
+                use-video
+************************************/
+.bs-example{
+    margin: 20px;
+}
+
+.modal-dialog iframe{
+    margin: 0 auto;
+    display: block;
+}
