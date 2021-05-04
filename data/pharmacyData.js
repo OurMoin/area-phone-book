@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/pharmacy/Janasheba-pharmacy.jpg",
+    photo: "../cdn/pharmacy/pharmacy.png",
     name: "জনসেবা ফার্মেসী",
     number: "01902322132",
     wordNo: "৪",
@@ -155,7 +155,7 @@ const userData = [
   },
   {
     id: 15,
-    photo: "../cdn/pharmacy/jannat-medicine-corner.jpg",
+    photo: "../cdn/pharmacy/pharmacy.png",
     name: "জান্নাত মেডিসিন কর্নার",
     number: "01676284786",
     wordNo: "৬",
