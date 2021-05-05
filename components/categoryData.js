@@ -596,6 +596,10 @@ const categoryData = [
           {
             name: "ভূমি অফিস",
             link: "land-office.html"
+          },
+          {
+            name: "কাজী অফিস",
+            link: "kazi-office.html"
           }
         ]
     },
