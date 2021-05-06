@@ -46,11 +46,22 @@ const userData = [
   {
     id: 5,
     photo: "../cdn/dental-care/himel-dental-care.jpg",
-    name: "হিমেল ডেন্টাল কেয়ার ",
+    name: "হিমেল ডেন্টাল কেয়ার",
     number: "01687014219",
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
     detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/dental-care/rezia-dental-care.jpg",
+    name: "রেজিয়া ডেন্টাল কেয়ার",
+    number: "01799889007",
+    wordNo: "৬",
+    location: "হাজী ইউনুস সুপার মার্কেট(২য় তলা), পাগলা বাজার",
+    detail: "দাতের সকল প্রকার চিকিৎসা হয়। ডাক্তার বসে রোগী দেখানোর জন্য উল্লেখিত নাম্বারে যোগাযোগ করুন।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
