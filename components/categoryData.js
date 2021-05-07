@@ -427,46 +427,50 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 12,
-    //   photo: "../resources/icons/transportation-services.png",
-    //   name: "পরিবহন সেবা",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "পেট্রোল পাম্প",
-    //         link: "petrol-pump.html"
-    //       },
-    //       {
-    //         name: "রেন্ট এ কার",
-    //         link: "rent-a-car.html"
-    //       },
-    //       {
-    //         name: "পিকাপ",
-    //         link: "pickup.html"
-    //       },
-    //       {
-    //         name: "ট্রাক",
-    //         link: "truck.html"
-    //       },
-    //       {
-    //         name: "ডিস্টিক ট্রাক",
-    //         link: "district-truck.html"
-    //       },
-    //       {
-    //         name: "সিএনজি",
-    //         link: "cng.html"
-    //       },
-    //       // {
-    //       //   name: "ভ্যান গাড়ি",
-    //       //   link: "van.html"
-    //       // },
-    //       // {
-    //       //   name: "জলযান",
-    //       //   link: "watercraft.html"
-    //       // }
-    //     ]
-    // },
+    {
+      id: 12,
+      photo: "../resources/icons/transportation-services.png",
+      name: "পরিবহন সেবা",
+      subCategory:
+        [
+          {
+            name: "কুরিয়ার সার্ভিস",
+            link: "courier-service.html"
+          },
+          {
+            name: "পেট্রোল পাম্প",
+            link: "petrol-pump.html"
+          },
+          {
+            name: "রেন্ট এ কার",
+            link: "rent-a-car.html"
+          },
+          {
+            name: "পিকাপ",
+            link: "pickup.html"
+          },
+          {
+            name: "ট্রাক",
+            link: "truck.html"
+          },
+          {
+            name: "ডিস্টিক ট্রাক",
+            link: "district-truck.html"
+          },
+          {
+            name: "সিএনজি",
+            link: "cng.html"
+          },
+          // {
+          //   name: "ভ্যান গাড়ি",
+          //   link: "van.html"
+          // },
+          // {
+          //   name: "জলযান",
+          //   link: "watercraft.html"
+          // }
+        ]
+    },
     // {
     //   id: 13,
     //   photo: "../resources/icons/car-stand.png",
