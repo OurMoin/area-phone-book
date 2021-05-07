@@ -590,6 +590,10 @@ const categoryData = [
             link: "union-office.html"
           },
           {
+            name: "চেয়ারম্যান-মেম্বার",
+            link: "chairman-member.html"
+          },
+          {
             name: "চেয়ারম্যান অফিস",
             link: "chairman-office.html"
           },
