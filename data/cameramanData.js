@@ -4,7 +4,7 @@ const userData = [
     photo: "../cdn/cameraman/md-rasel.jpg",
     name: "মোঃ রাসেল",
     number: "01687133461",
-    wordNo: "null",
+    wordNo: "৫",
     location: "কদমতলী পাকার মাথা",
     detail: "স্টিল ফটো শুট এন্ড ভিডিও করা হয়।",
     postLink: "https://www.facebook.com/profile.php?id=100010354545128",
