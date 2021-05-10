@@ -554,6 +554,10 @@ const categoryData = [
             link: "enterprise.html"
           },
           {
+            name: "গ্যাস সিলিন্ডার",
+            link: "gas-cylinder.html"
+          },
+          {
             name: "স্টিল এন্ড প্লাস্টিক ডোর",
             link: "steel-and-plastic-door.html"
           },
