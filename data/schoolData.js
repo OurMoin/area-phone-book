@@ -6,7 +6,7 @@ const userData = [
     number: "01712880933",
     wordNo: "৫",
     location: "উত্তর শাহী-মহল্লা",
-    detail: "একটি আর্দশ শিক্ষা প্রতিষ্ঠান (প্লে থেকে ৫ম শ্রেণী)",
+    detail: "একটি আর্দশ শিক্ষা প্রতিষ্ঠান (প্লে থেকে ৫ম শ্রেণী)।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -17,7 +17,7 @@ const userData = [
     number: "01619978717",
     wordNo: "৫",
     location: "উত্তর-পূর্ব শাহী-মহল্লা",
-    detail: "কিন্ডারগার্টেন",
+    detail: "কিন্ডারগার্টেন।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -28,7 +28,7 @@ const userData = [
     number: "01674066555",
     wordNo: "৪",
     location: "আর্দশ নগর",
-    detail: "উচ্চ বিদ্যালয়",
+    detail: "উচ্চ বিদ্যালয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -39,7 +39,7 @@ const userData = [
     number: "01846840146",
     wordNo: "৪",
     location: "আদর্শ নগর",
-    detail: "ইসলামিক স্কুল",
+    detail: "ইসলামিক স্কুল।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -50,7 +50,7 @@ const userData = [
     number: "01951499180",
     wordNo: "৫",
     location: "দৌলতপুর, কদমতলী রোড",
-    detail: "প্লে - ৯ম শ্রেণী পর্যন্ত",
+    detail: "প্লে - ৯ম শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -61,8 +61,19 @@ const userData = [
     number: "01671845456",
     wordNo: "৬",
     location: "রসুলপুর (বাগানবাড়ি)",
-    detail: "প্রাথমিক ও মাধ্যমিক শিক্ষা",
+    detail: "প্রাথমিক ও মাধ্যমিক শিক্ষা প্রতিষ্ঠান।",
     postLink: "https://www.facebook.com/imperialkindergarten",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/school/anirban-adarsh-vidyapeeth.jpg",
+    name: "অনির্বাণ আদর্শ বিদ্যাপীঠ",
+    number: "01316900604",
+    wordNo: "৬",
+    location: "মধ্য রসুলপুর, জসীম মার্কেট",
+    detail: "প্লে থেকে পঞ্চম শ্রেনী পর্যন্ত শিক্ষা প্রধান করা হয়।<br> শিক্ষাই সত্য, সত্যই অনন্ত সুন্দর।",
+    postLink: "https://www.facebook.com/AnirbanAdarshaBiddyapeeth2020",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
