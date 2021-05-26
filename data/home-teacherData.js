@@ -31,6 +31,17 @@ const userData = [
     detail: "৫ম - অনার্স, মানবিক ও বানিজ্য (কমার্স) এর সকল বিষয় এবং বিজ্ঞানের - গনিত, বাংলা ও ইংরেজি পড়ানো হয়।",
     postLink: "https://www.facebook.com/abbasuddin.abbasuddin.796",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/home-teacher/rakibul-islam-bappi.jpg",
+    name: "রাকিবুল ইসলাম বাপ্পি",
+    number: "01679472706",
+    wordNo: "৫",
+    location: "শরিফবাগ",
+    detail: "৩য় থেকে দ্বাদশ শ্রেনি পর্যন্ত (ইংরেজি, পদার্থ, রসায়ন, জীববিজ্ঞান, গনিত ও  উচ্চতর গনিত) পড়ানো হয়।",
+    postLink: "https://www.facebook.com/rakibulislam.bappy.355",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
