@@ -42,6 +42,17 @@ const userData = [
     detail: "৩য় থেকে দ্বাদশ শ্রেনি পর্যন্ত (ইংরেজি, পদার্থ, রসায়ন, জীববিজ্ঞান, গনিত ও  উচ্চতর গনিত) পড়ানো হয়।",
     postLink: "https://www.facebook.com/rakibulislam.bappy.355",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/home-teacher/md-faisal-ahmed.jpg",
+    name: "মো: ফয়সাল আহমেদ",
+    number: "01984723748",
+    wordNo: "৫",
+    location: "নিশ্চিন্তপুর",
+    detail: "৮ম থেকে অনার্স পর্যন্ত: গণিত, হিসাব বিজ্ঞান, ফিন্যান্স, পরিসংখ্যান, বিজনেসম্যাথ পড়ানো হয়।",
+    postLink: "https://www.facebook.com/profile.php?id=100006963194626",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
