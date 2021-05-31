@@ -42,5 +42,16 @@ const userData = [
     detail: "Women beauty salon & Spa.",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/parlor/delpara-friends-gents-parlor.jpg",
+    name: "দেলপাড়া ফ্রেন্ডস জেন্টস পার্লার",
+    number: "01819322730",
+    wordNo: "৪",
+    location: "মঞ্জু মিয়া মার্কেট, দেলপাড়া",
+    detail: "সকল প্রকার পার্লারের কাজ করানো হয়।",
+    postLink: "https://www.facebook.com/Delpara-Friends-Gents-Parlour-106197811645183",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
