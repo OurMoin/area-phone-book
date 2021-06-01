@@ -53,6 +53,17 @@ const userData = [
     detail: "৮ম থেকে অনার্স পর্যন্ত: গণিত, হিসাব বিজ্ঞান, ফিন্যান্স, পরিসংখ্যান, বিজনেসম্যাথ পড়ানো হয়।",
     postLink: "https://www.facebook.com/profile.php?id=100006963194626",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/home-teacher/female-home-teacher.png",
+    name: "মোমেনা আক্তার",
+    number: "01571020438",
+    wordNo: "৬",
+    location: "পশ্চিম নন্দলালপুর, প্রাপ্তি সিটি",
+    detail: "১ম শ্রেনী থেকে ৫ম শ্রেনী সব বিষয় এবং ৬ষ্ঠ থেকে ১০ম পর্যন্ত ইংরেজি এবং কমার্সের সাবজেক্ট গুলো পড়ানো হয়।",
+    postLink: "https://www.facebook.com/profile.php?id=100006963194626",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
