@@ -39,7 +39,7 @@ const userData = [
     number: "01718479907",
     wordNo: "৫",
     location: "নয়ামাটি, মুসলিম পাড়া",
-    detail: "ইকরা আদর্শ বিদ্যানিকেতন সহকারী শিক্ষক ( গণিত )।",
+    detail: "ইকরা আদর্শ বিদ্যানিকেতন সহকারী শিক্ষক (গণিত)।<br> ৫ম-৮ম শ্রেণীর সকল বিষয় এবং ৯ম-১০ম শ্রেণীর বিজ্ঞান বিভাগের সকল বিষয় পড়ানো হয়।<br> আর্টস এবং কমার্সের গণিত ও বিজ্ঞান খুব যত্ন সহকারে পড়ানো হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
