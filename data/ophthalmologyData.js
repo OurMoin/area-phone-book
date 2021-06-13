@@ -14,9 +14,9 @@ const userData = [
     id: 2,
     photo: "../cdn/ophthalmology/ophthalmology.png",
     name: "নয়ন অপটিক্স এবং ওয়াচ",
-    number: "0146369460",
+    number: "01407369470",
     wordNo: "৬",
-    location: "হাজী নুরুল ইসলাম সুপার মার্কেট, পাগলা",
+    location: "01948373695 <br>হাজী নুরুল ইসলাম সুপার মার্কেট, পাগলা",
     detail: "একটি অভিজাত সানগ্লাস, পাওয়া গ্লাস এবং হাত ঘড়ি বিক্রয় কেন্দ্র।",
     postLink: "https://www.facebook.com/Nayon-optics-gallery-105818724656126",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
