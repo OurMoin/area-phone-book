@@ -64,6 +64,17 @@ const userData = [
     detail: "১ম শ্রেনী থেকে ৫ম শ্রেনী সব বিষয় এবং ৬ষ্ঠ থেকে ১০ম পর্যন্ত ইংরেজি এবং কমার্সের সাবজেক্ট গুলো পড়ানো হয়।",
     postLink: "https://www.facebook.com/profile.php?id=100006963194626",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/home-teacher/asifur-rahman-mridul.jpg",
+    name: "আশিফুর রহমান মৃদুল",
+    number: "01787178833",
+    wordNo: "৫",
+    location: "মুসলিমপাড়া, নয়ামাটি",
+    detail: "হোম টিউটর",
+    postLink: "https://www.facebook.com/IamMrid",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
