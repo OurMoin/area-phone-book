@@ -8,19 +8,6 @@
              dark mood added 
 ************************************/
 
-body.light {
-  --text: dark;
-  --background: white;
-}
-body.dark {
-  --text: white;
-  --background: black;
-}
-
-body {
-  color: var(--text);
-  background: var(--background);
-}
 
 
 
