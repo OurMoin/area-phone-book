@@ -19,7 +19,7 @@ function navTemplate(nav) {
                         <i class="fas fa-ellipsis-v"></i>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#" onclick="darkFunction()"><i class="fas fa-user-plus"></i> Dark Mode</a>
+                            <a class="dropdown-item" href="#" id="theme-toggle"><i class="fas fa-user-plus"></i> <span id="theme">light</span> Mode</a>
                             <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
                             <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a>
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
@@ -47,7 +47,43 @@ document.getElementById("nav").innerHTML = `
 {/* <a href="tel:${nav.ourNumber}"><i class="fas fa-ellipsis-v"></i></a> */}
 
 
-function darkFunction() {
-           var element = document.body;
-           element.classList.toggle("dark-mode");
-        }
+
+
+function getTheme() {
+  return localStorage.getItem("theme") || "light";
+}
+function saveTheme(theme) {
+  localStorage.setItem("theme", theme);
+}
+
+const colorScheme = document.querySelector('meta[name="color-scheme"]');
+function applyTheme(theme) {
+  document.body.className = theme;
+  colorScheme.content = theme;
+}
+
+function rotateTheme(theme) {
+  if (theme === "light") {
+    return "dark";
+  }
+  return "light";
+}
+
+const themeDisplay = document.getElementById("theme");
+const themeToggler = document.getElementById("theme-toggle");
+
+// Mimic heavy load done by other JS scripts
+setTimeout(() => {
+  let theme = getTheme();
+  applyTheme(theme);
+  themeDisplay.innerText = theme;
+
+  themeToggler.onclick = () => {
+    const newTheme = rotateTheme(theme);
+    applyTheme(newTheme);
+    themeDisplay.innerText = newTheme;
+    saveTheme(newTheme);
+
+    theme = newTheme;
+  };
+}, 100);
