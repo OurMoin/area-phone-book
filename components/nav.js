@@ -19,7 +19,7 @@ function navTemplate(nav) {
                         <i class="fas fa-ellipsis-v"></i>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#" id="theme-toggle"><i class="fas fa-user-plus"></i> <span id="theme">light</span> Mode</a>
+                            <a class="dropdown-item" href="#" id="theme-toggle"><i class="fas fa-user-plus"></i> <span id="theme">Light</span> Mode</a>
                             <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
                             <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a>
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
@@ -64,9 +64,9 @@ function applyTheme(theme) {
 
 function rotateTheme(theme) {
   if (theme === "light") {
-    return "dark";
+    return "Dark";
   }
-  return "light";
+  return "Light";
 }
 
 const themeDisplay = document.getElementById("theme");
