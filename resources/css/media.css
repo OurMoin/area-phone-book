@@ -1,4 +1,4 @@
-/* iPad */
+/* iPad
 @media only screen and (max-width: 1024px) {
 
     /* nav section */
@@ -14,11 +14,11 @@
     }
 
 }
-
-/* iPhone */
+*/
+/* iPhone 
 @media only screen and (max-width: 767px) {
 
-    /* nav section */
+    
     .blog-header-logo {
         font-size: 18px;
     }
@@ -31,3 +31,21 @@
     }
     
 }
+*/
+
+
+
+
+
+
+body.light {
+          --background: white;
+        }
+        body.dark {
+          --background: black;
+        }
+
+        body {
+          color: var(--text);
+          background: var(--background);
+        }
