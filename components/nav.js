@@ -64,9 +64,9 @@ function applyTheme(theme) {
 
 function rotateTheme(theme) {
   if (theme === "light") {
-    return "Dark";
+    return "dark";
   }
-  return "Light";
+  return "light";
 }
 
 const themeDisplay = document.getElementById("theme");
