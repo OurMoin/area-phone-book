@@ -42,5 +42,16 @@ const userData = [
     detail: "এখানে এসি,ফ্রিজ, পানির ফিল্টার ইত্যাদি মেরামত ও ক্রয়, বিক্রয় করা হয়। <br>আপনি যদি এ/সি ক্রয় বা বিক্রি করতে চান তাহলে আমাদের সাথে যোগাযোগ করুন। <br>আমরা পুরনো বা ব্যবহার করা এ/সি কিনে থাকি। আমরা ব্যবহার করা একদম নষ্ট এ/সি নিয়ে থাকি। সকল প্রকারের এ/সি মেরামত ও সার্ভিসং করে থাকি। পুরনো এ/সি সেল বিক্রি করে থাকি। <br>আমরা দক্ষ টেকনিশিয়ান দ্বারা সল্প খরচে এসির মেরামত কাজ করে থাকি।",
     postLink: "https://www.facebook.com/AC-repining-centre-Narayanganj-101151402149587",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    name: "ইউনিক রিফ্রিজারেশন ",
+    number: "01704323150",
+    wordNo: "৬",
+    location: "পশ্চিম নন্দলালপুর, নাককাটাবাড়ি",
+    detail: "01943424501 <br>এখানে সকল প্রকার এসি, ফ্রিজ, মাইক্রোভেন সুদক্ষ টেকনিশিয়ান দ্বারা বাসায় গিয়ে মেরামত করা হয়। <br>পুরাতন ফ্রিজ বা এসি ক্রয়-বিক্রয় করা হয়। ",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
