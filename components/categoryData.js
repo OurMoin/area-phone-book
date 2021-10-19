@@ -7,7 +7,7 @@ const categoryData = [
         [
           {
             name: "এ্যাম্বুলেন্স",
-            link: "ambulance.html"
+            link: "ambulance"
           },
           {
             name: "হাঁসপাতাল",
