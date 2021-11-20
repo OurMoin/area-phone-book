@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/home-teacher/asifur-rahman-mridul.jpg",
+    photo: "../cdn/home-teacher/ariful-baten-shaon.jpg",
     name: "আরিফুল বাতেন শাওন",
     number: "01624990613",
     wordNo: "৫",
