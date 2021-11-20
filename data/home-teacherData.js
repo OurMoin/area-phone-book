@@ -75,6 +75,17 @@ const userData = [
     detail: "হোম টিউটর",
     postLink: "https://www.facebook.com/IamMrid",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/home-teacher/asifur-rahman-mridul.jpg",
+    name: "আরিফুল বাতেন শাওন",
+    number: "01624990613",
+    wordNo: "৫",
+    location: "শরীফবাগ",
+    detail: "ষষ্ঠ থেকে দশম (সকল সাবজেক্ট) এবং একাদশ - দ্বাদশ (পদার্থ,রসায়ন,জীববিজ্ঞান) বাসায় গিয়ে বিশেষভাবে যত্ন সহকারে পড়ানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
