@@ -786,6 +786,26 @@ const categoryData = [
     //         link: "girja"
     //       }
     //     ]
-    // }
+    // },
+    {
+      id: 25,
+      photo: "../resources/icons/online-sellers.png",
+      name: "Online Seller",
+      subCategory:
+        [
+          {
+            name: "ফুড",
+            link: "food"
+          },
+          {
+            name: "কাপড়",
+            link: "clothes"
+          },
+          {
+            name: "কসমেটিক্স",
+            link: "cosmetics"
+          }
+        ]
+    }
   ];
   
