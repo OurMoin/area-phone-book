@@ -11,35 +11,35 @@ const categoryData = [
           },
           {
             name: "হাঁসপাতাল",
-            link: "hospital.html"
+            link: "hospital"
           },
           {
             name: "বিদ্যুৎ অফিস",
-            link: "electricity-office.html"
+            link: "electricity-office"
           },
           {
             name: "পুলিশ স্টেশন",
-            link: "police-station.html"
+            link: "police-station"
           },
           {
             name: "ফায়ার সার্ভিস",
-            link: "fire-service.html"
+            link: "fire-service"
           },
           // {
           //   name: "গ্যাস অফিস",
-          //   link: "gas-office.html"
+          //   link: "gas-office"
           // },
           // {
           //   name: "পানি অফিস",
-          //   link: "water-office.html"
+          //   link: "water-office"
           // },
           {
             name: "গাড়ি ভাড়া",
-            link: "car-rental.html"
+            link: "car-rental"
           },
           {
             name: "সরকারি নোটিশ",
-            link: "government-notice.html"
+            link: "government-notice"
           }
         ]
     },
@@ -51,15 +51,15 @@ const categoryData = [
         [
           {
             name: "ব্লাড ব্যাংক",
-            link: "blood-bank.html"
+            link: "blood-bank"
           },
           {
             name: "রক্তদান সংগঠন",
-            link: "blood-donation-organization.html"
+            link: "blood-donation-organization"
           },
           {
             name: "রক্তদাতা",
-            link: "blood-donor.html"
+            link: "blood-donor"
           }
         ]
     },
@@ -71,43 +71,43 @@ const categoryData = [
         [
           {
             name: "ফার্মেসী",
-            link: "pharmacy.html"
+            link: "pharmacy"
           },
           {
             name: "পাইকারি মেডিসিন",
-            link: "wholesale-medicine.html"
+            link: "wholesale-medicine"
           },
           {
             name: "হাসপাতাল",
-            link: "hospital.html"
+            link: "hospital"
           },
           {
             name: "ডাক্তার বসেন",
-            link: "doctor-sat-down.html"
+            link: "doctor-sat-down"
           },
           {
             name: "ডাক্তার ল্যাব",
-            link: "doctor-lab.html"
+            link: "doctor-lab"
           },
           {
             name: "হোমিওপ্যাথি",
-            link: "homeopathy.html"
+            link: "homeopathy"
           },
           {
             name: "ফিজিওথেরাপি",
-            link: "physiotherapy.html"
+            link: "physiotherapy"
           },
           {
             name: "হিজামা ",
-            link: "hijama.html"
+            link: "hijama"
           },
           {
             name: "ডেন্টাল কেয়ার",
-            link: "dental-care.html"
+            link: "dental-care"
           },
           {
             name: "চক্ষু চিকিৎসালয়",
-            link: "ophthalmology.html"
+            link: "ophthalmology"
           }
         ]
     },
@@ -119,35 +119,35 @@ const categoryData = [
         [          
           {
             name: "মোবাইল সার্ভিসিং",
-            link: "mobile-servicing.html"
+            link: "mobile-servicing"
           },
           {
             name: "এসি / ফ্রিজ সার্ভিসিং",
-            link: "ac-fridge-servicing.html"
+            link: "ac-fridge-servicing"
           },
           {
             name: "কম্পিউটার সার্ভিসিং",
-            link: "computer-servicing.html"
+            link: "computer-servicing"
           },
           {
             name: "টিভি সার্ভিসিং",
-            link: "tv-servicing.html"
+            link: "tv-servicing"
           },
           {
             name: "ইলেক্টিক সার্ভিসিং",
-            link: "electric-servicing.html"
+            link: "electric-servicing"
           },
           {
             name: "সাইকেল সার্ভিসিং",
-            link: "cycle-servicing.html"
+            link: "cycle-servicing"
           },
           {
             name: "বাইক সার্ভিসিং",
-            link: "bikes-servicing.html"
+            link: "bikes-servicing"
           },
           {
             name: "গাড়ি সার্ভিসিং",
-            link: "car-servicing.html"
+            link: "car-servicing"
           }
         ]
     },
@@ -159,31 +159,31 @@ const categoryData = [
         [
           {
             name: "স্কুল",
-            link: "school.html"
+            link: "school"
           },        
           {
             name: "কলেজ",
-            link: "college.html"
+            link: "college"
           },
           {
             name: "মাদ্রাসা",
-            link: "madrasa.html"
+            link: "madrasa"
           },
           {
             name: "কোচিং সেন্টার",
-            link: "coaching-center.html"
+            link: "coaching-center"
           },
           {
             name: "হোম টিচার",
-            link: "home-teacher.html"
+            link: "home-teacher"
           },
           {
             name: "লাইব্রেরি",
-            link: "library.html"
+            link: "library"
           },
           {
             name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
-            link: "all-services-of-educational-institutions.html"
+            link: "all-services-of-educational-institutions"
           }
         ]
     },
@@ -195,43 +195,43 @@ const categoryData = [
         [
           {
             name: "কম্পিউটার ট্রেনিং",
-            link: "computer-training.html"          
+            link: "computer-training"          
           },
           {
             name: "ড্রাইভিং ট্রেনিং",
-            link: "driving-training.html"         
+            link: "driving-training"         
            },
           // {
           //   name: "ভাষা ট্রেনিং",
-          //   link: "language-training.html"         
+          //   link: "language-training"         
           //  },
           // {
           //   name: "স্কিল ট্রেনিং",
-          //   link: "skill-training.html"            
+          //   link: "skill-training"            
           // },
           // {
           //   name: "ইলেকট্রিক ট্রেনিং",
-          //   link: "electrical-training.html"              
+          //   link: "electrical-training"              
           // },
           // {
           //   name: "ওয়ার্কশপ ট্রেনিং",
-          //   link: "workshop-training.html"              
+          //   link: "workshop-training"              
           // },
           // {
           //   name: "টেইলারিং ট্রেনিং",
-          //   link: "trailing-training.html"              
+          //   link: "trailing-training"              
           // },
           // {
           //   name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
-          //   link: "ac-fridge-servicing-training.html"              
+          //   link: "ac-fridge-servicing-training"              
           // },
           {
             name: "পার্লার ট্রেনিং",
-            link: "parlor-training.html"              
+            link: "parlor-training"              
           },
           {
             name: "Gym",
-            link: "gym.html"
+            link: "gym"
           }
         ]
     },
@@ -243,75 +243,75 @@ const categoryData = [
         [
           // {
           //   name: "সুপার শপ",
-          //   link: "super-shop.html"
+          //   link: "super-shop"
           // },
           // {
           //   name: "মিনি সুপার শপ",
-          //   link: "mini-super-shop.html"
+          //   link: "mini-super-shop"
           // },
           {
             name: "পাইকারী দোকান",
-            link: "wholesale-store.html"
+            link: "wholesale-store"
           }, 
           {
             name: "ডিলার পয়েন্ট",
-            link: "dealer-points.html"
+            link: "dealer-points"
           },
           {
             name: "কনফেকশনারী",
-            link: "confectionary.html"
+            link: "confectionary"
           },
           // {
           //   name: "বেকারি",
-          //   link: "bakery.html"
+          //   link: "bakery"
           // },
           // {
           //   name: "মশলার দোকান",
-          //   link: "spice-shop.html"
+          //   link: "spice-shop"
           // },
           {
             name: "টেইলার্স এন্ড ফেব্রিক্স",
-            link: "tailors-and-fabrics.html"
+            link: "tailors-and-fabrics"
           },  
           {
             name: "ফুলের দোকান",
-            link: "flower-shop.html"
+            link: "flower-shop"
           },
           // {
           //   name: "ফলের দোকান",
-          //   link: "fruit-shop.html"
+          //   link: "fruit-shop"
           // },
           {
             name: "টেলিকম সেন্টার",
-            link: "telecom-center.html"
+            link: "telecom-center"
           },
           {
             name: "মিষ্টির দোকান",
-            link: "sweet-shop.html"
+            link: "sweet-shop"
           },
           {
             name: "জুয়েলার্স",
-            link: "jewelers.html"
+            link: "jewelers"
           },
           {
             name: "ক্রোকারিজ",
-            link: "crockery.html"
+            link: "crockery"
           }, 
           {
             name: "কাপড়ের দোকান",
-            link: "clothing-shop.html"
+            link: "clothing-shop"
           },
           {
             name: "ফার্নিচার",
-            link: "furniture.html"
+            link: "furniture"
           },
           {
             name: "লাইব্রেরি",
-            link: "library.html"
+            link: "library"
           }, 
           {
             name: "বাদ্যযন্ত্র সমূহ",
-            link: "musical-instruments.html"
+            link: "musical-instruments"
           }
         ]
     },
@@ -323,27 +323,27 @@ const categoryData = [
         [
           {
             name: "বাসা ভাড়া",
-            link: "house-rent.html"
+            link: "house-rent"
           },
           {
             name: "দোকান ভাড়া",
-            link: "shop-rent.html"
+            link: "shop-rent"
           },
           {
             name: "গ্যারেজ ভাড়া",
-            link: "garage-rent.html"
+            link: "garage-rent"
           },
           {
             name: "অফিস ভাড়া",
-            link: "office-rent.html"
+            link: "office-rent"
           },
           {
             name: "গাড়ি ভাড়া",
-            link: "car-rental.html"
+            link: "car-rental"
           },
           // {
           //   name: "ক্যামেরা ভাড়া",
-          //   link: "camera-rental.html"
+          //   link: "camera-rental"
           // }
         ]
     },
@@ -355,35 +355,35 @@ const categoryData = [
         [
           // {
           //   name: "হোটেল",
-          //   link: "hotel.html"
+          //   link: "hotel"
           // },
           {
             name: "রেস্টুরেন্ট",
-            link: "restaurant.html"
+            link: "restaurant"
           },
           {
             name: "বিরিয়ানির দোকান",
-            link: "biryani-shop.html"
+            link: "biryani-shop"
           },
           {
             name: "ফুচকার দোকান",
-            link: "fuchka-shop.html"
+            link: "fuchka-shop"
           },
           {
             name: "ফাস্ট ফুড",
-            link: "fast-food.html"
+            link: "fast-food"
           },
           {
             name: "কেক ঘর",
-            link: "cake-house.html"
+            link: "cake-house"
           },
           {
             name: "মিষ্টির দোকান",
-            link: "sweet-shop.html"
+            link: "sweet-shop"
           },
           // {
           //   name: "ফলের দোকান",
-          //   link: "fruit-shop.html"
+          //   link: "fruit-shop"
           // }
         ]
     },
@@ -395,15 +395,15 @@ const categoryData = [
         [
           {
             name: "স্টুডিও",
-            link: "studio.html"
+            link: "studio"
           },
           {
             name: "ক্যামেরাম্যান",
-            link: "cameraman.html"
+            link: "cameraman"
           },
           {
             name: "কম্পিউটার দোকান",
-            link: "computer-shop.html"
+            link: "computer-shop"
           }
         ]
     },
@@ -415,15 +415,15 @@ const categoryData = [
         [
           {
             name: "পার্লার",
-            link: "parlor.html"
+            link: "parlor"
           },
           {
             name: "সেলুন",
-            link: "salon.html"
+            link: "salon"
           },
           {
             name: "কসমিটিক্স এর দোকান",
-            link: "cosmetics-shop.html"
+            link: "cosmetics-shop"
           }
         ]
     },
@@ -435,39 +435,39 @@ const categoryData = [
     //     [
     //       {
     //         name: "কুরিয়ার সার্ভিস",
-    //         link: "courier-service.html"
+    //         link: "courier-service"
     //       },
     //       {
     //         name: "পেট্রোল পাম্প",
-    //         link: "petrol-pump.html"
+    //         link: "petrol-pump"
     //       },
     //       {
     //         name: "রেন্ট এ কার",
-    //         link: "rent-a-car.html"
+    //         link: "rent-a-car"
     //       },
     //       {
     //         name: "পিকাপ",
-    //         link: "pickup.html"
+    //         link: "pickup"
     //       },
     //       {
     //         name: "ট্রাক",
-    //         link: "truck.html"
+    //         link: "truck"
     //       },
     //       {
     //         name: "ডিস্টিক ট্রাক",
-    //         link: "district-truck.html"
+    //         link: "district-truck"
     //       },
     //       {
     //         name: "সিএনজি",
-    //         link: "cng.html"
+    //         link: "cng"
     //       },
     //       // {
     //       //   name: "ভ্যান গাড়ি",
-    //       //   link: "van.html"
+    //       //   link: "van"
     //       // },
     //       // {
     //       //   name: "জলযান",
-    //       //   link: "watercraft.html"
+    //       //   link: "watercraft"
     //       // }
     //     ]
     // },
@@ -479,19 +479,19 @@ const categoryData = [
     //     [
     //       {
     //         name: "সিএনজি স্ট্যান্ড",
-    //         link: "cng-stand.html"
+    //         link: "cng-stand"
     //       },
     //       {
     //         name: "বাস স্ট্যান্ড",
-    //         link: "bus-stand.html"
+    //         link: "bus-stand"
     //       },
     //       {
     //         name: "ট্রেন স্টেশন",
-    //         link: "train-station.html"
+    //         link: "train-station"
     //       },
     //       {
     //         name: "অটো স্ট্যান্ড",
-    //         link: "auto-stand.html"
+    //         link: "auto-stand"
     //       }
     //     ]
     // },
@@ -503,19 +503,19 @@ const categoryData = [
         [
           {
             name: "ডেকোরেটর",
-            link: "decorators.html"
+            link: "decorators"
           },
           {
             name: "বাবুর্চি",
-            link: "chef.html"
+            link: "chef"
           },
           {
             name: "কমিউনিটি সেন্টার",
-            link: "community-center.html"
+            link: "community-center"
           },
           {
             name: "ফুলের দোকান",
-            link: "flower-shop.html"
+            link: "flower-shop"
           }
         ]
     },
@@ -527,15 +527,15 @@ const categoryData = [
         [
           {
             name: "রং মিস্ত্রী",
-            link: "painter.html"
+            link: "painter"
           },
           {
             name: "কাঠ মিস্ত্রী",
-            link: "carpenter.html"
+            link: "carpenter"
           },
           {
             name: "ইলেকট্রিক মিস্ত্রী",
-            link: "electric-mechanic.html"
+            link: "electric-mechanic"
           }
         ]
     },
@@ -547,31 +547,31 @@ const categoryData = [
         [
           {
             name: "অটো পার্টস",
-            link: "auto-parts.html"
+            link: "auto-parts"
           },
           {
             name: "এন্টারপ্রাইজ",
-            link: "enterprise.html"
+            link: "enterprise"
           },
           {
             name: "গ্যাস সিলিন্ডার",
-            link: "gas-cylinder.html"
+            link: "gas-cylinder"
           },
           {
             name: "স্টিল এন্ড প্লাস্টিক ডোর",
-            link: "steel-and-plastic-door.html"
+            link: "steel-and-plastic-door"
           },
           {
             name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
-            link: "thai-aluminum-and-glass.html"
+            link: "thai-aluminum-and-glass"
           },           
           {
             name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
-            link: "hardware-sanitary-electronics.html"
+            link: "hardware-sanitary-electronics"
           },
           {
             name: "গ্রিল এবং ওয়ার্কশপের দোকান",
-            link: "grillshop-and-workshop.html"
+            link: "grillshop-and-workshop"
           }
         ]
     },
@@ -583,35 +583,35 @@ const categoryData = [
         [
           {
             name: "দলিল লেখক",
-            link: "author-of-the-document.html"
+            link: "author-of-the-document"
           },
           // {
           //   name: "আইনজীবী",
-          //   link: "lawyer.html"
+          //   link: "lawyer"
           // },
           {
             name: "ইউনিয়ন অফিস",
-            link: "union-office.html"
+            link: "union-office"
           },
           {
             name: "চেয়ারম্যান-মেম্বার",
-            link: "chairman-member.html"
+            link: "chairman-member"
           },
           {
             name: "চেয়ারম্যান অফিস",
-            link: "chairman-office.html"
+            link: "chairman-office"
           },
           {
             name: "ভোটার অফিস",
-            link: "voter-office.html"
+            link: "voter-office"
           },
           {
             name: "ভূমি অফিস",
-            link: "land-office.html"
+            link: "land-office"
           },
           {
             name: "কাজী অফিস",
-            link: "kazi-office.html"
+            link: "kazi-office"
           }
         ]
     },
@@ -623,23 +623,23 @@ const categoryData = [
     //     [
     //       {
     //         name: "সুপার মার্কেট",
-    //         link: "supermarket.html"
+    //         link: "supermarket"
     //       },
     //       {
     //         name: "কাঁচা বাজার",
-    //         link: "raw-market.html"
+    //         link: "raw-market"
     //       },
     //       {
     //         name: "পোশাকের বাজার",
-    //         link: "clothing-market.html"
+    //         link: "clothing-market"
     //       },
     //       {
     //         name: "পাইকারি বাজার",
-    //         link: "wholesale-market.html"
+    //         link: "wholesale-market"
     //       },
     //       {
     //         name: "কসমিটিক্স এর বাজার",
-    //         link: "cosmetics-market.html"
+    //         link: "cosmetics-market"
     //       }
     //     ]
     // },
@@ -651,19 +651,19 @@ const categoryData = [
         [
           {
             name: "ব্যাংক",
-            link: "bank.html"
+            link: "bank"
           },
           {
             name: "এজেন্ট ব্যাংক",
-            link: "agent-bank.html"
+            link: "agent-bank"
           },
           {
             name: "এটিএম বুথ",
-            link: "atm-booth.html"
+            link: "atm-booth"
           },
           {
             name: "কিস্তি অফিস",
-            link: "installment-office.html"
+            link: "installment-office"
           }
         ]
     },
@@ -675,19 +675,19 @@ const categoryData = [
     //     [
     //       {
     //         name: "গিফট এর দোকান",
-    //         link: "gift-shop.html"
+    //         link: "gift-shop"
     //       },
     //       // {
     //       //   name: "1 to 99 দোকান",
-    //       //   link: "1-to-99-store.html"
+    //       //   link: "1-to-99-store"
     //       // },
     //       {
     //         name: "লাইব্রেরি",
-    //         link: "library.html"
+    //         link: "library"
     //       },
     //       {
     //         name: "ফুলের দোকান",
-    //         link: "flower-shop.html"
+    //         link: "flower-shop"
     //       }
     //     ]
     // },
@@ -699,19 +699,19 @@ const categoryData = [
     //     [
     //       {
     //         name: "পার্ক",
-    //         link: "park.html"
+    //         link: "park"
     //       },
     //       {
     //         name: "সিনেমা হল",
-    //         link: "cinema-hall.html"
+    //         link: "cinema-hall"
     //       },
     //       {
     //         name: "রেস্টুরেন্ট",
-    //         link: "restaurant.html"
+    //         link: "restaurant"
     //       },
     //       {
     //         name: "নার্সারী",
-    //         link: "nursery.html"
+    //         link: "nursery"
     //       }
     //     ]
     // },
@@ -723,15 +723,15 @@ const categoryData = [
         [
           {
             name: "সামাজিক সংগঠন",
-            link: "social-organization.html"
+            link: "social-organization"
           },
           {
             name: "যুব সংগঠন",
-            link: "youth-organizations.html"
+            link: "youth-organizations"
           },
           {
             name: "রক্ত দান",
-            link: "blood-donation.html"
+            link: "blood-donation"
           }
         ]
     },
@@ -743,27 +743,27 @@ const categoryData = [
         [
           {
             name: "Online Marketing",
-            link: "online-marketing.html"
+            link: "online-marketing"
           },
           {
             name: "Graphic Design",
-            link: "graphic-design.html"
+            link: "graphic-design"
           },
           {
             name: "Web Design",
-            link: "web-design.html"
+            link: "web-design"
           },
           {
             name: "Web Development",
-            link: "web-development.html"
+            link: "web-development"
           },
           {
             name: "SEO",
-            link: "seo.html"
+            link: "seo"
           },
           {
             name: "Apps Developer",
-            link: "apps-developer.html"
+            link: "apps-developer"
           }
         ]
     },
@@ -775,15 +775,15 @@ const categoryData = [
     //     [
     //       {
     //         name: "মসজিদ",
-    //         link: "mosque.html"
+    //         link: "mosque"
     //       },
     //       {
     //         name: "মন্দির",
-    //         link: "temple.html"
+    //         link: "temple"
     //       },
     //       {
     //         name: "গির্জা",
-    //         link: "girja.html"
+    //         link: "girja"
     //       }
     //     ]
     // }
