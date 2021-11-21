@@ -9,5 +9,16 @@ const userData = [
     detail: "বিকাশ, রকেট এবং নিত্য প্রয়োজনীয় ইলেকট্রিক পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 2,
+    photo: "../cdn/telecom-center/maa-telecom.jpg",
+    name: "Maa Telecom",
+    number: "01923339944",
+    wordNo: "৪",
+    location: "কুসুমবাগ",
+    detail: "Dutch-Bangla bank agent banking service.",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
