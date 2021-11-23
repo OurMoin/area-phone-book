@@ -14,16 +14,16 @@ function catagoryTemplate(category) {
               <div class="overflow-hidden">
                   <div class="card-content">
                       <div class="cleartfix">
-                          <div class="media align-items-stretch">
-                              <div class="align-self-center">
-                                  <img class="manu-img" src="${category.photo}" alt="${category.name}">
-                              </div>
-                              
-                                
-                              <h3 class="manu-item" style="margin: 10px 0 0 20px; font-size: 25px;"><a href="${category.link}">${category.name}</a></h3>
-                                
-                              
-                          </div>
+                            <a href="${category.link}">
+                                <div class="media align-items-stretch">
+                                    <div class="align-self-center">
+                                        <img class="manu-img" src="${category.photo}" alt="${category.name}">
+                                    </div>                              
+                                    
+                                    <h3 class="manu-item" style="margin: 10px 0 0 20px; font-size: 25px;">${category.name}</h3>
+
+                                </div>
+                            </a>
                       </div>
                   </div>
               </div>
