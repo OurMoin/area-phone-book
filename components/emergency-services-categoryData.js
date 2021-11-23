@@ -2,37 +2,44 @@ const categoryData = [
     {
       id: 1,
       photo: "../resources/icons/emergency-services/ambulance.jpg",
-      name: "এ্যাম্বুলেন্স"
+      name: "এ্যাম্বুলেন্স",
+      link: "ambulance.html"
     },
     {
       id: 2,
       photo: "../resources/icons/emergency-services/hospital.jpg",
-      name: "হাঁসপাতাল"
+      name: "হাঁসপাতাল",
+      link: "hospital.html"
     },
     {
       id: 3,
       photo: "../resources/icons/emergency-services/electricity-office.jpg",
-      name: "বিদ্যুৎ অফিস"
+      name: "বিদ্যুৎ অফিস",
+      link: "electricity-office.html"
     },
     {
       id: 4,
       photo: "../resources/icons/emergency-services/police-station.jpg",
-      name: "পুলিশ স্টেশন"
+      name: "পুলিশ স্টেশন",
+      link: "police-station.html"
     },
     {
       id: 5,
       photo: "../resources/icons/emergency-services/fire-service.jpg",
-      name: "ফায়ার সার্ভিস"
+      name: "ফায়ার সার্ভিস",
+      link: "fire-service.html"
     },
     {
       id: 6,
       photo: "../resources/icons/emergency-services/car-rental.jpg",
-      name: "গাড়ি ভাড়া"
+      name: "গাড়ি ভাড়া",
+      link: "car-rental.html"
     },
     {
       id: 7,
       photo: "../resources/icons/emergency-services/government-notice.jpg",
-      name: "সরকারি নোটিশ"
+      name: "সরকারি নোটিশ",
+      link: "government-notice.html"
     }
   ];
   

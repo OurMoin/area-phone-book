@@ -20,7 +20,7 @@ function catagoryTemplate(category) {
                               </div>
                               <div class="media-body">
                                 
-                                  <h3 class="manu-item"><a href="#" target="_blank">${category.name}</a></h3>
+                                  <h3 class="manu-item"><a href="emergency-services.html" target="_blank">${category.name}</a></h3>
                                   <div class="row">
                                   <span class="col-6 topic tp1">${category.subCategory[0].name}</span>
                                   <span class="col-6 topic tp1">${category.subCategory[1].name}</span>
