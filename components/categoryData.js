@@ -3,6 +3,7 @@ const categoryData = [
       id: 1,
       photo: "../resources/icons/emergency-services.png",
       name: "জরুরী সেবা",
+      pageLink: "emergency-services",
       subCategory:
         [
           {
