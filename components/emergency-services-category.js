@@ -20,7 +20,7 @@ function catagoryTemplate(category) {
                               </div>
                               
                                 
-                              <h3 class="manu-item" style="margin: 10px 0 0 20px; font-size: 25px;"><a href="#" target="_blank">${category.name}</a></h3>
+                              <h3 class="manu-item" style="margin: 10px 0 0 20px; font-size: 25px;"><a href="#">${category.name}</a></h3>
                                 
                               
                           </div>
