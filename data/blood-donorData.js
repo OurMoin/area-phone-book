@@ -20,6 +20,17 @@ const userData = [
     detail: "যে কোন ধরনের রক্ত প্রয়োজনের জন্য আমাদের সাথে যোগাযোগ করুন।",
     postLink: "https://www.facebook.com/hridoyahmed5629",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/blood-donor/hashmi-alamin.jpg",
+    name: "মোঃ আল-আমিন জামান",
+    number: "01956122776",
+    wordNo: "৬",
+    location: "নয়ামাটি, পাগলা",
+    detail: "রক্ত দান",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
