@@ -48,7 +48,7 @@ const categoryData = [
       id: 2,
       photo: "../resources/icons/blood-donation.png",
       name: "রক্ত দান",
-      pageLink: "blood-donation.html",
+      pageLink: "blood-donation",
       subCategory:
         [
           {
