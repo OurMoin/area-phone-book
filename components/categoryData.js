@@ -69,6 +69,7 @@ const categoryData = [
       id: 3,
       photo: "../resources/icons/medical-services.png",
       name: "চিকিৎসা সেবা",
+      pageLink: "medical-services",
       subCategory:
         [
           {
