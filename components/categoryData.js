@@ -118,6 +118,7 @@ const categoryData = [
       id: 4,
       photo: "../resources/icons/servicing-center.png",
       name: "সার্ভিসিং সেন্টার",
+      pageLink: "servicing-center.html",
       subCategory:
         [          
           {
