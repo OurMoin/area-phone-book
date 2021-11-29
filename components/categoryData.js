@@ -199,36 +199,36 @@ const categoryData = [
         [
           {
             name: "কম্পিউটার ট্রেনিং",
-            link: "computer-training"          
+            link: "computer-training"
           },
           {
             name: "ড্রাইভিং ট্রেনিং",
             link: "driving-training"         
            },
-          // {
-          //   name: "ভাষা ট্রেনিং",
-          //   link: "language-training"         
-          //  },
-          // {
-          //   name: "স্কিল ট্রেনিং",
-          //   link: "skill-training"            
-          // },
-          // {
-          //   name: "ইলেকট্রিক ট্রেনিং",
-          //   link: "electrical-training"              
-          // },
-          // {
-          //   name: "ওয়ার্কশপ ট্রেনিং",
-          //   link: "workshop-training"              
-          // },
-          // {
-          //   name: "টেইলারিং ট্রেনিং",
-          //   link: "trailing-training"              
-          // },
-          // {
-          //   name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
-          //   link: "ac-fridge-servicing-training"              
-          // },
+          {
+            name: "ভাষা ট্রেনিং",
+            link: "language-training"         
+           },
+          {
+            name: "স্কিল ট্রেনিং",
+            link: "skill-training"            
+          },
+          {
+            name: "ইলেকট্রিক ট্রেনিং",
+            link: "electrical-training"              
+          },
+          {
+            name: "ওয়ার্কশপ ট্রেনিং",
+            link: "workshop-training"              
+          },
+          {
+            name: "টেইলারিং ট্রেনিং",
+            link: "trailing-training"              
+          },
+          {
+            name: "এসি/ফ্রিজ সার্ভিসিং ট্রেনিং",
+            link: "ac-fridge-servicing-training"              
+          },
           {
             name: "পার্লার ট্রেনিং",
             link: "parlor-training"              
