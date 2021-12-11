@@ -326,6 +326,7 @@ const categoryData = [
       id: 8,
       photo: "../resources/icons/rental-services.png",
       name: "ভাড়া সেবা",
+      pageLink: "rental-services",
       subCategory:
         [
           {
@@ -358,6 +359,7 @@ const categoryData = [
       id: 9,
       photo: "../resources/icons/food-corner_food-store.png",
       name: "ফুড কর্নার / খাবার দোকান",
+      pageLink: "food-corner_food-store",
       subCategory:
         [
           // {
@@ -398,6 +400,7 @@ const categoryData = [
       id: 10,
       photo: "../resources/icons/studio-computer-shop.png",
       name: "স্টুডিও / কম্পিউটার দোকান",
+      pageLink: "studio-computer-shop",
       subCategory:
         [
           {
@@ -418,6 +421,7 @@ const categoryData = [
       id: 11,
       photo: "../resources/icons/parlor-salon.png",
       name: "পার্লার / সেলুন",
+      pageLink: "parlor-salon",
       subCategory:
         [
           {
@@ -506,6 +510,7 @@ const categoryData = [
       id: 14,
       photo: "../resources/icons/decorator.png",
       name: "ডেকোরেটর",
+      pageLink: "decorator",
       subCategory:
         [
           {
@@ -530,6 +535,7 @@ const categoryData = [
       id: 15,
       photo: "../resources/icons/mechanic.png",
       name: "মিস্ত্রী",
+      pageLink: "mechanic",
       subCategory:
         [
           {
@@ -550,6 +556,7 @@ const categoryData = [
       id: 16,
       photo: "../resources/icons/hardware-sanitary-electronics.png",
       name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      pageLink: "hardware-sanitary-electronics",
       subCategory:
         [
           {
@@ -586,6 +593,7 @@ const categoryData = [
       id: 17,
       photo: "../resources/icons/civic-service.png",
       name: "নাগরিক সেবা",
+      pageLink: "civic-service",
       subCategory:
         [
           {
@@ -654,6 +662,7 @@ const categoryData = [
       id: 19,
       photo: "../resources/icons/banking-services.png",
       name: "ব্যাংকিং সেবা",
+      pageLink: "banking-services",
       subCategory:
         [
           {
@@ -726,6 +735,7 @@ const categoryData = [
       id: 22,
       photo: "../resources/icons/service-organization.png",
       name: "সেবামূলক সংগঠন",
+      pageLink: "service-organization",
       subCategory:
         [
           {
@@ -746,6 +756,7 @@ const categoryData = [
       id: 23,
       photo: "../resources/icons/it-support.png",
       name: "IT Support",
+      pageLink: "it-support",
       subCategory:
         [
           {
@@ -798,6 +809,7 @@ const categoryData = [
       id: 25,
       photo: "../resources/icons/online-sellers.png",
       name: "Online Seller",
+      pageLink: "online-sellers",
       subCategory:
         [
           {
