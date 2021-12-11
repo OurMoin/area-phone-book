@@ -159,7 +159,7 @@ const categoryData = [
       id: 5,
       photo: "../resources/icons/education-services.png",
       name: "শিক্ষা সেবা",
-      link: "education-services",
+      pageLink: "education-services",
       subCategory:
         [
           {
@@ -196,7 +196,7 @@ const categoryData = [
       id: 6,
       photo: "../resources/icons/training-center.png",
       name: "প্রশিক্ষণ কেন্দ্র",
-      link: "training-center",
+      pageLink: "training-center",
       subCategory:
         [
           {
