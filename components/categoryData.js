@@ -245,6 +245,7 @@ const categoryData = [
       id: 7,
       photo: "../resources/icons/shop.png",
       name: "দোকান",
+      pageLink: "#",
       subCategory:
         [
           // {
