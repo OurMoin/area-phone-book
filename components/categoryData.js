@@ -514,7 +514,7 @@ const categoryData = [
       subCategory:
         [
           {
-            name: "ডেকোরেটর",
+            name: "ডেকোরেটরস",
             link: "decorators"
           },
           {
