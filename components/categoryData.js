@@ -580,7 +580,7 @@ const categoryData = [
             link: "thai-aluminum-and-glass"
           },           
           {
-            name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+            name: "স্যানিটারি হার্ডওয়্যার এন্ড ইলেকট্রিক",
             link: "hardware-sanitary-electronics"
           },
           {

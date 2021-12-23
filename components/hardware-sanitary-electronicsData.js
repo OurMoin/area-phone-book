@@ -1,0 +1,45 @@
+const categoryData = [
+    {
+      id: 1,
+      photo: "../resources/icons/hardware-sanitary-electronics/auto-parts.png",
+      name: "অটো পার্টস",
+      link: "auto-parts"
+    },
+    {
+      id: 2,
+      photo: "../resources/icons/hardware-sanitary-electronics/enterprise.png",
+      name: "এন্টারপ্রাইজ",
+      link: "enterprise"
+    },
+    {
+      id: 3,
+      photo: "../resources/icons/hardware-sanitary-electronics/gas-cylinder.png",
+      name: "গ্যাস সিলিন্ডার",
+      link: "gas-cylinder"
+    },
+    {
+      id: 4,
+      photo: "../resources/icons/hardware-sanitary-electronics/steel-and-plastic-door.png",
+      name: "স্টিল এন্ড প্লাস্টিক ডোর",
+      link: "steel-and-plastic-door"
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/hardware-sanitary-electronics/thai-aluminum-and-glass.png",
+      name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+      link: "thai-aluminum-and-glass"
+    },
+    {
+      id: 6,
+      photo: "../resources/icons/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+      name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
+      link: "hardware-sanitary-electronics"
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/hardware-sanitary-electronics/grillshop-and-workshop.png",
+      name: "গ্রিল এবং ওয়ার্কশপের দোকান",
+      link: "grillshop-and-workshop"
+    }
+  ];
+  
