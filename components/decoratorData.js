@@ -2,7 +2,7 @@ const categoryData = [
     {
       id: 1,
       photo: "../resources/icons/decorator/decorators.png",
-      name: "ডেকোরেটর",
+      name: "ডেকোরেটরস",
       link: "decorators"
     },
     {
