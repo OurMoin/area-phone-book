@@ -13,7 +13,7 @@ const userData = [
   {
     id: 2,
     photo: "../cdn/chairman-member/alhaj-md-monirul-alam-sentu.jpg",
-    name: "হাজী মোঃ আবু হানিফা",
+    name: "হাজী মোঃ মনিরুল আলম",
     number: "01715328866",
     wordNo: "সমগ্র কুতুবপুর",
     location: "কুতুবপুর",
