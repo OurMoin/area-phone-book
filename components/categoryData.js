@@ -1,5 +1,25 @@
 const categoryData = [
     {
+      id: 26,
+      photo: "../resources/icons/kutubpur-union.png",
+      name: "এক নজরে কুতুবপুর",
+      subCategory:
+        [
+          {
+            name: "ইউনিয়ন পরিচিতি",
+            link: "mosque"
+          },
+          {
+            name: "গ্রামভিত্তিক লোকসংখ্যা",
+            link: "temple"
+          },
+          {
+            name: "যোগাযোগ ব্যবস্থা",
+            link: "girja"
+          }
+        ]
+    },
+    {
       id: 1,
       photo: "../resources/icons/emergency-services.png",
       name: "জরুরী সেবা",
