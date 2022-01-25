@@ -755,7 +755,7 @@ const categoryData = [
     {
       id: 23,
       photo: "../resources/icons/it-support.png",
-      name: "IT Support",
+      name: "আইটি সেবা",
       pageLink: "it-support",
       subCategory:
         [
@@ -785,30 +785,30 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 24,
-    //   photo: "../resources/icons/religious-place.png",
-    //   name: "ধার্মিক স্থান",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "মসজিদ",
-    //         link: "mosque"
-    //       },
-    //       {
-    //         name: "মন্দির",
-    //         link: "temple"
-    //       },
-    //       {
-    //         name: "গির্জা",
-    //         link: "girja"
-    //       }
-    //     ]
-    // },
+    {
+      id: 24,
+      photo: "../resources/icons/religious-place.png",
+      name: "ধার্মিক স্থান",
+      subCategory:
+        [
+          {
+            name: "মসজিদ",
+            link: "mosque"
+          },
+          {
+            name: "মন্দির",
+            link: "temple"
+          },
+          {
+            name: "গির্জা",
+            link: "girja"
+          }
+        ]
+    },
     {
       id: 25,
       photo: "../resources/icons/online-sellers.png",
-      name: "Online Seller",
+      name: "অনলাইন সেলার",
       pageLink: "online-sellers",
       subCategory:
         [
