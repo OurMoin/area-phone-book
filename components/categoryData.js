@@ -484,6 +484,7 @@ const categoryData = [
       id: 12,
       photo: "../resources/icons/transportation-services.png",
       name: "পরিবহন সেবা",
+      pageLink: "transportation-services",
       subCategory:
         [
           {
