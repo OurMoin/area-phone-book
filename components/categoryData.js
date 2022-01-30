@@ -732,6 +732,7 @@ const categoryData = [
       id: 20,
       photo: "../resources/icons/gift-corner.png",
       name: "গিফট কর্নার",
+      pageLink: "gift-corner",
       subCategory:
         [
           {
