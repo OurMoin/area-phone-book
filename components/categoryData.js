@@ -3,6 +3,7 @@ const categoryData = [
       id: 26,
       photo: "../resources/icons/kutubpur-union.png",
       name: "এক নজরে কুতুবপুর",
+      pageLink: "ek-nojore-kutubpur",
       subCategory:
         [
           {
