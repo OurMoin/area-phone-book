@@ -529,6 +529,7 @@ const categoryData = [
       id: 13,
       photo: "../resources/icons/car-stand.png",
       name: "গাড়ী স্ট্যান্ড",
+      pageLink: "car-stand",
       subCategory:
         [
           {
@@ -677,6 +678,7 @@ const categoryData = [
       id: 18,
       photo: "../resources/icons/market.png",
       name: "মার্কেট",
+      pageLink: "market",
       subCategory:
         [
           {
