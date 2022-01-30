@@ -24,6 +24,7 @@ const categoryData = [
       id: 27,
       photo: "../resources/icons/train-time-table.png",
       name: "বর্তমান ট্রেনের সময়সূচি",
+      pageLink: "current-train-schedule",
       subCategory:
         [
           {
