@@ -29,7 +29,7 @@ const categoryData = [
         [
           {
             name: "ঢাকা - নারায়ণগঞ্জ",
-            link: "dhaka-narayanganj"
+            link: "dhaka-narayanganj.png"
           },
           {
             name: "পূর্বাঞ্চল",
