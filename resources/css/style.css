@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-    color: #21B573;
+    color: #e84c3d;
 }
 
 * {
@@ -44,7 +44,7 @@ a:hover {
 ************************************/
 
 nav {
-    background-color: #21B573;
+    background-color: #e84c3d;
     height: 50px;
 }
 
@@ -78,12 +78,12 @@ sup {
 
 .lol {
     display: inline-block;
-    border: 1px #21B573 solid;
+    border: 1px #e84c3d solid;
     padding: 5px 10px;
     margin: 5px 0 0 0;
     border-radius: 3px;
     width: 100%;
-    background-color: #21B573;
+    background-color: #e84c3d;
     color: #fff;
     text-align: center;
     transition: .4s;
@@ -95,13 +95,13 @@ sup {
 
 .lol:hover {
     display: inline-block;
-    border: 1px #21B573 solid;
+    border: 1px #e84c3d solid;
     padding: 5px 10px;
     margin: 5px 0 0 0;
     border-radius: 3px;
     width: 100%;
     background-color: #fff;
-    color: #21B573;
+    color: #e84c3d;
 }
 
 
@@ -110,7 +110,7 @@ sup {
 ************************************/
 
 .hero-text {
-    background-color: #F0FFF0;
+    background-color: #fff0f0;
     text-align: center;
     padding: 10px 0;
     margin-bottom: 15px;
@@ -133,7 +133,7 @@ sup {
 }
 
 .active {
-    color: #21B573;
+    color: #e84c3d;
 }
 
 nav a:hover {
@@ -166,7 +166,7 @@ nav a:hover {
 }
 
 .card:hover {
-    border-color: #21B573;
+    border-color: #e84c3d;
     ;
 }
 
@@ -231,7 +231,7 @@ footer ul li a {
 }
 
 .icon-card:hover {
-    background-color: #F0FFF0;
+    background-color: #f2f2f2;
     cursor: pointer;
 }
 
