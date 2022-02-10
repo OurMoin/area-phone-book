@@ -8,7 +8,7 @@ function navTemplate(nav) {
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-2 logo-div">
-                    <a href="index.html"><i class="fas fa-address-book"></i></a>
+                    <a href="https://www.areaphonebook.com"><i class="fas fa-address-book"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
                     <a class="blog-header-logo" href="https://www.areaphonebook.com">Area Phonebook</a><sup>Beta</sup>
