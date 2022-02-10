@@ -5,7 +5,7 @@ const signupBtnData = [
 function signupBtnTemplate(signupBtn) {
     return `
     <div class="hero-btn">
-        <a class="btn btn-outline-danger" target="_blank" href="https://forms.gle/5BJxEW7oUE2tRkJN9"><i
+        <a class="btn btn-danger" target="_blank" href="https://forms.gle/5BJxEW7oUE2tRkJN9"><i
                 class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
     </div>
   `;
