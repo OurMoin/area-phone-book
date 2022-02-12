@@ -31,6 +31,17 @@ const userData = [
     detail: "রক্ত দান",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/blood-donor/man-blood-donor.png",
+    name: "অরিন চন্দ্র দাস",
+    number: "01868564353",
+    wordNo: "৬",
+    location: "পাগলা পশ্চিম পাড়া",
+    detail: "রক্তের গ্রুপ বি+",
+    postLink: "arindas949@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
