@@ -1,5 +1,47 @@
 const categoryData = [
     {
+      id: 26,
+      photo: "../resources/icons/kutubpur-union.png",
+      name: "এক নজরে কুতুবপুর",
+      pageLink: "ek-nojore-kutubpur",
+      subCategory:
+        [
+          {
+            name: "ইউনিয়ন পরিচিতি",
+            link: "mosque"
+          },
+          {
+            name: "গ্রামভিত্তিক লোকসংখ্যা",
+            link: "temple"
+          },
+          {
+            name: "যোগাযোগ ব্যবস্থা",
+            link: "girja"
+          }
+        ]
+    },
+    {
+      id: 27,
+      photo: "../resources/icons/train-time-table.png",
+      name: "বর্তমান ট্রেনের সময়সূচি",
+      pageLink: "current-train-schedule",
+      subCategory:
+        [
+          {
+            name: "ঢাকা - নারায়ণগঞ্জ",
+            link: "dhaka-narayanganj.png"
+          },
+          {
+            name: "পূর্বাঞ্চল",
+            link: "https://railway.portal.gov.bd/site/page/988258c9-5f11-4719-91e2-fbc898d4c2a9"
+          },
+          {
+            name: "পশ্চিমাঞ্চল",
+            link: "https://railway.portal.gov.bd/site/page/6f618d21-8c9a-41da-a896-d5ed83b53b17"
+          }
+        ]
+    },
+    {
       id: 1,
       photo: "../resources/icons/emergency-services.png",
       name: "জরুরী সেবা",
@@ -26,14 +68,14 @@ const categoryData = [
             name: "ফায়ার সার্ভিস",
             link: "fire-service"
           },
-          // {
-          //   name: "গ্যাস অফিস",
-          //   link: "gas-office"
-          // },
-          // {
-          //   name: "পানি অফিস",
-          //   link: "water-office"
-          // },
+          {
+            name: "গ্যাস অফিস",
+            link: "gas-office"
+          },
+          {
+            name: "পানি অফিস",
+            link: "water-office"
+          },
           {
             name: "গাড়ি ভাড়া",
             link: "car-rental"
@@ -248,14 +290,14 @@ const categoryData = [
       pageLink: "shop",
       subCategory:
         [
-          // {
-          //   name: "সুপার শপ",
-          //   link: "super-shop"
-          // },
-          // {
-          //   name: "মিনি সুপার শপ",
-          //   link: "mini-super-shop"
-          // },
+          {
+            name: "সুপার শপ",
+            link: "super-shop"
+          },
+          {
+            name: "মিনি সুপার শপ",
+            link: "mini-super-shop"
+          },
           {
             name: "পাইকারী দোকান",
             link: "wholesale-store"
@@ -268,14 +310,14 @@ const categoryData = [
             name: "কনফেকশনারী",
             link: "confectionary"
           },
-          // {
-          //   name: "বেকারি",
-          //   link: "bakery"
-          // },
-          // {
-          //   name: "মশলার দোকান",
-          //   link: "spice-shop"
-          // },
+          {
+            name: "বেকারি",
+            link: "bakery"
+          },
+          {
+            name: "মশলার দোকান",
+            link: "spice-shop"
+          },
           {
             name: "টেইলার্স এন্ড ফেব্রিক্স",
             link: "tailors-and-fabrics"
@@ -284,10 +326,10 @@ const categoryData = [
             name: "ফুলের দোকান",
             link: "flower-shop"
           },
-          // {
-          //   name: "ফলের দোকান",
-          //   link: "fruit-shop"
-          // },
+          {
+            name: "ফলের দোকান",
+            link: "fruit-shop"
+          },
           {
             name: "টেলিকম সেন্টার",
             link: "telecom-center"
@@ -349,10 +391,10 @@ const categoryData = [
             name: "গাড়ি ভাড়া",
             link: "car-rental"
           },
-          // {
-          //   name: "ক্যামেরা ভাড়া",
-          //   link: "camera-rental"
-          // }
+          {
+            name: "ক্যামেরা ভাড়া",
+            link: "camera-rental"
+          }
         ]
     },
     {
@@ -362,10 +404,10 @@ const categoryData = [
       pageLink: "food-corner_food-store",
       subCategory:
         [
-          // {
-          //   name: "হোটেল",
-          //   link: "hotel"
-          // },
+          {
+            name: "হোটেল",
+            link: "hotel"
+          },
           {
             name: "রেস্টুরেন্ট",
             link: "restaurant"
@@ -390,10 +432,10 @@ const categoryData = [
             name: "মিষ্টির দোকান",
             link: "sweet-shop"
           },
-          // {
-          //   name: "ফলের দোকান",
-          //   link: "fruit-shop"
-          // }
+          {
+            name: "ফলের দোকান",
+            link: "fruit-shop"
+          }
         ]
     },
     {
@@ -438,74 +480,76 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 12,
-    //   photo: "../resources/icons/transportation-services.png",
-    //   name: "পরিবহন সেবা",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "কুরিয়ার সার্ভিস",
-    //         link: "courier-service"
-    //       },
-    //       {
-    //         name: "পেট্রোল পাম্প",
-    //         link: "petrol-pump"
-    //       },
-    //       {
-    //         name: "রেন্ট এ কার",
-    //         link: "rent-a-car"
-    //       },
-    //       {
-    //         name: "পিকাপ",
-    //         link: "pickup"
-    //       },
-    //       {
-    //         name: "ট্রাক",
-    //         link: "truck"
-    //       },
-    //       {
-    //         name: "ডিস্টিক ট্রাক",
-    //         link: "district-truck"
-    //       },
-    //       {
-    //         name: "সিএনজি",
-    //         link: "cng"
-    //       },
-    //       // {
-    //       //   name: "ভ্যান গাড়ি",
-    //       //   link: "van"
-    //       // },
-    //       // {
-    //       //   name: "জলযান",
-    //       //   link: "watercraft"
-    //       // }
-    //     ]
-    // },
-    // {
-    //   id: 13,
-    //   photo: "../resources/icons/car-stand.png",
-    //   name: "গাড়ী স্ট্যান্ড",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "সিএনজি স্ট্যান্ড",
-    //         link: "cng-stand"
-    //       },
-    //       {
-    //         name: "বাস স্ট্যান্ড",
-    //         link: "bus-stand"
-    //       },
-    //       {
-    //         name: "ট্রেন স্টেশন",
-    //         link: "train-station"
-    //       },
-    //       {
-    //         name: "অটো স্ট্যান্ড",
-    //         link: "auto-stand"
-    //       }
-    //     ]
-    // },
+    {
+      id: 12,
+      photo: "../resources/icons/transportation-services.png",
+      name: "পরিবহন সেবা",
+      pageLink: "transportation-services",
+      subCategory:
+        [
+          {
+            name: "কুরিয়ার সার্ভিস",
+            link: "courier-service"
+          },
+          {
+            name: "পেট্রোল পাম্প",
+            link: "petrol-pump"
+          },
+          {
+            name: "রেন্ট এ কার",
+            link: "rent-a-car"
+          },
+          {
+            name: "পিকাপ",
+            link: "pickup"
+          },
+          {
+            name: "ট্রাক",
+            link: "truck"
+          },
+          {
+            name: "ডিস্টিক ট্রাক",
+            link: "district-truck"
+          },
+          {
+            name: "সিএনজি",
+            link: "cng"
+          },
+          {
+            name: "ভ্যান গাড়ি",
+            link: "van"
+          },
+          {
+            name: "জলযান",
+            link: "watercraft"
+          }
+        ]
+    },
+    {
+      id: 13,
+      photo: "../resources/icons/car-stand.png",
+      name: "গাড়ী স্ট্যান্ড",
+      pageLink: "car-stand",
+      subCategory:
+        [
+          {
+            name: "সিএনজি স্ট্যান্ড",
+            link: "cng-stand"
+          },
+          {
+            name: "বাস স্ট্যান্ড",
+            link: "bus-stand"
+          },
+          {
+            name: "ট্রেন স্টেশন",
+            link: "train-station"
+          },
+          {
+            name: "অটো স্ট্যান্ড",
+            link: "auto-stand"
+          }
+        ]
+    },
     {
       id: 14,
       photo: "../resources/icons/decorator.png",
@@ -600,10 +644,10 @@ const categoryData = [
             name: "দলিল লেখক",
             link: "author-of-the-document"
           },
-          // {
-          //   name: "আইনজীবী",
-          //   link: "lawyer"
-          // },
+          {
+            name: "আইনজীবী",
+            link: "lawyer"
+          },
           {
             name: "ইউনিয়ন অফিস",
             link: "union-office"
@@ -630,34 +674,35 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 18,
-    //   photo: "../resources/icons/market.png",
-    //   name: "মার্কেট",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "সুপার মার্কেট",
-    //         link: "supermarket"
-    //       },
-    //       {
-    //         name: "কাঁচা বাজার",
-    //         link: "raw-market"
-    //       },
-    //       {
-    //         name: "পোশাকের বাজার",
-    //         link: "clothing-market"
-    //       },
-    //       {
-    //         name: "পাইকারি বাজার",
-    //         link: "wholesale-market"
-    //       },
-    //       {
-    //         name: "কসমিটিক্স এর বাজার",
-    //         link: "cosmetics-market"
-    //       }
-    //     ]
-    // },
+    {
+      id: 18,
+      photo: "../resources/icons/market.png",
+      name: "মার্কেট",
+      pageLink: "market",
+      subCategory:
+        [
+          {
+            name: "সুপার মার্কেট",
+            link: "supermarket"
+          },
+          {
+            name: "কাঁচা বাজার",
+            link: "raw-market"
+          },
+          {
+            name: "পোশাকের বাজার",
+            link: "clothing-market"
+          },
+          {
+            name: "পাইকারি বাজার",
+            link: "wholesale-market"
+          },
+          {
+            name: "কসমিটিক্স এর বাজার",
+            link: "cosmetics-market"
+          }
+        ]
+    },
     {
       id: 19,
       photo: "../resources/icons/banking-services.png",
@@ -683,54 +728,55 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 20,
-    //   photo: "../resources/icons/gift-corner.png",
-    //   name: "গিফট কর্নার",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "গিফট এর দোকান",
-    //         link: "gift-shop"
-    //       },
-    //       // {
-    //       //   name: "1 to 99 দোকান",
-    //       //   link: "1-to-99-store"
-    //       // },
-    //       {
-    //         name: "লাইব্রেরি",
-    //         link: "library"
-    //       },
-    //       {
-    //         name: "ফুলের দোকান",
-    //         link: "flower-shop"
-    //       }
-    //     ]
-    // },
-    // {
-    //   id: 21,
-    //   photo: "../resources/icons/tourist-spot.png",
-    //   name: "ঘোরার জায়গা",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "পার্ক",
-    //         link: "park"
-    //       },
-    //       {
-    //         name: "সিনেমা হল",
-    //         link: "cinema-hall"
-    //       },
-    //       {
-    //         name: "রেস্টুরেন্ট",
-    //         link: "restaurant"
-    //       },
-    //       {
-    //         name: "নার্সারী",
-    //         link: "nursery"
-    //       }
-    //     ]
-    // },
+    {
+      id: 20,
+      photo: "../resources/icons/gift-corner.png",
+      name: "গিফট কর্নার",
+      pageLink: "gift-corner",
+      subCategory:
+        [
+          {
+            name: "গিফট এর দোকান",
+            link: "gift-shop"
+          },
+          {
+            name: "1 to 99 দোকান",
+            link: "1-to-99-store"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library"
+          },
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop"
+          }
+        ]
+    },
+    {
+      id: 21,
+      photo: "../resources/icons/tourist-spot.png",
+      name: "ঘোরার জায়গা",
+      subCategory:
+        [
+          {
+            name: "পার্ক",
+            link: "park"
+          },
+          {
+            name: "সিনেমা হল",
+            link: "cinema-hall"
+          },
+          {
+            name: "রেস্টুরেন্ট",
+            link: "restaurant"
+          },
+          {
+            name: "নার্সারী",
+            link: "nursery"
+          }
+        ]
+    },
     {
       id: 22,
       photo: "../resources/icons/service-organization.png",
@@ -755,7 +801,7 @@ const categoryData = [
     {
       id: 23,
       photo: "../resources/icons/it-support.png",
-      name: "IT Support",
+      name: "আইটি সেবা",
       pageLink: "it-support",
       subCategory:
         [
@@ -785,30 +831,30 @@ const categoryData = [
           }
         ]
     },
-    // {
-    //   id: 24,
-    //   photo: "../resources/icons/religious-place.png",
-    //   name: "ধার্মিক স্থান",
-    //   subCategory:
-    //     [
-    //       {
-    //         name: "মসজিদ",
-    //         link: "mosque"
-    //       },
-    //       {
-    //         name: "মন্দির",
-    //         link: "temple"
-    //       },
-    //       {
-    //         name: "গির্জা",
-    //         link: "girja"
-    //       }
-    //     ]
-    // },
+    {
+      id: 24,
+      photo: "../resources/icons/religious-place.png",
+      name: "ধার্মিক স্থান",
+      subCategory:
+        [
+          {
+            name: "মসজিদ",
+            link: "mosque"
+          },
+          {
+            name: "মন্দির",
+            link: "temple"
+          },
+          {
+            name: "গির্জা",
+            link: "girja"
+          }
+        ]
+    },
     {
       id: 25,
       photo: "../resources/icons/online-sellers.png",
-      name: "Online Seller",
+      name: "অনলাইন সেলার",
       pageLink: "online-sellers",
       subCategory:
         [

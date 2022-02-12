@@ -8,7 +8,7 @@ function navTemplate(nav) {
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-2 logo-div">
-                    <a href="index.html"><i class="fas fa-address-book"></i></a>
+                    <a href="https://www.areaphonebook.com"><i class="fas fa-address-book"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
                     <a class="blog-header-logo" href="https://www.areaphonebook.com">Area Phonebook</a><sup>Beta</sup>
@@ -19,8 +19,8 @@ function navTemplate(nav) {
                         <i class="fas fa-ellipsis-v"></i>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#" id="theme-toggle"><i class="fas fa-user-plus"></i> <span id="theme">Light</span> Mode</a>
-                            <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
+
+                             
                             <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a>
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
                             <a class="dropdown-item" href="mailto:areaphonebook@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a>
@@ -38,6 +38,12 @@ function navTemplate(nav) {
     <div style="margin-top: 50px;"></div>
     `;
 }
+
+
+// <a class="dropdown-item" href="#" id="theme-toggle"><i class="fas fa-user-plus"></i> <span id="theme">Light</span> Mode</a>
+// <a class="dropdown-item" href="https://forms.gle/QNqDBmJFR9tnPvwBA" target="_blank"><i class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
+
+
 
 
 document.getElementById("nav").innerHTML = `
