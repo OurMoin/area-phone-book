@@ -42,5 +42,16 @@ const userData = [
     detail: "royaldecor004@gmail.com<br> বিয়ে, বৌ-ভাত, রিসিপশন, জন্মদিন ও পার্টি সহ যেকোন অনুষ্ঠানকে আরো বর্নিল রুপ প্রদানে, আপনার স্মৃতিময় দিনকে আরো স্মরণীয় করে রাখতে পাশে আছে 'রয়্যাল ডেকর'। রুচিসম্মত ও বাহারি সজ্জায় সজ্জিত হোক আপনার চারপাশ। <br>একটি ডেকোরেশন সেট এ পাচ্ছেনঃ-<br> Stage Backdrop.<br> Stage Sofa/Divan.<br> Stage Carpet.<br> Entry Gate with 'Welcome Banner'. <br> Photobooth.<br> Floral walkway with lightning.<br> 20feet carpet for walkway.<br> Leaf ient with lightning and chandelier.",
     postLink: "https://www.facebook.com/Royal-Decor-103636658571037/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/decorators/royal-decker-and-event.jpg",
+    name: "রয়্যাল ডেকর & ইভেন্ট",
+    number: "01601478438",
+    wordNo: "৫",
+    location: "রসুলপুর, বাগানবাড়ী",
+    detail: "আমরা বাংলাদেশের সর্বত্র নিম্নলিখিত পরিষেবাগুলি অফার করি:<br> ♦ বিবাহের মঞ্চ সজ্জা<br> ♦ প্রবেশের গেট<br> ♦সজ্জা বিক্রয়<br> ♦ওয়াকওয়ে রেড কার্পেট<br> ♦হলুদ পর্যায়<br> ♦পালকি<br> ♦ফটোগ্রাফি এবং সিনেমাটোগ্রাফি<br> ♦সাউন্ড সিস্টেম এবং আলো<br> ♦ পেশাদার ডিজে<br> ♦ছোটপোতি, ফুচকা এবং কফি স্টল<br> ♦গাড়ি সজ্জা<br> ♦ বিল্ডিং আলো<br> ♦বাসর ঘর<br> ♦ চলন্ত গাড়ি<br> ♦হলুদ সজ্জা<br> ♦মালা/ডালা<br> ♦ নর্তকী গ্রুপ<br> ♦বিবাহের অলঙ্কার<br> ♦ব্যান্ড পার্টি/ব্যান্ড শো/কনসার্ট/গায়ক<br> ♦কাওয়ালি গান<br> ♦টেবিল কেন্দ্রবিন্দু<br> আপনার বিবাহ বা কর্পোরেট ইভেন্টের জন্য আমাদের বুক করতে আমাদের সাথে যোগাযোগ করুন-01601478438, 01889035642",
+    postLink: "Royaldecor38@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
