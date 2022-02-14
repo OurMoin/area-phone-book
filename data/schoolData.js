@@ -108,6 +108,28 @@ const userData = [
     detail: "প্লে থেকে নবম শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/school/school.png",
+    name: "স্বদেশ স্কুল এন্ড কলেজ",
+    number: "01915702231",
+    wordNo: "৫",
+    location: "কদমতলি পাকার মাথা",
+    detail: "প্লে থেকে একাদশ শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 12,
+    photo: "../cdn/school/holy-ambition-international-school.jpg",
+    name: "হলি অ্যাবিশন ইন্টারন্যাশনাল স্কুল",
+    number: "01915702231",
+    wordNo: "৫",
+    location: "কদমতলি পাকার মাথা",
+    detail: "প্লে থেকে একাদশ শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
