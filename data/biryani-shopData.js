@@ -42,5 +42,27 @@ const userData = [
     detail: "খোকন ভাইয়ের বিরিয়ানির দোকান।<br> অভিজ্ঞ বাবুর্চি ধারা তৈরি বিরিয়ানি ও কাচ্চি পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/biryani-shop/kacchibhai.png",
+    name: "কাচ্চি ভাই",
+    number: "01713879996",
+    wordNo: "অন্যান্য",
+    location: "চাষাড়া শহীদ মিনার সংলগ্ন",
+    detail: "এটি একটি বিরিয়ানি রেস্টুরেন্ট।<br> অভিজ্ঞ বাবুর্চি ধারা তৈরি বিরিয়ানি ও কাচ্চি পাওয়া যায়।",
+    postLink: "https://www.facebook.com/kacchibhainarayanganj",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/biryani-shop/sultan-bhai-kachchi.png",
+    name: "সুলতান ভাই কাচ্চি",
+    number: "01715221020",
+    wordNo: "অন্যান্য",
+    location: "বাগে জান্নাত মসজিদ রোড়, চাষাড়া",
+    detail: "এটি একটি বিরিয়ানি রেস্টুরেন্ট।<br> অভিজ্ঞ বাবুর্চি ধারা তৈরি বিরিয়ানি ও কাচ্চি পাওয়া যায়।",
+    postLink: "https://www.facebook.com/mdshafiulalamkajol",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
