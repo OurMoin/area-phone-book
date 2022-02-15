@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/library/riya-library.jpg",
+    photo: "../cdn/library/library.png",
     name: "It Zone Academy",
     number: "01913255077",
     wordNo: "৬",
