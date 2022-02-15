@@ -32,17 +32,17 @@ const userData = [
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
-  // {
-  //   id: 4,
-  //   photo: "../cdn/madrasa/madrasa.png",
-  //   name: "আলেকজান হামিদিয়া হামিয়াতুস সুন্নাহ মাদ্রাসা",
-  //   number: "Hidden",
-  //   wordNo: "৬",
-  //   location: "দক্ষিণ রসুলপুর, বড় মসজিদ এর পাশে",
-  //   detail: "হেফজ খানা ও মাদ্রাসা।",
-  //   postLink: "http://fb.com/areaPhonebook",
-  //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  // },
+  {
+    id: 4,
+    photo: "../cdn/madrasa/madrasa.png",
+    name: "আলেকজান হামিদিয়া হামিয়াতুস সুন্নাহ মাদ্রাসা",
+    number: "Hidden",
+    wordNo: "৬",
+    location: "দক্ষিণ রসুলপুর, বড় মসজিদ এর পাশে",
+    detail: "হেফজ খানা ও মাদ্রাসা।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
   {
     id: 5,
     photo: "../cdn/madrasa/munshibagh-darul-jannat-hifzul-quran-madrasa.jpg",
@@ -62,6 +62,17 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
     detail: "কেডেত শাখা, কিতাব খানা, হেফজ খানা, নুরানি শাখা, এতিম খান, মহিলা মাদ্রাসা (প্রথম শ্রেনি থেকে তাকমিল)।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/madrasa/nurbagh-madrasa.jpg",
+    name: "পূর্ব কদমতলী আলিম মাদ্রাসা",
+    number: "01717227714",
+    wordNo: "৫",
+    location: "কদমতলী পাকার মাথা",
+    detail: "ইবতেদায়ী প্লে থেকে আলিম শ্রেণী পর্যন্ত, মানবিক ও বিজ্ঞান বিভাগ, আবাসিক-অনাবাসিক ডে কেয়ার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
