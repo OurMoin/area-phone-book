@@ -51,7 +51,7 @@ const categoryData = [
       id: 9,
       photo: "../resources/icons/civic-service/postman.png",
       name: "পোস্ট মাস্টার",
-      link: "post-master"
+      link: "postmaster"
     }
   ];
   
