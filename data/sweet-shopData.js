@@ -17,7 +17,18 @@ const userData = [
     number: "01748271952",
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
-    detail: "মিষ্টি, বেকারি এর সকল পন্য।",
+    detail: "মিষ্টি ও বেকারি এর সকল পন্য।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/sweet-shop/sweet-shop.png",
+    name: "পাগল নাথ মিষ্টান্ন ভাণ্ডার",
+    number: "01715226896",
+    wordNo: "৬",
+    location: "পাগলা বাজার",
+    detail: "প্রসিদ্ধ দধি, মিষ্টি, রসমালাই, সন্ডেন প্যারা, সন্ডেস ক্ষিরা, লাড্ডু, জর্দা মিষ্টি, ঘি বিক্রেতা ও সরবরাহকারি।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
