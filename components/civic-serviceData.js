@@ -7,39 +7,51 @@ const categoryData = [
     },
     {
       id: 2,
+      photo: "../resources/icons/civic-service/lawyer.png",
+      name: "আইনজীবী",
+      link: "lawyer"
+    },
+    {
+      id: 3,
       photo: "../resources/icons/civic-service/union-office.png",
       name: "ইউনিয়ন অফিস",
       link: "union-office"
     },
     {
-      id: 3,
+      id: 4,
       photo: "../resources/icons/civic-service/chairman-member.png",
       name: "চেয়ারম্যান-মেম্বার",
       link: "chairman-member"
     },
     {
-      id: 4,
+      id: 5,
       photo: "../resources/icons/civic-service/chairman-office.png",
       name: "চেয়ারম্যান অফিস",
       link: "chairman-office"
     },
     {
-      id: 5,
+      id: 6,
       photo: "../resources/icons/civic-service/voter-office.png",
       name: "ভোটার অফিস",
       link: "voter-office"
     },
     {
-      id: 6,
+      id: 7,
       photo: "../resources/icons/civic-service/land-office.png",
       name: "ভূমি অফিস",
       link: "land-office"
     },
     {
-      id: 7,
+      id: 8,
       photo: "../resources/icons/civic-service/kazi-office.png",
       name: "কাজী অফিস",
       link: "kazi-office"
+    },
+    {
+      id: 9,
+      photo: "../resources/icons/civic-service/postman.png",
+      name: "পোস্ট মাস্টার",
+      link: "postmaster"
     }
   ];
   

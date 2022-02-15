@@ -61,7 +61,7 @@ const userData = [
     number: "01799889007",
     wordNo: "৬",
     location: "হাজী ইউনুস সুপার মার্কেট(২য় তলা), পাগলা বাজার",
-    detail: "দাতের সকল প্রকার চিকিৎসা হয়। ডাক্তার বসে রোগী দেখানোর জন্য উল্লেখিত নাম্বারে যোগাযোগ করুন।",
+    detail: "দাতের সকল প্রকার চিকিৎসা হয়। ডাক্তার বসে রোগী দেখানোর জন্য উল্লেখিত নাম্বারে যোগাযোগ করুন।<br> সার্জন ডাঃ চৌধুরী সুজন বড়ুয়া<br> বিডিএস (ঢাকা) পিজিটি (ও এস এফ)<br> পিজিটি (কনজারভেটিভ) ডেন্টিস্ট্রি<br> রেজি নং- ৫৭৯৯",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }

@@ -671,6 +671,10 @@ const categoryData = [
           {
             name: "কাজী অফিস",
             link: "kazi-office"
+          },
+          {
+            name: "পোস্ট মাস্টার",
+            link: "post-master"
           }
         ]
     },

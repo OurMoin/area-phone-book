@@ -45,13 +45,13 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/graphic-design/md-kalam.png",
-    name: "মোঃ কালাম",
-    number: "01685322989",
-    wordNo: "৫",
-    location: "রসুলপুর",
-    detail: "Professional Graphics Designer.<br>Excerpt in Adobe Photoshop.",
-    postLink: "https://www.facebook.com/sohag.islam.142",
+    photo: "../cdn/graphic-design/sajjad-hossain.jpg",
+    name: "Sajjad Hossain",
+    number: "01308390001",
+    wordNo: "৪",
+    location: "পূর্ব দেলপাড়া",
+    detail: "I am graphic designer. Working on logo design sector. I also can do banner,poster,email signature, template, portfolio, Business Card, etc. My target is client satisfaction first.",
+    postLink: "Sajjadhossain.officials@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

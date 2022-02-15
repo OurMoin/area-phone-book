@@ -64,5 +64,27 @@ const userData = [
     detail: "সকল প্রকার ডিসট্রিক্ট ট্রাক পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/car-rental/muhith-rent-a-car.jpg",
+    name: "মুহিত রেন্ট-এ-কার",
+    number: "01716048411",
+    wordNo: "6",
+    location: "কাজী খোরশেদ প্লাজা, পাগলা বাজার",
+    detail: "এখানে এসি, নন এসি মাইক্রোবাস, নোহা, হায়েস, প্রাইভেট কার ও এম্বুলেন্স ভাড়া দেওয়া হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/car-rental/muhith-rent-a-car.jpg",
+    name: "আলিফ রেন্ট এ কার",
+    number: "01684882733",
+    wordNo: "6",
+    location: "ইসলামীয়া বাজার",
+    detail: "এখানে হাইস, নোয়াহ ও প্রাইভেট-কার ভাড়া দেওয়া হয়।",
+    postLink: "Rahatbosd@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
