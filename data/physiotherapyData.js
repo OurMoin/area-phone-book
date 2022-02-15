@@ -6,7 +6,7 @@ const userData = [
     number: "01915669696",
     wordNo: "৪",
     location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড সংলগ্ন, নুরবাগ",
-    detail: "প্রদান ঠিকানা রায়েরবাগ, ঢাকা।",
+    detail: "ফিজিওথেরাপি সেন্টার<br> প্রধান ঠিকানা রায়েরবাগ, ঢাকা।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -17,7 +17,29 @@ const userData = [
     number: "01672664134",
     wordNo: "৫",
     location: "প্রেসিডেন্সি ভবন (নিচ তলা), শাহী-মহল্লা কবরস্থান রোড",
-    detail: "ফিজিওথেরাপি।",
+    detail: "ফিজিওথেরাপি সেন্টার।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/physiotherapy/physiotherapy.png",
+    name: "ডি এস এস কম্বাইন্ড",
+    number: "01732748317",
+    wordNo: "৬",
+    location: "হাজী ইউনুস সুপার মার্কেট ২য় তলা, পাগলা",
+    detail: "ফিজিওথেরাপি সেন্টার।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/physiotherapy/physiotherapy.png",
+    name: "গোল্ডেন হাউজ",
+    number: "01911475520",
+    wordNo: "৫",
+    location: "আদর্শ নগর",
+    detail: "ফিজিওথেরাপি সেন্টার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
