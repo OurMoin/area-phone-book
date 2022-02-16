@@ -31,7 +31,7 @@ function userTemplate(user) {
     <!-- Founder & Co-Founder -->
     <div class="col-md-4">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="shanto mondol" class="team-img"></a>
+            <a href="../resources/icons/team/shanto-mondol.jpg"><img src="../resources/icons/team/shanto-mondol.jpg" alt="shanto mondol" class="team-img"></a>
             <h2>Shanto Mondol</h2>
             <p class="text-center">Co-Founder, CTO</p>
             <a href="tel:+08801869107346" target="_blank"><i class="fas fa-phone-square-alt"></i></a>
