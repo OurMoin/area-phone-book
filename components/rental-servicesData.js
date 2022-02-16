@@ -28,6 +28,12 @@ const categoryData = [
       photo: "../resources/icons/rental-services/car-rental.png",
       name: "গাড়ি ভাড়া",
       link: "car-rental"
+    },
+    {
+      id: 6,
+      photo: "../resources/icons/rental-services/camera-rental.png",
+      name: "ক্যামেরা ভাড়া",
+      link: "camera-rental"
     }
   ];
   
