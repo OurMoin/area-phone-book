@@ -674,7 +674,7 @@ const categoryData = [
           },
           {
             name: "পোস্ট মাস্টার",
-            link: "post-master"
+            link: "postmaster"
           }
         ]
     },
