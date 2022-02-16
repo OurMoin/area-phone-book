@@ -761,6 +761,7 @@ const categoryData = [
       id: 21,
       photo: "../resources/icons/tourist-spot.png",
       name: "ঘোরার জায়গা",
+      pageLink: "visitors-place",
       subCategory:
         [
           {
