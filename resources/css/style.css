@@ -255,6 +255,62 @@ footer ul li a {
     display: block;
 }
 
+/*======================================
+*            Team Card               *
+======================================*/
+h1 {
+    text-align: center;
+    margin: 15px 0 40px 0;
+}
+
+.team-card {
+    background-color: #F8FFFB;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    color: #413960;
+    margin-bottom: 20px;
+}
+
+.team-card:hover {
+    background-color: #F0FFF0;
+    cursor: pointer;
+    
+}
+
+.icon-card-highlight {
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.team-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.text-center {
+    font-size: 1.1em;
+}
+
+.team .fas,
+.team .fab {
+    font-size: 22px;
+    letter-spacing: 10px;
+}
+
+.team .fa-phone-square-alt {
+    color: #21b573;
+}
+
+.team .fa-facebook-square {
+    color: #3b5998;
+}
+
+.team .fa-envelope {
+    color: #43443d;
+}
 
 
 
