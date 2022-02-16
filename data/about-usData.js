@@ -91,7 +91,7 @@ function userTemplate(user) {
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/female-membar.png"><img src="../resources/icons/female-membar.png" alt="faria jahan puspo" class="team-img"></a>
+            <a href="../resources/icons/team/faria-jahan-puspo.jpg"><img src="../resources/icons/team/faria-jahan-puspo.jpg" alt="faria jahan puspo" class="team-img"></a>
             <h2>Faria J Puspo</h2>
             <p class="text-center">CS</p>
             <a href="tel:+08801798899911" target="_blank"><i class="fas fa-phone-square-alt"></i></a>
