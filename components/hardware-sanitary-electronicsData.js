@@ -31,9 +31,9 @@ const categoryData = [
     },
     {
       id: 6,
-      photo: "../resources/icons/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
-      name: "হার্ডওয়ার-স্যানিটারি-ইলেকট্রনিক্স",
-      link: "hardware-sanitary-electronics"
+      photo: "../resources/icons/hardware-sanitary-electronics/sanitary-hardware-and-electric.png",
+      name: "স্যানিটারি, হার্ডওয়্যার এন্ড ইলেকট্রিক",
+      link: "sanitary-hardware-and-electric"
     },
     {
       id: 7,

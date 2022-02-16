@@ -624,8 +624,8 @@ const categoryData = [
             link: "thai-aluminum-and-glass"
           },           
           {
-            name: "স্যানিটারি হার্ডওয়্যার এন্ড ইলেকট্রিক",
-            link: "hardware-sanitary-electronics"
+            name: "স্যানিটারি, হার্ডওয়্যার এন্ড ইলেকট্রিক",
+            link: "sanitary-hardware-and-electric"
           },
           {
             name: "গ্রিল এবং ওয়ার্কশপের দোকান",
