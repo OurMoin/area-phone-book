@@ -8,15 +8,15 @@ const categoryData = [
         [
           {
             name: "ইউনিয়ন পরিচিতি",
-            link: "mosque"
+            link: "union-introduction"
           },
           {
             name: "গ্রামভিত্তিক লোকসংখ্যা",
-            link: "temple"
+            link: "village-based-population"
           },
           {
             name: "যোগাযোগ ব্যবস্থা",
-            link: "girja"
+            link: "communication-system"
           }
         ]
     },
