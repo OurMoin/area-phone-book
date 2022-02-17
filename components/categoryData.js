@@ -17,6 +17,42 @@ const categoryData = [
           {
             name: "যোগাযোগ ব্যবস্থা",
             link: "communication-system"
+          },
+          {
+            name: "গ্রামসমূহের তালিকা",
+            link: "list-of-villages"
+          },
+          {
+            name: "মানচিত্রে ইউনিয়ন",
+            link: "union-on-the-map"
+          },
+          {
+            name: "ভৌগলিক অবস্থান",
+            link: "geographical-location"
+          },
+          {
+            name: "খাল ও নদী",
+            link: "canals-and-rivers"
+          },
+          {
+            name: "হাট বাজার",
+            link: "hat-bazaar"
+          },
+          {
+            name: "দর্শনীয় স্থান",
+            link: "places-of-interest"
+          },
+          {
+            name: "প্রখ্যাত ব্যক্তিত্ব",
+            link: "eminent-personalities"
+          },
+          {
+            name: "বিশেষ অর্জন",
+            link: "special-achievement"
+          },
+          {
+            name: "দর্শনীয় স্থান",
+            link: "window-events"
           }
         ]
     },
