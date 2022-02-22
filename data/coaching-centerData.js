@@ -75,5 +75,16 @@ const userData = [
     detail: "ষষ্ঠ শ্রেণী থেকে দ্বাদশ শ্রেণী পর্যন্ত সকল বিষয় পড়ানো হয়।",
     postLink: "https://www.facebook.com/%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A6%BF%E0%A6%82-107353131790598",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/coaching-center/coaching-center.png",
+    name: "কনফিডেন্স একাডেমি",
+    number: "01770075381",
+    wordNo: "৫",
+    location: "নিশ্চিতপুর",
+    detail: "৫ম শ্রেনী থেকে দ্বাদশ শ্রেনী পর্যন্ত পড়ানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
   }
 ];
