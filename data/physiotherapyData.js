@@ -42,5 +42,16 @@ const userData = [
     detail: "ফিজিওথেরাপি সেন্টার।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/physiotherapy/bondhon-diagnostic-center.png",
+    name: "বন্ধন ডায়াগনষ্টিক সেন্টার",
+    number: "01755744042",
+    wordNo: "অন্যান্য",
+    location: "জালকুড়ি বাসষ্টান্ড",
+    detail: "ফিজিওথেরাপি ও ডায়াগনষ্টিক সেন্টার। অবিজ্ঞ ডাক্তার বসে ও ডায়াগনষ্টিক সেন্টার।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
