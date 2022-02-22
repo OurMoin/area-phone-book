@@ -20,5 +20,16 @@ const userData = [
     detail: "এখানে সকল প্রকার দলিল মুসাবিদা ও রেজিষ্টী করা হয়। এবং সকল আইনি কাজের পরামর্শ দেওয়া হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 3,
+    photo: "../cdn/author-of-the-document/md-shofikul-islam.png",
+    name: " মোঃ শফিকুল ইসলাম",
+    number: "01718351886",
+    wordNo: "অন্যান্য",
+    location: "জালকুড়ি বাসষ্টান্ড",
+    detail: "এখানে সাব-রেজিষ্টী অফিসের জমি জমার দলিল রেজিষ্টীর কাজ করা হয়। এবং জমির মিউটেশন/ নামজারীর কাজ করা হয় ও জমির পর্চা, বায়া দলিলের নকল উঠানো হয়। সরকারি লাইসেন্সপ্রাপ্ত।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
