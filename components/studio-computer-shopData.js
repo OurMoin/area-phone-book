@@ -16,6 +16,12 @@ const categoryData = [
       photo: "../resources/icons/studio-computer-shop/computer-shop.png",
       name: "কম্পিউটার দোকান",
       link: "computer-shop"
+    },
+    {
+      id: 3,
+      photo: "../resources/icons/studio-computer-shop/printing-press.png",
+      name: "প্রিন্টিং প্রেস",
+      link: "printing-press"
     }
   ];
   
