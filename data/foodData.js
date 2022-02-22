@@ -9,6 +9,17 @@ const userData = [
     detail: "ঘরের খাবার পৌঁছে দেওয়া হয়।",
     postLink: "https://www.facebook.com/sisterskitchen02",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 2,
+    photo: "../cdn/food/organic-food-point.jpg",
+    name: "Organic Food Point",
+    number: "01628099234",
+    wordNo: "৪",
+    location: "দেলপাড়া",
+    detail: "অর্গানিক ফুড, খাঁটি গাওয়া ঘি, খেজুরের গুড়, আখের গুড়, হাতে তৈরি আখের লাল চিনি, বিভিন্ন ফুলের মধু, প্রাকৃতিক চাকের মধু, লাল আটা, লাল চাল, কাঠের ঘানি ভাঙা সরিষার তেল, কালোজিরার তেল, বগুড়ার দই, ক্ষিরসা, ড্রাই ফ্রুটস, মধুময় বাদাম সহ আরো বেশকিছু অর্গানিক খাবার পাবেন আমার কাছে।",
+    postLink: "https://www.facebook.com/ashraf2240",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    }
 ];
     
