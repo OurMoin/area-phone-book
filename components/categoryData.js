@@ -8,7 +8,7 @@ const categoryData = [
         [
           {
             name: "সাইবার রুলস",
-            link: "cyber-​​rules"
+            link: "cyber-rules"
           },
           {
             name: "অভিযোগ এর নিয়ম",
