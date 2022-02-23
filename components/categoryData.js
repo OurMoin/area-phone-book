@@ -1,5 +1,26 @@
 const categoryData = [
     {
+      id: 27,
+      photo: "../resources/icons/cyber-bullying.png",
+      name: "সাইবার বুলিং",
+      pageLink: "cyber-bullying",
+      subCategory:
+        [
+          {
+            name: "সাইবার রুলস",
+            link: "cyber-​​rules"
+          },
+          {
+            name: "অভিযোগ এর নিয়ম",
+            link: "rules-of-complaint"
+          },
+          {
+            name: "অভিযোগ বক্স",
+            link: "complaint-box"
+          }
+        ]
+    },
+    {
       id: 26,
       photo: "../resources/icons/kutubpur-union.png",
       name: "এক নজরে কুতুবপুর",
