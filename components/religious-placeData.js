@@ -16,6 +16,12 @@ const categoryData = [
       photo: "../resources/icons/religious-place/girja.png",
       name: "গির্জা",
       link: "girja"
+    },
+    {
+      id: 4,
+      photo: "../resources/icons/civic-service/cemetery.png",
+      name: "কবরস্থান",
+      link: "cemetery"
     }
   ];
   

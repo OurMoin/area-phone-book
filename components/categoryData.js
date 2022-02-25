@@ -915,6 +915,10 @@ const categoryData = [
           {
             name: "গির্জা",
             link: "girja"
+          },
+          {
+            name: "কবরস্থান",
+            link: "cemetery"
           }
         ]
     },
