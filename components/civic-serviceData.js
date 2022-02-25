@@ -52,6 +52,12 @@ const categoryData = [
       photo: "../resources/icons/civic-service/postman.png",
       name: "পোস্ট মাস্টার",
       link: "postmaster"
+    },
+    {
+      id: 10,
+      photo: "../resources/icons/civic-service/cemetery.png",
+      name: "কবরস্থান",
+      link: "cemetery"
     }
   ];
   

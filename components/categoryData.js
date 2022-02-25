@@ -732,6 +732,10 @@ const categoryData = [
           {
             name: "পোস্ট মাস্টার",
             link: "postmaster"
+          },
+          {
+            name: "কবরস্থান",
+            link: "cemetery"
           }
         ]
     },
