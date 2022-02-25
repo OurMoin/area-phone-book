@@ -292,7 +292,7 @@ const userData = [
     number: "01672664134",
     wordNo: "৫",
     location: "কুমিল্লা সমিতি মার্কেট, শাহী-বাজার",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়। <br><br>ডাঃ মোঃ আবদুন নূর সায়েম <br>এম.বি.বি.এস, বি.সি.এস (স্ব্যাস্থ) <br> রোগী দেখার সময়ঃ বিকাল ৫.৩০ মিঃ হইতে রাত ৯.০০টা। <br>শনি, সোম ও বুধবার পর্যন্ত। <br><br> মোঃ খোরশেদ আমল ভুইয়া<br> চক্ষু,  মাথা ব্যাথা ও লো ভিশন স্পেশালিষ্ট।<br> বিকাল ৪টা থেকে সন্ধ্যা৬ টা। <br><br> ডাঃ মোঃ কামরুল হাসান<br> শিশু ও ফ্যামিলি মেডিসিন<br> প্রতি মঙ্গলবার বিকাল ৩টা থেকে ৫টা পর্যন্ত। <br><br> ডাঃ মোঃ আরশাদ<br> ওরাল এন্ড ডেন্টাল সার্জন<br> প্রতি রবি ও বুধবার  বিকাল ৫ টা থেকে রাত ৯ টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
@@ -303,7 +303,7 @@ const userData = [
     number: "01672259059",
     wordNo: "৬",
     location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন।",
-    detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
+    detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
