@@ -72,7 +72,7 @@ const categoryData = [
             link: "special-achievement"
           },
           {
-            name: "দর্শনীয় স্থান",
+            name: "বাতায়নের ঘটনাপুঞ্জ",
             link: "window-events"
           }
         ]
