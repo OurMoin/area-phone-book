@@ -30,37 +30,37 @@ const categoryData = [
       link: "union-on-the-map"
     },
     {
-      id: 7,
+      id: 6,
       photo: "../resources/icons/ek-nojore-kutubpur/canals-and-rivers.png",
       name: "খাল ও নদী",
       link: "canals-and-rivers"
     },
     {
-      id: 8,
+      id: 7,
       photo: "../resources/icons/ek-nojore-kutubpur/hat-bazaar.png",
       name: "হাট বাজার",
       link: "hat-bazaar"
     },
     {
-      id: 9,
+      id: 8,
       photo: "../resources/icons/ek-nojore-kutubpur/places-of-interest.png",
       name: "দর্শনীয় স্থান",
       link: "places-of-interest"
     },
     {
-      id: 10,
+      id: 9,
       photo: "../resources/icons/ek-nojore-kutubpur/eminent-personalities.png",
       name: "প্রখ্যাত ব্যক্তিত্ব",
       link: "eminent-personalities"
     },
     {
-      id: 11,
+      id: 10,
       photo: "../resources/icons/ek-nojore-kutubpur/special-achievement.png",
       name: "বিশেষ অর্জন",
       link: "special-achievement"
     },
     {
-      id: 12,
+      id: 11,
       photo: "../resources/icons/ek-nojore-kutubpur/window-events.png",
       name: "বাতায়নের ঘটনাপুঞ্জ",
       link: "window-events"
