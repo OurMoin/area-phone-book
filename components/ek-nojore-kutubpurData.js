@@ -30,12 +30,6 @@ const categoryData = [
       link: "union-on-the-map"
     },
     {
-      id: 6,
-      photo: "../resources/icons/ek-nojore-kutubpur/geographical-location.png",
-      name: "ভৌগলিক অবস্থান",
-      link: "geographical-location"
-    },
-    {
       id: 7,
       photo: "../resources/icons/ek-nojore-kutubpur/canals-and-rivers.png",
       name: "খাল ও নদী",

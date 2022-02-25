@@ -28,10 +28,6 @@ const categoryData = [
           link: "union-on-the-map"
         },
         {
-          name: "ভৌগলিক অবস্থান",
-          link: "geographical-location"
-        },
-        {
           name: "খাল ও নদী",
           link: "canals-and-rivers"
         },
