@@ -7,7 +7,7 @@ function userTemplate(user) {
     <!-- Founder & Co-Founder -->
     <div class="col-md-4">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="sharif imtaz" class="team-img"></a>
+            <a href="../resources/icons/team/sharif-imtaz.jpg"><img src="../resources/icons/team/sharif-imtaz.jpg" alt="sharif imtaz" class="team-img"></a>
             <h2>Sharif Imtaz</h2>
             <p class="text-center">Co-Founder, CMO</p>
             <a href="mailto:shorifallrobi321@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
@@ -43,79 +43,19 @@ function userTemplate(user) {
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="asikur rahman" class="team-img"></a>
+            <a href="../resources/icons/team/asikur-rahman.jpg"><img src="../resources/icons/team/asikur-rahman.jpg" alt="asikur rahman" class="team-img"></a>
             <h2>Asikur Rahman</h2>
             <p class="text-center">CFO</p>
             <a href="mailto:md.asikurrahman321@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/md.asikurrahman321" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
-    </div>
+    </div>    
 
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="rabiul islam" class="team-img"></a>
-            <h2>Rabiul Islam</h2>
-            <p class="text-center">Django Developer</p>
-            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/rabiulislam-xyz" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/rabiulislam.xyz" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        </div>
-    </div>   
-    
-    <!-- membar -->
-    <div class="col-md-3">
-        <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/female-membar.png"><img src="../resources/icons/female-membar.png" alt="monika momi" class="team-img"></a>
-            <h2>Monika Momi</h2>
-            <p class="text-center">Laravel Dev</p>
-            <a href="mailto:devmonikamomi@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/devmonika" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/monikamomi97" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        </div>
-    </div>
-
-    <!-- membar -->
-    <div class="col-md-3">
-        <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="saidul islam" class="team-img"></a>
-            <h2>Saidul Islam</h2>
-            <p class="text-center">Front-End Developer</p>
-            <a href="mailto:saidulislamsaif789@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/MuhammadSaidulislam" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/profile.php?id=100007680484829" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        </div>
-    </div>
-
-    <!-- membar -->
-    <div class="col-md-3">
-        <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/team/faria-jahan-puspo.jpg"><img src="../resources/icons/team/faria-jahan-puspo.jpg" alt="faria jahan puspo" class="team-img"></a>
-            <h2>Faria J Puspo</h2>
-            <p class="text-center">CS</p>
-            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/FariaJahanPuspo52" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        </div>
-    </div>
-
-    <!-- membar -->
-    <div class="col-md-3">
-        <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="fawad saruf" class="team-img"></a>
-            <h2>Fawad Saruf</h2>
-            <p class="text-center">Graphic Designer</p>
-            <a href="mailto:shajitsaruf@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/md.saruf.58" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        </div>
-    </div>
-
-    <!-- membar -->
-    <div class="col-md-3">
-        <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="fawad saruf" class="team-img"></a>
+            <a href="../resources/icons/team/omor-faruk.jpg"><img src="../resources/icons/team/omor-faruk.jpg" alt="fawad saruf" class="team-img"></a>
             <h2>Omor Faruk</h2>
             <p class="text-center">Graphic Designer</p>
             <a href="mailto:omor29196@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
@@ -127,15 +67,39 @@ function userTemplate(user) {
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/male-membar.png"><img src="../resources/icons/male-membar.png" alt="mynul talukdar" class="team-img"></a>
-            <h2>Mynul Talukdar</h2>
-            <p class="text-center">Content Writer</p>
-            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/mtmynul.talukdar" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="../resources/icons/team/monika-momi.jpg"><img src="../resources/icons/team/monika-momi.jpg" alt="monika momi" class="team-img"></a>
+            <h2>Monika Momi</h2>
+            <p class="text-center">Front-End Developer</p>
+            <a href="mailto:devmonikamomi@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/devmonika" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/monikamomi97" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
 
+    <!-- membar -->
+    <div class="col-md-3">
+        <div class="justify-content-between align-content-between team-card">
+            <a href="../resources/icons/team/rabiul-islam.jpg"><img src="../resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
+            <h2>Rabiul Islam</h2>
+            <p class="text-center">Back-End Developer</p>
+            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/rabiulislam-xyz" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/rabiulislam.xyz" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
+    </div>
+
+
+    <!-- membar -->
+    <div class="col-md-3">
+        <div class="justify-content-between align-content-between team-card">
+            <a href="../resources/icons/team/faria-jahan-puspo.jpg"><img src="../resources/icons/team/faria-jahan-puspo.jpg" alt="faria jahan puspo" class="team-img"></a>
+            <h2>Faria J Puspo</h2>
+            <p class="text-center">Customer Service</p>
+            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/FariaJahanPuspo52" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
+    </div>
     `;
 }
 
