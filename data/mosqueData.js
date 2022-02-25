@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/Mosque/shahi-madina-jame-mosque.jpg",
+      photo: "../cdn/mosque/shahi-madina-jame-mosque.jpg",
       name: "শাহী মদীনা জামে মসজিদ",
       number: "01671432099",
       wordNo: "৫",
