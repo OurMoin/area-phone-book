@@ -1,103 +1,83 @@
 const categoryData = [
-    {
-      id: 28,
-      photo: "../resources/icons/cyber-bullying.png",
-      name: "সাইবার বুলিং",
-      pageLink: "cyber-bullying",
-      subCategory:
-        [
-          {
-            name: "সাইবার রুলস",
-            link: "cyber-rules"
-          },
-          {
-            name: "অভিযোগ এর নিয়ম",
-            link: "rules-of-complaint"
-          },
-          {
-            name: "অভিযোগ বক্স",
-            link: "complaint-box"
-          }
-        ]
-    },
-    {
-      id: 26,
-      photo: "../resources/icons/kutubpur-union.png",
-      name: "এক নজরে কুতুবপুর",
-      pageLink: "ek-nojore-kutubpur",
-      subCategory:
-        [
-          {
-            name: "ইউনিয়ন পরিচিতি",
-            link: "union-introduction"
-          },
-          {
-            name: "গ্রামভিত্তিক লোকসংখ্যা",
-            link: "village-based-population"
-          },
-          {
-            name: "যোগাযোগ ব্যবস্থা",
-            link: "communication-system"
-          },
-          {
-            name: "গ্রামসমূহের তালিকা",
-            link: "list-of-villages"
-          },
-          {
-            name: "মানচিত্রে ইউনিয়ন",
-            link: "union-on-the-map"
-          },
-          {
-            name: "ভৌগলিক অবস্থান",
-            link: "geographical-location"
-          },
-          {
-            name: "খাল ও নদী",
-            link: "canals-and-rivers"
-          },
-          {
-            name: "হাট বাজার",
-            link: "hat-bazaar"
-          },
-          {
-            name: "দর্শনীয় স্থান",
-            link: "places-of-interest"
-          },
-          {
-            name: "প্রখ্যাত ব্যক্তিত্ব",
-            link: "eminent-personalities"
-          },
-          {
-            name: "বিশেষ অর্জন",
-            link: "special-achievement"
-          },
-          {
-            name: "বাতায়নের ঘটনাপুঞ্জ",
-            link: "window-events"
-          }
-        ]
-    },
-    {
-      id: 27,
-      photo: "../resources/icons/train-time-table.png",
-      name: "বর্তমান ট্রেনের সময়সূচি",
-      pageLink: "current-train-schedule",
-      subCategory:
-        [
-          {
-            name: "ঢাকা - নারায়ণগঞ্জ",
-            link: "dhaka-narayanganj.png"
-          },
-          {
-            name: "পূর্বাঞ্চল",
-            link: "https://railway.portal.gov.bd/site/page/988258c9-5f11-4719-91e2-fbc898d4c2a9"
-          },
-          {
-            name: "পশ্চিমাঞ্চল",
-            link: "https://railway.portal.gov.bd/site/page/6f618d21-8c9a-41da-a896-d5ed83b53b17"
-          }
-        ]
-    },
+    
+  {
+    id: 26,
+    photo: "../resources/icons/kutubpur-union.png",
+    name: "এক নজরে কুতুবপুর",
+    pageLink: "ek-nojore-kutubpur",
+    subCategory:
+      [
+        {
+          name: "ইউনিয়ন পরিচিতি",
+          link: "union-introduction"
+        },
+        {
+          name: "গ্রামভিত্তিক লোকসংখ্যা",
+          link: "village-based-population"
+        },
+        {
+          name: "যোগাযোগ ব্যবস্থা",
+          link: "communication-system"
+        },
+        {
+          name: "গ্রামসমূহের তালিকা",
+          link: "list-of-villages"
+        },
+        {
+          name: "মানচিত্রে ইউনিয়ন",
+          link: "union-on-the-map"
+        },
+        {
+          name: "ভৌগলিক অবস্থান",
+          link: "geographical-location"
+        },
+        {
+          name: "খাল ও নদী",
+          link: "canals-and-rivers"
+        },
+        {
+          name: "হাট বাজার",
+          link: "hat-bazaar"
+        },
+        {
+          name: "দর্শনীয় স্থান",
+          link: "places-of-interest"
+        },
+        {
+          name: "প্রখ্যাত ব্যক্তিত্ব",
+          link: "eminent-personalities"
+        },
+        {
+          name: "বিশেষ অর্জন",
+          link: "special-achievement"
+        },
+        {
+          name: "বাতায়নের ঘটনাপুঞ্জ",
+          link: "window-events"
+        }
+      ]
+  },
+  {
+    id: 27,
+    photo: "../resources/icons/train-time-table.png",
+    name: "বর্তমান ট্রেনের সময়সূচি",
+    pageLink: "current-train-schedule",
+    subCategory:
+      [
+        {
+          name: "ঢাকা - নারায়ণগঞ্জ",
+          link: "dhaka-narayanganj.png"
+        },
+        {
+          name: "পূর্বাঞ্চল",
+          link: "https://railway.portal.gov.bd/site/page/988258c9-5f11-4719-91e2-fbc898d4c2a9"
+        },
+        {
+          name: "পশ্চিমাঞ্চল",
+          link: "https://railway.portal.gov.bd/site/page/6f618d21-8c9a-41da-a896-d5ed83b53b17"
+        }
+      ]
+  },
     {
       id: 1,
       photo: "../resources/icons/emergency-services.png",
@@ -143,6 +123,27 @@ const categoryData = [
           }
         ]
     },
+    {
+        id: 28,
+        photo: "../resources/icons/cyber-bullying.png",
+        name: "সাইবার বুলিং",
+        pageLink: "cyber-bullying",
+        subCategory:
+          [
+            {
+              name: "সাইবার রুলস",
+              link: "cyber-rules"
+            },
+            {
+              name: "অভিযোগ এর নিয়ম",
+              link: "rules-of-complaint"
+            },
+            {
+              name: "অভিযোগ বক্স",
+              link: "complaint-box"
+            }
+          ]
+      },
     {
       id: 2,
       photo: "../resources/icons/blood-donation.png",
@@ -214,43 +215,269 @@ const categoryData = [
         ]
     },
     {
-      id: 4,
-      photo: "../resources/icons/servicing-center.png",
-      name: "সার্ভিসিং সেন্টার",
-      pageLink: "servicing-center",
+      id: 9,
+      photo: "../resources/icons/food-corner_food-store.png",
+      name: "ফুড কর্নার / খাবার দোকান",
+      pageLink: "food-corner_food-store",
       subCategory:
-        [          
+        [
           {
-            name: "মোবাইল সার্ভিসিং",
-            link: "mobile-servicing"
+            name: "হোটেল",
+            link: "hotel"
           },
           {
-            name: "এসি / ফ্রিজ সার্ভিসিং",
-            link: "ac-fridge-servicing"
+            name: "রেস্টুরেন্ট",
+            link: "restaurant"
           },
           {
-            name: "কম্পিউটার সার্ভিসিং",
-            link: "computer-servicing"
+            name: "বিরিয়ানির দোকান",
+            link: "biryani-shop"
           },
           {
-            name: "টিভি সার্ভিসিং",
-            link: "tv-servicing"
+            name: "ফুচকার দোকান",
+            link: "fuchka-shop"
           },
           {
-            name: "ইলেক্টিক সার্ভিসিং",
-            link: "electric-servicing"
+            name: "ফাস্ট ফুড",
+            link: "fast-food"
           },
           {
-            name: "সাইকেল সার্ভিসিং",
-            link: "cycle-servicing"
+            name: "কেক ঘর",
+            link: "cake-house"
           },
           {
-            name: "বাইক সার্ভিসিং",
-            link: "bikes-servicing"
+            name: "মিষ্টির দোকান",
+            link: "sweet-shop"
           },
           {
-            name: "গাড়ি সার্ভিসিং",
-            link: "car-servicing"
+            name: "ফলের দোকান",
+            link: "fruit-shop"
+          }
+        ]
+    },
+    {
+      id: 17,
+      photo: "../resources/icons/civic-service.png",
+      name: "নাগরিক সেবা",
+      pageLink: "civic-service",
+      subCategory:
+        [
+          {
+            name: "দলিল লেখক",
+            link: "author-of-the-document"
+          },
+          {
+            name: "আইনজীবী",
+            link: "lawyer"
+          },
+          {
+            name: "ইউনিয়ন অফিস",
+            link: "union-office"
+          },
+          {
+            name: "চেয়ারম্যান-মেম্বার",
+            link: "chairman-member"
+          },
+          {
+            name: "চেয়ারম্যান অফিস",
+            link: "chairman-office"
+          },
+          {
+            name: "ভোটার অফিস",
+            link: "voter-office"
+          },
+          {
+            name: "ভূমি অফিস",
+            link: "land-office"
+          },
+          {
+            name: "কাজী অফিস",
+            link: "kazi-office"
+          },
+          {
+            name: "পোস্ট মাস্টার",
+            link: "postmaster"
+          },
+          {
+            name: "কবরস্থান",
+            link: "cemetery"
+          }
+        ]
+    },
+    {
+      id: 22,
+      photo: "../resources/icons/service-organization.png",
+      name: "সেবামূলক সংগঠন",
+      pageLink: "service-organization",
+      subCategory:
+        [
+          {
+            name: "সামাজিক সংগঠন",
+            link: "social-organization"
+          },
+          {
+            name: "যুব সংগঠন",
+            link: "youth-organizations"
+          },
+          {
+            name: "রক্ত দান",
+            link: "blood-donation"
+          }
+        ]
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/shop.png",
+      name: "দোকান",
+      pageLink: "shop",
+      subCategory:
+        [
+          {
+            name: "সুপার শপ",
+            link: "super-shop"
+          },
+          {
+            name: "মিনি সুপার শপ",
+            link: "mini-super-shop"
+          },
+          {
+            name: "পাইকারী দোকান",
+            link: "wholesale-store"
+          }, 
+          {
+            name: "ডিলার পয়েন্ট",
+            link: "dealer-points"
+          },
+          {
+            name: "কনফেকশনারী",
+            link: "confectionary"
+          },
+          {
+            name: "বেকারি",
+            link: "bakery"
+          },
+          {
+            name: "মশলার দোকান",
+            link: "spice-shop"
+          },
+          {
+            name: "টেইলার্স এন্ড ফেব্রিক্স",
+            link: "tailors-and-fabrics"
+          },  
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop"
+          },
+          {
+            name: "ফলের দোকান",
+            link: "fruit-shop"
+          },
+          {
+            name: "টেলিকম সেন্টার",
+            link: "telecom-center"
+          },
+          {
+            name: "মিষ্টির দোকান",
+            link: "sweet-shop"
+          },
+          {
+            name: "জুয়েলার্স",
+            link: "jewelers"
+          },
+          {
+            name: "ক্রোকারিজ",
+            link: "crockery"
+          }, 
+          {
+            name: "কাপড়ের দোকান",
+            link: "clothing-shop"
+          },
+          {
+            name: "ফার্নিচার",
+            link: "furniture"
+          },
+          {
+            name: "লাইব্রেরি",
+            link: "library"
+          }, 
+          {
+            name: "বাদ্যযন্ত্র সমূহ",
+            link: "musical-instruments"
+          }
+        ]
+    },
+    {
+      id: 18,
+      photo: "../resources/icons/market.png",
+      name: "মার্কেট",
+      pageLink: "market",
+      subCategory:
+        [
+          {
+            name: "সুপার মার্কেট",
+            link: "supermarket"
+          },
+          {
+            name: "কাঁচা বাজার",
+            link: "raw-market"
+          },
+          {
+            name: "পোশাকের বাজার",
+            link: "clothing-market"
+          },
+          {
+            name: "পাইকারি বাজার",
+            link: "wholesale-market"
+          },
+          {
+            name: "কসমিটিক্স এর বাজার",
+            link: "cosmetics-market"
+          }
+        ]
+    },
+    {
+      id: 21,
+      photo: "../resources/icons/tourist-spot.png",
+      name: "ঘোরার জায়গা",
+      pageLink: "visitors-place",
+      subCategory:
+        [
+          {
+            name: "পার্ক",
+            link: "park"
+          },
+          {
+            name: "সিনেমা হল",
+            link: "cinema-hall"
+          },
+          {
+            name: "রেস্টুরেন্ট",
+            link: "restaurant"
+          },
+          {
+            name: "নার্সারী",
+            link: "nursery"
+          }
+        ]
+    },
+    {
+      id: 11,
+      photo: "../resources/icons/parlor-salon.png",
+      name: "পার্লার / সেলুন",
+      pageLink: "parlor-salon",
+      subCategory:
+        [
+          {
+            name: "পার্লার",
+            link: "parlor"
+          },
+          {
+            name: "সেলুন",
+            link: "salon"
+          },
+          {
+            name: "কসমিটিক্স এর দোকান",
+            link: "cosmetics-shop"
           }
         ]
     },
@@ -341,83 +568,64 @@ const categoryData = [
         ]
     },
     {
-      id: 7,
-      photo: "../resources/icons/shop.png",
-      name: "দোকান",
-      pageLink: "shop",
+      id: 10,
+      photo: "../resources/icons/studio-computer-shop.png",
+      name: "স্টুডিও / কম্পিউটার দোকান",
+      pageLink: "studio-computer-shop",
       subCategory:
         [
           {
-            name: "সুপার শপ",
-            link: "super-shop"
+            name: "স্টুডিও",
+            link: "studio"
           },
           {
-            name: "মিনি সুপার শপ",
-            link: "mini-super-shop"
+            name: "ক্যামেরাম্যান",
+            link: "cameraman"
           },
           {
-            name: "পাইকারী দোকান",
-            link: "wholesale-store"
-          }, 
+            name: "কম্পিউটার দোকান",
+            link: "computer-shop"
+          }
+        ]
+    },
+    {
+      id: 4,
+      photo: "../resources/icons/servicing-center.png",
+      name: "সার্ভিসিং সেন্টার",
+      pageLink: "servicing-center",
+      subCategory:
+        [          
           {
-            name: "ডিলার পয়েন্ট",
-            link: "dealer-points"
+            name: "মোবাইল সার্ভিসিং",
+            link: "mobile-servicing"
           },
           {
-            name: "কনফেকশনারী",
-            link: "confectionary"
+            name: "এসি / ফ্রিজ সার্ভিসিং",
+            link: "ac-fridge-servicing"
           },
           {
-            name: "বেকারি",
-            link: "bakery"
+            name: "কম্পিউটার সার্ভিসিং",
+            link: "computer-servicing"
           },
           {
-            name: "মশলার দোকান",
-            link: "spice-shop"
+            name: "টিভি সার্ভিসিং",
+            link: "tv-servicing"
           },
           {
-            name: "টেইলার্স এন্ড ফেব্রিক্স",
-            link: "tailors-and-fabrics"
-          },  
-          {
-            name: "ফুলের দোকান",
-            link: "flower-shop"
+            name: "ইলেক্টিক সার্ভিসিং",
+            link: "electric-servicing"
           },
           {
-            name: "ফলের দোকান",
-            link: "fruit-shop"
+            name: "সাইকেল সার্ভিসিং",
+            link: "cycle-servicing"
           },
           {
-            name: "টেলিকম সেন্টার",
-            link: "telecom-center"
+            name: "বাইক সার্ভিসিং",
+            link: "bikes-servicing"
           },
           {
-            name: "মিষ্টির দোকান",
-            link: "sweet-shop"
-          },
-          {
-            name: "জুয়েলার্স",
-            link: "jewelers"
-          },
-          {
-            name: "ক্রোকারিজ",
-            link: "crockery"
-          }, 
-          {
-            name: "কাপড়ের দোকান",
-            link: "clothing-shop"
-          },
-          {
-            name: "ফার্নিচার",
-            link: "furniture"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library"
-          }, 
-          {
-            name: "বাদ্যযন্ত্র সমূহ",
-            link: "musical-instruments"
+            name: "গাড়ি সার্ভিসিং",
+            link: "car-servicing"
           }
         ]
     },
@@ -455,85 +663,73 @@ const categoryData = [
         ]
     },
     {
-      id: 9,
-      photo: "../resources/icons/food-corner_food-store.png",
-      name: "ফুড কর্নার / খাবার দোকান",
-      pageLink: "food-corner_food-store",
+      id: 15,
+      photo: "../resources/icons/mechanic.png",
+      name: "মিস্ত্রী",
+      pageLink: "mechanic",
       subCategory:
         [
           {
-            name: "হোটেল",
-            link: "hotel"
+            name: "রং মিস্ত্রী",
+            link: "painter"
           },
           {
-            name: "রেস্টুরেন্ট",
-            link: "restaurant"
+            name: "কাঠ মিস্ত্রী",
+            link: "carpenter"
           },
           {
-            name: "বিরিয়ানির দোকান",
-            link: "biryani-shop"
-          },
-          {
-            name: "ফুচকার দোকান",
-            link: "fuchka-shop"
-          },
-          {
-            name: "ফাস্ট ফুড",
-            link: "fast-food"
-          },
-          {
-            name: "কেক ঘর",
-            link: "cake-house"
-          },
-          {
-            name: "মিষ্টির দোকান",
-            link: "sweet-shop"
-          },
-          {
-            name: "ফলের দোকান",
-            link: "fruit-shop"
+            name: "ইলেকট্রিক মিস্ত্রী",
+            link: "electric-mechanic"
           }
         ]
     },
     {
-      id: 10,
-      photo: "../resources/icons/studio-computer-shop.png",
-      name: "স্টুডিও / কম্পিউটার দোকান",
-      pageLink: "studio-computer-shop",
+      id: 14,
+      photo: "../resources/icons/decorator.png",
+      name: "ডেকোরেটর",
+      pageLink: "decorator",
       subCategory:
         [
           {
-            name: "স্টুডিও",
-            link: "studio"
+            name: "ডেকোরেটরস",
+            link: "decorators"
           },
           {
-            name: "ক্যামেরাম্যান",
-            link: "cameraman"
+            name: "বাবুর্চি",
+            link: "chef"
           },
           {
-            name: "কম্পিউটার দোকান",
-            link: "computer-shop"
+            name: "কমিউনিটি সেন্টার",
+            link: "community-center"
+          },
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop"
           }
         ]
     },
     {
-      id: 11,
-      photo: "../resources/icons/parlor-salon.png",
-      name: "পার্লার / সেলুন",
-      pageLink: "parlor-salon",
+      id: 20,
+      photo: "../resources/icons/gift-corner.png",
+      name: "গিফট কর্নার",
+      pageLink: "gift-corner",
       subCategory:
         [
           {
-            name: "পার্লার",
-            link: "parlor"
+            name: "গিফট এর দোকান",
+            link: "gift-shop"
           },
           {
-            name: "সেলুন",
-            link: "salon"
+            name: "1 to 99 দোকান",
+            link: "1-to-99-store"
           },
           {
-            name: "কসমিটিক্স এর দোকান",
-            link: "cosmetics-shop"
+            name: "লাইব্রেরি",
+            link: "library"
+          },
+          {
+            name: "ফুলের দোকান",
+            link: "flower-shop"
           }
         ]
     },
@@ -608,52 +804,6 @@ const categoryData = [
         ]
     },
     {
-      id: 14,
-      photo: "../resources/icons/decorator.png",
-      name: "ডেকোরেটর",
-      pageLink: "decorator",
-      subCategory:
-        [
-          {
-            name: "ডেকোরেটরস",
-            link: "decorators"
-          },
-          {
-            name: "বাবুর্চি",
-            link: "chef"
-          },
-          {
-            name: "কমিউনিটি সেন্টার",
-            link: "community-center"
-          },
-          {
-            name: "ফুলের দোকান",
-            link: "flower-shop"
-          }
-        ]
-    },
-    {
-      id: 15,
-      photo: "../resources/icons/mechanic.png",
-      name: "মিস্ত্রী",
-      pageLink: "mechanic",
-      subCategory:
-        [
-          {
-            name: "রং মিস্ত্রী",
-            link: "painter"
-          },
-          {
-            name: "কাঠ মিস্ত্রী",
-            link: "carpenter"
-          },
-          {
-            name: "ইলেকট্রিক মিস্ত্রী",
-            link: "electric-mechanic"
-          }
-        ]
-    },
-    {
       id: 16,
       photo: "../resources/icons/hardware-sanitary-electronics.png",
       name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
@@ -691,84 +841,6 @@ const categoryData = [
         ]
     },
     {
-      id: 17,
-      photo: "../resources/icons/civic-service.png",
-      name: "নাগরিক সেবা",
-      pageLink: "civic-service",
-      subCategory:
-        [
-          {
-            name: "দলিল লেখক",
-            link: "author-of-the-document"
-          },
-          {
-            name: "আইনজীবী",
-            link: "lawyer"
-          },
-          {
-            name: "ইউনিয়ন অফিস",
-            link: "union-office"
-          },
-          {
-            name: "চেয়ারম্যান-মেম্বার",
-            link: "chairman-member"
-          },
-          {
-            name: "চেয়ারম্যান অফিস",
-            link: "chairman-office"
-          },
-          {
-            name: "ভোটার অফিস",
-            link: "voter-office"
-          },
-          {
-            name: "ভূমি অফিস",
-            link: "land-office"
-          },
-          {
-            name: "কাজী অফিস",
-            link: "kazi-office"
-          },
-          {
-            name: "পোস্ট মাস্টার",
-            link: "postmaster"
-          },
-          {
-            name: "কবরস্থান",
-            link: "cemetery"
-          }
-        ]
-    },
-    {
-      id: 18,
-      photo: "../resources/icons/market.png",
-      name: "মার্কেট",
-      pageLink: "market",
-      subCategory:
-        [
-          {
-            name: "সুপার মার্কেট",
-            link: "supermarket"
-          },
-          {
-            name: "কাঁচা বাজার",
-            link: "raw-market"
-          },
-          {
-            name: "পোশাকের বাজার",
-            link: "clothing-market"
-          },
-          {
-            name: "পাইকারি বাজার",
-            link: "wholesale-market"
-          },
-          {
-            name: "কসমিটিক্স এর বাজার",
-            link: "cosmetics-market"
-          }
-        ]
-    },
-    {
       id: 19,
       photo: "../resources/icons/banking-services.png",
       name: "ব্যাংকিং সেবা",
@@ -790,77 +862,6 @@ const categoryData = [
           {
             name: "কিস্তি অফিস",
             link: "installment-office"
-          }
-        ]
-    },
-    {
-      id: 20,
-      photo: "../resources/icons/gift-corner.png",
-      name: "গিফট কর্নার",
-      pageLink: "gift-corner",
-      subCategory:
-        [
-          {
-            name: "গিফট এর দোকান",
-            link: "gift-shop"
-          },
-          {
-            name: "1 to 99 দোকান",
-            link: "1-to-99-store"
-          },
-          {
-            name: "লাইব্রেরি",
-            link: "library"
-          },
-          {
-            name: "ফুলের দোকান",
-            link: "flower-shop"
-          }
-        ]
-    },
-    {
-      id: 21,
-      photo: "../resources/icons/tourist-spot.png",
-      name: "ঘোরার জায়গা",
-      pageLink: "visitors-place",
-      subCategory:
-        [
-          {
-            name: "পার্ক",
-            link: "park"
-          },
-          {
-            name: "সিনেমা হল",
-            link: "cinema-hall"
-          },
-          {
-            name: "রেস্টুরেন্ট",
-            link: "restaurant"
-          },
-          {
-            name: "নার্সারী",
-            link: "nursery"
-          }
-        ]
-    },
-    {
-      id: 22,
-      photo: "../resources/icons/service-organization.png",
-      name: "সেবামূলক সংগঠন",
-      pageLink: "service-organization",
-      subCategory:
-        [
-          {
-            name: "সামাজিক সংগঠন",
-            link: "social-organization"
-          },
-          {
-            name: "যুব সংগঠন",
-            link: "youth-organizations"
-          },
-          {
-            name: "রক্ত দান",
-            link: "blood-donation"
           }
         ]
     },

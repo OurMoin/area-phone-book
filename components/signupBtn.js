@@ -5,7 +5,7 @@ const signupBtnData = [
 function signupBtnTemplate(signupBtn) {
     return `
     <div class="hero-btn">
-        <a class="btn btn-danger" target="_blank" href="https://www.areaphonebook.com/signup"><i
+        <a class="btn btn-warning" target="_blank" href="https://www.areaphonebook.com/signup"><i
                 class="fas fa-user-plus"></i> আপনার তথ্য যোগ করুন</a>
     </div>
   `;
