@@ -20,6 +20,17 @@ const userData = [
       detail: "এখানে মানসম্মত চটপটি, ফুচকা ও সু-স্বাদু নুডুলস্ পাওয়া যায়।",
       postLink: "https://www.facebook.com/AreaPhonebook/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 3,
+      photo: "../cdn/fuchka-shop/fuchka-shop.png",
+      name: "আল্লার দান ফাস্টফুড এন্ড ফুচকা হাউস",
+      number: "01822764978",
+      wordNo: "৫",
+      location: "নয়ামাটির ঢাল বোড মেইল এর সাথে",
+      detail: "এখানে মানসম্মত ফুচকা, চটপটি ও ফাস্টফুড পাওয়া যায়।",
+      postLink: "samima1b2c3@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
