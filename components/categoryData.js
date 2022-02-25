@@ -58,6 +58,27 @@ const categoryData = [
       ]
   },
   {
+      id: 28,
+      photo: "../resources/icons/cyber-bullying.png",
+      name: "সাইবার বুলিং",
+      pageLink: "cyber-bullying",
+      subCategory:
+        [
+          {
+            name: "সাইবার রুলস",
+            link: "cyber-rules"
+          },
+          {
+            name: "অভিযোগ এর নিয়ম",
+            link: "rules-of-complaint"
+          },
+          {
+            name: "অভিযোগ বক্স",
+            link: "complaint-box"
+          }
+        ]
+    },
+  {
     id: 27,
     photo: "../resources/icons/train-time-table.png",
     name: "বর্তমান ট্রেনের সময়সূচি",
@@ -123,27 +144,6 @@ const categoryData = [
           }
         ]
     },
-    {
-        id: 28,
-        photo: "../resources/icons/cyber-bullying.png",
-        name: "সাইবার বুলিং",
-        pageLink: "cyber-bullying",
-        subCategory:
-          [
-            {
-              name: "সাইবার রুলস",
-              link: "cyber-rules"
-            },
-            {
-              name: "অভিযোগ এর নিয়ম",
-              link: "rules-of-complaint"
-            },
-            {
-              name: "অভিযোগ বক্স",
-              link: "complaint-box"
-            }
-          ]
-      },
     {
       id: 2,
       photo: "../resources/icons/blood-donation.png",
