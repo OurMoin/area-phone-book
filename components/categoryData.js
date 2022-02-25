@@ -6,7 +6,11 @@ const categoryData = [
     name: "এক নজরে কুতুবপুর",
     pageLink: "ek-nojore-kutubpur",
     subCategory:
-      [
+      [        
+        {
+          name: "কুতুবপুর ইউনিয়নের ইতিহাস",
+          link: "history-of-kutubpur-union"
+        },
         {
           name: "ইউনিয়ন পরিচিতি",
           link: "union-introduction"
@@ -42,14 +46,6 @@ const categoryData = [
         {
           name: "প্রখ্যাত ব্যক্তিত্ব",
           link: "eminent-personalities"
-        },
-        {
-          name: "বিশেষ অর্জন",
-          link: "special-achievement"
-        },
-        {
-          name: "বাতায়নের ঘটনাপুঞ্জ",
-          link: "window-events"
         }
       ]
   },
