@@ -1,6 +1,6 @@
 const categoryData = [
     {
-      id: 27,
+      id: 28,
       photo: "../resources/icons/cyber-bullying.png",
       name: "সাইবার বুলিং",
       pageLink: "cyber-bullying",
