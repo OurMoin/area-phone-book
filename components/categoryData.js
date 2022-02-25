@@ -734,6 +734,147 @@ const categoryData = [
         ]
     },
     {
+      id: 16,
+      photo: "../resources/icons/hardware-sanitary-electronics.png",
+      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
+      pageLink: "hardware-sanitary-electronics",
+      subCategory:
+        [
+          {
+            name: "অটো পার্টস",
+            link: "auto-parts"
+          },
+          {
+            name: "এন্টারপ্রাইজ",
+            link: "enterprise"
+          },
+          {
+            name: "গ্যাস সিলিন্ডার",
+            link: "gas-cylinder"
+          },
+          {
+            name: "স্টিল এন্ড প্লাস্টিক ডোর",
+            link: "steel-and-plastic-door"
+          },
+          {
+            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
+            link: "thai-aluminum-and-glass"
+          },           
+          {
+            name: "স্যানিটারি, হার্ডওয়্যার এন্ড ইলেকট্রিক",
+            link: "sanitary-hardware-and-electric"
+          },
+          {
+            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
+            link: "grillshop-and-workshop"
+          }
+        ]
+    },
+    {
+      id: 25,
+      photo: "../resources/icons/online-sellers.png",
+      name: "অনলাইন সেলার",
+      pageLink: "online-sellers",
+      subCategory:
+        [
+          {
+            name: "ফুড",
+            link: "food"
+          },
+          {
+            name: "কাপড়",
+            link: "clothes"
+          },
+          {
+            name: "কসমেটিক্স",
+            link: "cosmetics"
+          }
+        ]
+    },
+    {
+      id: 23,
+      photo: "../resources/icons/it-support.png",
+      name: "আইটি সেবা",
+      pageLink: "it-support",
+      subCategory:
+        [
+          {
+            name: "Online Marketing",
+            link: "online-marketing"
+          },
+          {
+            name: "Graphic Design",
+            link: "graphic-design"
+          },
+          {
+            name: "Web Design",
+            link: "web-design"
+          },
+          {
+            name: "Web Development",
+            link: "web-development"
+          },
+          {
+            name: "SEO",
+            link: "seo"
+          },
+          {
+            name: "Apps Developer",
+            link: "apps-developer"
+          }
+        ]
+    },
+    {
+      id: 19,
+      photo: "../resources/icons/banking-services.png",
+      name: "ব্যাংকিং সেবা",
+      pageLink: "banking-services",
+      subCategory:
+        [
+          {
+            name: "ব্যাংক",
+            link: "bank"
+          },
+          {
+            name: "এজেন্ট ব্যাংক",
+            link: "agent-bank"
+          },
+          {
+            name: "এটিএম বুথ",
+            link: "atm-booth"
+          },
+          {
+            name: "কিস্তি অফিস",
+            link: "installment-office"
+          }
+        ]
+    },
+    {
+      id: 24,
+      photo: "../resources/icons/religious-place.png",
+      name: "ধার্মিক স্থান",
+      pageLink: "religious-place",
+      subCategory:
+        [
+          {
+            name: "মসজিদ",
+            link: "mosque"
+          },
+          {
+            name: "মন্দির",
+            link: "temple"
+          },
+          {
+            name: "গির্জা",
+            link: "girja"
+          },
+          {
+            name: "কবরস্থান",
+            link: "cemetery"
+          }
+        ]
+    },
+    {
       id: 12,
       photo: "../resources/icons/transportation-services.png",
       name: "পরিবহন সেবা",
@@ -800,147 +941,6 @@ const categoryData = [
           {
             name: "অটো স্ট্যান্ড",
             link: "auto-stand"
-          }
-        ]
-    },
-    {
-      id: 16,
-      photo: "../resources/icons/hardware-sanitary-electronics.png",
-      name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
-      pageLink: "hardware-sanitary-electronics",
-      subCategory:
-        [
-          {
-            name: "অটো পার্টস",
-            link: "auto-parts"
-          },
-          {
-            name: "এন্টারপ্রাইজ",
-            link: "enterprise"
-          },
-          {
-            name: "গ্যাস সিলিন্ডার",
-            link: "gas-cylinder"
-          },
-          {
-            name: "স্টিল এন্ড প্লাস্টিক ডোর",
-            link: "steel-and-plastic-door"
-          },
-          {
-            name: "থাই এ্যালুমিনিয়াম এন্ড গ্লাস",
-            link: "thai-aluminum-and-glass"
-          },           
-          {
-            name: "স্যানিটারি, হার্ডওয়্যার এন্ড ইলেকট্রিক",
-            link: "sanitary-hardware-and-electric"
-          },
-          {
-            name: "গ্রিল এবং ওয়ার্কশপের দোকান",
-            link: "grillshop-and-workshop"
-          }
-        ]
-    },
-    {
-      id: 19,
-      photo: "../resources/icons/banking-services.png",
-      name: "ব্যাংকিং সেবা",
-      pageLink: "banking-services",
-      subCategory:
-        [
-          {
-            name: "ব্যাংক",
-            link: "bank"
-          },
-          {
-            name: "এজেন্ট ব্যাংক",
-            link: "agent-bank"
-          },
-          {
-            name: "এটিএম বুথ",
-            link: "atm-booth"
-          },
-          {
-            name: "কিস্তি অফিস",
-            link: "installment-office"
-          }
-        ]
-    },
-    {
-      id: 23,
-      photo: "../resources/icons/it-support.png",
-      name: "আইটি সেবা",
-      pageLink: "it-support",
-      subCategory:
-        [
-          {
-            name: "Online Marketing",
-            link: "online-marketing"
-          },
-          {
-            name: "Graphic Design",
-            link: "graphic-design"
-          },
-          {
-            name: "Web Design",
-            link: "web-design"
-          },
-          {
-            name: "Web Development",
-            link: "web-development"
-          },
-          {
-            name: "SEO",
-            link: "seo"
-          },
-          {
-            name: "Apps Developer",
-            link: "apps-developer"
-          }
-        ]
-    },
-    {
-      id: 24,
-      photo: "../resources/icons/religious-place.png",
-      name: "ধার্মিক স্থান",
-      pageLink: "religious-place",
-      subCategory:
-        [
-          {
-            name: "মসজিদ",
-            link: "mosque"
-          },
-          {
-            name: "মন্দির",
-            link: "temple"
-          },
-          {
-            name: "গির্জা",
-            link: "girja"
-          },
-          {
-            name: "কবরস্থান",
-            link: "cemetery"
-          }
-        ]
-    },
-    {
-      id: 25,
-      photo: "../resources/icons/online-sellers.png",
-      name: "অনলাইন সেলার",
-      pageLink: "online-sellers",
-      subCategory:
-        [
-          {
-            name: "ফুড",
-            link: "food"
-          },
-          {
-            name: "কাপড়",
-            link: "clothes"
-          },
-          {
-            name: "কসমেটিক্স",
-            link: "cosmetics"
           }
         ]
     }
