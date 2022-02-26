@@ -67,24 +67,24 @@ function userTemplate(user) {
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/team/monika-momi.jpg"><img src="../resources/icons/team/monika-momi.jpg" alt="monika momi" class="team-img"></a>
-            <h2>Monika Momi</h2>
-            <p class="text-center">Front-End Developer</p>
-            <a href="mailto:devmonikamomi@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/devmonika" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/monikamomi97" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="../resources/icons/team/rabiul-islam.jpg"><img src="../resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
+            <h2>Rabiul Islam</h2>
+            <p class="text-center">Django Developer</p>
+            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/rabiulislam-xyz" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/rabiulislam.xyz" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
 
     <!-- membar -->
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
-            <a href="../resources/icons/team/rabiul-islam.jpg"><img src="../resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
-            <h2>Rabiul Islam</h2>
-            <p class="text-center">Back-End Developer</p>
-            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/rabiulislam-xyz" target="_blank"><i class="fab fa-github-square"></i></a>
-            <a href="https://www.facebook.com/rabiulislam.xyz" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="../resources/icons/team/monika-momi.jpg"><img src="../resources/icons/team/monika-momi.jpg" alt="monika momi" class="team-img"></a>
+            <h2>Monika Momi</h2>
+            <p class="text-center">Laravel Developer</p>
+            <a href="mailto:devmonikamomi@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/devmonika" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/monikamomi97" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
 
