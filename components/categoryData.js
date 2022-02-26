@@ -500,6 +500,10 @@ const categoryData = [
           link: "salon"
         },
         {
+          name: "মেহেদি হাউজ",
+          link: "mehedi-house"
+        },
+        {
           name: "কসমিটিক্স এর দোকান",
           link: "cosmetics-shop"
         }
