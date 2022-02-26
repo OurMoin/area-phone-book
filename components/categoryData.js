@@ -1,5 +1,37 @@
-const categoryData = [
-    
+const categoryData = [  
+  {
+    id: 29,
+    photo: "../resources/icons/national-information-window.png",
+    name: "জাতীয় তথ্য বাতায়ন",
+    pageLink: "national-information-window",
+    subCategory:
+      [
+        {
+          name: "সরকারী মন্ত্রণালয়",
+          link: "ministry-of-government"
+        },
+        {
+          name: "অধিদপ্তর",
+          link: "department"
+        },
+        {
+          name: "বিশ্ববিদ্যালয় সমূহ",
+          link: "universities"
+        },
+        {
+          name: "নাগরিত্ব সনদ",
+          link: "citizenship-certificate"
+        },
+        {
+          name: "রেজাল্ট",
+          link: "result"
+        },
+        {
+          name: "খাদ্য অধিদপ্তর",
+          link: "department-of-food"
+        }
+      ]
+  },
   {
     id: 26,
     photo: "../resources/icons/kutubpur-union.png",
