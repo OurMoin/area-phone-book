@@ -23,8 +23,8 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/confectionary/haji-food-suites-and-bakery.jpg",
-    name: "হাজী ফুড সুইস্ট এন্ড বেকারি",
+    photo: "../cdn/confectionary/haji-bakery-doi-misti.jpg",
+    name: "হাজী বেকারি দই মিষ্টি",
     number: "01748271952",
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
