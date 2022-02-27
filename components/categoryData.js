@@ -111,7 +111,7 @@ const categoryData = [
       [
         {
           name: "ঢাকা - নারায়ণগঞ্জ",
-          link: "dhaka-narayanganj.png"
+          link: "dhaka-narayanganj-train"
         },
         {
           name: "পূর্বাঞ্চল",
