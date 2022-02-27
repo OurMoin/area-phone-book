@@ -86,5 +86,16 @@ const userData = [
     detail: "01568708715<br> Photocopy, MS Office Programme Training, BKash, Nagad, Rocket and Library Items etc",
     postLink: "shofiq01@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+  },
+  {
+    id: 9,
+    photo: "../cdn/library/boi-ghor.jpg",
+    name: "বই ঘর",
+    number: "01914901947",
+    wordNo: "৬",
+    location: "পাগলা",
+    detail: "বই বিক্রি ও লাইব্রেরী সকল পন্য পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
 ];
