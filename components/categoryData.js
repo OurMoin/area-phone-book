@@ -40,8 +40,8 @@ const categoryData = [
     subCategory:
       [        
         {
-          name: "কুতুবপুর ইউনিয়নের ইতিহাস",
-          link: "history-of-kutubpur-union"
+          name: "ইউনিয়নের ইতিহাস",
+          link: "union-history"
         },
         {
           name: "ইউনিয়ন পরিচিতি",

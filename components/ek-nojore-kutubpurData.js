@@ -3,8 +3,8 @@ const categoryData = [
     {
       id: 1,
       photo: "../resources/icons/ek-nojore-kutubpur/history-of-kutubpur-union.png",
-      name: "কুতুবপুর ইউনিয়নের ইতিহাস",
-      link: "history-of-kutubpur-union"
+      name: "ইউনিয়নের ইতিহাস",
+      link: "union-history"
     },
     {
       id: 2,
