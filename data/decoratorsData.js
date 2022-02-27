@@ -53,5 +53,16 @@ const userData = [
     detail: "আমরা বাংলাদেশের সর্বত্র নিম্নলিখিত পরিষেবাগুলি অফার করি:<br> ♦ বিবাহের মঞ্চ সজ্জা<br> ♦ প্রবেশের গেট<br> ♦সজ্জা বিক্রয়<br> ♦ওয়াকওয়ে রেড কার্পেট<br> ♦হলুদ পর্যায়<br> ♦পালকি<br> ♦ফটোগ্রাফি এবং সিনেমাটোগ্রাফি<br> ♦সাউন্ড সিস্টেম এবং আলো<br> ♦ পেশাদার ডিজে<br> ♦ছোটপোতি, ফুচকা এবং কফি স্টল<br> ♦গাড়ি সজ্জা<br> ♦ বিল্ডিং আলো<br> ♦বাসর ঘর<br> ♦ চলন্ত গাড়ি<br> ♦হলুদ সজ্জা<br> ♦মালা/ডালা<br> ♦ নর্তকী গ্রুপ<br> ♦বিবাহের অলঙ্কার<br> ♦ব্যান্ড পার্টি/ব্যান্ড শো/কনসার্ট/গায়ক<br> ♦কাওয়ালি গান<br> ♦টেবিল কেন্দ্রবিন্দু<br> আপনার বিবাহ বা কর্পোরেট ইভেন্টের জন্য আমাদের বুক করতে আমাদের সাথে যোগাযোগ করুন-01601478438, 01889035642",
     postLink: "Royaldecor38@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/decorators/decorators.png",
+    name: "সুমাইয়া ইভেন্ট ম্যানেজমেন্ট",
+    number: "01946616693",
+    wordNo: "৬",
+    location: "১নং দোকান, আলহাজ্ব নুরুল ইসলাম সুপার মার্কেট, দেলপাড়া রোড",
+    detail: "01729524128<br> 01931663253<br> সর্ব প্রকার দেশী-বিদেশী ফুল পাইকারী ও খুচরা বিক্র করা এবং বিয়ের গাড়ী, বাসর ঘর, স্টেজ, গেইট ইত্যাদি কাঁচা ফুল দিয়ে সাজানো হয়।<br> এখানে যাবতীয় দেশী-বিদেশী আর্টিফিসিয়াল ফুল ও শেরওয়ানী পাওয়া যায়।",
+    postLink: "Royaldecor38@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
