@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/car-rental/muhith-rent-a-car.jpg",
+    photo: "../cdn/car-rental/car-rental.png",
     name: "আলিফ রেন্ট এ কার",
     number: "01684882733",
     wordNo: "6",
