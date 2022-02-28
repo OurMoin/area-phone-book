@@ -7,9 +7,9 @@ const categoryData = [
     },
     {
       id: 2,
-      photo: "../resources/icons/food-corner_food-store/biryani-shop.png",
-      name: "বিরিয়ানির দোকান",
-      link: "biryani-shop"
+      photo: "../resources/icons/food-corner_food-store/restaurant.png",
+      name: "রেস্টুরেন্ট",
+      link: "restaurant"
     },
     {
       id: 3,
