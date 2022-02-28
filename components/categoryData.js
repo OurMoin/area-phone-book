@@ -340,8 +340,8 @@ const categoryData = [
           link: "social-organization"
         },
         {
-          name: "যুব সংগঠন",
-          link: "youth-organizations"
+          name: "ক্রীড়া সংগঠন",
+          link: "sports-organizations"
         },
         {
           name: "রক্ত দান",

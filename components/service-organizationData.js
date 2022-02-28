@@ -7,9 +7,9 @@ const categoryData = [
     },
     {
       id: 2,
-      photo: "../resources/icons/service-organization/youth-organizations.png",
-      name: "যুব সংগঠন",
-      link: "youth-organizations"
+      photo: "../resources/icons/service-organization/sports-organizations.png",
+      name: "ক্রীড়া সংগঠন",
+      link: "sports-organizations"
     },
     {
       id: 3,
