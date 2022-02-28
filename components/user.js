@@ -8,7 +8,7 @@ function userTemplate(user) {
                         <div class="cleartfix">
                             <div class="media align-items-stretch">
                                 <div class="align-self-center">
-                                    <a href="#" class="pop">
+                                    <a class="pop">
                                         <img class="manu-img"
                                             src="${user.photo}"
                                             alt="${user.name}">
