@@ -881,7 +881,7 @@ const categoryData = [
   {
     id: 24,
     photo: "../resources/icons/religious-place.png",
-    name: "ধার্মিক স্থান",
+    name: "ধর্মীয় স্থান",
     pageLink: "religious-place",
     subCategory:
       [
