@@ -53,5 +53,16 @@ const userData = [
     detail: "চক্ষু এর সকল চিকিৎসা হয়।<br>প্রতিদিন বিকাল ৫ টা থেকে রাত ৯ টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/ophthalmology/ophthalmology.png",
+    name: "Moriom Optics and Watch",
+    number: "01758161067",
+    wordNo: "৬",
+    location: "হাজী নুরুল ইসলাম সুপার মার্কেট, পাগলা",
+    detail: "ব্র্যান্ড এর ঘড়ি, সানগ্লাস, কন্টাক্ট লেন্স, পাওয়ার চশমা, কোমরের বেল্ট ও মানিব্যাগ ইত্যাদি পাওয়া যায়।",
+    postLink: "Md.rocky2020@yahoo.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
