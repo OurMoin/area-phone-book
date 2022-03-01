@@ -188,10 +188,10 @@ const categoryData = [
     pageLink: "food-corner_food-store",
     subCategory:
       [
-        {
-          name: "হোটেল",
-          link: "hotel"
-        },
+        // {
+        //   name: "হোটেল",
+        //   link: "hotel"
+        // },
         {
           name: "রেস্টুরেন্ট",
           link: "restaurant"
@@ -215,11 +215,11 @@ const categoryData = [
         {
           name: "মিষ্টির দোকান",
           link: "sweet-shop"
-        },
-        {
-          name: "ফলের দোকান",
-          link: "fruit-shop"
         }
+        // {
+        //   name: "ফলের দোকান",
+        //   link: "fruit-shop"
+        // }
       ]
   },  
   {
@@ -295,10 +295,10 @@ const categoryData = [
           name: "ইউনিয়ন অফিস",
           link: "union-office"
         },
-        {
-          name: "চেয়ারম্যান-মেম্বার",
-          link: "chairman-member"
-        },
+        // {
+        //   name: "চেয়ারম্যান-মেম্বার",
+        //   link: "chairman-member"
+        // },
         {
           name: "চেয়ারম্যান অফিস",
           link: "chairman-office"
@@ -427,35 +427,35 @@ const categoryData = [
         }
       ]
   },
-  {
-    id: 18,
-    photo: "../resources/icons/market.png",
-    name: "মার্কেট",
-    pageLink: "market",
-    subCategory:
-      [
-        {
-          name: "সুপার মার্কেট",
-          link: "supermarket"
-        },
-        {
-          name: "কাঁচা বাজার",
-          link: "raw-market"
-        },
-        {
-          name: "পোশাকের বাজার",
-          link: "clothing-market"
-        },
-        {
-          name: "পাইকারি বাজার",
-          link: "wholesale-market"
-        },
-        {
-          name: "কসমিটিক্স এর বাজার",
-          link: "cosmetics-market"
-        }
-      ]
-  },
+  // {
+  //   id: 18,
+  //   photo: "../resources/icons/market.png",
+  //   name: "মার্কেট",
+  //   pageLink: "market",
+  //   subCategory:
+  //     [
+  //       {
+  //         name: "সুপার মার্কেট",
+  //         link: "supermarket"
+  //       },
+  //       {
+  //         name: "কাঁচা বাজার",
+  //         link: "raw-market"
+  //       }
+  //       {
+  //         name: "পোশাকের বাজার",
+  //         link: "clothing-market"
+  //       },
+  //       {
+  //         name: "পাইকারি বাজার",
+  //         link: "wholesale-market"
+  //       },
+  //       {
+  //         name: "কসমিটিক্স এর বাজার",
+  //         link: "cosmetics-market"
+  //       }
+  //     ]
+  // },
   {
     id: 21,
     photo: "../resources/icons/tourist-spot.png",
@@ -562,18 +562,18 @@ const categoryData = [
           name: "ভাষা ট্রেনিং",
           link: "language-training"         
           },
-        {
-          name: "স্কিল ট্রেনিং",
-          link: "skill-training"            
-        },
-        {
-          name: "ইলেকট্রিক ট্রেনিং",
-          link: "electrical-training"              
-        },
-        {
-          name: "ওয়ার্কশপ ট্রেনিং",
-          link: "workshop-training"              
-        },
+        // {
+        //   name: "স্কিল ট্রেনিং",
+        //   link: "skill-training"            
+        // },
+        // {
+        //   name: "ইলেকট্রিক ট্রেনিং",
+        //   link: "electrical-training"              
+        // },
+        // {
+        //   name: "ওয়ার্কশপ ট্রেনিং",
+        //   link: "workshop-training"              
+        // },
         {
           name: "টেইলারিং ট্রেনিং",
           link: "trailing-training"              
@@ -744,10 +744,10 @@ const categoryData = [
           name: "গিফট এর দোকান",
           link: "gift-shop"
         },
-        {
-          name: "1 to 99 দোকান",
-          link: "1-to-99-store"
-        },
+        // {
+        //   name: "1 to 99 দোকান",
+        //   link: "1-to-99-store"
+        // },
         {
           name: "লাইব্রেরি",
           link: "library"
@@ -856,10 +856,10 @@ const categoryData = [
     pageLink: "banking-services",
     subCategory:
       [
-        {
-          name: "ব্যাংক",
-          link: "bank"
-        },
+        // {
+        //   name: "ব্যাংক",
+        //   link: "bank"
+        // },
         {
           name: "এজেন্ট ব্যাংক",
           link: "agent-bank"
@@ -930,10 +930,10 @@ const categoryData = [
           name: "ডিস্টিক ট্রাক",
           link: "district-truck"
         },
-        {
-          name: "সিএনজি",
-          link: "cng"
-        },
+        // {
+        //   name: "সিএনজি",
+        //   link: "cng"
+        // },
         {
           name: "ভ্যান গাড়ি",
           link: "van"

@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/hardware-sanitary-electronics/hardware-sanitary-electronics.png",
+    photo: "../cdn/auto-parts/auto-parts.png",
     name: "মাদবর হার্ডওয়্যার স্যানিটারি এন্ড অটো পার্টস",
     number: "01610717869",
     wordNo: "৫",
