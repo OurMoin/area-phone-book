@@ -34,12 +34,6 @@ const categoryData = [
       photo: "../resources/icons/emergency-services/car-rental.png",
       name: "গাড়ি ভাড়া",
       link: "car-rental"
-    },
-    {
-      id: 7,
-      photo: "../resources/icons/emergency-services/government-notice.png",
-      name: "সরকারি নোটিশ",
-      link: "government-notice"
     }
   ];
   
