@@ -972,8 +972,8 @@ const categoryData = [
   {
     id: 30,
     photo: "../resources/icons/mills-factory-garments.png",
-    name: "মিলস / ফ্যাক্টরি / গার্মেন্ট ",
-    pageLink: "car-stand",
+    name: "মিলস / ফ্যাক্টরি / গার্মেন্ট",
+    pageLink: "mills-factory-garments",
     subCategory:
       [
         {
