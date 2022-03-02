@@ -24,16 +24,49 @@ const userData = [
   {
     id: 3,
     photo: "../cdn/chairman-member/anamika-haque.png",
-    name: "অনামিকা হক",
-    number: "01960670663",
-    wordNo: "৪, ৫, ৬",
-    location: "শাহীমহল্লা",
-    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৪, ৫, ৬",
+    name: "রাশিদা বেগম রাসু",
+    number: "01798899911",
+    wordNo: "১, ২, ৩",
+    location: "মামুদপুর",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ১, ২, ৩",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
     id: 4,
+    photo: "../cdn/chairman-member/anamika-haque.png",
+    name: " জি.এম আমিন হোসেন সাগর",
+    number: "01798899911",
+    wordNo: "১",
+    location: "মামুদপুর",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ১",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/chairman-member/anamika-haque.png",
+    name: " জি.এম সাগর",
+    number: "01798899911",
+    wordNo: "৩",
+    location: "ভূইগড়",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৩",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/chairman-member/anamika-haque.png",
+    name: "অনামিকা হক",
+    number: "01960670663",
+    wordNo: "৪, ৫, ৬",
+    location: "শাহীমহল্লা",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৪, ৫, ৬",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
     photo: "../cdn/chairman-member/md-zaman.png",
     name: "মোঃ জামান",
     number: "01718002093",
@@ -44,10 +77,10 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 5,
+    id: 9,
     photo: "../cdn/chairman-member/haji-md-alauddin-hawladar.png",
-    name: "হাজী মোঃ আলাউদ্দিন হাওলাদার",
-    number: "01715475731",
+    name: "মোঃ বাবুল মিয়া",
+    number: "01798899911",
     wordNo: "৫",
     location: "মুসলিমপাড়া",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৫",
@@ -55,13 +88,57 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 6,
+    id: 10,
     photo: "../cdn/chairman-member/haji-md-rokon.png",
     name: "হাজী মোঃ রোকন",
     number: "01919504988",
     wordNo: "৬",
     location: "বউবাজার",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৬",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },    
+  {
+    id: 11,
+    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    name: "মোসাৎ আরজুদা খুকু",
+    number: "01798899911",
+    wordNo: "৭,৮,৯",
+    location: "শিয়াচর",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৭,৮,৯",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },    
+  {
+    id: 12,
+    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    name: "মোঃ মন্টু মিয়া",
+    number: "01798899911",
+    wordNo: "৭",
+    location: "আলীগঞ্জ",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৭",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },    
+  {
+    id: 13,
+    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    name: "মোঃ জাহাঙ্গীর আলম",
+    number: "01798899911",
+    wordNo: "৮",
+    location: "আলীগঞ্জ",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৮",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 14,
+    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    name: "মোঃ রঞ্জু খাঁন",
+    number: "01798899911",
+    wordNo: "৯",
+    location: "শিয়াচর",
+    detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৯",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
