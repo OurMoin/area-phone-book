@@ -968,6 +968,27 @@ const categoryData = [
           link: "auto-stand"
         }
       ]
+  },
+  {
+    id: 30,
+    photo: "../resources/icons/mills-factory-garments.png",
+    name: "মিলস / ফ্যাক্টরি / গার্মেন্ট ",
+    pageLink: "car-stand",
+    subCategory:
+      [
+        {
+          name: "মিলস",
+          link: "mills"
+        },
+        {
+          name: "ফ্যাক্টরি",
+          link: "factory"
+        },
+        {
+          name: "গার্মেন্ট",
+          link: "garments"
+        }
+      ]
   }
 ];
   
