@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/chairman-member/anamika-haque.png",
+    photo: "../cdn/chairman-member/rashida-begum-rasu.png",
     name: "রাশিদা বেগম রাসু",
     number: "01798899911",
     wordNo: "১, ২, ৩",
@@ -34,8 +34,8 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/chairman-member/anamika-haque.png",
-    name: " জি.এম আমিন হোসেন সাগর",
+    photo: "../cdn/chairman-member/gm-amin-hossain-sagar.png",
+    name: "জি.এম আমিন হোসেন সাগর",
     number: "01798899911",
     wordNo: "১",
     location: "মামুদপুর",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/chairman-member/anamika-haque.png",
+    photo: "../cdn/chairman-member/gm-sagar.png",
     name: " জি.এম সাগর",
     number: "01798899911",
     wordNo: "৩",
@@ -100,7 +100,7 @@ const userData = [
   },    
   {
     id: 11,
-    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    photo: "../cdn/chairman-member/mosat-arjuda-khuku.png",
     name: "মোসাৎ আরজুদা খুকু",
     number: "01798899911",
     wordNo: "৭,৮,৯",
@@ -111,7 +111,7 @@ const userData = [
   },    
   {
     id: 12,
-    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    photo: "../cdn/chairman-member/md-montu-mia.png",
     name: "মোঃ মন্টু মিয়া",
     number: "01798899911",
     wordNo: "৭",
@@ -122,7 +122,7 @@ const userData = [
   },    
   {
     id: 13,
-    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    photo: "../cdn/chairman-member/md-jahangir-alam.png",
     name: "মোঃ জাহাঙ্গীর আলম",
     number: "01798899911",
     wordNo: "৮",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 14,
-    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    photo: "../cdn/chairman-member/md-ranju-khan.png",
     name: "মোঃ রঞ্জু খাঁন",
     number: "01798899911",
     wordNo: "৯",
