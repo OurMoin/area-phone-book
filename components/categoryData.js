@@ -295,14 +295,14 @@ const categoryData = [
           name: "ইউনিয়ন অফিস",
           link: "union-office"
         },
-        // {
-        //   name: "চেয়ারম্যান-মেম্বার",
-        //   link: "chairman-member"
-        // },
         {
-          name: "চেয়ারম্যান অফিস",
-          link: "chairman-office"
+          name: "চেয়ারম্যান-মেম্বার",
+          link: "chairman-member"
         },
+        // {
+        //   name: "চেয়ারম্যান অফিস",
+        //   link: "chairman-office"
+        // },
         {
           name: "ভোটার অফিস",
           link: "voter-office"
