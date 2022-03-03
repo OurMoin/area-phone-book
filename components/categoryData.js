@@ -792,6 +792,10 @@ const categoryData = [
         {
           name: "গ্রিল এবং ওয়ার্কশপের দোকান",
           link: "grillshop-and-workshop"
+        },
+        {
+          name: "রডের দোকান",
+          link: "rod-shop"
         }
       ]
   },
