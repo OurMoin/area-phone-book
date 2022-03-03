@@ -427,35 +427,35 @@ const categoryData = [
         }
       ]
   },
-  // {
-  //   id: 18,
-  //   photo: "../resources/icons/market.png",
-  //   name: "মার্কেট",
-  //   pageLink: "market",
-  //   subCategory:
-  //     [
-  //       {
-  //         name: "সুপার মার্কেট",
-  //         link: "supermarket"
-  //       },
-  //       {
-  //         name: "কাঁচা বাজার",
-  //         link: "raw-market"
-  //       }
-  //       {
-  //         name: "পোশাকের বাজার",
-  //         link: "clothing-market"
-  //       },
-  //       {
-  //         name: "পাইকারি বাজার",
-  //         link: "wholesale-market"
-  //       },
-  //       {
-  //         name: "কসমিটিক্স এর বাজার",
-  //         link: "cosmetics-market"
-  //       }
-  //     ]
-  // },
+  {
+    id: 18,
+    photo: "../resources/icons/market.png",
+    name: "মার্কেট",
+    pageLink: "market",
+    subCategory:
+      [
+        {
+          name: "সুপার মার্কেট",
+          link: "supermarket"
+        },
+        {
+          name: "কাঁচা বাজার",
+          link: "raw-market"
+        },
+        {
+          name: "পোশাকের বাজার",
+          link: "clothing-market"
+        },
+        {
+          name: "পাইকারি বাজার",
+          link: "wholesale-market"
+        },
+        {
+          name: "কসমিটিক্স এর বাজার",
+          link: "cosmetics-market"
+        }
+      ]
+  },
   {
     id: 21,
     photo: "../resources/icons/tourist-spot.png",
