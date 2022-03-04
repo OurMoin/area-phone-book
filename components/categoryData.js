@@ -610,6 +610,10 @@ const categoryData = [
         {
           name: "কম্পিউটার দোকান",
           link: "computer-shop"
+        },
+        {
+          name: "প্রিন্টিং প্রেস",
+          link: "printing-press"
         }
       ]
   },
