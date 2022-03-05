@@ -13,9 +13,9 @@ const categoryData = [
     },
     {
       id: 3,
-      photo: "../resources/icons/religious-place/girja.png",
+      photo: "../resources/icons/religious-place/church.png",
       name: "গির্জা",
-      link: "girja"
+      link: "church"
     },
     {
       id: 4,

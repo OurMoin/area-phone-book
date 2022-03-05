@@ -899,7 +899,7 @@ const categoryData = [
         },
         {
           name: "গির্জা",
-          link: "girja"
+          link: "church"
         },
         {
           name: "কবরস্থান",
