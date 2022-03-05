@@ -341,8 +341,8 @@ const categoryData = [
           link: "sports-organizations"
         },
         {
-          name: "রক্ত দান",
-          link: "blood-donation"
+          name: "রক্তদান সংগঠন",
+          link: "blood-donation-organization"
         }
       ]
   },

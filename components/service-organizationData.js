@@ -13,9 +13,9 @@ const categoryData = [
     },
     {
       id: 3,
-      photo: "../resources/icons/service-organization/blood-donation.png",
-      name: "রক্ত দান",
-      link: "blood-donation"
+      photo: "../resources/icons/service-organization/blood-donation-organization.png",
+      name: "রক্তদান সংগঠন",
+      link: "blood-donation-organization"
     }
   ];
   
