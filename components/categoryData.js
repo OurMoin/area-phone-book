@@ -188,10 +188,10 @@ const categoryData = [
     pageLink: "food-corner_food-store",
     subCategory:
       [
-        // {
-        //   name: "হোটেল",
-        //   link: "hotel"
-        // },
+        {
+          name: "হোটেল",
+          link: "hotel"
+        },
         {
           name: "রেস্টুরেন্ট",
           link: "restaurant"
@@ -215,11 +215,11 @@ const categoryData = [
         {
           name: "মিষ্টির দোকান",
           link: "sweet-shop"
+        },
+        {
+          name: "ফলের দোকান",
+          link: "fruit-shop"
         }
-        // {
-        //   name: "ফলের দোকান",
-        //   link: "fruit-shop"
-        // }
       ]
   },  
   {

@@ -31,48 +31,54 @@ const categoryData = [
     },
     {
       id: 6,
+      photo: "../resources/icons/shop/fruit-shop.png",
+      name: "ফলের দোকান",
+      link: "fruit-shop"
+    },
+    {
+      id:7,
       photo: "../resources/icons/shop/telecom-center.png",
       name: "টেলিকম সেন্টার",
       link: "telecom-center"
     },
     {
-      id: 7,
+      id: 8,
       photo: "../resources/icons/shop/sweet-shop.png",
       name: "মিষ্টির দোকান",
       link: "sweet-shop"
     },
     {
-      id: 8,
+      id: 9,
       photo: "../resources/icons/shop/jewelers.png",
       name: "জুয়েলার্স",
       link: "jewelers"
     },
     {
-      id: 9,
+      id: 10,
       photo: "../resources/icons/shop/crockery.png",
       name: "ক্রোকারিজ",
       link: "crockery"
     },
     {
-      id: 10,
+      id: 11,
       photo: "../resources/icons/shop/clothing-shop.png",
       name: "কাপড়ের দোকান",
       link: "clothing-shop"
     },
     {
-      id: 11,
+      id: 12,
       photo: "../resources/icons/shop/furniture.png",
       name: "ফার্নিচার",
       link: "furniture"
     },
     {
-      id: 12,
+      id: 13,
       photo: "../resources/icons/shop/library.png",
       name: "লাইব্রেরি",
       link: "library"
     },
     {
-      id: 13,
+      id: 14,
       photo: "../resources/icons/shop/musical-instruments.png",
       name: "বাদ্যযন্ত্র সমূহ",
       link: "musical-instruments"

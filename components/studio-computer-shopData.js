@@ -18,7 +18,7 @@ const categoryData = [
       link: "computer-shop"
     },
     {
-      id: 3,
+      id: 4,
       photo: "../resources/icons/studio-computer-shop/printing-press.png",
       name: "প্রিন্টিং প্রেস",
       link: "printing-press"
