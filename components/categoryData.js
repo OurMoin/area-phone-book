@@ -248,10 +248,6 @@ const categoryData = [
         {
           name: "রেজাল্ট",
           link: "result"
-        },
-        {
-          name: "খাদ্য অধিদপ্তর",
-          link: "department-of-food"
         }
       ]
   },

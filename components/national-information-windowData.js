@@ -29,12 +29,6 @@ const categoryData = [
       photo: "../resources/icons/national-information-window/result.png",
       name: "রেজাল্ট",
       link: "result"
-    },
-    {
-      id: 6,
-      photo: "../resources/icons/national-information-window/department-of-food.png",
-      name: "খাদ্য অধিদপ্তর",
-      link: "department-of-food"
     }
   ];
   
