@@ -75,5 +75,16 @@ const userData = [
     detail: "অত্যাধুনিক ডিজাইনের দেশি-বিদেশি বোরকা প্রস্তুতকারক ও পাইকারি বিক্রেতা।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    name: "জিসান টেইলার্স",
+    number: "01917409407",
+    wordNo: "৬",
+    location: "বৈরাগী বাড়ী মসজিদ সংলগ্ন",
+    detail: "এখানে অভিজ্ঞ মাষ্টার দ্বারা আধুনিক রুচি সম্মত পোশাক তৈরী করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
