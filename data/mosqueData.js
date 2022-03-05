@@ -229,6 +229,28 @@ const userData = [
       detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
       postLink: "https://www.facebook.com/AreaPhonebook/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 22,
+      photo: "../cdn/mosque/mosque.png",
+      name: "জান্নাতুল মাওয়া জামে মসজিদ",
+      number: "01940197441",
+      wordNo: "৮",
+      location: "নন্দলালপুর(মেডিকেল রোড)",
+      detail: "নামাজ আদায়,সহীহ কুরআন শিক্ষাসহ ধর্ম বিষয়ক সকল তথ্য প্রদান।",
+      postLink: "mahdihasankhaled00@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 23,
+      photo: "../cdn/mosque/mosque.png",
+      name: "উত্তর রসুলপুর বায়তুন নূর জামে মসজিদ",
+      number: "01622163263",
+      wordNo: "৬",
+      location: "উত্তর রসুলপুর",
+      detail: "ধর্মীয় সকল তথ্য এবং নিয়মিত ফজরের নামাজের পরে বয়স্কদের সুরা এবং এশার নামাজের পূর্বে মাসয়ালা-মাসায়েলসহ শিশুদেরকে সকালে এবং যোহরের নামাজের পর ধর্মীয় শিক্ষা দেওয়া হয়।",
+      postLink: "mamun365.mm@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
