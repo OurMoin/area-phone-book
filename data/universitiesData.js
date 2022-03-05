@@ -189,7 +189,7 @@ const categoryData = [
           },
           {
             name: "বঙ্গবন্ধু শেখ মুজিবুর রহমান বিশ্ববিদ্যালয়, কিশোরগঞ্জ",
-            link: "bsmru.ac.bd"
+            link: "http://bsmru.ac.bd/"
           },
           {
             name: "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয়",
