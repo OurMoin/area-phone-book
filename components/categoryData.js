@@ -911,6 +911,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "বাস",
+          link: "bus"
+        },
+        {
           name: "কুরিয়ার সার্ভিস",
           link: "courier-service"
         },
