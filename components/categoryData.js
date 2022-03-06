@@ -801,9 +801,9 @@ const categoryData = [
   },
   {
     id: 25,
-    photo: "../resources/icons/online-sellers.png",
-    name: "অনলাইন সেলার",
-    pageLink: "online-sellers",
+    photo: "../resources/icons/area-based-online-service.png",
+    name: "এলাকাভিত্তিক অনলাইন সেবা",
+    pageLink: "area-based-online-service",
     subCategory:
       [
         {
