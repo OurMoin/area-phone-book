@@ -938,10 +938,10 @@ const categoryData = [
           name: "ডিস্টিক ট্রাক",
           link: "district-truck"
         },
-        // {
-        //   name: "সিএনজি",
-        //   link: "cng"
-        // },
+        {
+          name: "সিএনজি",
+          link: "cng"
+        },
         {
           name: "ভ্যান গাড়ি",
           link: "van"
