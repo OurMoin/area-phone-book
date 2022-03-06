@@ -807,6 +807,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "নিউজ",
+          link: "news"
+        },
+        {
           name: "ফুড",
           link: "food"
         },
