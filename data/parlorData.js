@@ -61,7 +61,7 @@ const userData = [
     number: "01635242481",
     wordNo: "৬",
     location: "পাগলা বাজার জামে মসজিদের সিড়ির পাশে",
-    detail: "০১৮২০৮২৮০৮১<br> ফেসিয়াল, হেয়ার কালার, হেয়ার ষ্টেইট এবং রিবন্ডিং।",
+    detail: "০১৮২০৮২৮০৮১<br> চুল কাটা, শেভ, ফেসওয়াশ, ফেসিয়াল, ফেয়ারপলিশ, ব্লিজ, ব্রণ, ট্রিটমেন্ট, চুলের রঙ, চুলের স্ট্রেট, চুলের রিবন্ডিং, হেয়ার ট্রিটমেন্ট, কান ভেদ করা, ম্যাল্টিকালার, হেড ম্যাসেজ, বডিম্যাসেজ, তেল ম্যাসাজ থেরাপি ইত্যাদি ধন্যবাদ।",
     postLink: "https://www.facebook.com/groups/371332293457017/permalink/915384312385143/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
