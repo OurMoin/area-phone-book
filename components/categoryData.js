@@ -3,8 +3,8 @@ const categoryData = [
   {
     id: 26,
     photo: "../resources/icons/kutubpur-union.png",
-    name: "এক নজরে কুতুবপুর",
-    pageLink: "ek-nojore-kutubpur",
+    name: "আমাদের কুতুবপুর",
+    pageLink: "our-kutubpur",
     subCategory:
       [        
         {
