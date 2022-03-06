@@ -16,6 +16,12 @@ const categoryData = [
       photo: "../resources/icons/area-based-online-service/cosmetics.png",
       name: "কসমেটিক্স",
       link: "cosmetics"
+    },
+    {
+      id: 3,
+      photo: "../resources/icons/area-based-online-service/news.png",
+      name: "নিউজ",
+      link: "news"
     }
   ];
   
