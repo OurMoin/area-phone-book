@@ -828,27 +828,27 @@ const categoryData = [
     subCategory:
       [
         {
-          name: "Online Marketing",
+          name: "অনলাইন মার্কেটিং",
           link: "online-marketing"
         },
         {
-          name: "Graphic Design",
+          name: "গ্রাফিক ডিজাইন",
           link: "graphic-design"
         },
         {
-          name: "Web Design",
+          name: "ওয়েব ডিজাইন",
           link: "web-design"
         },
         {
-          name: "Web Development",
+          name: "ওয়েব ডেভেলপমেন্ট",
           link: "web-development"
         },
         {
-          name: "SEO",
+          name: "এসইও",
           link: "seo"
         },
         {
-          name: "Apps Developer",
+          name: "অ্যাপস ডেভেলপার",
           link: "apps-developer"
         }
       ]
