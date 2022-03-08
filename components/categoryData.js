@@ -1,5 +1,4 @@
 const categoryData = [  
-  
   {
     id: 26,
     photo: "../resources/icons/kutubpur-union.png",
@@ -62,11 +61,11 @@ const categoryData = [
         },
         {
           name: "পূর্বাঞ্চল",
-          link: "https://railway.portal.gov.bd/site/page/988258c9-5f11-4719-91e2-fbc898d4c2a9"
+          link: "#"
         },
         {
           name: "পশ্চিমাঞ্চল",
-          link: "https://railway.portal.gov.bd/site/page/6f618d21-8c9a-41da-a896-d5ed83b53b17"
+          link: "#"
         }
       ]
   },
@@ -219,35 +218,6 @@ const categoryData = [
         {
           name: "ফলের দোকান",
           link: "fruit-shop"
-        }
-      ]
-  },  
-  {
-    id: 29,
-    photo: "../resources/icons/national-information-window.png",
-    name: "জাতীয় তথ্য বাতায়ন",
-    pageLink: "national-information-window",
-    subCategory:
-      [
-        {
-          name: "সরকারী মন্ত্রণালয়",
-          link: "ministry-of-government"
-        },
-        {
-          name: "অধিদপ্তর",
-          link: "department"
-        },
-        {
-          name: "বিশ্ববিদ্যালয় সমূহ",
-          link: "universities"
-        },
-        {
-          name: "নাগরিত্ব সনদ",
-          link: "citizenship-certificate"
-        },
-        {
-          name: "রেজাল্ট",
-          link: "result"
         }
       ]
   },
@@ -982,7 +952,7 @@ const categoryData = [
       ]
   },
   {
-    id: 30,
+    id: 29,
     photo: "../resources/icons/mills-factory-garments.png",
     name: "মিলস / ফ্যাক্টরি / গার্মেন্ট",
     pageLink: "mills-factory-garments",
