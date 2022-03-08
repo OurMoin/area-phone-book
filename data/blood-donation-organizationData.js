@@ -69,9 +69,9 @@ const userData = [
     id: 7,
     photo: "../cdn/blood-donation-organization/blood-donors-society-of-bhuigarh(narayanganj).png",
     name: "ব্লাড ডোনারস সোসাইটি অব ভূইগড়(নারায়ণগঞ্জ)",
-    number: "01798899911",
-    wordNo: "সমগ্র কুতুবপুর",
-    location: "সমগ্র কুতুবপুর",
+    number: "01704090204",
+    wordNo: "৩",
+    location: "ভূইগড় পশ্চিমপাড়া",
     detail: "ব্লাড ডোনারস সোসাইটি অব ভূইগড়(নারায়ণগঞ্জ) একটি রক্তদান সংগঠন।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"

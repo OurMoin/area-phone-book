@@ -3,7 +3,7 @@ const userData = [
         id: 1,
         photo: "../cdn/sports-organizations/tushar-khelar-ghor.png",
         name: "তুষার খেলাঘর আসর",
-        number: "01798899911",
+        number: "01880177175",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
         detail: "ক্রীড়া সংগঠন।",
