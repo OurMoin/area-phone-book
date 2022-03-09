@@ -64,5 +64,16 @@ const userData = [
     detail: "এখানে এল.পি গ্যাস ও চুলার যাবতীয় মালামাল পাইকারী ও খুচরা বিক্রি করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/enterprise/enterprise.png",
+    name: "মেসার্স শাওন এন্টারপ্রাইজ",
+    number: "01677047244",
+    wordNo: "৪",
+    location: "পাগলা ডিএন রোড",
+    detail: "এখানে ইট, বালি, শুরকি, রড ও সিমেন্ট ইত্যাদি পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
