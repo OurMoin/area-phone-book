@@ -229,6 +229,138 @@ const userData = [
         detail: "সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },,
+    {
+        id: 2,
+        photo: "../cdn/social-organization/team-mostafa-covid-19.png",
+        name: "টিম মোস্তফা কোভিড-১৯",
+        number: "01676185481",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "টিম মোস্তফা কোভিড-১৯ একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 10,
+        photo: "../cdn/social-organization/roksana-hoq-manob-kollan-sreti-parliament.png",
+        name: "রোকসানা হক মানব কল্যাণ স্মৃতি সংসদ",
+        number: "01819991473",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "রোকসানা হক মানব কল্যাণ স্মৃতি সংসদ একটি মানব কল্যাণ স্মৃতি সংসদ।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 14,
+        photo: "../cdn/social-organization/my-aligonj.png",
+        name: "মাই আলিগঞ্জ",
+        number: "01672068410",
+        wordNo: "৭",
+        location: "আলিগঞ্জ",
+        detail: "মাই আলিগঞ্জ একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 16,
+        photo: "../cdn/social-organization/happy-club.png",
+        name: "হ্যাপি ক্লাব",
+        number: "01686910781",
+        wordNo: "৪",
+        location: "পশ্চিম দেলপাড়া",
+        detail: "হ্যাপি ক্লাব একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 21,
+        photo: "../cdn/social-organization/policing-committee-5th-ward.png",
+        name: "পুলিশিং কমিটি ৫ নং ওয়ার্ড",
+        number: "01726819367",
+        wordNo: "৫",
+        location: "উত্তর রসুলপুর",
+        detail: "পুলিশিং কমিটি ৫ নং ওয়ার্ড একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 28,
+        photo: "../cdn/social-organization/knowledge-home-social-organization.png",
+        name: "নলেজ হোম সামাজিক সংগঠন",
+        number: "01986035646",
+        wordNo: "৫",
+        location: "ওয়ায়েজকরনী আদর্শনগর",
+        detail: "নলেজ হোম সামাজিক সংগঠন একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 32,
+        photo: "../cdn/social-organization/serve-for-humanity.png",
+        name: "সার্ভ ফর হিউম্যানিটি",
+        number: "01634276700",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "সার্ভ ফর হিউম্যানিটি একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 41,
+        photo: "../cdn/social-organization/delpara-support-agency.png",
+        name: "দেলপাড়া সহায়তা সংস্থা",
+        number: "01670979127",
+        wordNo: "৫",
+        location: "দেলপাড়া",
+        detail: "দেলপাড়া সহায়তা সংস্থা একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 43,
+        photo: "../cdn/social-organization/rotaract-club-of-dhaka-divine.png",
+        name: "রোটার‍্যাক্ট ক্লাব অব ঢাকা ডিভাইন",
+        number: "01751008982",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "রোটার‍্যাক্ট ক্লাব অব ঢাকা ডিভাইন একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 47,
+        photo: "../cdn/social-organization/alokito-96.png",
+        name: "আলোকিত'৯৬",
+        number: "01937734720",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "আলোকিত'৯৬ একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 49,
+        photo: "../cdn/social-organization/ikramul-ummah.png",
+        name: "ইকরামুল উম্মাহ",
+        number: "01625086098",
+        wordNo: "৫",
+        location: "শাহীমহল্লা",
+        detail: "ইকরামুল উম্মাহ একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 54,
+        photo: "../cdn/social-organization/iccha-shokti-unnoyon-songosta.jpg",
+        name: "ইচ্ছা শক্তি উন্নয়ন সংস্থা",
+        number: "#",
+        wordNo: "সমগ্র কুতুবপুর",
+        location: "সমগ্র কুতুবপুর",
+        detail: "ইচ্ছা শক্তি উন্নয়ন সংস্থা একটি সামাজিক সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
         id: 3,
@@ -237,7 +369,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "গ্রাজুয়েট ক্লাব একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -248,18 +380,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 2,
-        photo: "../cdn/social-organization/team-mostafa-covid-19.png",
-        name: "টিম মোস্তফা কোভিড-১৯",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "আলোর পথ সংগঠন একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -270,7 +391,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "দুরন্ত'৯৮ একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -281,7 +402,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "কুতুবপুর নাগরিক কমিটি একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -292,18 +413,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 10,
-        photo: "../cdn/social-organization/roksana-hoq-manob-kollan-sreti-parliament.png",
-        name: "রোকসানা হক মানব কল্যাণ স্মৃতি সংসদ",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "কুতুবপুর নাগরিক ফোরাম একটি সামাজিক সংগঠন ও ফোরাম।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -336,29 +446,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 14,
-        photo: "../cdn/social-organization/my-aligonj.png",
-        name: "মাই আলিগঞ্জ",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 16,
-        photo: "../cdn/social-organization/happy-club.png",
-        name: "হ্যাপি ক্লাব",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "হাজী মিছির আলী বিশ্ববিদ্যালয় কলেজ প্রাক্তন ছাত্রছাত্রী ফোরাম একটি সামাজিক সংগঠন ও ছাত্রছাত্রী ফোরাম।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -369,18 +457,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 21,
-        photo: "../cdn/social-organization/policing-committee-5th-ward.png",
-        name: "পুলিশিং কমিটি ৫ নং ওয়ার্ড",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "মনোরঞ্জন তালুকদার স্মৃতি সংসদ একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -391,7 +468,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "সাতকাহন(ফেইসবুক পেইজ) একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -402,7 +479,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "কুতুবপুর সমাচার (ফেইসবুক গ্রুপ) একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -413,7 +490,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "মাটির ব্যাংক প্লাটফর্ম একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -424,7 +501,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "অগ্রদূত ক্লাব একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -435,18 +512,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 28,
-        photo: "../cdn/social-organization/knowledge-home-social-organization.png",
-        name: "নলেজ হোম সামাজিক সংগঠন",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "নন্দলালপুর পরিবেশ সংরক্ষণ ফোরাম একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -457,18 +523,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 32,
-        photo: "../cdn/social-organization/serve-for-humanity.png",
-        name: "সার্ভ ফর হিউম্যানিটি",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "অঙ্কুর সামাজিক ও সাংস্কৃতিক সংগঠন একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -479,7 +534,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "পাগলা যুব পরিষদ একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -490,18 +545,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 41,
-        photo: "../cdn/social-organization/delpara-support-agency.png",
-        name: "দেলপাড়া সহায়তা সংস্থা",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "সোনালী আঙ্গিনায়'৯৯ একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -512,18 +556,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 43,
-        photo: "../cdn/social-organization/rotaract-club-of-dhaka-divine.png",
-        name: "রোটার‍্যাক্ট ক্লাব অব ঢাকা ডিভাইন",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "নন্দলালপুর তরুন সংগঠন একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -534,7 +567,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "আলোর প্রদীপ ছাত্র ও যুব সংগঠন একটি যুব ও সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
@@ -545,40 +578,7 @@ const userData = [
         number: "#",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 47,
-        photo: "../cdn/social-organization/alokito-96.png",
-        name: "আলোকিত'৯৬",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 49,
-        photo: "../cdn/social-organization/ikramul-ummah.png",
-        name: "ইকরামুল উম্মাহ",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 54,
-        photo: "../cdn/social-organization/iccha-shokti-unnoyon-songosta.jpg",
-        name: "ইচ্ছা শক্তি উন্নয়ন সংস্থা",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
+        detail: "আফির উদ্দিন মাস্টার স্মৃতিবৃত্তি পরিষদ একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
