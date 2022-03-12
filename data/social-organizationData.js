@@ -22,28 +22,6 @@ const userData = [
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
-        id: 6,
-        photo: "../cdn/social-organization/oporajoy-98.png",
-        name: "অপারেজয়'৯৮",
-        number: "01947428014",
-        wordNo: "৬",
-        location: "নয়ামাটি",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 15,
-        photo: "../cdn/social-organization/alor-sondhan-student-and-youth-organizations.png",
-        name: "আলোর সন্ধানে ছাত্র ও যুব সংগঠন",
-        number: "01710116662",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
         id: 18,
         photo: "../cdn/social-organization/nirvhik-student-and-youth-organizations.png",
         name: "নির্ভীক ছাত্র ও যুব সংগঠন",
