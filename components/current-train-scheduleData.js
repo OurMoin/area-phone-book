@@ -9,13 +9,13 @@ const categoryData = [
       id: 2,
       photo: "../resources/icons/current-train-schedule/eastern-train.png",
       name: "পূর্বাঞ্চল",
-      link: "#"
+      link: "eastern-train"
     },
     {
       id: 3,
       photo: "../resources/icons/current-train-schedule/western-train.png",
       name: "পশ্চিমাঞ্চল",
-      link: "#"
+      link: "western-train"
     }
   ];
   

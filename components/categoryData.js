@@ -61,11 +61,11 @@ const categoryData = [
         },
         {
           name: "পূর্বাঞ্চল",
-          link: "#"
+          link: "eastern-train"
         },
         {
           name: "পশ্চিমাঞ্চল",
-          link: "#"
+          link: "western-train"
         }
       ]
   },
