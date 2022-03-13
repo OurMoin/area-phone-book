@@ -50,9 +50,22 @@ function userTemplate(user) {
             <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/md.asikurrahman321" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
+    </div>  
+
+    <!-- membar -->
+    <div class="col-md-3">
+        <div class="justify-content-between align-content-between team-card">
+            <a href="../resources/icons/team/abdul-aziz-mia.jpg"><img src="../resources/icons/team/abdul-aziz-mia.jpg" alt="asikur rahman" class="team-img"></a>
+            <h2>Abdul Aziz Mia</h2>
+            <p class="text-center">Apps Developer</p>
+            <a href="mailto:sendemailbro@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/AreaPhonebook" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/Abdul.Aziz.Mia.0" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
     </div>    
 
     <!-- membar -->
+    <!--
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/omor-faruk.jpg"><img src="../resources/icons/team/omor-faruk.jpg" alt="fawad saruf" class="team-img"></a>
@@ -63,6 +76,7 @@ function userTemplate(user) {
             <a href="https://www.facebook.com/AmiOmorFarukKhan" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
+    -->
 
     <!-- membar -->
     <div class="col-md-3">
@@ -77,6 +91,7 @@ function userTemplate(user) {
     </div>
 
     <!-- membar -->
+    <!--
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/monika-momi.jpg"><img src="../resources/icons/team/monika-momi.jpg" alt="monika momi" class="team-img"></a>
@@ -87,9 +102,11 @@ function userTemplate(user) {
             <a href="https://www.facebook.com/monikamomi97" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
+    -->
 
 
     <!-- membar -->
+    <!--
     <div class="col-md-3">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/faria-jahan-puspo.jpg"><img src="../resources/icons/team/faria-jahan-puspo.jpg" alt="faria jahan puspo" class="team-img"></a>
@@ -100,6 +117,7 @@ function userTemplate(user) {
             <a href="https://www.facebook.com/FariaJahanPuspo52" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>
     </div>
+    -->
     `;
 }
 
