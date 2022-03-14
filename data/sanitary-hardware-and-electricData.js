@@ -218,5 +218,16 @@ const userData = [
     detail: "গ্লাস, স্যানেটারী এন্ড হার্ডওয়্যার এর সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 21,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "সততা মোহাম্মদিয়া ইলেকট্রিক স্যানিটারি এন্ড হার্ডওয়ার",
+    number: "01933660000",
+    wordNo: "৫",
+    location: "শাহী বাজার (শাহী মসজিদ সংলগ্ন)",
+    detail: "saifhira@gmail.com <br>এখানে বিশ্ব বিখ্যাত জাপানি ব্যান্ড 'Nippon Paints' এবং 'Asian Paints' এর কালার ব্যাংকের সকল প্রকার রংসহ ইলেকট্রিক সেনেটারী এবং হার্ডওয়ার মালামাল সুলভ মূল্যে বিক্রয় করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
