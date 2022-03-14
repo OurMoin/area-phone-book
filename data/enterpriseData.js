@@ -75,5 +75,16 @@ const userData = [
     detail: "এখানে ইট, বালি, শুরকি, রড ও সিমেন্ট ইত্যাদি পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/enterprise/enterprise.png",
+    name: "ফয়সাল এন্টারপ্রাইজ",
+    number: "01684611605",
+    wordNo: "৫",
+    location: "পুর্ব শাহীমহল্লা",
+    detail: "পুরাতন দরজা,জানাল,টিন-এংগেল,ইট,রড,কেচিগেট,সাটার,জি আই পাইপ, ফ্লাটবার খুচরা এবং পাইকারী ক্রয়-বিক্রয় করা হয়। <br>বিঃদ্রঃ পুরাতন টিন-সেড এবং বিল্ডিং ক্রয় করা হয়।।। অভিজ্ঞ লোক দ্বারা বিল্ডিং ভাংগানোর কাজ নেয়া হয়।",
+    postLink: "https://www.facebook.com/foysala271/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
