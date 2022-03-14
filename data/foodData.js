@@ -23,7 +23,7 @@ const userData = [
    },
    {
     id: 3,
-    photo: "../cdn/food/organic-food-point.jpg",
+    photo: "../cdn/food/furqan.jpg",
     name: "Furqan - ফুরক্বান",
     number: "01787178833",
     wordNo: "৫",

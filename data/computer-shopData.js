@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/computer-shop/sr-computer-center.jpg",
+      photo: "../cdn/computer-shop/computer-shop.png",
       name: "আব্দুল কাদির কম্পিউটার",
       number: "01785808040",
       wordNo: "অন্যান্য",
