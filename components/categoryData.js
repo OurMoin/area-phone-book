@@ -96,14 +96,14 @@ const categoryData = [
           name: "ফায়ার সার্ভিস",
           link: "fire-service"
         },
-        {
-          name: "গ্যাস অফিস",
-          link: "gas-office"
-        },
-        {
-          name: "পানি অফিস",
-          link: "water-office"
-        },
+        // {
+        //   name: "গ্যাস অফিস",
+        //   link: "gas-office"
+        // },
+        // {
+        //   name: "পানি অফিস",
+        //   link: "water-office"
+        // },
         {
           name: "গাড়ি ভাড়া",
           link: "car-rental"
