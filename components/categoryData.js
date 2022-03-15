@@ -309,6 +309,10 @@ const categoryData = [
         {
           name: "রক্তদান সংগঠন",
           link: "blood-donation-organization"
+        },
+        {
+          name: "অনুষ্ঠান সঞ্চালনা",
+          link: "performing-the-ceremony"
         }
       ]
   },
