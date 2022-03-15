@@ -79,22 +79,22 @@ const userData = [
     {
         id: 8,
         photo: "../cdn/sports-organizations/matrichaya-sports-circle.png",
-        name: "মাতৃছায়া ক্রীড়া চক্র",
-        number: "#",
-        wordNo: "সমগ্র কুতুবপুর",
-        location: "সমগ্র কুতুবপুর",
-        detail: "মাতৃছায়া ক্রীড়া চক্র একটি ক্রীড়া সংগঠন",
+        name: "হাজী আমির আলী ক্রিকেট একাডেমি",
+        number: "01915687983",
+        wordNo: "৪",
+        location: "দেলপাড়া",
+        detail: "হাজী আমির আলী ক্রিকেট একাডেমি একটি ক্রীড়া সংগঠন",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
         id: 9,
         photo: "../cdn/sports-organizations/matrichaya-sports-circle.png",
-        name: "হাজী আমির আলী ক্রিকেট একাডেমি",
-        number: "01915687983",
-        wordNo: "৪",
-        location: "দেলপাড়া",
-        detail: "হাজী আমির আলী ক্রিকেট একাডেমি একটি ক্রীড়া সংগঠন",
+        name: "মাতৃছায়া ক্রীড়া চক্র",
+        number: "#",
+        wordNo: "৫",
+        location: "পশ্চিম শাহীমহল্লা",
+        detail: "মাতৃছায়া ক্রীড়া চক্র একটি ক্রীড়া সংগঠন",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
