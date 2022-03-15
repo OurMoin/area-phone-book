@@ -287,7 +287,7 @@ const userData = [
     },
     {
         id: 26,
-        photo: "../cdn/social-organization/serve-for-humanity.png",
+        photo: "../cdn/social-organization/serve-for-humanity.jpg",
         name: "সার্ভ ফর হিউম্যানিটি",
         number: "01634276700",
         wordNo: "সমগ্র কুতুবপুর",
