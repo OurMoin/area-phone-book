@@ -18,7 +18,7 @@ const categoryData = [
       link: "cosmetics"
     },
     {
-      id: 3,
+      id: 4,
       photo: "../resources/icons/area-based-online-service/news.png",
       name: "নিউজ",
       link: "news"

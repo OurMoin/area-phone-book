@@ -971,6 +971,27 @@ const categoryData = [
           link: "garments"
         }
       ]
+  },
+  {
+    id: 30,
+    photo: "../resources/icons/land-development.png",
+    name: "ল্যান্ড ডেভেলপমেন্ট",
+    pageLink: "land-development",
+    subCategory:
+      [
+        {
+          name: "জমি বিক্রি",
+          link: "land-for-sale"
+        },
+        {
+          name: "জমি বুকিং",
+          link: "land-booking"
+        },
+        {
+          name: "ফ্লাট বিক্রি",
+          link: "flats-for-sale"
+        }
+      ]
   }
 ];
   
