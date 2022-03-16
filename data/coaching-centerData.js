@@ -86,5 +86,27 @@ const userData = [
     detail: "৫ম শ্রেনী থেকে দ্বাদশ শ্রেনী পর্যন্ত পড়ানো হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 9,
+    photo: "../cdn/coaching-center/quantum-academic-and-admission-care.jpg",
+    name: "কোয়ান্টাম একাডেমিক এন্ড এডমিশন কেয়ার",
+    number: "01995544427",
+    wordNo: "৬",
+    location: "নয়ামাটি কেন্দ্রিয় মসজিদ সংলগ",
+    detail: "নবম শ্রেণী থেকে দ্বাদশ শ্রেণী পর্যন্ত বিজ্ঞান বিভাগের শিক্ষার্থীদেরকে কেবলমাত্র পাবলিক বিশ্ববিদ্যালয় পড়ুয়া মেধাবী শিক্ষার্থীদের মাধ্যমে পাঠদান করানো হয়।<br> পাশাপাশি বিশ্ববিদ্যালয় ভর্তির জন্য A Unit & D Unit কোর্স করানো হয়।",
+    postLink: "https://www.facebook.com/QuantumAC2016/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 10,
+    photo: "../cdn/coaching-center/coaching-center.png",
+    name: "কমার্স কোচিং সেন্টার",
+    number: "01984723748",
+    wordNo: "৫",
+    location: "নূরবাগ পুরাতন সিএনজি স্ট্যান্ড",
+    detail: "বিবিএ অনার্সের (একাউন্টিং, ফিন্যান্স, বিজনেস ম্যাথ, পরিসংখ্যান, ম্যানেজমেন্ট একাউন্টিং ইত্যাদি) বিষয় সমূহ পড়ানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
   }
 ];
