@@ -64,5 +64,16 @@ const userData = [
     detail: "০১৮২০৮২৮০৮১<br> চুল কাটা, শেভ, ফেসওয়াশ, ফেসিয়াল, ফেয়ারপলিশ, ব্লিজ, ব্রণ, ট্রিটমেন্ট, চুলের রঙ, চুলের স্ট্রেট, চুলের রিবন্ডিং, হেয়ার ট্রিটমেন্ট, কান ভেদ করা, ম্যাল্টিকালার, হেড ম্যাসেজ, বডিম্যাসেজ, তেল ম্যাসাজ থেরাপি ইত্যাদি ধন্যবাদ।",
     postLink: "https://www.facebook.com/groups/371332293457017/permalink/915384312385143/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/parlor/young-star-gents-parlor-&-ac-salon.jpg",
+    name: "সোহা বিউটি ওয়ার্লড",
+    number: "01681767839",
+    wordNo: "৬",
+    location: "পশ্চিম রসুলপুর, ভাংগাপুল মসজিদ সংলগ্ন",
+    detail: "syasmin7839@gmail.com <br>অতি যত্ন সহকারে যে কোনো ধরনের সৌন্দর্য চর্চার কাজ করা হয়।<br> ফেসিয়াল, স্পা, রিবন্ডিং, পার্টি সাজ, বৌ সাজ, মেনিকিওর, পেডিকিওর সহ যাবতীয় রুপচর্চার কাজ।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

@@ -20,6 +20,17 @@ const userData = [
       detail: "মেয়েদের যাবতীয় পোশাক, জুয়েলারী ও বিউটি প্রোডাক্ট ইত্যাদি পাওয়া যায়।",
       postLink: "https://www.facebook.com/jrfashionmart7",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 3,
+      photo: "../cdn/clothes/galben-fashion.png",
+      name: "Galben Fashion",
+      number: "01624214416",
+      wordNo: "৬",
+      location: "নয়ামাটি",
+      detail: "ছেলে ও মেয়েদের উভয় ড্রেস কালেকশন পাওয়া যায়।",
+      postLink: "https://www.facebook.com/galbenfashion/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
