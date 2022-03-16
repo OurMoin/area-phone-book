@@ -487,7 +487,7 @@ const userData = [
         id: 44,
         photo: "../cdn/social-organization/agrodut-club.png",
         name: "অগ্রদূত ক্লাব",
-        number: "#",
+        number: "01712241780",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
         detail: "অগ্রদূত ক্লাব একটি সামাজিক সংগঠন।",
@@ -579,17 +579,6 @@ const userData = [
         wordNo: "৫",
         location: "শাহীবাজার",
         detail: "হাসি মুখ একটি সমাজ কল্যাণ মূলক ও সামাজিক সংগঠন।",
-        postLink: "http://fb.com/areaPhonebook",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
-    {
-        id: 53,
-        photo: "../cdn/social-organization/hashi-mukh.jpg",
-        name: "একতা সোসাইটি",
-        number: "01930086518",
-        wordNo: "৪",
-        location: "দেলপাড়া",
-        detail: "একতা সোসাইটি একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
