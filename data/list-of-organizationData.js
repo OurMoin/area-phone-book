@@ -658,7 +658,7 @@ const userData = [
         detail: "মাতৃছায়া ক্রীড়া চক্র একটি ক্রীড়া সংগঠন",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    }
+    },
     {
         id: 61,
         photo: "../cdn/social-organization/social-organization.png",
@@ -768,6 +768,6 @@ const userData = [
         detail: "হাজী আমির আলী ক্রিকেট একাডেমি একটি ক্রীড়া সংগঠন",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },
+    }
 ];
   
