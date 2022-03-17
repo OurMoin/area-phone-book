@@ -67,7 +67,7 @@ const userData = [
     },
     {
         id: 7,
-        photo: "../cdn/sports-organizations/kutubpur-sporting-club.png",
+        photo: "../cdn/sports-organizations/sports-organizations.png",
         name: "কুতুবপুর স্পোর্টিং ক্লাব",
         number: "01986035646",
         wordNo: "সমগ্র কুতুবপুর",
@@ -78,7 +78,7 @@ const userData = [
     },
     {
         id: 8,
-        photo: "../cdn/sports-organizations/matrichaya-sports-circle.png",
+        photo: "../cdn/sports-organizations/sports-organizations.png",
         name: "হাজী আমির আলী ক্রিকেট একাডেমি",
         number: "01915687983",
         wordNo: "৪",
@@ -89,7 +89,7 @@ const userData = [
     },
     {
         id: 9,
-        photo: "../cdn/sports-organizations/matrichaya-sports-circle.png",
+        photo: "../cdn/sports-organizations/sports-organizations.png",
         name: "মাতৃছায়া ক্রীড়া চক্র",
         number: "01704151091",
         wordNo: "৫",

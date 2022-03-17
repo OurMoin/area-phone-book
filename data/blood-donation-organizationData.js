@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/blood-donation-organization/life-savers-blood-donation-group.png",
+    photo: "../cdn/blood-donation-organization/blood-donation-organization.png",
     name: "লাইফ সেভার্স ব্লাড ডোনেশন গ্রুপ",
     number: "#",
     wordNo: "সমগ্র কুতুবপুর",

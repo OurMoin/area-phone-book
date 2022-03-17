@@ -276,7 +276,7 @@ const userData = [
     },
     {
         id: 26,
-        photo: "../cdn/social-organization/knowledge-home-social-organization.png",
+        photo: "../cdn/social-organization/social-organization.png",
         name: "নলেজ হোম সামাজিক সংগঠন",
         number: "01986035646",
         wordNo: "৫",
@@ -375,7 +375,7 @@ const userData = [
     },
     {
         id: 35,
-        photo: "../cdn/social-organization/duronto-98.png",
+        photo: "../cdn/social-organization/social-organization.png",
         name: "দুরন্ত'৯৮",
         number: "01734547676",
         wordNo: "দেলপাড়ার",
@@ -419,7 +419,7 @@ const userData = [
     },
     {
         id: 39,
-        photo: "../cdn/social-organization/public-interest-implementation-agency.png",
+        photo: "../cdn/social-organization/social-organization.png",
         name: "জনস্বার্থ বাস্তবায়ন সংস্থা",
         number: "01915499574",
         wordNo: "সমগ্র কুতুবপুর",
@@ -496,7 +496,7 @@ const userData = [
     },
     {
         id: 46,
-        photo: "../cdn/social-organization/nandalalpur-poribes-songrokkhon-forum.png",
+        photo: "../cdn/social-organization/social-organization.png",
         name: "নন্দলালপুর পরিবেশ সংরক্ষণ ফোরাম",
         number: "01913377933",
         wordNo: "৮",
@@ -529,7 +529,7 @@ const userData = [
     },
     {
         id: 49,
-        photo: "../cdn/social-organization/sonali-oggikar-99.png",
+        photo: "../cdn/social-organization/social-organization.png",
         name: "সোনালী আঙ্গিনায়'৯৯",
         number: "01720001733",
         wordNo: "সমগ্র কুতুবপুর",
