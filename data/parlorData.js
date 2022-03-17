@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/parlor/young-star-gents-parlor-&-ac-salon.jpg",
+    photo: "../cdn/parlor/parlor.png",
     name: "সোহা বিউটি ওয়ার্লড",
     number: "01681767839",
     wordNo: "৬",

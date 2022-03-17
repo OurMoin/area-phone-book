@@ -28,7 +28,7 @@ const userData = [
       number: "01945556782",
       wordNo: "অন্যান্য",
       location: "মাহবুদুল হক খান প্লাজা ৫ম তলা, রায়েরবাগ বাস স্ট্যান্ড",
-      detail: "",
+      detail: "GYM Training",
       postLink: "http://fb.com/areaPhonebook",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }

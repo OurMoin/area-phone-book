@@ -31,6 +31,18 @@ const categoryData = [
     },
     {
       id: 6,
+      photo: "../resources/icons/emergency-services/gas-office.png",
+      name: "গ্যাস অফিস",
+      link: "gas-office"
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/emergency-services/water-office.png",
+      name: "পানি অফিস",
+      link: "water-office"
+    },
+    {
+      id: 8,
       photo: "../resources/icons/emergency-services/car-rental.png",
       name: "গাড়ি ভাড়া",
       link: "car-rental"

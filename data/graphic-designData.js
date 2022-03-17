@@ -6,7 +6,7 @@ const userData = [
     number: "01521216013",
     wordNo: "৫",
     location: "শাহী-মহল্লা",
-    detail: "Multimedia Content Developer.<br>Excerpt in Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe InDesign, After Effects and exparte in printing and press media.",
+    detail: "Multimedia Content Developer.<br>Expert in Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe InDesign, After Effects and expert in printing and press media.",
     postLink: "https://www.facebook.com/SharifImtaz",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -17,7 +17,7 @@ const userData = [
     number: "01688202988",
     wordNo: "৪",
     location: "নুরবাগ",
-    detail: "Professional Graphics Designer.<br>Excerpt in Adobe Photoshop and Adobe Illustrator.",
+    detail: "Professional Graphics Designer.<br> Expert in Adobe Photoshop and Adobe Illustrator.",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -28,7 +28,7 @@ const userData = [
     number: "01679038086",
     wordNo: "৫",
     location: "শাহীবাজার",
-    detail: "Professional Graphics Designer.Excerpt in Adobe Photoshop, Adobe Illustrator, Printing and Press.",
+    detail: "Professional Graphics Designer. Expert in Adobe Photoshop, Adobe Illustrator, Printing and Press.",
     postLink: "https://www.facebook.com/nobita.q.75",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -39,7 +39,7 @@ const userData = [
     number: "01407757364",
     wordNo: "৬",
     location: "বউবাজার",
-    detail: "Professional Graphics Designer.<br>Excerpt in Adobe Photoshop and Adobe Illustrator.",
+    detail: "Professional Graphics Designer.<br>Expert in Adobe Photoshop and Adobe Illustrator.",
     postLink: "https://www.facebook.com/profile.php?id=100054960154443",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
@@ -50,7 +50,7 @@ const userData = [
     number: "01308390001",
     wordNo: "৪",
     location: "পূর্ব দেলপাড়া",
-    detail: "I am graphic designer. Working on logo design sector. I also can do banner,poster,email signature, template, portfolio, Business Card, etc. My target is client satisfaction first.",
+    detail: "I am graphic designer. Working on logo design sector. I also can do banner, poster, email signature, template, portfolio, Business Card etc. My target is client satisfaction first.",
     postLink: "Sajjadhossain.officials@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }

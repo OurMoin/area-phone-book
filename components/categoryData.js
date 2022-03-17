@@ -96,14 +96,14 @@ const categoryData = [
           name: "ফায়ার সার্ভিস",
           link: "fire-service"
         },
-        // {
-        //   name: "গ্যাস অফিস",
-        //   link: "gas-office"
-        // },
-        // {
-        //   name: "পানি অফিস",
-        //   link: "water-office"
-        // },
+        {
+          name: "গ্যাস অফিস",
+          link: "gas-office"
+        },
+        {
+          name: "পানি অফিস",
+          link: "water-office"
+        },
         {
           name: "গাড়ি ভাড়া",
           link: "car-rental"
@@ -265,10 +265,6 @@ const categoryData = [
           name: "চেয়ারম্যান-মেম্বার",
           link: "chairman-member"
         },
-        // {
-        //   name: "চেয়ারম্যান অফিস",
-        //   link: "chairman-office"
-        // },
         {
           name: "ভোটার অফিস",
           link: "voter-office"
@@ -532,18 +528,18 @@ const categoryData = [
           name: "ভাষা ট্রেনিং",
           link: "language-training"         
           },
-        // {
-        //   name: "স্কিল ট্রেনিং",
-        //   link: "skill-training"            
-        // },
-        // {
-        //   name: "ইলেকট্রিক ট্রেনিং",
-        //   link: "electrical-training"              
-        // },
-        // {
-        //   name: "ওয়ার্কশপ ট্রেনিং",
-        //   link: "workshop-training"              
-        // },
+        {
+          name: "স্কিল ট্রেনিং",
+          link: "skill-training"            
+        },
+        {
+          name: "ইলেকট্রিক ট্রেনিং",
+          link: "electrical-training"              
+        },
+        {
+          name: "ওয়ার্কশপ ট্রেনিং",
+          link: "workshop-training"              
+        },
         {
           name: "টেইলারিং ট্রেনিং",
           link: "trailing-training"              

@@ -1,24 +1,48 @@
 const categoryData = [
     {
       id: 1,
+      photo: "../resources/icons/shop/super-shop.png",
+      name: "সুপার শপ",
+      link: "super-shop"
+    },
+    {
+      id: 2,
+      photo: "../resources/icons/shop/mini-super-shop.png",
+      name: "মিনি সুপার শপ",
+      link: "mini-super-shop"
+    },
+    {
+      id: 3,
       photo: "../resources/icons/shop/wholesale-store.png",
       name: "পাইকারী দোকান",
       link: "wholesale-store"
     },
     {
-      id: 2,
+      id: 4,
       photo: "../resources/icons/shop/dealer-points.png",
       name: "ডিলার পয়েন্ট",
       link: "dealer-points"
     },
     {
-      id: 3,
+      id: 5,
       photo: "../resources/icons/shop/confectionary.png",
       name: "কনফেকশনারী",
       link: "confectionary"
     },
     {
-      id: 4,
+      id: 6,
+      photo: "../resources/icons/shop/bakery.png",
+      name: "বেকারি",
+      link: "bakery"
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/shop/spice-shop.png",
+      name: "মশলার দোকান",
+      link: "spice-shop"
+    },
+    {
+      id: 6,
       photo: "../resources/icons/shop/tailors-and-fabrics.png",
       name: "টেইলার্স এন্ড ফেব্রিক্স",
       link: "tailors-and-fabrics"
