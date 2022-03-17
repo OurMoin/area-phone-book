@@ -768,6 +768,105 @@ const userData = [
       detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
       postLink: "https://www.facebook.com/AreaPhonebook/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 72,
+      photo: "../cdn/mosque/mosque.png",
+      name: "বাইতুল জাকির শাহীজামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৮",
+      location: "পূর্ব শিয়াচর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 73,
+      photo: "../cdn/mosque/mosque.png",
+      name: "হাজি রেকমত উল্লাহ বাইতুন নুর জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৮",
+      location: "পূর্ব শিয়াচর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 74,
+      photo: "../cdn/mosque/mosque.png",
+      name: "আল হাজ মোহাম্মদ আলি জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৮",
+      location: "শিয়াচর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 75,
+      photo: "../cdn/mosque/mosque.png",
+      name: "জামিয়া জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৮",
+      location: "উত্তর শিয়াচর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 76,
+      photo: "../cdn/mosque/mosque.png",
+      name: "মদিনা জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৮",
+      location: "শিয়াচর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 77,
+      photo: "../cdn/mosque/mosque.png",
+      name: "আমির হামজা জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৩",
+      location: "ভূইগড়",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 78,
+      photo: "../cdn/mosque/mosque.png",
+      name: "ভূইগড় পশ্চিম জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৩",
+      location: "ভূইগড়",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 79,
+      photo: "../cdn/mosque/mosque.png",
+      name: "ভূইগড় মাঝিরবাগ জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৩",
+      location: "ভূইগড়",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 80,
+      photo: "../cdn/mosque/mosque.png",
+      name: "রামারবাগ শাহী জামে জামে মসজিদ",
+      number: "01798899911",
+      wordNo: "৯",
+      location: "রামারবাগ",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "https://www.facebook.com/AreaPhonebook/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
