@@ -24,11 +24,11 @@ const userData = [
     {
         id: 3,
         photo: "../cdn/social-organization/oporajoy-98.png",
-        name: "অপারেজয়'৯৮",
+        name: "অপরাজেয়'৯৮",
         number: "01947428014",
         wordNo: "৬",
         location: "নয়ামাটি",
-        detail: "অপারেজয়'৯৮ একটি সাসমাজিক সংগঠন।",
+        detail: "অপরাজেয়'৯৮ একটি সাসমাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
