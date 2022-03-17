@@ -295,6 +295,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "সংগঠনের তালিকা",
+          link: "list-of-organization"
+        },
+        {
           name: "সামাজিক সংগঠন",
           link: "social-organization"
         },
