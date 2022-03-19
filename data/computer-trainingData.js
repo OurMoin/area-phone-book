@@ -1,8 +1,8 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/computer-training/niom-computer-training.jpg",
-    name: "নিয়ম কম্পিউটার ট্রেনিং",
+    photo: "../cdn/computer-training/niom-it.jpg",
+    name: "NIOM IT - নিয়ম আইটি",
     number: "01303002226",
     wordNo: "6",
     location: "প্যারাডাইস সিটি",
