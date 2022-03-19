@@ -53,5 +53,16 @@ const userData = [
     detail: "01626803314<br> এখানে দেশী-বিদেশী কসমেটিক এবং যে কোন অনুষ্ঠানের যাবতীয় মুদি মালামাল সুলভ মূল্যে পাওয়া যায়। কসমেটিক এবং ষ্টেশনারী সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/wholesale-store/wholesale-store.png",
+    name: "ছালাম ষ্টোর",
+    number: "01674833644",
+    wordNo: "৬",
+    location: "ইসলামিয়া বাজার(বৌ-বাজার)",
+    detail: "smmasum57@gmail.com<br> সকল প্রকার মুদি পণ্য পাইকারী পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
