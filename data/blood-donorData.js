@@ -53,6 +53,17 @@ const userData = [
     detail: "রক্তের গ্রুপ O+",
     postLink: "https://www.facebook.com/sishawon.hossan",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/blood-donor/man-blood-donor.png",
+    name: "মোঃ শাহাদাৎ হোসেন",
+    number: "01648039314",
+    wordNo: "৩",
+    location: "ভুইগড়",
+    detail: "রক্তের গ্রুপ O+ <br>প্রতি ৪ মাস পর পর রক্তদান করা হয়।",
+    postLink: "https://www.facebook.com/sishawon.hossan",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
