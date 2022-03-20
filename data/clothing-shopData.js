@@ -42,5 +42,16 @@ const userData = [
     detail: "এখানে উন্নত মানের ছেলেদের শার্ট, প্যান্ট, পাঞ্জাবি, গেঞ্জি, ঘড়ি ও চশমা ইত্যাদি পাওয়া যায়।",
     postLink: "https://www.facebook.com/mdanisur.rahman.94214",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/clothing-shop/clothing-shop.png",
+    name: "সান ফ্লাওয়ার টেইলার্স অ্যান্ড ক্লথ স্টোর",
+    number: "01920915116",
+    wordNo: "৪",
+    location: "হাজী আহসান উদ্দিন সুপার মার্কেট",
+    detail: "এইখানে সকল প্রকার জেন্টস কাপড় বিক্রি ও সেলাই করা হয়। যেমন, শার্ট, প্যান্ট, কোর্ট, টাই, পাঞ্জাবি, পায়জামা, কাবলি, জুব্বা ও কুর্তা ইত্যাদি।<br> বিশেষ করে স্কুল ও কলেজ এর ড্রেস সেলাই করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
