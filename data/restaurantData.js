@@ -45,13 +45,13 @@ const userData = [
   },
   // {
   //   id: 5,
-  //   photo: "../cdn/restaurant/generation-restaurant-and-cafe.jpg",
-  //   name: "প্রজন্ম রেস্টুরেন্ট এন্ড ক্যাফে",
-  //   number: "Hidden",
-  //   wordNo: "৫",
-  //   location: "শাহীবাজার, আমতলা রোড",
-  //   detail: "রেস্টুরেন্ট এন্ড ক্যাফে",
-  //   postLink: "http://fb.com/areaPhonebook",
+  //   photo: "../cdn/restaurant/blue-marlin.jpg",
+  //   name: "Blue Marlin",
+  //   number: "01670039590",
+  //   wordNo: "৬",
+  //   location: "কাজী মার্কেট, পাগলাবাজার",
+  //   detail: "Cafe and Multicuisine Restaurant.",
+  //   postLink: "https://www.facebook.com/dream21.bd",
   //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   // },
   {
