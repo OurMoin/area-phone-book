@@ -45,6 +45,10 @@ const categoryData = [
         {
           name: "প্রখ্যাত ব্যক্তিত্ব",
           link: "eminent-personalities"
+        },
+        {
+          name: "মুক্তিযোদ্ধা",
+          link: "freedom-fighters"
         }
       ]
   },  

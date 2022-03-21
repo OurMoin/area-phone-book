@@ -59,6 +59,12 @@ const categoryData = [
       photo: "../resources/icons/our-kutubpur/eminent-personalities.png",
       name: "প্রখ্যাত ব্যক্তিত্ব",
       link: "eminent-personalities"
+    },
+    {
+      id: 11,
+      photo: "../resources/icons/our-kutubpur/freedom-fighters.png",
+      name: "মুক্তিযোদ্ধা",
+      link: "freedom-fighters"
     }
   ];
   
