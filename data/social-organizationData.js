@@ -277,7 +277,7 @@ const userData = [
     {
         id: 26,
         photo: "../cdn/social-organization/social-organization.png",
-        name: "নলেজ হোম সামাজিক সংগঠন",
+        name: "নলেজ হোম সমাজ কল্যাণ পাঠাগার",
         number: "01986035646",
         wordNo: "৫",
         location: "ওয়ায়েজকরনী আদর্শনগর",
