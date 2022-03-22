@@ -529,7 +529,7 @@ const userData = [
     },
     {
         id: 49,
-        photo: "../cdn/social-organization/social-organization.png",
+        photo: "../cdn/social-organization/sonali-agniyai-99.png",
         name: "সোনালী আঙ্গিনায়'৯৯",
         number: "01720001733",
         wordNo: "সমগ্র কুতুবপুর",
