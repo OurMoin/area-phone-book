@@ -89,7 +89,7 @@ const userData = [
     },
     {
         id: 9,
-        photo: "../cdn/sports-organizations/sports-organizations.png",
+        photo: "../cdn/sports-organizations/matrichaya-sports-organizations.png",
         name: "মাতৃছায়া ক্রীড়া চক্র",
         number: "01704151091",
         wordNo: "৫",
