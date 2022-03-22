@@ -12,17 +12,6 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/home-teacher/md-maruf.jpg",
-    name: "মোঃ মারুফ",
-    number: "01926149448",
-    wordNo: "৫",
-    location: "শাহী-মহল্লা",
-    detail: "ক্লাস ৬ - ক্লাস ১০ (ব্যবসায়ী বিভাগ) হোম টিচার।",
-    postLink: "http://fb.com/areaPhonebook",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
-  {
-    id: 3,
     photo: "../cdn/home-teacher/abbas-uddin.jpg",
     name: "মোঃ আব্বাস উদ্দিন",
     number: "01927106412",
@@ -33,7 +22,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 4,
+    id: 3,
     photo: "../cdn/home-teacher/rakibul-islam-bappi.jpg",
     name: "রাকিবুল ইসলাম বাপ্পি",
     number: "01679472706",
@@ -44,7 +33,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 5,
+    id: 4,
     photo: "../cdn/home-teacher/md-faisal-ahmed.jpg",
     name: "মো: ফয়সাল আহমেদ",
     number: "01984723748",
@@ -55,7 +44,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 6,
+    id: 5,
     photo: "../cdn/home-teacher/female-home-teacher.png",
     name: "মোমেনা আক্তার",
     number: "01571020438",
@@ -66,7 +55,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 7,
+    id: 6,
     photo: "../cdn/home-teacher/asifur-rahman-mridul.jpg",
     name: "আশিফুর রহমান মৃদুল",
     number: "01787178833",
@@ -77,7 +66,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 8,
+    id: 7,
     photo: "../cdn/home-teacher/ariful-baten-shaon.jpg",
     name: "আরিফুল বাতেন শাওন",
     number: "01624990613",
@@ -88,7 +77,7 @@ const userData = [
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
-    id: 9,
+    id: 8,
     photo: "../cdn/home-teacher/rifat-sardar-anik.jpg",
     name: "রিফাত সরদার অনিক",
     number: "01919963875",
