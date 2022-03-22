@@ -375,7 +375,7 @@ const userData = [
     },
     {
         id: 35,
-        photo: "../cdn/social-organization/social-organization.png",
+        photo: "../cdn/social-organization/duronto-98.png",
         name: "দুরন্ত'৯৮",
         number: "01734547676",
         wordNo: "দেলপাড়ার",
