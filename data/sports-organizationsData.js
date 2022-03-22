@@ -78,7 +78,7 @@ const userData = [
     },
     {
         id: 8,
-        photo: "../cdn/sports-organizations/sports-organizations.png",
+        photo: "../cdn/sports-organizations/haji-amir-ali-cricket-academy.png",
         name: "হাজী আমির আলী ক্রিকেট একাডেমি",
         number: "01915687983",
         wordNo: "৪",
