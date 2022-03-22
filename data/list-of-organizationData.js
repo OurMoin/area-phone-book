@@ -596,7 +596,7 @@ const userData = [
     {
         id: 55,
         photo: "../cdn/sports-organizations/sports-organizations.png",
-        name: "কুতুবপুর স্পোর্টিং ক্লাব",
+        name: "কুতুবপুর স্পোর্টস একাডেমি",
         number: "01986035646",
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
