@@ -370,9 +370,11 @@ h1 {
     }
     
 }
-
+/* 
 .onetime{
-    height : 150px;
+    height : 300px;
+    width: 300px;
     background-color:blue;
-    /* z-index: 999; */
-}    
+    z-index: 9999;
+    align-items: center;
+}     */
