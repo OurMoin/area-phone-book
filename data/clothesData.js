@@ -31,6 +31,17 @@ const userData = [
       detail: "ছেলে ও মেয়েদের উভয় ড্রেস কালেকশন পাওয়া যায়।",
       postLink: "https://www.facebook.com/galbenfashion/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 4,
+      photo: "../cdn/clothes/galben-fashion.png",
+      name: "Aalna",
+      number: "01861231108",
+      wordNo: "৫",
+      location: "রসূলপুর",
+      detail: "All kinds of Ladies dresses, Birthday combo, Valentine Combo.",
+      postLink: "https://www.facebook.com/aalnabd",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
