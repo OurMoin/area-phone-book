@@ -581,6 +581,17 @@ const userData = [
         detail: "হাসি মুখ একটি সমাজ কল্যাণ মূলক ও সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 54,
+        photo: "../cdn/social-organization/ek-mutho-ahar.jpg",
+        name: "এক মুঠো আহার ছাত্র ও যুব সংগঠন",
+        number: "01406810743",
+        wordNo: "৮",
+        location: "ফতুল্লা তক্কারমাঠ",
+        detail: "আমাদের সংগঠনের (এক মুঠো আহার ছাত্র ও যুব সংগঠন) এটা প্রতিষ্ঠা হয়েছে ২০১৯সালে। আমরা কোভিড-১৯ এর সময় জীবানু নাষক স্পে দিয়েছি, ঈদে অসহায়দের ঈদ খাদ্য সামগ্রিক  দিয়েছি, মসজিদে কিছু অর্থ দান করেছি ইনশাআল্লাহ আমরা আরো এগিয়ে যাবো।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
 ];
   
