@@ -40,12 +40,6 @@ const categoryData = [
       photo: "../resources/icons/hardware-sanitary-electronics/grillshop-and-workshop.png",
       name: "গ্রিল এবং ওয়ার্কশপের দোকান",
       link: "grillshop-and-workshop"
-    },
-    {
-      id: 8,
-      photo: "../resources/icons/hardware-sanitary-electronics/rod-shop.png",
-      name: "রডের দোকান",
-      link: "rod-shop"
     }
   ];
   

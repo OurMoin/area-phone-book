@@ -666,6 +666,27 @@ const categoryData = [
       ]
   },
   {
+    id: 31,
+    photo: "../resources/icons/materials-under-construction.png",
+    name: "নির্মাণাধীন সামগ্রী",
+    pageLink: "materials-under-construction",
+    subCategory:
+      [
+        {
+          name: "ইট, বালি ও সিমেন্ট",
+          link: "brick-sand-and-cement"
+        },
+        {
+          name: "রডের দোকান",
+          link: "rod-shop"
+        },
+        {
+          name: "কন্ট্রাক্টর",
+          link: "contractor"
+        }
+      ]
+  },
+  {
     id: 15,
     photo: "../resources/icons/mechanic.png",
     name: "মিস্ত্রী",
@@ -748,7 +769,7 @@ const categoryData = [
           link: "auto-parts"
         },
         {
-          name: "এন্টারপ্রাইজ",
+          name: "নির্মাণাধীন সামগ্রী",
           link: "enterprise"
         },
         {
@@ -770,10 +791,6 @@ const categoryData = [
         {
           name: "গ্রিল এবং ওয়ার্কশপের দোকান",
           link: "grillshop-and-workshop"
-        },
-        {
-          name: "রডের দোকান",
-          link: "rod-shop"
         }
       ]
   },
