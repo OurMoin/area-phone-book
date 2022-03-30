@@ -31,6 +31,17 @@ const userData = [
     detail: "অর্গানিক ফুড (ঘি, মাখন, নারিকেল তেল, অলিভ অয়েল, কালোজিরা তেল, বিভিন্ন ফুলের মধু, ড্রাই ফ্রুটস, খেজুর ইত্যাদি অর্গানিক ফুড।) পাওয়া যায়।",
     postLink: "https://www.facebook.com/WeAreFurqan",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 4,
+    photo: "../cdn/food/cakes-kings-and-pastry-shop.jpg",
+    name: "Cakes Kings & Pastry Shop",
+    number: "01953504973",
+    wordNo: "৪",
+    location: "খালপাড়",
+    detail: "জন্মদিন, বিবাহ বার্ষিক, হলুদের, বিয়েসহ বিভিন্ন অনুষ্ঠানে কেক এবং পেস্ট্রি পাওয়া যায়।",
+    postLink: "https://www.facebook.com/cakeskingsbd/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    }
 ];
     
