@@ -262,5 +262,16 @@ const userData = [
     detail: "এখানে টিভি ফ্রিজ এসি এয়ার কুলার রাইস কুকার পেশার কুকার সহ যাবতীয় ইলেকট্রনিক্স পণ্য এবং বৈদ্যুতিক তার, সুইচ, সকেট, সার্কিট ব্রেকার সহ যাবতীয় ইলেকট্রিক পণ্য সুলভ মূল্যে বিক্রয় করা হয়।",
     postLink: "sordarmdshamim35@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 25,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "আরিফ চৌধুরী ইলেকট্রিক",
+    number: "01950535507",
+    wordNo: "৫",
+    location: "পূর্ব শাহী মহল্লা",
+    detail: "সকল প্রকার ইলেকট্রিক ও হার্ডওয়ার সামগ্রী পাইকারি বিক্রেতা।",
+    postLink: "hahabib8@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
