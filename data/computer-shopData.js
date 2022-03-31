@@ -64,6 +64,17 @@ const userData = [
       detail: "জন্ম নিবন্ধন সংক্রান্ত সকল সেবা অনলাইনের যাবতীয় সেবা।",
       postLink: "Wordno06@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+    },
+    {
+      id: 7,
+      photo: "../cdn/computer-shop/computer-shop.png",
+      name: "বেস্ট ওয়ান ডিজিটাল কম্পিউটার",
+      number: "01521409300",
+      wordNo: "৮",
+      location: "কাজী খোরশেদ প্লাজা",
+      detail: "সব ধরনের কম্পিউটার কম্পোজিং, ফটোকপি এবং প্রিন্টিং করা হয়।",
+      postLink: "best1digitalcomputer@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     }
   ];
   
