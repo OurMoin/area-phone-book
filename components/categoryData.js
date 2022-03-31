@@ -629,6 +629,10 @@ const categoryData = [
         {
           name: "গাড়ি সার্ভিসিং",
           link: "car-servicing"
+        },
+        {
+          name: "সেলাই মেশিন সার্ভিসিং",
+          link: "sewing-machine-servicing"
         }
       ]
   },

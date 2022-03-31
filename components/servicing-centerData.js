@@ -46,6 +46,12 @@ const categoryData = [
       photo: "../resources/icons/servicing-center/car-servicing.png",
       name: "গাড়ি সার্ভিসিং",
       link: "car-servicing"
+    },
+    {
+      id: 9,
+      photo: "../resources/icons/servicing-center/sewing-machine-servicing.png",
+      name: "সেলাই মেশিন সার্ভিসিং",
+      link: "sewing-machine-servicing"
     }
   ];
   

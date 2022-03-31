@@ -64,5 +64,16 @@ const userData = [
     detail: "RO, UV, UC Water Filter বিক্রি এবং মেরামত। সকল প্রকার পানির প্লান্ট বিক্রি ও মেরামত। পানির বিশুদ্ধতা নিশ্চিতকরনে যাবতীয় পানির ফিল্টার, কমার্শিয়াল সকল প্রকার পানির প্লান্ট ও সকল প্রকার যন্ত্রাংশ, ও মেডিসিন পাইকারি ও খুচরা বিক্রি করা হয়।",
     postLink: "https://www.facebook.com/Niyamat.Online.Shopping/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/dealer-points/niyamat-enterprise.jpg",
+    name: "মেসার্স মায়ের দোয়া সেলাই মেশিন সাভির্সিং সেন্টার ও কেচি সান ঘর-২",
+    number: "01832451262",
+    wordNo: "৬",
+    location: "পশ্চিম নয়ামাটি",
+    detail: "RO, UV, UC Water Filter বিক্রি এবং মেরামত। সকল প্রকার পানির প্লান্ট বিক্রি ও মেরামত। পানির বিশুদ্ধতা নিশ্চিতকরনে যাবতীয় পানির ফিল্টার, কমার্শিয়াল সকল প্রকার পানির প্লান্ট ও সকল প্রকার যন্ত্রাংশ, ও মেডিসিন পাইকারি ও খুচরা বিক্রি করা হয়।",
+    postLink: "https://www.facebook.com/Niyamat.Online.Shopping/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
