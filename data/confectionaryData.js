@@ -64,5 +64,16 @@ const userData = [
     detail: "কনফেকশনারি এবং গ্রোসারি পণ্যের পাওয়া যায়।",
     postLink: "shakilahmed.jorip@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/confectionary/ma-babar-doya-confectioner.jpg",
+    name: "মা-বাবার দোয়া কনফেকশনারি",
+    number: "01834531944",
+    wordNo: "৫",
+    location: "শাহী বাজার, আমতলা",
+    detail: "এখানে উন্নতমানের রুটি, কেক, বিস্কুট, পাউডার দুধ, কোমল পানিও, আইসক্রিম, পারফিউম, বডি স্প্রে, শ্যাম্পু ইত্যাদি মালামাল সুলভ মুল্যে বিক্রয় করা হয়।",
+    postLink: "shakilahmed.jorip@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
