@@ -86,6 +86,39 @@ const userData = [
     detail: "৬ষ্ঠ - ১০ম শ্রেণি পর্যন্ত গণিত,বিজ্ঞান এবং ইংরেজি ও ৩য় - ৫ম শ্রেণীর সকল বিষয় পড়ানো হয়।",
     postLink: "rifatanik1122@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 9,
+    photo: "../cdn/home-teacher/male-home-teacher.png",
+    name: "মোঃ ইয়াসিন মাহামুদ",
+    number: "01886807431",
+    wordNo: "৬",
+    location: "নয়ামাটি",
+    detail: "নূরানী পদ্ধতিতে কুরআন শিক্ষা দেওয়া হয়।",
+    postLink: "cmyeasin31@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 10,
+    photo: "../cdn/home-teacher/muhammad-nayem-khan.jpg",
+    name: "মুহাম্মদ নাঈম খান",
+    number: "01867059846",
+    wordNo: "৫",
+    location: "দৌলতপুর",
+    detail: "হোম টিউটর।",
+    postLink: "https://www.facebook.com/profile.php?id=100072926924755",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/home-teacher/farid-uddin.jpg",
+    name: "ফরিদ উদ্দিন",
+    number: "01782615910",
+    wordNo: "৬",
+    location: "বৈরাগী বাড়ি",
+    detail: "৫ম থেকে দ্বাদশ (ক্লাস নবম - দ্বাদশ science group) আইসিটি ও পড়ানো হয়।",
+    postLink: "https://www.facebook.com/md.fariduddin.5686",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
