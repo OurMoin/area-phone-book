@@ -42,5 +42,16 @@ const userData = [
     detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/wholesale-medicine/abdullah-medical-hall.jpg",
+    name: "মেসার্স মেডিসিন কর্ণার",
+    number: "01918131773",
+    wordNo: "৫",
+    location: "শাহীবাজার",
+    detail: "এখানে সুলভ মূল্যে ঔষধ পাওয়া যায়।",
+    postLink: "nurenasrin12@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
