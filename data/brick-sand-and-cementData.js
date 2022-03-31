@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cementData.png",
+    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
     number: "01734547676",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cementData.png",
+    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "মেসার্স শাওন এন্টারপ্রাইজ",
     number: "01677047244",
     wordNo: "৪",
@@ -34,13 +34,24 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cementData.png",
+    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "ইমন ট্রেডার্স",
     number: "01986034515",
     wordNo: "৫",
     location: "শাহী বাজার",
     detail: "এখানে উন্নতমানের ইট, বালি, রড, সিমেন্ট সহ যাবতীয় ইমারতীয় মাল পাইকারী ও খুচরা বিক্রেতা এবং সরবরাহকারী।",
     postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 5,
+    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    name: "প্রিমিয়ার সিমেন্ট মিলস লি.",
+    number: "01714123964",
+    wordNo: "৪",
+    location: "মুসলিমপাড়া",
+    detail: "এখানে সিমেন্ট খুচরা বিক্রেতা এবং সরবরাহকারী।",
+    postLink: "alamin76905@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

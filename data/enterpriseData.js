@@ -82,9 +82,20 @@ const userData = [
     name: "ফয়সাল এন্টারপ্রাইজ",
     number: "01684611605",
     wordNo: "৫",
-    location: "পুর্ব শাহীমহল্লা",
-    detail: "পুরাতন দরজা,জানাল,টিন-এংগেল,ইট,রড,কেচিগেট,সাটার,জি আই পাইপ, ফ্লাটবার খুচরা এবং পাইকারী ক্রয়-বিক্রয় করা হয়। <br>বিঃদ্রঃ পুরাতন টিন-সেড এবং বিল্ডিং ক্রয় করা হয়।।। অভিজ্ঞ লোক দ্বারা বিল্ডিং ভাংগানোর কাজ নেয়া হয়।",
+    location: "পুর্ব শাহী মহল্লা, আলী মেম্বার বাড়ি সংলগ্ন",
+    detail: "পুরাতন টিন-সেড ঘর এবং বিল্ডিং ক্রয়-বিক্রয় করা হয়, এছাড়া পুরাতন দরজা, জানালা, টিন, এংগেল, রড, ইট, থাই-গ্লাস, প্লাস্টিক পাইপ, প্লাস্টিক ডোর ক্রয়-বিক্রয় করা হয়।",
     postLink: "https://www.facebook.com/foysala271/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 9,
+    photo: "../cdn/enterprise/enterprise.png",
+    name: "বুড়িগঙ্গা নেইল এন্ড ওয়্যার",
+    number: "01642424234",
+    wordNo: "৮",
+    location: "পিলকুনি, নন্দলালপুর",
+    detail: "এখানে উন্নত মানের জিআই তার এবং তারকাটা প্রস্তুত করা এবং বিক্রয় করা হয়।",
+    postLink: "Rajumirda@gmail.com ",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
