@@ -97,5 +97,16 @@ const userData = [
     detail: "এইখানে সকল প্রকার জেন্টস কাপড় বিক্রি ও সেলাই করা হয়। যেমন, শার্ট, প্যান্ট, কোর্ট, টাই, পাঞ্জাবি, পায়জামা, কাবলি, জুব্বা ও কুর্তা ইত্যাদি।<br> বিশেষ করে স্কুল ও কলেজ এর ড্রেস সেলাই করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 10,
+    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    name: "A.Mannan fabrics & tailors",
+    number: "01913002264",
+    wordNo: "৬",
+    location: "১১৪ সুর্যমহল মার্কেট পাগলা বাজার",
+    detail: "ইন্ডিয়ান, জাপানি, চায়না, কোরিয়ান ফেব্রিকস সেলার ও টেইলারিং শপ।",
+    postLink: "anamsaid89@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
