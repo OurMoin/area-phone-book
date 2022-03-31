@@ -108,5 +108,16 @@ const userData = [
     detail: "ছবি তোলা, ছবি থেকে ছবি ও লেব প্রিন্ট করা হয়।<br> অ্যান্ড্রয়েড মোবাইলের সফটওয়্যার আপডেট করা হয়।<br> কম্পিউটার, ডেস্কটপ, ল্যাপটপ ও মোবাইল সার্ভিসিং করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/studio/studio.png",
+    name: "ডিজিটাল স্টুডিও ছোঁয়া",
+    number: "01711541882",
+    wordNo: "৬",
+    location: "পাগলা বাজার, সূর্যমহল সিনেমা হলের বিপরীত পাশে",
+    detail: "৫ মিনিটে আর্জেন্ট ছবি তোলা হয়৷ যে কোন অনুষ্ঠানে স্টিল ছবি তোলা ও ভিডিও করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

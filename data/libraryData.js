@@ -119,16 +119,5 @@ const userData = [
     detail: "কম্পিউটার প্রশিক্ষণ ফটোকপি বিকাশ, রকেট, নগদ রিচার্জ ও অনলাইন এর কাজ করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
-  },
-  {
-    id: 12,
-    photo: "../cdn/library/library.png",
-    name: "সামিয়া ফটোকপি এন্ড কম্পিউটার",
-    number: "01954861447",
-    wordNo: "৬",
-    location: "পাগলা বাজার, বাদশা প্লাজা",
-    detail: "হারিয়ে যাওয়া ভোটের আইডি কার্ড অনলাইনে উঠানো হয়, ছবি থেকে ছবি করা হয়, ফটোকপি করা হয়, লেমিনেটিং করা হয়, এবং সকল প্রকার অনলাইনের কাজ করা হয়।",
-    postLink: "shmunna951@gmail.com",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
 ];
