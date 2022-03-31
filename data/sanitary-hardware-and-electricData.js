@@ -229,5 +229,38 @@ const userData = [
     detail: "saifhira@gmail.com <br>এখানে বিশ্ব বিখ্যাত জাপানি ব্যান্ড 'Nippon Paints' এবং 'Asian Paints' এর কালার ব্যাংকের সকল প্রকার রংসহ ইলেকট্রিক সেনেটারী এবং হার্ডওয়ার মালামাল সুলভ মূল্যে বিক্রয় করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 22,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "Nur Senitary Electric and Paint Store",
+    number: "01796268860",
+    wordNo: "৬",
+    location: "আল হাসিব প্লাজা, পাগলা বাজার",
+    detail: "আমাদের কাছে একটা বাড়ি করতে রড সিমেন্ট বাদে বাকি সব মালা মাল পাইকারি এবং খুচরা মূল্যে বিক্রি করা হয়। যেমনঃ ৪' পাইপ, ৬'পাইপ, ৮'পাইপ, ১০'পাইপ, গাজী ট্যাংক, মদিনা ট্যাংক, মটর, SS কল, বার্জর রঙ, সুইজ, সকেট, নাট বল্টু ও ইলেক্টিক হার্ডওয়্যার পেইন্ট এর সকল মালামাল পাবেন ইনশাল্লাহ।",
+    postLink: "https://www.facebook.com/profile.php?id=100016945028650",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 23,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "আল্লাহর দান ইলেকট্রিক এন্ড ইলেকট্রনিক্স",
+    number: "01917156665",
+    wordNo: "৬",
+    location: "ইসলামিয়া বাজার, বটতলা",
+    detail: "এখানে টিভি ফ্রিজ এসি এয়ার কুলার রাইস কুকার পেশার কুকার সহ যাবতীয় ইলেকট্রনিক্স পণ্য এবং বৈদ্যুতিক তার, সুইচ, সকেট, সার্কিট ব্রেকার সহ যাবতীয় ইলেকট্রিক পণ্য সুলভ মূল্যে বিক্রয় করা হয়।",
+    postLink: "sordarmdshamim35@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 24,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "নূর সেনিটারী হার্ডওয়্যার ইলেকট্রনিক এন্ড পেইন্ট স্টোর",
+    number: "01796268860",
+    wordNo: "৬",
+    location: "ইসলামিয়া বাজার, বটতলা",
+    detail: "এখানে টিভি ফ্রিজ এসি এয়ার কুলার রাইস কুকার পেশার কুকার সহ যাবতীয় ইলেকট্রনিক্স পণ্য এবং বৈদ্যুতিক তার, সুইচ, সকেট, সার্কিট ব্রেকার সহ যাবতীয় ইলেকট্রিক পণ্য সুলভ মূল্যে বিক্রয় করা হয়।",
+    postLink: "sordarmdshamim35@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
