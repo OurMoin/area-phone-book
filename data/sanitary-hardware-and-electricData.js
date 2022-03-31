@@ -273,5 +273,16 @@ const userData = [
     detail: "সকল প্রকার ইলেকট্রিক ও হার্ডওয়ার সামগ্রী পাইকারি বিক্রেতা।",
     postLink: "hahabib8@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 26,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "আরিফ ইলেকট্রিক",
+    number: "01940963399",
+    wordNo: "৫",
+    location: "শাহী বাজার",
+    detail: "সকল প্রকার ইলেকট্রিক সামগ্রী পাইকারি বিক্রেতা।",
+    postLink: "mdmeheraj105084@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
