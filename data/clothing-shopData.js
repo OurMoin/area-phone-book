@@ -64,5 +64,16 @@ const userData = [
     detail: "গজ কাপড় বিক্রেতা।",
     postLink: "bbuihimu@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/clothing-shop/clothing-shop.png",
+    name: "ফাতেমা ফ্যাশন",
+    number: "01817294119",
+    wordNo: "৫",
+    location: "শাহী বাজার (আইডিয়াল স্কুল বাড়ি)",
+    detail: "মহিলাদের ও বাচ্চাদের সব ধরনের ডিজাইনার পোশাক তৈরি  করা হয়।",
+    postLink: "https://www.youtube.com/c/Fatemafashion11",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

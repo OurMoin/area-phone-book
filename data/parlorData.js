@@ -86,5 +86,16 @@ const userData = [
     detail: "সব ধরনের মেকআপ, চুল কাটিং, চুল বাঁধা, মেহেদী, ফেসিয়াল, এবং অন্যান্য সব ধরনের কাজ করা হয়।",
     postLink: "https://www.facebook.com/Anysparlourcenter/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 9,
+    photo: "../cdn/parlor/any's-parlour-&-training-center.jpg",
+    name: "ওমেন্স বিউটি কর্ণার",
+    number: "01617990097",
+    wordNo: "৫",
+    location: "নয়ামাটি, নুর-ম্যানসন",
+    detail: "বিউটি পার্লার রিলেটেড সকল সার্ভিস দেওয়া হয়। <br>(শুধু মহিলাদের জন্য) ",
+    postLink: "https://www.facebook.com/Womens-beauty-corner-105778881792131/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
