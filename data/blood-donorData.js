@@ -213,8 +213,8 @@ const userData = [
     photo: "../cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ শাহরিয়ার লিংকন",
     number: "01811738885",
-    wordNo: "৪",
-    location: "পাগলা, রেললাইন",
+    ordNo: "৬",
+    location: "রসুলপুর",
     detail: "রক্তের গ্রুপঃ বি পজিটিভ।",
     postLink: "shahriar0156@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

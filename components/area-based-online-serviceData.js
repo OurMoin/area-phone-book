@@ -22,6 +22,12 @@ const categoryData = [
       photo: "../resources/icons/area-based-online-service/news.png",
       name: "নিউজ",
       link: "news"
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/area-based-online-service/others.png",
+      name: "অন্যান্য",
+      link: "others"
     }
   ];
   

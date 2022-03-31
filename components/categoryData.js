@@ -820,6 +820,10 @@ const categoryData = [
         {
           name: "কসমেটিক্স",
           link: "cosmetics"
+        },
+        {
+          name: "অন্যান্য",
+          link: "others"
         }
       ]
   },
