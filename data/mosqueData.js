@@ -867,6 +867,17 @@ const userData = [
       detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
       postLink: "https://www.facebook.com/AreaPhonebook/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 81,
+      photo: "../cdn/mosque/mosque.png",
+      name: "বাইতুল হাসান কেন্দ্রীয় জামে মসজিদ",
+      number: "01924833943",
+      wordNo: "৫",
+      location: "দৌলতপুর",
+      detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
+      postLink: "asifakbar420420@gmail",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
