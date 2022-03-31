@@ -773,10 +773,6 @@ const categoryData = [
           link: "auto-parts"
         },
         {
-          name: "নির্মাণাধীন সামগ্রী",
-          link: "enterprise"
-        },
-        {
           name: "গ্যাস সিলিন্ডার",
           link: "gas-cylinder"
         },
