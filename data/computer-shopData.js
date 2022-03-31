@@ -53,6 +53,17 @@ const userData = [
       detail: "কম্পিউটার এর যাবতীয় কাজ ও ফটোকপি করা হয়।",
       postLink: "babulahmed1201@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+    },
+    {
+      id: 6,
+      photo: "../cdn/computer-shop/computer-shop.png",
+      name: "মোহাম্মদ মনির",
+      number: "01712737305",
+      wordNo: "৬",
+      location: "৬ নং ওয়ার্ড মেম্বার কার্যালয়",
+      detail: "জন্ম নিবন্ধন সংক্রান্ত সকল সেবা অনলাইনের যাবতীয় সেবা।",
+      postLink: "Wordno06@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     }
   ];
   
