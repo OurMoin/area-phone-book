@@ -60,9 +60,20 @@ const userData = [
     name: "ছালাম ষ্টোর",
     number: "01674833644",
     wordNo: "৬",
-    location: "ইসলামিয়া বাজার(বৌ-বাজার)",
+    location: "ইসলামিয়া বাজার (বৌ-বাজার)",
     detail: "smmasum57@gmail.com<br> সকল প্রকার মুদি পণ্য পাইকারী পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 7,
+    photo: "../cdn/wholesale-store/wholesale-store.png",
+    name: "থাই বেবী ডায়াপার",
+    number: "01982957254",
+    wordNo: "৫",
+    location: "শাহী বাজার",
+    detail: "বেবী প্রডাক্ট, কসমেটিক আইটেম পাইকারী বিক্রয় কেন্দ্র।",
+    postLink: "Sharifakon7777@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
