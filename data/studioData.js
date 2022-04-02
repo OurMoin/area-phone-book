@@ -1,5 +1,16 @@
 const userData = [
   {
+    id: 12,
+    photo: "../cdn/studio/studio.png",
+    name: "ফটো স্টুডিও",
+    number: "01635495085",
+    wordNo: "৬",
+    location: "ইসলামিয়া (বৌ) বাজার, মোল্লার হোটেল সংলগ্ন",
+    detail: "Email: photostudio7237@gmail.com <br> ছবি, ফটোকপি, প্রিন্ট, কম্পিউটার কম্পোজ, অনলাইন আবেদন, পিভিসি প্লাসিক আইডি কার্ড প্রিন্ট সহ কম্পিউটারের যাবতীয় কাজ করা হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
     id: 1,
     photo: "../cdn/studio/ma-digital-studio.jpg",
     name: "মা ডিজিটাল স্টুডিও",
