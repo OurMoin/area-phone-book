@@ -34,13 +34,24 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/clothes/galben-fashion.png",
+      photo: "../cdn/clothes/aalna.jpg",
       name: "Aalna",
       number: "01861231108",
       wordNo: "৫",
       location: "রসূলপুর",
       detail: "All kinds of Ladies dresses, Birthday combo, Valentine Combo.",
       postLink: "https://www.facebook.com/aalnabd",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 5,
+      photo: "../cdn/clothes/anginii.jpg",
+      name: "আঙ্গিনী - Anginii",
+      number: "01787095377",
+      wordNo: "৫",
+      location: "মধ্য রসুলপুর",
+      detail: "বিভিন্ন ধরনের বাহারি পোষাক (থ্রিপিস, ওয়ান পিস, ওয়েস্টার্ন ড্রেস, শাড়ি, বাচ্চাদের পোষাক ইত্যাদি) অনলাইনে বা সরাসরি বিক্রি করা হয়।",
+      postLink: "https://www.facebook.com/anginii.f",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
