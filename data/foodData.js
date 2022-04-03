@@ -38,9 +38,20 @@ const userData = [
     name: "Cakes Kings & Pastry Shop",
     number: "01953504973",
     wordNo: "৪",
-    location: "খালপাড়",
+    location: "দেলপাড়া খালপাড়",
     detail: "জন্মদিন, বিবাহ বার্ষিক, হলুদের, বিয়েসহ বিভিন্ন অনুষ্ঠানে কেক এবং পেস্ট্রি পাওয়া যায়।",
     postLink: "https://www.facebook.com/cakeskingsbd/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 5,
+    photo: "../cdn/food/shally's-kitchen.jpg",
+    name: "Shally's kitchen",
+    number: "01677795503",
+    wordNo: "৫",
+    location: "শাহীবাজার, আমতলা",
+    detail: "হোমমেড ফুড কেক, পিঠা , মিষ্টি, সেমাই, পিজ্জা ইত্যাদি পাওয়া যায়।",
+    postLink: "https://www.facebook.com/Aklimachoedhuryshally/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    }
 ];
