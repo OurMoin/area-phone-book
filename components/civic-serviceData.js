@@ -25,36 +25,30 @@ const categoryData = [
     },
     {
       id: 5,
-      photo: "../resources/icons/civic-service/chairman-office.png",
-      name: "চেয়ারম্যান অফিস",
-      link: "chairman-office"
-    },
-    {
-      id: 6,
       photo: "../resources/icons/civic-service/voter-office.png",
       name: "ভোটার অফিস",
       link: "voter-office"
     },
     {
-      id: 7,
+      id: 6,
       photo: "../resources/icons/civic-service/land-office.png",
       name: "ভূমি অফিস",
       link: "land-office"
     },
     {
-      id: 8,
+      id: 7,
       photo: "../resources/icons/civic-service/kazi-office.png",
       name: "কাজী অফিস",
       link: "kazi-office"
     },
     {
-      id: 9,
+      id: 8,
       photo: "../resources/icons/civic-service/postman.png",
       name: "পোস্ট মাস্টার",
       link: "postmaster"
     },
     {
-      id: 10,
+      id: 9,
       photo: "../resources/icons/civic-service/cemetery.png",
       name: "কবরস্থান",
       link: "cemetery"
