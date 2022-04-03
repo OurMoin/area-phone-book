@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/news/etc-bangla.jpg",
+    photo: "../cdn/news/news.png",
     name: "নিউজ ২১ বাংলা টিভি",
     number: "01682604347",
     wordNo: "৬",
