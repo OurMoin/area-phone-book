@@ -42,6 +42,17 @@ const userData = [
       detail: "রড খুচরা বিক্রয় করা হয়।",
       postLink: "jasim.rrmgroup@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 5,
+      photo: "../cdn/rod-shop/rod-shop.png",
+      name: "মেসার্স সাগর এন্টারপ্রাইজ",
+      number: "01683128010",
+      wordNo: "৫",
+      location: "শাহী মহল্লা,কবরস্থান রোড, পাগলা",
+      detail: "এখানে সকল ব্র্যান্ডের সিমেন্ট, রড, ইট, বালু ,সিপটিন, পাই ইত্যাদি সামগ্রী পাইকারী ও খুচরা বিক্রেতা এবং সরবরাহকারী। <br>(আমাদের নিজস্ব পরিবহন ধারা কাস্টমারের নির্দিষ্ট গন্তব্যে পৌঁছে দেওয়া হয়।)",
+      postLink: "alamin76905@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook."
     }
   ];
   
