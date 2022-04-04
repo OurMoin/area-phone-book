@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/watercraft/doyamoy-transport-agency.jpg",
+      photo: "../cdn/watercraft/watercraft.png",
       name: "মেসার্স বিসমিল্লাহ নৌ ট্রান্সপোর্ট এজেন্সী",
       number: "01711118163",
       wordNo: "৬",
