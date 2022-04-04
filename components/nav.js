@@ -25,7 +25,8 @@ function navTemplate(nav) {
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
                             <!-- <a class="dropdown-item" href="mailto:areaphonebook@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a> -->
                             <!-- <a class="dropdown-item" href="https://www.facebook.com/AreaPhonebook" target="_blank"><i class="fab fa-facebook-square"></i> ফেসবুক</a> -->
-                            <a class="dropdown-item" href="investor-sponsors.html"><i class="fas fa-handshake"></i> ইনভেস্টর ও স্পনসর</a>
+                            <a class="dropdown-item" href="investor.html"><i class="fas fa-handshake"></i> ইনভেস্টর</a>
+                            <a class="dropdown-item" href="sponsors.html"><i class="fas fa-handshake"></i> স্পনসর</a>
                             <a class="dropdown-item" href="terms-and-conditions.html"><i class="fas fa-file-alt"></i> টার্মস এন্ড কন্ডিশনস</a>
                             <a class="dropdown-item" href="privacy-policy.html"><i class="fas fa-user-secret"></i> প্রাইভেসি পলিসি</a>
                         </div>
