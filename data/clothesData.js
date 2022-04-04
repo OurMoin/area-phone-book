@@ -53,6 +53,28 @@ const userData = [
       detail: "বিভিন্ন ধরনের বাহারি পোষাক (থ্রিপিস, ওয়ান পিস, ওয়েস্টার্ন ড্রেস, শাড়ি, বাচ্চাদের পোষাক ইত্যাদি) অনলাইনে বা সরাসরি বিক্রি করা হয়।",
       postLink: "https://www.facebook.com/anginii.f",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 6,
+      photo: "../cdn/clothes/fatema-fashion.jpg",
+      name: "Fatema Fashion",
+      number: "01817294119",
+      wordNo: "৫",
+      location: "শাহী বাজার আইডিয়াল কিন্ডারগার্টেন স্কুল ভবন",
+      detail: "যেকোনো ডিজাইনের ড্রেস তৈরি করা হয়। তাদের জন্য ডিজাইনার ফ্রক, স্টাইলিশ ড্রেস তৈরি করা হয়। <br> উন্নতমানের থ্রি-পিস, শাড়ি,পাওয়া যায়।",
+      postLink: "https://www.facebook.com/mehazabien.sheuly.5",
+      videoLink: "https://youtube.com/c/Fatemafashion11"
+    },
+    {
+      id: 7,
+      photo: "../cdn/clothes/khujyani.jpg",
+      name: "খুঁজে আনি/khujyani.com",
+      number: "01892804674",
+      wordNo: "৫",
+      location: "পশ্চিম দেলপাড়া, কেনেলপাড়",
+      detail: "নিজস্ব কারখানায় তৈরি করা পাঞ্জাবি, পায়জামা সহ বিভিন্ন পন্য সামগ্রী বিক্রি করে থাকি। <br>আপনার চাহিদা অনুযাই পন্য খুঁজে সঠিক মূল্যে আপনার নিকট পৌছে দেয়াই আমাদের কাম্য।",
+      postLink: "https://www.facebook.com/%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A6%BFkhujyanicom-111369584467043/",
+      videoLink: "https://youtube.com/c/Fatemafashion11"
     }
   ];
   
