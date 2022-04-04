@@ -20,6 +20,17 @@ const userData = [
       detail: "A new wave of living. <br>আরিয়ান ল্যান্ড ডেভেলপমেন্টের প্রতি স্কয়ার ফিট ১০০ টাকা বুকিং দিয়ে,   আপনার পছন্দের ফ্ল্যাটটি নিশ্চিত করুন।",
       postLink: "https://www.facebook.com/ariyaanlanddevelopment",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 3,
+      photo: "../cdn/land-for-sale/land-for-sale.png",
+      name: "প্যানারোমা হাউজিং লিমিটেড",
+      number: "01726606663",
+      wordNo: "৫",
+      location: "নিশ্চিন্তপুর",
+      detail: "মাসিক কিস্তিতে জমি বিক্রি করা হয়।",
+      postLink: "mohammadsolaimanislam2002@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
