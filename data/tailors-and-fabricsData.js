@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী বাজার আইডিয়াল কিন্ডারগার্টেন স্কুল ভবন",
     detail: "যেকোনো ডিজাইনের ড্রেস তৈরি করা হয়। তাদের জন্য ডিজাইনার ফ্রক, স্টাইলিশ ড্রেস তৈরি করা হয়। <br> উন্নতমানের থ্রি-পিস, শাড়ি,পাওয়া যায়।",
-    postLink: "https://www.facebook.com/mehazabien.sheuly.5",
+    postLink: "https://youtube.com/c/Fatemafashion11",
     videoLink: "https://youtube.com/c/Fatemafashion11"
   }
 ];

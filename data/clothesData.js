@@ -62,7 +62,7 @@ const userData = [
       wordNo: "৫",
       location: "শাহী বাজার আইডিয়াল কিন্ডারগার্টেন স্কুল ভবন",
       detail: "যেকোনো ডিজাইনের ড্রেস তৈরি করা হয়। তাদের জন্য ডিজাইনার ফ্রক, স্টাইলিশ ড্রেস তৈরি করা হয়। <br> উন্নতমানের থ্রি-পিস, শাড়ি,পাওয়া যায়।",
-      postLink: "https://www.facebook.com/mehazabien.sheuly.5",
+      postLink: "https://youtube.com/c/Fatemafashion11",
       videoLink: "https://youtube.com/c/Fatemafashion11"
     },
     {
@@ -74,7 +74,7 @@ const userData = [
       location: "পশ্চিম দেলপাড়া, কেনেলপাড়",
       detail: "নিজস্ব কারখানায় তৈরি করা পাঞ্জাবি, পায়জামা সহ বিভিন্ন পন্য সামগ্রী বিক্রি করে থাকি। <br>আপনার চাহিদা অনুযাই পন্য খুঁজে সঠিক মূল্যে আপনার নিকট পৌছে দেয়াই আমাদের কাম্য।",
       postLink: "https://www.facebook.com/%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A6%BFkhujyanicom-111369584467043/",
-      videoLink: "https://youtube.com/c/Fatemafashion11"
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
