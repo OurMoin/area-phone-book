@@ -8,7 +8,7 @@ function navTemplate(nav) {
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-2 logo-div">
-                    <a href="https://www.areaphonebook.com"><i class="fas fa-address-book"></i></a>
+                    <a href="https://www.areaphonebook.com"><i class="fas fa-home"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
                     <a class="blog-header-logo" href="https://www.areaphonebook.com">Area Phonebook</a><sup>Beta</sup>
@@ -23,6 +23,7 @@ function navTemplate(nav) {
                              
                             <!-- <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a> -->
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে জানুন</a>
+                            <a class="dropdown-item" href="our-team.html"><i class="fas fa-users"></i> আমাদের টিম</a>
                             <!-- <a class="dropdown-item" href="mailto:areaphonebook@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a> -->
                             <!-- <a class="dropdown-item" href="https://www.facebook.com/AreaPhonebook" target="_blank"><i class="fab fa-facebook-square"></i> ফেসবুক</a> -->
                             <a class="dropdown-item" href="investor.html"><i class="fas fa-handshake"></i> ইনভেস্টর</a>
