@@ -119,6 +119,17 @@ const userData = [
     detail: "৫ম থেকে দ্বাদশ (ক্লাস নবম - দ্বাদশ science group) আইসিটি ও পড়ানো হয়।",
     postLink: "https://www.facebook.com/md.fariduddin.5686",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 12,
+    photo: "../cdn/home-teacher/male-home-teacher.png",
+    name: "মোঃ আশরাফুল ইসলাম",
+    number: "01889693208",
+    wordNo: "৬",
+    location: "পশ্চিম রসুলপুর",
+    detail: "৬ষষ্ঠ থেকে ১০ম শ্রেণি পর্যন্ত এবং (৯ম-১০ম) বিজ্ঞান বিভাগ পড়ানো হয়।",
+    postLink: "mdashraful37502@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
