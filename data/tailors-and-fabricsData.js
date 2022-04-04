@@ -108,5 +108,16 @@ const userData = [
     detail: "ইন্ডিয়ান, জাপানি, চায়না, কোরিয়ান ফেব্রিকস সেলার ও টেইলারিং শপ।",
     postLink: "anamsaid89@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/tailors-and-fabrics/fatema-fashion.jpg",
+    name: "Fatema Fashion",
+    number: "01817294119",
+    wordNo: "৫",
+    location: "শাহী বাজার আইডিয়াল কিন্ডারগার্টেন স্কুল ভবন",
+    detail: "যেকোনো ডিজাইনের ড্রেস তৈরি করা হয়। তাদের জন্য ডিজাইনার ফ্রক, স্টাইলিশ ড্রেস তৈরি করা হয়। <br> উন্নতমানের থ্রি-পিস, শাড়ি,পাওয়া যায়।",
+    postLink: "https://www.facebook.com/mehazabien.sheuly.5",
+    videoLink: "https://youtube.com/c/Fatemafashion11"
   }
 ];
