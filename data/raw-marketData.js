@@ -31,5 +31,16 @@ const userData = [
     detail: "কাচা বাজারে সকল পন্য পাওয়া যায়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/raw-market/rasulpur-bazar.jpg",
+    name: "ইব্রাহিম সুপার সপ ও কাঁচা বাজার",
+    number: "01745155440",
+    wordNo: "৫",
+    location: "আমতলা, হিন্দু পাড়া",
+    detail: "মুদি মাল ও কাঁচা বাজারে সকল পন্য পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
