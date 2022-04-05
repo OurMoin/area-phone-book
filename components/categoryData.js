@@ -691,6 +691,10 @@ const categoryData = [
         {
           name: "এন্টারপ্রাইজ",
           link: "enterprise"
+        },
+        {
+          name: "কনস্ট্রাকশন ইঞ্জিনিয়ারিং",
+          link: "construction-engineering"
         }
       ]
   },

@@ -22,6 +22,12 @@ const categoryData = [
       photo: "../resources/icons/materials-under-construction/enterprise.png",
       name: "এন্টারপ্রাইজ",
       link: "enterprise"
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/materials-under-construction/construction-engineering.png",
+      name: "কনস্ট্রাকশন ইঞ্জিনিয়ারিং",
+      link: "construction-engineering"
     }
   ];
   
