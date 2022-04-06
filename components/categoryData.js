@@ -228,8 +228,8 @@ const categoryData = [
   {
     id: 28,
     photo: "../resources/icons/cyber-bullying.png",
-    name: "সাইবার বুলিং",
-    pageLink: "cyber-bullying",
+    name: "সাইবার বুলিং / ভোক্তা অধিকার",
+    pageLink: "cyber-bullying-and-consumer-rights",
     subCategory:
       [
         {
@@ -237,12 +237,24 @@ const categoryData = [
           link: "cyber-rules"
         },
         {
+          name: "ভোক্তা অধিকার",
+          link: "consumer-rights"
+        },
+        {
           name: "অভিযোগ এর নিয়ম",
           link: "rules-of-complaint"
         },
         {
+          name: "ভোক্তা অধিকার আইন",
+          link: "consumer-rights-act"
+        },
+        {
           name: "অভিযোগ বক্স",
           link: "complaint-box"
+        },
+        {
+          name: "ভোক্তা অধিকার নিয়ম",
+          link: "consumer-rights-rules"
         }
       ]
   },
