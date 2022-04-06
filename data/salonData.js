@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/salon/rajiv-nayan-hair-design.jpg",
+    photo: "../cdn/salon/salon.png",
     name: "সুমন হেয়ার ড্রেসার এন্ড মেন্স কেয়ার",
     number: "01914485803",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/salon/rajiv-nayan-hair-design.jpg",
+    photo: "../cdn/salon/salon.png",
     name: "মাতৃছায়া জেন্টস পার্লার",
     number: "01917927650",
     wordNo: "৬",
