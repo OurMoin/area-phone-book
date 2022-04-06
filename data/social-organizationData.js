@@ -592,6 +592,17 @@ const userData = [
         detail: "আমাদের সংগঠনের (এক মুঠো আহার ছাত্র ও যুব সংগঠন) এটা প্রতিষ্ঠা হয়েছে ২০১৯সালে। আমরা কোভিড-১৯ এর সময় জীবানু নাষক স্পে দিয়েছি, ঈদে অসহায়দের ঈদ খাদ্য সামগ্রিক  দিয়েছি, মসজিদে কিছু অর্থ দান করেছি ইনশাআল্লাহ আমরা আরো এগিয়ে যাবো।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 55,
+        photo: "../cdn/social-organization/sodesh-jonokollan-songstha.jpg",
+        name: "স্বদেশ জন্যকল্যাণ সংস্থা",
+        number: "01682221658",
+        wordNo: "৪",
+        location: "দেলপাড়া",
+        detail: "স্বদেশ জন্যকল্যাণ সংস্থা একটি অরাজনৈতিক সেচ্ছাসেবী সংগঠন।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
 ];
   
