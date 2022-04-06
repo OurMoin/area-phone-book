@@ -284,5 +284,16 @@ const userData = [
     detail: "সকল প্রকার ইলেকট্রিক সামগ্রী পাইকারি বিক্রেতা।",
     postLink: "mdmeheraj105084@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 27,
+    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    name: "সনেট স্টোর এন্ড সিকিউরিটি সিস্টেম",
+    number: "01677228930",
+    wordNo: "৬",
+    location: "পাগলা, নয়মাটি",
+    detail: "md.sojib2380@gmail.com <br>সিসিটিভি ক্যামেরা ও ক্যামেরা সার্ভিসিং করা হয়।",
+    postLink: "md.sojib2380@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
