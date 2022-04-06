@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/doctor-lab/new-doctors-diagnostic-lab-and-consultant-service.jpg",
+    photo: "../cdn/diagnostic-lab/new-doctors-diagnostic-lab-and-consultant-service.jpg",
     name: "নিউ ডক্টরস ডায়াগনস্টিক ল্যাব এন্ড কনসালট্যান্ট সার্ভিস",
     number: "01772200965",
     wordNo: "৬",
