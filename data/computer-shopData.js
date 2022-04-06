@@ -75,6 +75,17 @@ const userData = [
       detail: "সব ধরনের কম্পিউটার কম্পোজিং, ফটোকপি এবং প্রিন্টিং করা হয়।",
       postLink: "best1digitalcomputer@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+    },
+    {
+      id: 8,
+      photo: "../cdn/computer-shop/computer-shop.png",
+      name: "Hello Boss Technology",
+      number: "01300886336",
+      wordNo: "২",
+      location: "বীর মুক্তিযোদ্ধা আব্দুল বাতেন মার্কেট",
+      detail: "hellobossrb@gmail.com <br>গ্রাফিক ডিজাইন, অনলাইন সার্ভিস, ফটোকপি এবং কম্পিউটার কম্পোজিং কাজ করা হয়।",
+      postLink: "hellobossrb@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     }
   ];
   
