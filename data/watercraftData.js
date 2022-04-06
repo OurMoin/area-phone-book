@@ -17,7 +17,7 @@ const userData = [
       number: "01711118163",
       wordNo: "৬",
       location: "মসজিদ মার্কেট (২য় তলা), পাগলা",
-      detail: "যোগাযোগ করুন- 01907078212 <br>নদী পথে মালামাল পরিবহনের নির্ভরযোগ্য প্রতিষ্ঠান।",
+      detail: "প্রোপ্রাইটরঃ মোঃ আইয়ুব আলী খাঁন <br>যোগাযোগ করুন- 01907078212 <br>নদী পথে মালামাল পরিবহনের নির্ভরযোগ্য প্রতিষ্ঠান।",
       postLink: "https://www.facebook.com/AreaPhonebook/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
