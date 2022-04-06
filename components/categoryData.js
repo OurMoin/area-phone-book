@@ -163,8 +163,8 @@ const categoryData = [
           link: "doctor-sat-down"
         },
         {
-          name: "ডাক্তার ল্যাব",
-          link: "doctor-lab"
+          name: "ডায়াগনস্টিক ল্যাব",
+          link: "diagnostic-lab"
         },
         {
           name: "হোমিওপ্যাথি",
