@@ -25,9 +25,9 @@ const categoryData = [
     },
     {
       id: 5,
-      photo: "../resources/icons/medical-services/doctor-lab.png",
-      name: "ডাক্তার ল্যাব",
-      link: "doctor-lab"
+      photo: "../resources/icons/medical-services/diagnostic-lab.png",
+      name: "ডায়াগনস্টিক ল্যাব",
+      link: "diagnostic-lab"
     },
     {
       id: 6,

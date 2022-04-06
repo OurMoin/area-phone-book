@@ -81,6 +81,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "জরুরী হটলাইন",
+          link: "emergency-hotline"
+        },
+        {
           name: "এ্যাম্বুলেন্স",
           link: "ambulance"
         },
@@ -159,8 +163,8 @@ const categoryData = [
           link: "doctor-sat-down"
         },
         {
-          name: "ডাক্তার ল্যাব",
-          link: "doctor-lab"
+          name: "ডায়াগনস্টিক ল্যাব",
+          link: "diagnostic-lab"
         },
         {
           name: "হোমিওপ্যাথি",
@@ -228,8 +232,8 @@ const categoryData = [
   {
     id: 28,
     photo: "../resources/icons/cyber-bullying.png",
-    name: "সাইবার বুলিং",
-    pageLink: "cyber-bullying",
+    name: "সাইবার বুলিং / ভোক্তা অধিকার",
+    pageLink: "cyber-bullying-and-consumer-rights",
     subCategory:
       [
         {
@@ -237,12 +241,24 @@ const categoryData = [
           link: "cyber-rules"
         },
         {
+          name: "ভোক্তা অধিকার",
+          link: "consumer-rights"
+        },
+        {
           name: "অভিযোগ এর নিয়ম",
           link: "rules-of-complaint"
         },
         {
+          name: "ভোক্তা অধিকার আইন",
+          link: "consumer-rights-act"
+        },
+        {
           name: "অভিযোগ বক্স",
           link: "complaint-box"
+        },
+        {
+          name: "ভোক্তা অধিকার নিয়ম",
+          link: "consumer-rights-rules"
         }
       ]
   },
