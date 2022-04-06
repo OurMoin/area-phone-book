@@ -81,6 +81,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "জরুরী হটলাইন",
+          link: "emergency-hotline"
+        },
+        {
           name: "এ্যাম্বুলেন্স",
           link: "ambulance"
         },
