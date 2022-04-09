@@ -47,7 +47,7 @@ const userData = [
         id: 5,
         photo: "../cdn/sports-organizations/kutubpur-lal-sobuj-sporting-club.png",
         name: "কুতুবপুর লাল সবুজ স্পোর্টিং ক্লাব",
-        number: "01712430333",
+        number: "01867445605",
         wordNo: "৪",
         location: "মিজ্জা বাড়ি মোড়",
         detail: "কুতুবপুর লাল সবুজ স্পোর্টিং ক্লাব একটি ক্রীড়া সংগঠন",
