@@ -86,6 +86,17 @@ const userData = [
       detail: "hellobossrb@gmail.com <br>গ্রাফিক ডিজাইন, অনলাইন সার্ভিস, ফটোকপি এবং কম্পিউটার কম্পোজিং কাজ করা হয়।",
       postLink: "hellobossrb@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+    },
+    {
+      id: 9,
+      photo: "../cdn/computer-shop/computer-shop.png",
+      name: "Ma Computer And Training Center",
+      number: "01938707042",
+      wordNo: "৪",
+      location: "দেলপাড়া গিয়াসউদ্দিন স্কুল সংলগ্ন",
+      detail: "samratkhan512@gmail.com <br>কম্পিউটার প্রশিক্ষণ কেন্দ্র, কম্পিউটার সার্ভিসিং, নতুন ও পুরাতন কম্পিউটার বিক্রি করা হয়।",
+      postLink: "samratkhan512@gmail.com",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     }
   ];
   
