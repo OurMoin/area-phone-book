@@ -75,5 +75,16 @@ const userData = [
     detail: "কম্পিউটার প্রশিক্ষণ ফটোকপি বিকাশ, রকেট, নগদ রিচার্জ ও অনলাইন এর কাজ করা হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 8,
+    photo: "../cdn/telecom-center/telecom-center.png",
+    name: "মারুফা টেলিকম সেন্টার",
+    number: "01910254846 ",
+    wordNo: "৬",
+    location: "প্যারাডাইস সিটি, রেল স্টেশনের পশ্চিম পাশে ",
+    detail: "Aziulhaque4846@gmail.com<br> বিকাশ, নগদ, রকেট, মোবাইল রিচার্জ, কার্ড মিটার রিচার্জ, চার্জার, হেডফোন, ব্যাটারি ইত্যাদি পাওয়া যায়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
