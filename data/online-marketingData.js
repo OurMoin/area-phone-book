@@ -31,6 +31,17 @@ const userData = [
     detail: "I'm Amazon and Walmart Dropshipper.",
     postLink: "kssaifkhan2@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 4,
+    photo: "../cdn/online-marketing/online-marketing.png",
+    name: "হাফিজুর রহমান সিয়াম",
+    number: "01917375459",
+    wordNo: "৪",
+    location: "দেলপাড়া",
+    detail: "Digital Marketing Expert.",
+    postLink: "https://www.facebook.com/profile.php?id=100004879272658",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
