@@ -53,6 +53,17 @@ const userData = [
     detail: "I am graphic designer. Working on logo design sector. I also can do banner, poster, email signature, template, portfolio, Business Card etc. My target is client satisfaction first.",
     postLink: "Sajjadhossain.officials@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 6,
+    photo: "../cdn/graphic-design/graphic-design.png",
+    name: "Rubel Ahmed",
+    number: "0130088636",
+    wordNo: "২",
+    location: "ভুইঘর",
+    detail: "Iitsbd11@gmail.com <br>Professional Graphic Designer.",
+    postLink: "Iitsbd11@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   
