@@ -53,6 +53,28 @@ const userData = [
     detail: "হোমমেড ফুড কেক, পিঠা , মিষ্টি, সেমাই, পিজ্জা ইত্যাদি পাওয়া যায়।",
     postLink: "https://www.facebook.com/Aklimachoedhuryshally/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 6,
+    photo: "../cdn/food/cooking-studio-by-nisat.jpg",
+    name: "Cooking studio by Nisat",
+    number: "01914285318",
+    wordNo: "৪",
+    location: "দেলপাড়া",
+    detail: "জন্মদিনের কেক, ফ্রোজেন ফুড, ফাস্ট ফুড আইটেম, বিয়ে  বাড়ির সেট মেন্যু, কাবাব আইটেম সব ধরনের খাবার পাবেন  আমদের পেজে এবং সব ধরনের খাবারের অর্ডার নেয়া হয়। <br> এছাড়া কুকিং এবং বেকিং এর উপর প্রশিক্ষণ দেয়া হয়।",
+    postLink: "https://www.facebook.com/CookingStudioByNisat/?ref=page_internal",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 7,
+    photo: "../cdn/food/sweetbank.jpg",
+    name: "Sweetbank",
+    number: "01933210094",
+    wordNo: "৪",
+    location: "দেলপাড়া",
+    detail: "বিভিন্ন জেলার ট্রেডিশনাল ডেজার্ট ফুড পাবেন এখানে। <br> বগুড়ার দই, কুমিল্লার রসমালাই, যশোর এর সাদেক রসগোল্লা, রাজবাড়ীর ক্ষীর চমচম, টাঙ্গাইল এর জয়কালীর চমচম ও কুষ্টিয়ার কুলফিমালাই আইসক্রিম পাওয়া যায়।",
+    postLink: "https://www.facebook.com/groups/4917558188256716/?ref=share",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    }
 ];
     
