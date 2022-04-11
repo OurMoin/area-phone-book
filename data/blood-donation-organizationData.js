@@ -86,5 +86,16 @@ const userData = [
     detail: "দেলপাড়া ব্লাড সংগঠন একটি রক্তদান সংগঠন।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+  },
+  {
+    id: 9,
+    photo: "../cdn/blood-donation-organization/blood-donation-organization.png",
+    name: "ব্লাড স্কোয়াড - Blood Squad",
+    number: "01749990178",
+    wordNo: "২",
+    location: "ভূইগড়",
+    detail: "স্বেচ্ছায় রক্তদান ও সমাজসেবী সংগঠন।",
+    postLink: "https://www.facebook.com/groups/bloodsquad2020/?ref=share_group_link",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   }
 ];
