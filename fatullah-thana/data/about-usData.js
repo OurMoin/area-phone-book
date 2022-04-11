@@ -5,7 +5,7 @@ const usersData = [
 function userTemplate(user) {
     return `
     <!-- Founder & Founder -->
-    <div class="col-md-4">
+    <div class="col-md-6">
     <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/moinul-islam.jpg"><img src="../resources/icons/team/moinul-islam.jpg" alt="moinul islam" class="team-img"></a>
             <h2>Moinul Islam</h2>
@@ -17,7 +17,7 @@ function userTemplate(user) {
     </div>
 
     <!-- Founder & Co-Founder -->
-    <div class="col-md-4">
+    <div class="col-md-6">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/sharif-imtaz.jpg"><img src="../resources/icons/team/sharif-imtaz.jpg" alt="sharif imtaz" class="team-img"></a>
             <h2>Sharif Imtaz</h2>
@@ -41,7 +41,7 @@ function userTemplate(user) {
     </div>
 
     <!-- membar -->
-    <div class="col-md-3">
+    <div class="col-md-4">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/rabiul-islam.jpg"><img src="../resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
             <h2>Rabiul Islam</h2>
@@ -53,7 +53,7 @@ function userTemplate(user) {
     </div>
 
     <!-- membar -->
-    <div class="col-md-3">
+    <div class="col-md-4">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/abdul-aziz-mia.jpg"><img src="../resources/icons/team/abdul-aziz-mia.jpg" alt="asikur rahman" class="team-img"></a>
             <h2>Abdul Aziz Mia</h2>

@@ -41,7 +41,7 @@ function userTemplate(user) {
     </div>
 
     <!-- membar -->
-    <div class="col-md-3">
+    <div class="col-md-6">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/rabiul-islam.jpg"><img src="../resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
             <h2>Rabiul Islam</h2>
@@ -53,7 +53,7 @@ function userTemplate(user) {
     </div>
 
     <!-- membar -->
-    <div class="col-md-3">
+    <div class="col-md-6">
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/abdul-aziz-mia.jpg"><img src="../resources/icons/team/abdul-aziz-mia.jpg" alt="asikur rahman" class="team-img"></a>
             <h2>Abdul Aziz Mia</h2>
