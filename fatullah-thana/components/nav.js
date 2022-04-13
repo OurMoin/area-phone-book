@@ -8,10 +8,10 @@ function navTemplate(nav) {
         <div class="container">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-2 logo-div">
-                    <a href="./index.html"><i class="fas fa-home"></i></a>
+                    <a href="./"><i class="fas fa-home"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
-                    <a class="blog-header-logo" href="./index.html">ফতুল্লা মডেল থানা</a><sup>বিডি</sup>
+                    <a class="blog-header-logo" href="./">ফতুল্লা মডেল থানা</a><sup>বিডি</sup>
                 </div>
                 <div class="col-2 d-flex justify-content-end align-items-center logo-div">
                     <div class="nav-item dropdown">
@@ -55,29 +55,31 @@ document.getElementById("nav").innerHTML = `
     ${navsData.map(navTemplate).join("")}
   `;
 
-{/* <a href="tel:${nav.ourNumber}"><i class="fas fa-ellipsis-v"></i></a> */}
+{ /* <a href="tel:${nav.ourNumber}"><i class="fas fa-ellipsis-v"></i></a> */ }
 
 
 
 
 function getTheme() {
-  return localStorage.getItem("theme") || "light";
+    return localStorage.getItem("theme") || "light";
 }
+
 function saveTheme(theme) {
-  localStorage.setItem("theme", theme);
+    localStorage.setItem("theme", theme);
 }
 
 const colorScheme = document.querySelector('meta[name="color-scheme"]');
+
 function applyTheme(theme) {
-  document.body.className = theme;
-  colorScheme.content = theme;
+    document.body.className = theme;
+    colorScheme.content = theme;
 }
 
 function rotateTheme(theme) {
-  if (theme === "light") {
-    return "dark";
-  }
-  return "light";
+    if (theme === "light") {
+        return "dark";
+    }
+    return "light";
 }
 
 const themeDisplay = document.getElementById("theme");
@@ -85,16 +87,16 @@ const themeToggler = document.getElementById("theme-toggle");
 
 // Mimic heavy load done by other JS scripts
 setTimeout(() => {
-  let theme = getTheme();
-  applyTheme(theme);
-  themeDisplay.innerText = theme;
+    let theme = getTheme();
+    applyTheme(theme);
+    themeDisplay.innerText = theme;
 
-  themeToggler.onclick = () => {
-    const newTheme = rotateTheme(theme);
-    applyTheme(newTheme);
-    themeDisplay.innerText = newTheme;
-    saveTheme(newTheme);
+    themeToggler.onclick = () => {
+        const newTheme = rotateTheme(theme);
+        applyTheme(newTheme);
+        themeDisplay.innerText = newTheme;
+        saveTheme(newTheme);
 
-    theme = newTheme;
-  };
+        theme = newTheme;
+    };
 }, 100);
