@@ -186,7 +186,7 @@ const categoryData = [
           link: "bgb-(battalion-no-62).html"
         },
         {
-          name: "জেলখান",
+          name: "জেলখানা",
           link: "prison.html"
         },
         {
