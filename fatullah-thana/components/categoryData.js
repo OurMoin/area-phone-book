@@ -72,11 +72,15 @@ const categoryData = [{
             {
                 name: "সাজাপ্রাপ্ত পলাতক আসামি",
                 link: "convicted-missing-accused.html"
+            },
+            {
+                name: "জি ডি করার নিয়ম",
+                link: "rules-for-gd.html"
+            },
+            {
+                name: "পুলিশ ক্লিয়ারেন্স",
+                link: "police-clearance.html"
             }
-            // {
-            //   name: "থানার অন্তর্ভুক্ত এলাকা",
-            //   link: "area-under-police-station.html"
-            // }
         ]
     },
     {

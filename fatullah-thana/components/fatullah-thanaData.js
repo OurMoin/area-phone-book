@@ -33,5 +33,17 @@ const categoryData = [{
         photo: "resources/icons/fatullah-thana/convicted-missing-accused.png",
         name: "সাজাপ্রাপ্ত পলাতক আসামি",
         link: "convicted-missing-accused.html"
+    },
+    {
+        id: 7,
+        photo: "resources/icons/fatullah-thana/rules-for-gd.png",
+        name: "জি ডি করার নিয়ম",
+        link: "rules-for-gd.html"
+    },
+    {
+        id: 8,
+        photo: "resources/icons/fatullah-thana/police-clearance.png",
+        name: "পুলিশ ক্লিয়ারেন্স",
+        link: "police-clearance.html"
     }
 ];
