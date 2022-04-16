@@ -12,19 +12,19 @@ const categoryData = [{
     },
     {
         id: 3,
-        photo: "../resources/icons/government-office/district-commissioner.png",
+        photo: "../resources/icons/government-office/bd-logo.png",
         name: "জেলা প্রশাসক",
         link: "district-commissioner.html"
     },
     {
         id: 4,
-        photo: "../resources/icons/government-office/upazila.png",
+        photo: "../resources/icons/government-office/bd-logo.png",
         name: "উপজেলা",
         link: "upazila.html"
     },
     {
         id: 5,
-        photo: "../resources/icons/government-office/bgb-(battalion-no-62).png",
+        photo: "../resources/icons/government-office/bgb.png",
         name: "বিজিবি (৬২নং ব্যাটালিয়ান)",
         link: "bgb-(battalion-no-62).html"
     },
@@ -36,7 +36,7 @@ const categoryData = [{
     },
     {
         id: 7,
-        photo: "../resources/icons/government-office/cooperative.png",
+        photo: "../resources/icons/government-office/bd-logo.png",
         name: "সমবায়",
         link: "cooperative.html"
     },
@@ -54,13 +54,13 @@ const categoryData = [{
     },
     {
         id: 10,
-        photo: "../resources/icons/government-office/land-office.png",
+        photo: "../resources/icons/government-office/bd-logo.png",
         name: "ভূমি অফিস",
         link: "land-office.html"
     },
     {
         id: 11,
-        photo: "../resources/icons/government-office/police-line.png",
+        photo: "../resources/icons/government-office/bd-police.png",
         name: "পুলিশ লাইন",
         link: "police-line.html"
     }
