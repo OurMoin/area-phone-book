@@ -12,9 +12,9 @@ const categoryData = [{
     },
     {
         id: 3,
-        photo: "../resources/icons/government-office/deputy-commissioner.png",
+        photo: "../resources/icons/government-office/district-commissioner.png",
         name: "জেলা প্রশাসক",
-        link: "deputy-commissioner.html"
+        link: "district-commissioner.html"
     },
     {
         id: 4,

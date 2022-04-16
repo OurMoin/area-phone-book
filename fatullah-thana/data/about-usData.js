@@ -7,6 +7,29 @@ function userTemplate(user) {
     <!-- Founder & Founder -->
     <div class="col-md-6">
     <div class="justify-content-between align-content-between team-card">
+            <a href="../resources/icons/team/rakibuzzaman.jpg"><img src="../resources/icons/team/rakibuzzaman.jpg" alt="moinul islam" class="team-img"></a>
+            <h2>Rakibuzzaman</h2>
+            <p class="text-center">Founder & Host</p>
+            <a href="mailto:usermoin@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/OurMoin" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/OurMoin" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
+    </div>
+
+    <!-- Founder & Co-Founder -->
+    <div class="col-md-6">
+        <div class="justify-content-between align-content-between team-card">
+            <a href="../resources/icons/team/ashik-imran.jpg"><img src="../resources/icons/team/ashik-imran.jpg" alt="sharif imtaz" class="team-img"></a>
+            <h2>Ashik Imran</h2>
+            <p class="text-center">Co-Host</p>
+            <a href="mailto:shorifallrobi321@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/sharifimtaz" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.facebook.com/SharifImtaz" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
+    </div>
+    <!-- Founder & Founder -->
+    <div class="col-md-6">
+    <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/moinul-islam.jpg"><img src="../resources/icons/team/moinul-islam.jpg" alt="moinul islam" class="team-img"></a>
             <h2>Moinul Islam</h2>
             <p class="text-center">Project Creator</p>
