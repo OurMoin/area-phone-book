@@ -30,7 +30,7 @@ function navTemplate(nav) {
                             <a class="dropdown-item" href="mills-factory-garments.html"><i class="fas fa-info-circle"></i> মিলস / ফ্যাক্টরি / গার্মেন্ট</a>
                             <a class="dropdown-item" href="educational-institutions.html"><i class="fas fa-info-circle"></i> শিক্ষা প্রতিষ্ঠান</a>
                             <a class="dropdown-item" href="tourist-spot.html"><i class="fas fa-info-circle"></i> দর্শনীয় স্থান</a>
-                            <a class="dropdown-item" href="about-us.html"><i class="fas fa-users"></i> তৈরি করেছে</a>
+                            <a class="dropdown-item" href="about-us.html"><i class="fas fa-users"></i> যারা তৈরি করেছে</a>
                             <a class="dropdown-item" href="terms-and-conditions.html"><i class="fas fa-file-alt"></i> টার্মস এন্ড কন্ডিশনস</a>
                             <a class="dropdown-item" href="privacy-policy.html"><i class="fas fa-user-secret"></i> প্রাইভেসি পলিসি</a>
                         </div>
