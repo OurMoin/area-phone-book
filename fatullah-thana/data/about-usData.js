@@ -7,7 +7,7 @@ function userTemplate(user) {
     <!-- Founder & Founder -->
     <div class="col-md-6">
     <div class="justify-content-between align-content-between team-card">
-            <a href="resources/icons/teamrakibuzzaman.jpg"><img src="../resources/icons/team/rakibuzzaman.jpg" alt="rakibuzzaman" class="team-img"></a>
+            <a href="../resources/icons/team/rakibuzzaman.jpg"><img src="../resources/icons/team/rakibuzzaman.jpg" alt="rakibuzzaman" class="team-img"></a>
             <h2>Rakibuzzaman</h2>
             <p class="text-center">Founder & Host</p>
             <a href="mailto:ocfatps@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
@@ -19,7 +19,7 @@ function userTemplate(user) {
     <!-- Founder & Co-Founder -->
     <div class="col-md-6">
         <div class="justify-content-between align-content-between team-card">
-            <a href="resources/icons/team/ashik-imran.jpg"><img src="../resources/icons/team/ashik-imran.jpg" alt="ashik-imran" class="team-img"></a>
+            <a href="../resources/icons/team/ashik-imran.jpg"><img src="../resources/icons/team/ashik-imran.jpg" alt="ashik-imran" class="team-img"></a>
             <h2>Ashik Imran</h2>
             <p class="text-center">Co-Host</p>
             <a href="mailto:ocfatps@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
