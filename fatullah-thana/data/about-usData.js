@@ -5,6 +5,17 @@ const usersData = [
 function userTemplate(user) {
     return `
     <!-- Founder & Founder -->
+    <div class="col-md-12">
+    <div class="justify-content-between align-content-between team-card">
+        <a href="resources/icons/team/narayanganj-sp.jpg"><img src="resources/icons/team/narayanganj-sp.jpg" alt="narayanganj-sp" class="team-img"></a>
+            <h2>Md Zaidul Alam</h2>
+            <p class="text-center">Directions</p>
+            <a href="mailto:ocfatps@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="#" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
+        </div>
+    </div>
+    <!-- Founder & Founder -->
     <div class="col-md-6">
     <div class="justify-content-between align-content-between team-card">
         <a href="resources/icons/team/rakibuzzaman.jpg"><img src="resources/icons/team/rakibuzzaman.jpg" alt="rakibuzzaman" class="team-img"></a>
