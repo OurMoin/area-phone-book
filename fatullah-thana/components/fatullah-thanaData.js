@@ -45,5 +45,11 @@ const categoryData = [{
         photo: "resources/icons/fatullah-thana/police-clearance.png",
         name: "পুলিশ ক্লিয়ারেন্স",
         link: "police-clearance.html"
+    },
+    {
+        id: 9,
+        photo: "resources/icons/fatullah-thana/convicted-cr-warrants.png",
+        name: "সাজা সি আর ওয়ারেন্ট",
+        link: "convicted-cr-warrants.html"
     }
 ];
