@@ -108,6 +108,17 @@ const userData = [
         detail: "শিমুল বাগ একটি ক্রীড়া সংগঠন। বছর জুরে খেলা দুলা করে থাকি। খেলার পাশাপাশি সামাজিক অনুষ্ঠান করে থাকি।",
         postLink: "rmimrankhan777@gmail.com",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
+    },
+    {
+        id: 11,
+        photo: "../cdn/sports-organizations/sports-organizations.png",
+        name: "সমকাল স্পোটিং ক্লাব",
+        number: "01822881514",
+        wordNo: "6",
+        location: "পশ্চিম নয়ামাটি",
+        detail: "সমকাল স্পোটিং ক্লাব একটি ক্রীড়া সংগঠন। খেলার পাশাপাশি সামাজিক অনুষ্ঠান করে থাকি।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
 ];
   
