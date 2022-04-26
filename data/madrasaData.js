@@ -74,5 +74,16 @@ const userData = [{
         detail: "ইবতেদায়ী প্লে থেকে আলিম শ্রেণী পর্যন্ত, মানবিক ও বিজ্ঞান বিভাগ, আবাসিক-অনাবাসিক ডে কেয়ার।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 8,
+        photo: "../cdn/madrasa/pagla-bazar-jamiya-hosainiya-mohila-madrasa.jpg",
+        name: "পাগলা বাজার জামিয়া হোসাইনিয়া মহিলা মাদ্রাসা",
+        number: "01711110385",
+        wordNo: "৬",
+        location: "পাগলা বাজার শান্তি নিবাস ২নং গেইট",
+        detail: "উন্নত মানের যুগ উপযোগী শিক্ষা এবং আল্লাহ ও তার রাসূল সাল্লাল্লাহ আলাইহি ওয়াসাল্লামের আদর্শ-ই আমাদের মূল লক্ষ্য। <br>নূরানী, নাযেরা, হিফজুল কুরআন সহ কিতাব বিভাগ দাওরায়ে হাদিস (মাস্টার্স) পর্যন্ত পড়ানো হয়।",
+        postLink: "https://www.facebook.com/groups/360377497657761/permalink/1614288312266667/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];
