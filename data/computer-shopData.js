@@ -97,6 +97,17 @@ const userData = [
       detail: "samratkhan512@gmail.com <br>কম্পিউটার প্রশিক্ষণ কেন্দ্র, কম্পিউটার সার্ভিসিং, নতুন ও পুরাতন কম্পিউটার বিক্রি করা হয়।",
       postLink: "samratkhan512@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
+    },
+    {
+      id: 10,
+      photo: "../cdn/computer-shop/computer-shop.png",
+      name: "Nur IT Zone",
+      number: "01517019372",
+      wordNo: "৬",
+      location: "নোভা কমিউনিটি সেন্টার সংলগ্ন",
+      detail: "ফটোকপি, ফটো প্রিন্ট, ইজি লোড, বিকাশ, নগদ, রকেট, উপায়, অনলাইন চাকরির আবেদন, সার্টিফিকেট, এনআইডি সার্ভিস, জন্ম সনদ অনলাইন আবেদন, ভ্যাকসিন ইত্যাদি কাজ করা হয়।",
+      postLink: "https://www.facebook.com/NURITZONE/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     }
   ];
   
