@@ -1,5 +1,4 @@
-const userData = [
-    {
+const userData = [{
         id: 1,
         photo: "../cdn/social-organization/pragati-student-and-youth-parliament.png",
         name: "প্রগতি ছাত্র ও যুব সংসদ",
@@ -25,7 +24,7 @@ const userData = [
         id: 3,
         photo: "../cdn/social-organization/oporajoy-98.png",
         name: "অপরাজেয়'৯৮",
-        number: "01947428014",
+        number: "01511001998",
         wordNo: "৬",
         location: "নয়ামাটি",
         detail: "অপরাজেয়'৯৮ একটি সাসমাজিক সংগঠন।",
@@ -218,7 +217,7 @@ const userData = [
         detail: "অটুট বন্ধনে-২০০২(পাগলা উচ্চ বিদ্যালয়) একটি সামাজিক সংগঠন।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-    },,
+    }, ,
     {
         id: 21,
         photo: "../cdn/social-organization/team-mostafa-covid-19.png",
@@ -605,4 +604,3 @@ const userData = [
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
 ];
-  

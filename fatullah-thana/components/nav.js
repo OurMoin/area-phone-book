@@ -23,7 +23,7 @@ function navTemplate(nav) {
                              
                             <a class="dropdown-item" href="our-fatullah.html"><i class="fas fa-info-circle"></i> আমাদের ফতুল্লা</a>
                             <a class="dropdown-item" href="fatullah-thana.html"><i class="fas fa-info-circle"></i> ফতুল্লা থানা</a>
-                            <a class="dropdown-item" href="beat-cops.html"><i class="fas fa-info-circle"></i> বিট পুলিশ</a>
+                            <a class="dropdown-item" href="beat-police.html"><i class="fas fa-info-circle"></i> বিট পুলিশ</a>
                             <a class="dropdown-item" href="emergency-services.html"><i class="fas fa-info-circle"></i> জরুরী সেবা</a>
                             <a class="dropdown-item" href="government-office.html"><i class="fas fa-info-circle"></i> সরকারী প্রতিষ্ঠান সমূহ</a>
                             <a class="dropdown-item" href="train-time-table.html"><i class="fas fa-info-circle"></i> ট্রেনের সময়সূচি</a>
