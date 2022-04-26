@@ -75,6 +75,17 @@ const userData = [
     detail: "বিভিন্ন জেলার ট্রেডিশনাল ডেজার্ট ফুড পাবেন এখানে। <br> বগুড়ার দই, কুমিল্লার রসমালাই, যশোর এর সাদেক রসগোল্লা, রাজবাড়ীর ক্ষীর চমচম, টাঙ্গাইল এর জয়কালীর চমচম ও কুষ্টিয়ার কুলফিমালাই আইসক্রিম পাওয়া যায়।",
     postLink: "https://www.facebook.com/groups/4917558188256716/?ref=share",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
+   {
+    id: 8,
+    photo: "../cdn/food/sweetbank.jpg",
+    name: "স্বপ্নছোঁয়া",
+    number: "01920860964",
+    wordNo: "৬",
+    location: "পাগলা বাজার",
+    detail: "হোম মেইড ফুড কেক, মিষ্টি, বালুসাই, সন্দেস, লাচ্ছা সেমাই ও রসমালাই মালাইচপ এগুলো নিয়ে কাজ করছি।",
+    postLink: "https://www.facebook.com/shopnochoya20/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    }
 ];
     
