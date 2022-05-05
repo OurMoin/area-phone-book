@@ -87,13 +87,24 @@ const userData = [{
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
-        id: 8,
+        id: 9,
         photo: "../cdn/telecom-center/telecom-center.png",
         name: "গাংচিল টেলিমিডিয়া & মোবাইল সাভিসিং সেন্টার",
         number: "01911861115",
         wordNo: "৬",
         location: "নাককাটা বাড়ি ব্রিজ সংলগ্ন",
-        detail: "hridoy695@gmail.com<br> মোবাইল সার্ভিসিং,মোবাইলের সকল যন্ত্রপাতি,মোবাইল লোড ইত্যাদি করা হয়।",
+        detail: "hridoy695@gmail.com<br> মোবাইল সার্ভিসিং, মোবাইলের সকল যন্ত্রপাতি, মোবাইল লোড ইত্যাদি করা হয়।",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 10,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "মা টেলিকম",
+        number: "01718805813",
+        wordNo: "৫",
+        location: "দেওয়ান মার্কেট",
+        detail: "maatelecomdbblab@gmail.com<br> এজেন্ট ব্যাংক এর কাজ করা হয়।",
         postLink: "http://fb.com/areaPhonebook",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }

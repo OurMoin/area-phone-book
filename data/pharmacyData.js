@@ -338,5 +338,16 @@ const userData = [{
         detail: "সব ধরনের ওষুধ পাওয়া যায়।",
         postLink: "https://www.facebook.com/people/Md-Oliullah/100036596468776/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 32,
+        photo: "../cdn/pharmacy/pharmacy.png",
+        name: "মের্সাস মেডিসিন কর্ণার",
+        number: "01918131773",
+        wordNo: "৫",
+        location: "শাহী মহল্লা",
+        detail: "nasrinislam12@gmail.com <br> সকল প্রকার ঔষধ পাওয়া যায়। ডায়াবেটিক ও প্রেশার মাপা হয়। <br>নেবুলাইজার মেশিন দ্বারা গ্যাস দেওয়া হয়।",
+        postLink: "https://www.facebook.com/people/Md-Oliullah/100036596468776/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     }
 ];

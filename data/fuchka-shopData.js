@@ -31,6 +31,17 @@ const userData = [
       detail: "এখানে মানসম্মত ফুচকা, চটপটি, আলুর ডম ও ফাস্টফুড পাওয়া যায়।",
       postLink: "samima1b2c3@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+      id: 4,
+      photo: "../cdn/fuchka-shop/fuchka-shop.png",
+      name: " মা চটপটি এন্ড ফুচকা হাউজ",
+      number: "01678713831",
+      wordNo: "৬",
+      location: "ইসলামিয়া বাজার নতুন রেল-স্টেশন এর সাথে",
+      detail: "চটপটি, ফুচকা, স্যুপ, ডিম, নুডুলস ও ছোলা বুট পাওয়া যায়।",
+      postLink: "mdbadal21@gmail",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
   ];
   
