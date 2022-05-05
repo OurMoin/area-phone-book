@@ -56,12 +56,40 @@ function userTemplate(user) {
   `;
 }
 
-document.getElementById("user").innerHTML = `
-  ${userData.map(userTemplate).join("")}  
-`;
+function prepareTemplateWithData(data) {
+    document.getElementById("user").innerHTML = `
+        ${data.map(userTemplate).join("")}  
+        `;
+}
+
+// initial call
+prepareTemplateWithData(userData)
 
 
+// filter with word no
+const WORDS = {
+    'সমগ্র পাগলা': 'সমগ্র পাগলা',
+    '১': '১',
+    '২': '২',
+    '৩': '৩',
+    '৪': '৪',
+    '৫': '৫',
+    '৬': '৬',
+}
 
+$('#word').on('change', function (e) {
+    let value = this.value;
+    console.log('-----')
+    console.log(value)
+    console.log(Object.values(WORDS).includes(value))
+
+    if (value && Object.values(WORDS).includes(value)) {
+        let data = userData.filter(function (el) {
+            return el.wordNo == value
+          });
+        prepareTemplateWithData(data)
+    }
+});
 
 
 // <br>
