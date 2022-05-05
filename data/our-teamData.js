@@ -9,7 +9,7 @@ function userTemplate(user) {
     <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/moinul-islam.jpg"><img src="../resources/icons/team/moinul-islam.jpg" alt="moinul islam" class="team-img"></a>
             <h2>Moinul Islam</h2>
-            <p class="text-center">Founder, CEO</p>
+            <p class="text-center">Founder & CEO</p>
             <a href="mailto:usermoin@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/OurMoin" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/OurMoin" target="_blank"><i class="fab fa-facebook-square"></i></a>
@@ -21,7 +21,7 @@ function userTemplate(user) {
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/sharif-imtaz.jpg"><img src="../resources/icons/team/sharif-imtaz.jpg" alt="sharif imtaz" class="team-img"></a>
             <h2>Sharif Imtaz</h2>
-            <p class="text-center">Co-Founder, CMO</p>
+            <p class="text-center">Co-Founder & CMO</p>
             <a href="mailto:shorifallrobi321@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/sharifimtaz" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/SharifImtaz" target="_blank"><i class="fab fa-facebook-square"></i></a>
@@ -33,7 +33,7 @@ function userTemplate(user) {
         <div class="justify-content-between align-content-between team-card">
             <a href="../resources/icons/team/shanto-mondol.jpg"><img src="../resources/icons/team/shanto-mondol.jpg" alt="shanto mondol" class="team-img"></a>
             <h2>Shanto Mondol</h2>
-            <p class="text-center">Co-Founder & Web Designer</p>
+            <p class="text-center">Co-Founder & COO</p>
             <a href="mailto:shantomondol816@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/shantomondol" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/shantomondol08" target="_blank"><i class="fab fa-facebook-square"></i></a>
