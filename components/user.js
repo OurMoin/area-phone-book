@@ -68,7 +68,6 @@ prepareTemplateWithData(userData)
 
 // filter with word no
 const WORDS = {
-    'সমগ্র পাগলা': 'সমগ্র পাগলা',
     '১': '১',
     '২': '২',
     '৩': '৩',
@@ -79,13 +78,14 @@ const WORDS = {
 
 $('#word').on('change', function (e) {
     let value = this.value;
-    console.log('-----')
-    console.log(value)
-    console.log(Object.values(WORDS).includes(value))
+    if (!value) {
+        prepareTemplateWithData(userData)
+        return
+    }
 
     if (value && Object.values(WORDS).includes(value)) {
         let data = userData.filter(function (el) {
-            return el.wordNo == value
+            return el.wordNo == value || el.wordNo == 'সমগ্র পাগলা'
           });
         prepareTemplateWithData(data)
     }
