@@ -425,6 +425,51 @@ const categoryData = [
         }
       ]
   },
+  {
+    id: 98,
+    photo: "../resources/icons/marriage/couple.png",
+    name: "বিবাহ",
+    pageLink: "gift-corner",
+    subCategory:
+      [
+        {
+          name: "পাত্র",
+          link: "gift-shop"
+        },
+        {
+          name: "পাত্রী",
+          link: "library"
+        },
+        {
+          name: "ঘটক",
+          link: "flower-shop"
+        },
+        {
+          name: "কাজী",
+          link: "flower-shop"
+        },
+        {
+          name: "ডেকরেটর",
+          link: "flower-shop"
+        },
+        {
+          name: "ইভেন্ট ম্যানেজমেন্ট",
+          link: "flower-shop"
+        },
+        {
+          name: "ফটোগ্রাফার",
+          link: "flower-shop"
+        },
+        {
+          name: "শপিং",
+          link: "flower-shop"
+        },
+        {
+          name: "অর্নামেন্টস",
+          link: "flower-shop"
+        }
+      ]
+  },
 
 ];
   
