@@ -358,6 +358,18 @@ const categoryData = [
           link: "house-rent"
         },
         {
+          name: "হোটেল ভাড়া",
+          link: "house-rent"
+        },
+        {
+          name: "ট্রাক ভাড়া",
+          link: "house-rent"
+        },
+        {
+          name: "পার্কিং ভাড়া",
+          link: "house-rent"
+        },
+        {
           name: "দোকান ভাড়া",
           link: "shop-rent"
         },
@@ -466,6 +478,31 @@ const categoryData = [
         },
         {
           name: "অর্নামেন্টস",
+          link: "flower-shop"
+        }
+      ]
+  },
+  {
+    id: 97,
+    photo: "../resources/icons/training-center/computer-training.png",
+    name: "ফ্রিলন্সার",
+    pageLink: "gift-corner",
+    subCategory:
+      [
+        {
+          name: "সকল ফ্রিলন্সার",
+          link: "gift-shop"
+        },
+        {
+          name: "গ্রাফিক ডিজাইনার",
+          link: "library"
+        },
+        {
+          name: "ওয়েব ডিজাইনার",
+          link: "flower-shop"
+        },
+        {
+          name: "ভিডিও ইডিটর",
           link: "flower-shop"
         }
       ]
