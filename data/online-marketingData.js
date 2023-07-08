@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/online-marketing/md-asikur-rahman-polash.png",
+    photo: "cdn/online-marketing/md-asikur-rahman-polash.png",
     name: "মোঃ আশিকুর রহমান পলাশ",
     number: "01521216013",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/online-marketing/md-sharif-imtaz.jpg",
+    photo: "cdn/online-marketing/md-sharif-imtaz.jpg",
     name: "মোঃ শরীফ ইমতাজ",
     number: "01521216013",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/online-marketing/online-marketing.png",
+    photo: "cdn/online-marketing/online-marketing.png",
     name: "KS Saif Khan",
     number: "01840878445",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/online-marketing/online-marketing.png",
+    photo: "cdn/online-marketing/online-marketing.png",
     name: "হাফিজুর রহমান সিয়াম",
     number: "01917375459",
     wordNo: "৪",

@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/homeopathy/al-mahmoud-homeo-pharmacy.jpg",
+    photo: "cdn/homeopathy/al-mahmoud-homeo-pharmacy.jpg",
     name: "আল মাহমুদ হোমিও ফার্মেসি",
     number: "01714881833",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/homeopathy/homeopathy.png",
+    photo: "cdn/homeopathy/homeopathy.png",
     name: "ডাঃ খন্দকার সাখাওয়াত হোসেন",
     number: "01821208759",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/homeopathy/polash-homoeo-pharmacy.jpg",
+    photo: "cdn/homeopathy/polash-homoeo-pharmacy.jpg",
     name: "পলাশ হোমিও ফার্মেসী",
     number: "01915529319",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/homeopathy/homeopathy.png",
+    photo: "cdn/homeopathy/homeopathy.png",
     name: "মোহাম্মদিয়া হোমিও ক্লিনিক",
     number: "01716972307",
     wordNo: "৬",

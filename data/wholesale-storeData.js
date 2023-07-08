@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/wholesale-store/messrs-sikder-traders.jpg",
+    photo: "cdn/wholesale-store/messrs-sikder-traders.jpg",
     name: "মেসার্স সিকদার ট্রেডার্স",
     number: "01678713811",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "তাসফিয়া ট্রেডার্স",
     number: "01631281616",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/wholesale-store/messrs-johnny-flower-mills.jpg",
+    photo: "cdn/wholesale-store/messrs-johnny-flower-mills.jpg",
     name: "মেসার্স জনি ফ্লাওয়ার মিলস",
     number: "01791058215",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "হক রাইস এজেন্সি",
     number: "01742155141",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "মেসার্স শরীয়তপুর ষ্টোর",
     number: "01918477780",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "ছালাম ষ্টোর",
     number: "01674833644",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "থাই বেবী ডায়াপার",
     number: "01982957254",
     wordNo: "৫",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "মেসার্স নাফিসা রাইস এজেন্সি",
     number: "01677108790",
     wordNo: "৬",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/wholesale-store/wholesale-store.png",
+    photo: "cdn/wholesale-store/wholesale-store.png",
     name: "চয়েজ এন্টারপ্রাইজ",
     number: "01613317431",
     wordNo: "৭",

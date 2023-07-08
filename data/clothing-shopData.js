@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/clothing-shop/md-sojib.jpg",
+        photo: "cdn/clothing-shop/md-sojib.jpg",
         name: "মোঃ সজিব",
         number: "01833099324",
         wordNo: "৫",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/clothing-shop/al-medina-burqa-house.jpg",
+        photo: "cdn/clothing-shop/al-medina-burqa-house.jpg",
         name: "আল-মদিনা বোরকা হাউজ",
         number: "01748600069",
         wordNo: "৪",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/clothing-shop/mayer-doya-readymade-corner.jpg",
+        photo: "cdn/clothing-shop/mayer-doya-readymade-corner.jpg",
         name: "মায়ের দোয়া রেডিমেট কর্ণার",
         number: "01400437754",
         wordNo: "৬",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/clothing-shop/brands-outlet.jpg",
+        photo: "cdn/clothing-shop/brands-outlet.jpg",
         name: "Brands Outlet",
         number: "01876519364",
         wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/clothing-shop/clothing-shop.png",
+        photo: "cdn/clothing-shop/clothing-shop.png",
         name: "সান ফ্লাওয়ার টেইলার্স অ্যান্ড ক্লথ স্টোর",
         number: "01920915116",
         wordNo: "৪",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/clothing-shop/clothing-shop.png",
+        photo: "cdn/clothing-shop/clothing-shop.png",
         name: "রাব্বি ইসলাম সৌরভ",
         number: "01786118790",
         wordNo: "৬",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/clothing-shop/mrkfashion.jpg",
+        photo: "cdn/clothing-shop/mrkfashion.jpg",
         name: "MRK FASHION",
         number: "01627660139",
         wordNo: "৬",

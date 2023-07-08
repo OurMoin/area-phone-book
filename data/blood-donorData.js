@@ -1,6 +1,6 @@
 const userData = [{
     id: 1,
-    photo: "../cdn/blood-donor/the-hut-organization.jpg",
+    photo: "cdn/blood-donor/the-hut-organization.jpg",
     name: "হানিফ আহমেদ শান্ত",
     number: "01628010937",
     wordNo: "৬",
@@ -11,7 +11,7 @@ const userData = [{
 },
 {
     id: 2,
-    photo: "../cdn/blood-donor/the-hut-organization.jpg",
+    photo: "cdn/blood-donor/the-hut-organization.jpg",
     name: "হৃদয় আহমেদ",
     number: "01969407116",
     wordNo: "৬",
@@ -22,7 +22,7 @@ const userData = [{
 },
 {
     id: 3,
-    photo: "../cdn/blood-donor/atikur-lslam-shawon.jpg",
+    photo: "cdn/blood-donor/atikur-lslam-shawon.jpg",
     name: "আতিকুর ইসলাম শাওন",
     number: "01995063795",
     wordNo: "৬",
@@ -33,7 +33,7 @@ const userData = [{
 },
 {
     id: 4,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "অরিন চন্দ্র দাস",
     number: "01868564353",
     wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
 },
 {
     id: 5,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ শাহাদাৎ হোসেন",
     number: "01648039314",
     wordNo: "৩",
@@ -55,7 +55,7 @@ const userData = [{
 },
 {
     id: 6,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ আব্দুল হক",
     number: "01990232823",
     wordNo: "৬",
@@ -66,7 +66,7 @@ const userData = [{
 },
 {
     id: 7,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "রোকন উদ্দিন রনি",
     number: "01681475340",
     wordNo: "৬",
@@ -77,7 +77,7 @@ const userData = [{
 },
 {
     id: 8,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "হাফিজুর রহমান সিয়াম",
     number: "01568154195",
     wordNo: "৪",
@@ -88,7 +88,7 @@ const userData = [{
 },
 {
     id: 9,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ শাহরিয়ার লিংকন",
     number: "01811738885",
     wordNo: "৬",
@@ -99,7 +99,7 @@ const userData = [{
 },
 {
     id: 10,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ আল আমিন",
     number: "01966529066",
     wordNo: "৫",
@@ -110,7 +110,7 @@ const userData = [{
 },
 {
     id: 11,
-    photo: "../cdn/blood-donor/woman-blood-donor.png",
+    photo: "cdn/blood-donor/woman-blood-donor.png",
     name: "Sabina Yasmin Eshita",
     number: "<!-- 01681767839 -->01798899911",
     wordNo: "৫",
@@ -121,7 +121,7 @@ const userData = [{
 },
 {
     id: 12,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ মাসুম",
     number: "01568708715",
     wordNo: "৮",
@@ -132,7 +132,7 @@ const userData = [{
 },
 {
     id: 13,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "Shibly",
     number: "01759112471",
     wordNo: "৫",
@@ -143,7 +143,7 @@ const userData = [{
 },
 {
     id: 14,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "তারেক রহমান নয়ন",
     number: "01407369470",
     wordNo: "৬",
@@ -154,7 +154,7 @@ const userData = [{
 },
 {
     id: 15,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "নূর মোহাম্মদ",
     number: "01964289725",
     wordNo: "৬",
@@ -165,7 +165,7 @@ const userData = [{
 },
 {
     id: 16,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "রিয়াজ খান",
     number: "01866330281",
     wordNo: "৬",
@@ -176,7 +176,7 @@ const userData = [{
 },
 {
     id: 17,
-    photo: "../cdn/blood-donor/woman-blood-donor.png",
+    photo: "cdn/blood-donor/woman-blood-donor.png",
     name: "Chahat Jannat",
     number: "<!-- 01706325855 -->01798899911",
     wordNo: "৬",
@@ -187,7 +187,7 @@ const userData = [{
 },
 {
     id: 18,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "নূরে মাজহার",
     number: "01613093271",
     wordNo: "৪",
@@ -198,7 +198,7 @@ const userData = [{
 },
 {
     id: 19,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ ইমন আহমেদ",
     number: "01610611103",
     wordNo: "অন্যান্য",
@@ -209,7 +209,7 @@ const userData = [{
 },
 {
     id: 20,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোহাম্মদ জনি",
     number: "01876083539",
     wordNo: "৬",
@@ -220,7 +220,7 @@ const userData = [{
 },
 {
     id: 21,
-    photo: "../cdn/blood-donor/woman-blood-donor.png",
+    photo: "cdn/blood-donor/woman-blood-donor.png",
     name: "রিয়া হোসেন",
     number: "<!-- 01908466111 --> 01798899911",
     wordNo: "৪",
@@ -231,7 +231,7 @@ const userData = [{
 },
 {
     id: 22,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "শাওন",
     number: "01870943947",
     wordNo: "৬",
@@ -242,7 +242,7 @@ const userData = [{
 },
 {
     id: 23,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোহাম্মদ তামিম হাওলাদার",
     number: "01942916868",
     wordNo: "৬",
@@ -253,7 +253,7 @@ const userData = [{
 },
 {
     id: 24,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মাহিম খান",
     number: "01749107332",
     wordNo: "৫",
@@ -264,7 +264,7 @@ const userData = [{
 },
 {
     id: 25,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "প্রশান্ত দাশ",
     number: "01953935266",
     wordNo: "৬",
@@ -275,7 +275,7 @@ const userData = [{
 },
 {
     id: 26,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "সেলিম হোসেন",
     number: "01679780557",
     wordNo: "৫",
@@ -286,7 +286,7 @@ const userData = [{
 },
 {
     id: 27,
-    photo: "../cdn/blood-donor/woman-blood-donor.png",
+    photo: "cdn/blood-donor/woman-blood-donor.png",
     name: "হাসিন তারা",
     number: "<!-- 01723222888 --> 01798899911",
     wordNo: "৬",
@@ -297,7 +297,7 @@ const userData = [{
 },
 {
     id: 28,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "আব্দুর রহমান",
     number: "01934117928",
     wordNo: "৫",
@@ -308,7 +308,7 @@ const userData = [{
 },
 {
     id: 29,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "আশরাফ খান",
     number: "01682099234",
     wordNo: "৪",
@@ -319,7 +319,7 @@ const userData = [{
 },
 {
     id: 30,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "Zahid Hasan",
     number: "01750066414",
     wordNo: "৫",
@@ -330,7 +330,7 @@ const userData = [{
 },
 {
     id: 31,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "সারফরাজ হক সজীব",
     number: "01960309245",
     wordNo: "৬",
@@ -341,7 +341,7 @@ const userData = [{
 },
 {
     id: 32,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "Muhammad Bakibilla",
     number: "01568589094",
     wordNo: "৫",
@@ -352,7 +352,7 @@ const userData = [{
 },
 {
     id: 33,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "Tanvir Simanto",
     number: "01620846518",
     wordNo: "৬",
@@ -372,7 +372,7 @@ const userData = [{
 
 {
     id: 101,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "কাওসার সিকদার মোহন",
     number: "01935180157",
     wordNo: "২",
@@ -383,7 +383,7 @@ const userData = [{
 },
 {
     id: 102,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ শান্ত",
     number: "01626415362",
     wordNo: "৫",
@@ -394,7 +394,7 @@ const userData = [{
 },
 {
     id: 103,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ ইয়াসিন আরাফাত সেমন",
     number: "01819319086",
     wordNo: "২",
@@ -405,7 +405,7 @@ const userData = [{
 },
 {
     id: 104,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "হাবিবুর রহমান অনিক",
     number: "01930086518",
     wordNo: "৫",
@@ -416,7 +416,7 @@ const userData = [{
 },
 {
     id: 105,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মেহেদী হাসান হৃদয়",
     number: "01842996779",
     wordNo: "৬",
@@ -427,7 +427,7 @@ const userData = [{
 },
 {
     id: 106,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "ইয়াসিন আহমেদ",
     number: "01868385151",
     wordNo: "৬",
@@ -438,7 +438,7 @@ const userData = [{
 },
 {
     id: 107,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "নাজমুল অনিক",
     number: "01905547921",
     wordNo: "৮",
@@ -449,7 +449,7 @@ const userData = [{
 },
 {
     id: 108,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মো: সিফাত আহমেদ",
     number: "01406990357",
     wordNo: "৩",
@@ -460,7 +460,7 @@ const userData = [{
 },
 {
     id: 109,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "আল-আমিন",
     number: "01937185496",
     wordNo: "৬",
@@ -471,7 +471,7 @@ const userData = [{
 },
 {
     id: 110,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ হিমেল আহমেদ সজীব",
     number: "01837267346",
     wordNo: "৬",
@@ -482,7 +482,7 @@ const userData = [{
 },
 {
     id: 111,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মেহেদী হাসান সিয়াম",
     number: "01771951138",
     wordNo: "৫",
@@ -493,7 +493,7 @@ const userData = [{
 },
 {
     id: 112,
-    photo: "../cdn/blood-donor/man-blood-donor.png",
+    photo: "cdn/blood-donor/man-blood-donor.png",
     name: "মোঃ ইয়াছিন",
     number: "01749990178",
     wordNo: "৩",

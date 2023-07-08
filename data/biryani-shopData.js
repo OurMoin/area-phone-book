@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/biryani-shop/al-araf-tehri-house.jpg",
+    photo: "cdn/biryani-shop/al-araf-tehri-house.jpg",
     name: "আল-আরাফ তেহারি ঘর",
     number: "01319926473",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/biryani-shop/biryani-shop.png",
+    photo: "cdn/biryani-shop/biryani-shop.png",
     name: "তৃপ্তি হোটেল ও রেস্টুরেন্ট",
     number: "01623511197",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/biryani-shop/kazi-biryani-house.jpg",
+    photo: "cdn/biryani-shop/kazi-biryani-house.jpg",
     name: "কাজী বিরিয়ানি ঘর",
     number: "01683128172",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/biryani-shop/biryani-shop.png",
+    photo: "cdn/biryani-shop/biryani-shop.png",
     name: "বাবুর্চি এক্সপ্রেস",
     number: "01712800378",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/biryani-shop/kacchibhai.png",
+    photo: "cdn/biryani-shop/kacchibhai.png",
     name: "কাচ্চি ভাই",
     number: "01713879996",
     wordNo: "অন্যান্য",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/biryani-shop/sultan-bhai-kachchi.png",
+    photo: "cdn/biryani-shop/sultan-bhai-kachchi.png",
     name: "সুলতান ভাই কাচ্চি",
     number: "01715221020",
     wordNo: "অন্যান্য",

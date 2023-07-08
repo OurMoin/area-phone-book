@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 5,
-    photo: "../cdn/restaurant/blue-marlin.jpg",
+    photo: "cdn/restaurant/blue-marlin.jpg",
     name: "Blue Marlin",
     number: "01670039590",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 1,
-    photo: "../cdn/restaurant/afc-restaurant-and-fastfood.jpg",
+    photo: "cdn/restaurant/afc-restaurant-and-fastfood.jpg",
     name: "এ এফ সি রেস্টুরেন্ট এন্ড ফাস্টফুড",
     number: "01714275316",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "cdn/restaurant/restaurant.png",
     name: "নিমকি ফাস্টফুড এবং কনফেকশনারী",
     number: "01984547441",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/restaurant/ahm-tasty-food.jpg",
+    photo: "cdn/restaurant/ahm-tasty-food.jpg",
     name: "AHM Tasty Food",
     number: "01934411439",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "cdn/restaurant/restaurant.png",
     name: "তৃপ্তি হোটেল ও রেস্টুরেন্ট",
     number: "01623511197",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/restaurant/restaurant.png",
+    photo: "cdn/restaurant/restaurant.png",
     name: "ফ্রেশ ফুড কর্নার",
     number: "01710614422",
     wordNo: "৪",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/restaurant/grand-area-restaurant.jpg",
+    photo: "cdn/restaurant/grand-area-restaurant.jpg",
     name: "Grand Area Restaurant",
     number: "01851596976",
     wordNo: "৬",

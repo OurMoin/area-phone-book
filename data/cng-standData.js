@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/cng-stand/cng-stand.png",
+    photo: "cdn/cng-stand/cng-stand.png",
     name: "আদর্শনগর সি.এন.জি স্ট্যান্ড",
     number: "Hidden",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/cng-stand/nurbagh-cng-stand.jpg",
+    photo: "cdn/cng-stand/nurbagh-cng-stand.jpg",
     name: "নুরবাগ সি এন জি স্ট্যান্ড",
     number: "Hidden",
     wordNo: "৫",

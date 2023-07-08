@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/madrasa/madrasa.png",
+        photo: "cdn/madrasa/madrasa.png",
         name: "মদিনাতুল উলূম মাদ্রাসা ও এতিমখানা",
         number: "01726783592",
         wordNo: "৫",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/madrasa/madrasa.png",
+        photo: "cdn/madrasa/madrasa.png",
         name: "জামিয়া তা'লীমিয়া মাদ্রাসা ঢাকা",
         number: "01703073400",
         wordNo: "৪",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/madrasa/madrasa.png",
+        photo: "cdn/madrasa/madrasa.png",
         name: "আয়েশা সিদ্দিকা রা. মহিলা মাদ্রাসা",
         number: "01732804216",
         wordNo: "৪",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/madrasa/madrasa.png",
+        photo: "cdn/madrasa/madrasa.png",
         name: "পিলকুনী দারুল হিকমাহ হাফিজিয়া ক্বওমিয়া মাদ্রাসা ও এতিমখানা",
         number: "01705095551",
         wordNo: "৮",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/madrasa/munshibagh-darul-jannat-hifzul-quran-madrasa.jpg",
+        photo: "cdn/madrasa/munshibagh-darul-jannat-hifzul-quran-madrasa.jpg",
         name: "মুন্সিবাগ দারুল জান্নাত হিফজুল কুরআন মাদ্রাসা",
         number: "01916389676",
         wordNo: "৫",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/madrasa/nurbagh-madrasa.jpg",
+        photo: "cdn/madrasa/nurbagh-madrasa.jpg",
         name: "নুরবাগ মাদ্রাসা",
         number: "01930968349",
         wordNo: "৪",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/madrasa/nurbagh-madrasa.jpg",
+        photo: "cdn/madrasa/nurbagh-madrasa.jpg",
         name: "পূর্ব কদমতলী আলিম মাদ্রাসা",
         number: "01717227714",
         wordNo: "৫",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/madrasa/pagla-bazar-jamiya-hosainiya-mohila-madrasa.jpg",
+        photo: "cdn/madrasa/pagla-bazar-jamiya-hosainiya-mohila-madrasa.jpg",
         name: "পাগলা বাজার জামিয়া হোসাইনিয়া মহিলা মাদ্রাসা",
         number: "01711110385",
         wordNo: "৬",

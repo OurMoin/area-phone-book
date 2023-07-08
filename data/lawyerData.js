@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/lawyer/advSumon.jpg",
+        photo: "cdn/lawyer/advSumon.jpg",
         name: "এড. সুমন মন্ডল (জজ কোর্ট, নারায়ণগঞ্জ)",
         number: "01842225080",
         wordNo: "৬",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/lawyer/lawyer.png",
+        photo: "cdn/lawyer/lawyer.png",
         name: "রবিন হোসেন",
         number: "01674727017",
         wordNo: "৬",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/lawyer/lawyer.png",
+        photo: "cdn/lawyer/lawyer.png",
         name: "Bhuiyan Tax & VAT Solutions",
         number: "01913224005",
         wordNo: "৪",

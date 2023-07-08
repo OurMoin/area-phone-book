@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/supermarket/supermarket.png",
+    photo: "cdn/supermarket/supermarket.png",
     name: "ওয়ায়েস করণী আদর্শ নগর সুপার মার্কেট",
     number: "সুপার-মার্কেট",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/supermarket/supermarket.png",
+    photo: "cdn/supermarket/supermarket.png",
     name: "হাজী আহসান উদ্দিন সুপার মার্কেট",
     number: "সুপার-মার্কেট",
     wordNo: "৪",

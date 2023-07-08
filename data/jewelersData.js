@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/jewelers/jewelers.png",
+    photo: "cdn/jewelers/jewelers.png",
     name: "হাফসা জুয়েলার্স",
     number: "01716198450",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/jewelers/ma-sorno-shilpaloi.jpg",
+    photo: "cdn/jewelers/ma-sorno-shilpaloi.jpg",
     name: "মা-স্বর্ন শিল্পালয়",
     number: "01611384919",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/jewelers/amiita-jewelers.jpg",
+    photo: "cdn/jewelers/amiita-jewelers.jpg",
     name: "অর্মিতা জুয়েলার্স",
     number: "01408753002",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/jewelers/mahamaya-jewelers(durga).jpg",
+    photo: "cdn/jewelers/mahamaya-jewelers(durga).jpg",
     name: "মহামায়া জুয়েলার্স (দূর্গা)",
     number: "01796220165",
     wordNo: "৬",

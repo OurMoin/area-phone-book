@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/courier-service/sundarbans-courier-and-partial-service.jpg",
+    photo: "cdn/courier-service/sundarbans-courier-and-partial-service.jpg",
     name: "সুন্দরবন কুরিয়ার এন্ড পার্শ্বেল সার্ভিস",
     number: "01755553722",
     wordNo: "৬",

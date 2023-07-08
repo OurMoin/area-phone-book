@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/garments/garments.png",
+      photo: "cdn/garments/garments.png",
       name: "মৃধা ফ্যাশন",
       number: "01819160880",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/garments/garments.png",
+      photo: "cdn/garments/garments.png",
       name: "নির্ঝর নীটওয়্যার লিমিটেড",
       number: "01998327959",
       wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/garments/garments.png",
+      photo: "cdn/garments/garments.png",
       name: "নিঝর গার্মেন্টস",
       number: "01924157444",
       wordNo: "৬",

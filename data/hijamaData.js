@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/hijama/al-shefa-hijama-center.jpg",
+    photo: "cdn/hijama/al-shefa-hijama-center.jpg",
     name: "আল শেফা হিজামা সেন্টার",
     number: "01647246305",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/hijama/al-sunnah-hijama-therapy-center.jpg",
+    photo: "cdn/hijama/al-sunnah-hijama-therapy-center.jpg",
     name: "আল সুন্নাহ হিজামা থেরাপি সেন্টার",
     number: "01558954950",
     wordNo: "৫",

@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/news/etc-bangla.jpg",
+    photo: "cdn/news/etc-bangla.jpg",
     name: "ইটিসি বাংলা",
     number: "01968267082",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/news/news.png",
+    photo: "cdn/news/news.png",
     name: "নিউজ ২১ বাংলা টিভি",
     number: "01682604347",
     wordNo: "৬",

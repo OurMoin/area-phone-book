@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/electric-mechanic/md-delwar.jpg",
+        photo: "cdn/electric-mechanic/md-delwar.jpg",
         name: "মোঃ দেলোয়ার",
         number: "01944118485",
         wordNo: "৫",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/electric-mechanic/md-riaz.jpg",
+        photo: "cdn/electric-mechanic/md-riaz.jpg",
         name: "মোঃ রিয়াজ",
         number: "01621818429",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/electric-mechanic/electric-mechanic.png",
+        photo: "cdn/electric-mechanic/electric-mechanic.png",
         name: "মোঃ ইকবাল হোসেন",
         number: "01957558560",
         wordNo: "৫",

@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/college/haji-michir-ali-university-college.jpg",
+      photo: "cdn/college/haji-michir-ali-university-college.jpg",
       name: "হাজী মিছির আলী বিশ্ববিদ্যালয় কলেজ",
       number: "01712167995",
       wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/college/narayanganj-commerce-college.png",
+      photo: "cdn/college/narayanganj-commerce-college.png",
       name: "Narayanganj Commerce College - NCC",
       number: "01817567116",
       wordNo: "অন্যান্য",

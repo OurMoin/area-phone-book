@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/enayetnagar-union-history/chairman-member/md-asaduzzaman.jpg",
+    photo: "cdn/enayetnagar-union-history/chairman-member/md-asaduzzaman.jpg",
     name: "মোঃ আসাদুজ্জামান",
     number: "01762667351",
     wordNo: "সমগ্র এনায়েতনগর",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/chairman-member/ward-no-1-2-3.png",
+    photo: "cdn/chairman-member/ward-no-1-2-3.png",
     name: "মনোয়ারা বেগম",
     number: "01611554833",
     wordNo: "১, ২, ৩",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/chairman-member/ward-no-1.png",
+    photo: "cdn/chairman-member/ward-no-1.png",
     name: "মোঃ সালাউদ্দিন আহম্মেদ",
     number: "01712018800 ",
     wordNo: "১",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/chairman-member/ward-no-2.png",
+    photo: "cdn/chairman-member/ward-no-2.png",
     name: "মোঃ আক্তার হোসেন",
     number: "01921314181",
     wordNo: "২",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/chairman-member/ward-no-3.png",
+    photo: "cdn/chairman-member/ward-no-3.png",
     name: "আঃ জলিল",
     number: "01305232088",
     wordNo: "৩",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/chairman-member/ward-no-4-5-6.png",
+    photo: "cdn/chairman-member/ward-no-4-5-6.png",
     name: "সখিনা",
     number: "01711472052",
     wordNo: "৪, ৫, ৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/chairman-member/ward-no-4.png",
+    photo: "cdn/chairman-member/ward-no-4.png",
     name: "মোঃ আব্দুল বাতেন তালুকদার",
     number: "01782191714",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/chairman-member/ward-no-5.png",
+    photo: "cdn/chairman-member/ward-no-5.png",
     name: "মোঃ ইসলাম",
     number: "01911583086",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },    
   {
     id: 9,
-    photo: "../cdn/chairman-member/ward-no-6.png",
+    photo: "cdn/chairman-member/ward-no-6.png",
     name: "মোঃ নিছার উদ্দিন",
     number: "01913573888",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },    
   {
     id: 10,
-    photo: "../cdn/chairman-member/ward-no-7-8-9.png",
+    photo: "cdn/chairman-member/ward-no-7-8-9.png",
     name: "মোসাঃ ফারহানা",
     number: "01687948693",
     wordNo: "৭, ৮, ৯",
@@ -111,7 +111,7 @@ const userData = [
   },    
   {
     id: 11,
-    photo: "../cdn/chairman-member/ward-no-7.png",
+    photo: "cdn/chairman-member/ward-no-7.png",
     name: "মোঃ শাহাজাহান মাদবর",
     number: "01819240161",
     wordNo: "৭",
@@ -122,7 +122,7 @@ const userData = [
   },    
   {
     id: 12,
-    photo: "../cdn/chairman-member/ward-no-8.png",
+    photo: "cdn/chairman-member/ward-no-8.png",
     name: "আতাউর রহমান প্রধান",
     number: "01712107642",
     wordNo: "৮",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 13,
-    photo: "../cdn/chairman-member/ward-no-9.png",
+    photo: "cdn/chairman-member/ward-no-9.png",
     name: "মোঃ কামরুল হাসান",
     number: "01711665603",
     wordNo: "৯",

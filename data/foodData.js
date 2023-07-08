@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/food/sister's-kitchen.jpg",
+    photo: "cdn/food/sister's-kitchen.jpg",
     name: "সিস্টার'স কিচেন",
     number: "01942724041",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
    },
    {
     id: 2,
-    photo: "../cdn/food/organic-food-point.jpg",
+    photo: "cdn/food/organic-food-point.jpg",
     name: "Organic Food Point",
     number: "01628099234",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
    },
    {
     id: 3,
-    photo: "../cdn/food/furqan.jpg",
+    photo: "cdn/food/furqan.jpg",
     name: "Furqan - ফুরক্বান",
     number: "01787178833",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
    },
    {
     id: 4,
-    photo: "../cdn/food/cakes-kings-and-pastry-shop.jpg",
+    photo: "cdn/food/cakes-kings-and-pastry-shop.jpg",
     name: "Cakes Kings & Pastry Shop",
     number: "01953504973",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
    },
    {
     id: 5,
-    photo: "../cdn/food/shally's-kitchen.jpg",
+    photo: "cdn/food/shally's-kitchen.jpg",
     name: "Shally's kitchen",
     number: "01677795503",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
    },
    {
     id: 6,
-    photo: "../cdn/food/cooking-studio-by-nisat.jpg",
+    photo: "cdn/food/cooking-studio-by-nisat.jpg",
     name: "Cooking studio by Nisat",
     number: "01914285318",
     wordNo: "৪",
@@ -67,7 +67,7 @@ const userData = [
    },
    {
     id: 7,
-    photo: "../cdn/food/sweetbank.jpg",
+    photo: "cdn/food/sweetbank.jpg",
     name: "Sweetbank",
     number: "01933210094",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
    },
    {
     id: 8,
-    photo: "../cdn/food/shopnochoya.jpg",
+    photo: "cdn/food/shopnochoya.jpg",
     name: "স্বপ্নছোঁয়া",
     number: "01920860964",
     wordNo: "৬",

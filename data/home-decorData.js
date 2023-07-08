@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/home-decor/home-decor.png",
+    photo: "cdn/home-decor/home-decor.png",
     name: "এ বি হানিফ হোম ডেকোর",
     number: "01724024372",
     wordNo: "৬",

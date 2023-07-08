@@ -1,7 +1,7 @@
 // const userData = [
 //   {
 //     id: 1,
-//     photo: "../cdn/kazi-office/mufti-md-shahidullah.png",
+//     photo: "cdn/kazi-office/mufti-md-shahidullah.png",
 //     name: "মুফতি মোঃ শহিদুল্লা",
 //     number: "01812480900",
 //     wordNo: "৫",
@@ -12,7 +12,7 @@
 //   },
 //   {
 //     id: 2,
-//     photo: "../cdn/kazi-office/kazi-nazrul-islam.png",
+//     photo: "cdn/kazi-office/kazi-nazrul-islam.png",
 //     name: "কাজী নজরুল ইসলাম",
 //     number: "01711858984",
 //     wordNo: "৪",

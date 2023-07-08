@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/cemetery/cemetery.png",
+      photo: "cdn/cemetery/cemetery.png",
       name: "মোঃ সফিকুল রহমান",
       number: "01923229356",
       wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/cemetery/cemetery.png",
+      photo: "cdn/cemetery/cemetery.png",
       name: "মোঃ আফিল উদ্দিন",
       number: "01936995598",
       wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/cemetery/cemetery.png",
+      photo: "cdn/cemetery/cemetery.png",
       name: "ভূইগড় কেন্দ্রীয় ঈদগাহ ও কবরস্থান",
       number: "01620611438",
       wordNo: "২",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/cemetery/cemetery.png",
+      photo: "cdn/cemetery/cemetery.png",
       name: "মো:আকাশ",
       number: "01749365863",
       wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
     },   
     {
       id: 5,
-      photo: "../cdn/cemetery/cemetery.png",
+      photo: "cdn/cemetery/cemetery.png",
       name: "রহিমা এন্টারপ্রাইজ",
       number: "01682901021",
       wordNo: "৪",

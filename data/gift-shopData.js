@@ -1,7 +1,7 @@
 const userData = [
     {
         id: 1,
-        photo: "../cdn/gift-shop/gift-shop.png",
+        photo: "cdn/gift-shop/gift-shop.png",
         name: "নাবিল কসমেটিক এন্ড গিফট কর্নার",
         number: "01533820421",
         wordNo: "৪",

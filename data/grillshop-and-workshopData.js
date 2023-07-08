@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
+    photo: "cdn/grillshop-and-workshop/grillshop-and-workshop.png",
     name: "মায়ের দোয়া গ্রিল",
     number: "01826198282",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/grillshop-and-workshop/chadni-engineering-workshop.jpg",
+    photo: "cdn/grillshop-and-workshop/chadni-engineering-workshop.jpg",
     name: "চাঁদনী ইঞ্জিনিয়ারিং ওয়াকসপ",
     number: "01631485471",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/grillshop-and-workshop/messrs-a-qadir-steel-works.jpg",
+    photo: "cdn/grillshop-and-workshop/messrs-a-qadir-steel-works.jpg",
     name: "মেসার্স এ. কাদির স্টিল ওয়ার্কস",
     number: "01822531552",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/grillshop-and-workshop/allahar-dan-engineering-workshop.jpg",
+    photo: "cdn/grillshop-and-workshop/allahar-dan-engineering-workshop.jpg",
     name: "আল্লাহর দান ইঞ্জিনিয়ারিং ওয়ার্কশপ",
     number: "01671713039",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/grillshop-and-workshop/sajjad-engineering-works.jpg",
+    photo: "cdn/grillshop-and-workshop/sajjad-engineering-works.jpg",
     name: "সাজ্জাদ ইঞ্জিনিয়ারিং ওয়ার্কস",
     number: "01916881369",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   // {
   //   id: 6,
-  //   photo: "../cdn/grillshop-and-workshop/grillshop-and-workshop.png",
+  //   photo: "cdn/grillshop-and-workshop/grillshop-and-workshop.png",
   //   name: "আল বায়েদ গ্রীল ওয়ার্কসপ",
   //   number: "null",
   //   wordNo: "৬",

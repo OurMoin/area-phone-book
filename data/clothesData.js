@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/clothes/monika's-mannequin.png",
+      photo: "cdn/clothes/monika's-mannequin.png",
       name: "Monika's Mannequin",
       number: "01533493999",
       wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/clothes/rj-fashion-mart.jpg",
+      photo: "cdn/clothes/rj-fashion-mart.jpg",
       name: "RJ Fashion Mart",
       number: "01991894967",
       wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/clothes/galben-fashion.png",
+      photo: "cdn/clothes/galben-fashion.png",
       name: "Galben Fashion",
       number: "01624214416",
       wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/clothes/aalna.jpg",
+      photo: "cdn/clothes/aalna.jpg",
       name: "Aalna",
       number: "01861231108",
       wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
     },
     {
       id: 5,
-      photo: "../cdn/clothes/anginii.jpg",
+      photo: "cdn/clothes/anginii.jpg",
       name: "আঙ্গিনী - Anginii",
       number: "01787095377",
       wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
     },
     {
       id: 6,
-      photo: "../cdn/clothes/fatema-fashion.jpg",
+      photo: "cdn/clothes/fatema-fashion.jpg",
       name: "Fatema Fashion",
       number: "01817294119",
       wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
     },
     {
       id: 7,
-      photo: "../cdn/clothes/khujyani.jpg",
+      photo: "cdn/clothes/khujyani.jpg",
       name: "খুঁজে আনি/khujyani.com",
       number: "01892804674",
       wordNo: "৫",

@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/raw-market/raw-market.png",
+    photo: "cdn/raw-market/raw-market.png",
     name: "বউ-বাজার",
     number: "কাচা-বাজার",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/raw-market/raw-market.png",
+    photo: "cdn/raw-market/raw-market.png",
     name: "বটতলা-বাজার",
     number: "কাচা-বাজার",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/raw-market/rasulpur-bazar.jpg",
+    photo: "cdn/raw-market/rasulpur-bazar.jpg",
     name: "রসুলপুর-বাজার",
     number: "কাচা-বাজার",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/raw-market/rasulpur-bazar.jpg",
+    photo: "cdn/raw-market/rasulpur-bazar.jpg",
     name: "ইব্রাহিম সুপার সপ ও কাঁচা বাজার",
     number: "01745155440",
     wordNo: "৫",

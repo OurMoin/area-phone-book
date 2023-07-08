@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn//petrol-pump/messrs-a-b-and-sons.jpg",
+      photo: "cdn//petrol-pump/messrs-a-b-and-sons.jpg",
       name: "মেসার্স এ. বি এন্ড সন্স",
       number: "01798899911",
       wordNo: "৬",

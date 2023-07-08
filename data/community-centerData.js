@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/community-center/community-center.png",
+    photo: "cdn/community-center/community-center.png",
     name: "মায়ের দোয়া কমিউনিটি সেন্টার",
     number: "01719648377",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/community-center/mugdha-snigdha-community-center.jpg",
+    photo: "cdn/community-center/mugdha-snigdha-community-center.jpg",
     name: "মুগ্ধ স্নিগ্ধ কমিউনিটি সেন্টার",
     number: "01910707912",  
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/community-center/nova-community-center.jpg",
+    photo: "cdn/community-center/nova-community-center.jpg",
     name: "নোভা কমিউনিটি সেন্টার",
     number: "01951334455",
     wordNo: "৬",

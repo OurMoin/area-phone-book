@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/brick-sand-and-cement/messrs-saif-enterprise.jpg",
+    photo: "cdn/brick-sand-and-cement/messrs-saif-enterprise.jpg",
     name: "মেসার্স সাইফ এন্টারপ্রাইজ",
     number: "01676946051",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    photo: "cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
     number: "01734547676",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    photo: "cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "মেসার্স শাওন এন্টারপ্রাইজ",
     number: "01677047244",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    photo: "cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "ইমন ট্রেডার্স",
     number: "01986034515",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    photo: "cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "প্রিমিয়ার সিমেন্ট মিলস লি.",
     number: "01714123964",
     wordNo: "৪",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/brick-sand-and-cement/brick-sand-and-cement.png",
+    photo: "cdn/brick-sand-and-cement/brick-sand-and-cement.png",
     name: "মেসার্স সাগর এন্টারপ্রাইজ",
     number: "01683128010",
     wordNo: "৫",

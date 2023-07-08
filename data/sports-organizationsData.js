@@ -1,7 +1,7 @@
 const userData = [
     {
         id: 1,
-        photo: "../cdn/sports-organizations/jayjatra-sports-organization.png",
+        photo: "cdn/sports-organizations/jayjatra-sports-organization.png",
         name: "জয়যাত্রা ক্রিয়া সংগঠন",
         number: "01943054316",
         wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
         id: 2,
-        photo: "../cdn/sports-organizations/nobo-uddom-jubo-and-sports-organization.png",
+        photo: "cdn/sports-organizations/nobo-uddom-jubo-and-sports-organization.png",
         name: "নব উদ্যম যুব ও ক্রীড়া সংগঠন",
         number: "01568128049",
         wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
         id: 3,
-        photo: "../cdn/sports-organizations/tushar-khelar-asor.png",
+        photo: "cdn/sports-organizations/tushar-khelar-asor.png",
         name: "তুষার খেলাঘর আসর",
         number: "01880177175",
         wordNo: "সমগ্র কুতুবপুর",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
         id: 4,
-        photo: "../cdn/sports-organizations/anirban-sports-organization.png",
+        photo: "cdn/sports-organizations/anirban-sports-organization.png",
         name: "অনির্বান ক্রীড়া সংগঠন",
         number: "01981618517",
         wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
     },
     {
         id: 5,
-        photo: "../cdn/sports-organizations/kutubpur-lal-sobuj-sporting-club.png",
+        photo: "cdn/sports-organizations/kutubpur-lal-sobuj-sporting-club.png",
         name: "কুতুবপুর লাল সবুজ স্পোর্টিং ক্লাব",
         number: "01867445605",
         wordNo: "৪",
@@ -56,7 +56,7 @@ const userData = [
     },
     {
         id: 6,
-        photo: "../cdn/sports-organizations/daulatpur-sports-association.png",
+        photo: "cdn/sports-organizations/daulatpur-sports-association.png",
         name: "দৌলতপুর ক্রীড়া সংস্থা",
         number: "01916211427",
         wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
     },
     {
         id: 7,
-        photo: "../cdn/sports-organizations/sports-organizations.png",
+        photo: "cdn/sports-organizations/sports-organizations.png",
         name: "কুতুবপুর স্পোর্টস একাডেমি",
         number: "01986035646",
         wordNo: "সমগ্র কুতুবপুর",
@@ -78,7 +78,7 @@ const userData = [
     },
     {
         id: 8,
-        photo: "../cdn/sports-organizations/haji-amir-ali-cricket-academy.png",
+        photo: "cdn/sports-organizations/haji-amir-ali-cricket-academy.png",
         name: "হাজী আমির আলী ক্রিকেট একাডেমি",
         number: "01915687983",
         wordNo: "৪",
@@ -89,7 +89,7 @@ const userData = [
     },
     {
         id: 9,
-        photo: "../cdn/sports-organizations/matrichaya-sports-organizations.png",
+        photo: "cdn/sports-organizations/matrichaya-sports-organizations.png",
         name: "মাতৃছায়া ক্রীড়া চক্র",
         number: "01704151091",
         wordNo: "৫",
@@ -100,7 +100,7 @@ const userData = [
     },
     {
         id: 10,
-        photo: "../cdn/sports-organizations/sports-organizations.png",
+        photo: "cdn/sports-organizations/sports-organizations.png",
         name: "শিমুল বাগ ক্রিয়া সংগঠন",
         number: "01966184860",
         wordNo: "৪",
@@ -111,7 +111,7 @@ const userData = [
     },
     {
         id: 11,
-        photo: "../cdn/sports-organizations/sports-organizations.png",
+        photo: "cdn/sports-organizations/sports-organizations.png",
         name: "সমকাল স্পোটিং ক্লাব",
         number: "01822881514",
         wordNo: "6",

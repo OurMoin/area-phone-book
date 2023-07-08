@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/union-office/haji-md-abu-hanifa.png",
+    photo: "cdn/union-office/haji-md-abu-hanifa.png",
     name: "হাজী মোঃ আবু হানিফা",
     number: "01924045053",
     wordNo: "সমগ্র কুতুবপুর",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/union-office/bangladesh-postal-department.png",
+    photo: "cdn/union-office/bangladesh-postal-department.png",
     name: "মোঃ এনামুল হক দিপু",
     number: "01929066782",
     wordNo: "সার্কেল ইউনিট, নারায়ণগঞ্জ",

@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/fuchka-shop/ma-chotpoti-and-fuska-house.jpg",
+      photo: "cdn/fuchka-shop/ma-chotpoti-and-fuska-house.jpg",
       name: "মা চটপটি এন্ড ফুচকা হাউজ",
       number: "01678713831",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },  
     {
       id: 2,
-      photo: "../cdn/fuchka-shop/ruchi-chatpati-fuska-and-halim-house.jpg",
+      photo: "cdn/fuchka-shop/ruchi-chatpati-fuska-and-halim-house.jpg",
       name: "রুচি চটপটি, ফুসকা ও হালিম হাউজ",
       number: "01779884945",
       wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/fuchka-shop/shimul-fuchka-and-chatputi-house.jpg",
+      photo: "cdn/fuchka-shop/shimul-fuchka-and-chatputi-house.jpg",
       name: "শিমুল ফুচকা ও চটপুটি হাউজ",
       number: "01780809008",
       wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/fuchka-shop/fuchka-shop.png",
+      photo: "cdn/fuchka-shop/fuchka-shop.png",
       name: "আল্লার দান ফাস্টফুড এন্ড ফুচকা হাউস",
       number: "01822764978",
       wordNo: "৫",

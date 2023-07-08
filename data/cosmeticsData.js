@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/cosmetics/cosmetics.png",
+      photo: "cdn/cosmetics/cosmetics.png",
       name: "কুয়াশা",
       number: "01858584846",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/cosmetics/soha's-mamma-dream-house.jpg",
+      photo: "cdn/cosmetics/soha's-mamma-dream-house.jpg",
       name: "Soha's Mamma Dream House",
       number: "01833988353",
       wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/cosmetics/riya's-collection.jpg",
+      photo: "cdn/cosmetics/riya's-collection.jpg",
       name: "Riya's collection",
       number: "01946400321",
       wordNo: "৪",

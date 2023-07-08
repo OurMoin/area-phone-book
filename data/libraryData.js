@@ -1,7 +1,7 @@
 const userData = [  
   {
     id: 1,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "দিয়া লাইব্রেরী",
     number: "01999906669",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/library/nazrul-library.jpg",
+    photo: "cdn/library/nazrul-library.jpg",
     name: "নজরুল লাইব্রেরী",
     number: "01922229023",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "অনুপম লাইব্রেরি",
     number: "01675370676",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/library/sm-library.jpg",
+    photo: "cdn/library/sm-library.jpg",
     name: "এস এম লাইব্রেরী",
     number: "01749242430",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "ওয়াফি ট্রেডার্স",
     number: "01999906669",
     wordNo: "৪",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/library/gauchia-library-and-stationery.jpg",
+    photo: "cdn/library/gauchia-library-and-stationery.jpg",
     name: "গাউছিয়া লাইব্রেরী এন্ড ষ্টেশনারী",
     number: "0194943927",
     wordNo: "৪",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/library/riya-library.jpg",
+    photo: "cdn/library/riya-library.jpg",
     name: "রিয়া লাইব্রেরী এন্ড কম্পিউটারস্",
     number: "01933141414",
     wordNo: "৬",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "It Zone Academy",
     number: "01913255077",
     wordNo: "৬",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/library/boi-ghor.jpg",
+    photo: "cdn/library/boi-ghor.jpg",
     name: "বই ঘর",
     number: "01914901947",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "জান্নাত লাইব্রেরি এন্ড টেলিকম সেন্টার",
     number: "01624214577",
     wordNo: "৫",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/library/library.png",
+    photo: "cdn/library/library.png",
     name: "It Zone Library",
     number: "01913255077",
     wordNo: "৬",

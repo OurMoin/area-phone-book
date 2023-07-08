@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/seo/md-tuhin.jpg",
+    photo: "cdn/seo/md-tuhin.jpg",
     name: "মোঃ তুহিন",
     number: "01995932806",
     wordNo: "৫",

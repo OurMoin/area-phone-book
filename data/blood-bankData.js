@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/blood-bank/city-blood-bank-and-transfusion-center.png",
+    photo: "cdn/blood-bank/city-blood-bank-and-transfusion-center.png",
     name: "City Blood Bank & Transfusion Center",
     number: "01190839171",
     wordNo: "সমগ্র পাগলা",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/blood-bank/charpoka-blood-bank.png",
+    photo: "cdn/blood-bank/charpoka-blood-bank.png",
     name: "Charpoka Blood Bank",
     number: "01829568252",
     wordNo: "সমগ্র পাগলা",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/blood-bank/doctors-zone-blood-bank.png",
+    photo: "cdn/blood-bank/doctors-zone-blood-bank.png",
     name: "Doctors Zone Blood Bank",
     number: "01961233633",
     wordNo: "সমগ্র পাগলা",

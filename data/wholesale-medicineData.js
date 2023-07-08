@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/wholesale-medicine/dewar-pharmacy.jpg",
+    photo: "cdn/wholesale-medicine/dewar-pharmacy.jpg",
     name: "দেওয়ার ফার্মেসি",
     number: "01911798538",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/wholesale-medicine/new-al-hassan-pharmacy.jpg",
+    photo: "cdn/wholesale-medicine/new-al-hassan-pharmacy.jpg",
     name: "নিউ আল হাসান ফার্মেসী",
     number: "01777151142",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/wholesale-medicine/bisala-drug-house.jpg",
+    photo: "cdn/wholesale-medicine/bisala-drug-house.jpg",
     name: "বিশাল ড্রাগ হাউজ",
     number: "01732839890",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/wholesale-medicine/abdullah-medical-hall.jpg",
+    photo: "cdn/wholesale-medicine/abdullah-medical-hall.jpg",
     name: "আব্দুল্লাহ মেডিকেল হল",
     number: "01717833419",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/wholesale-medicine/abdullah-medical-hall.jpg",
+    photo: "cdn/wholesale-medicine/abdullah-medical-hall.jpg",
     name: "মেসার্স মেডিসিন কর্ণার",
     number: "01918131773",
     wordNo: "৫",

@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/ambulance/ambulance-1.jpg",
+    photo: "cdn/ambulance/ambulance-1.jpg",
     name: "বাফিন এম্বুল্যান্স সার্ভিস",
     number: "01865806372",
     wordNo: "অন্যান্য",

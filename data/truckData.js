@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/truck/robin-and-brothers.jpg",
+    photo: "cdn/truck/robin-and-brothers.jpg",
     name: "রবিন এন্ড ব্রাদার্স",
     number: "01910707912",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/truck/truck.png",
+    photo: "cdn/truck/truck.png",
     name: "ইমরান ট্রান্সপোট",
     number: "01962828307",
     wordNo: "6",

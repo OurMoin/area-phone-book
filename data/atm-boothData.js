@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/atm-booth/atm-booth.png",
+    photo: "cdn/atm-booth/atm-booth.png",
     name: "AB Bank",
     number: "ATM-Booth",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/atm-booth/dutch-bangla-bank-booth.jpg",
+    photo: "cdn/atm-booth/dutch-bangla-bank-booth.jpg",
     name: "ডাচ বাংলা ব্যাংক বুথ",
     number: "ATM-Booth",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },  
   {
     id: 3,
-    photo: "../cdn/atm-booth/atm-booth.png",
+    photo: "cdn/atm-booth/atm-booth.png",
     name: "UCB Bank",
     number: "ATM-Booth",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/atm-booth/atm-booth.png",
+    photo: "cdn/atm-booth/atm-booth.png",
     name: "AB Bank",
     number: "ATM-Booth",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/atm-booth/atm-booth.png",
+    photo: "cdn/atm-booth/atm-booth.png",
     name: "Al-arafah Islami Bank",
     number: "ATM-Booth",
     wordNo: "৬",

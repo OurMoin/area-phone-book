@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/gym/rayear-bug-gym.jpg",
+      photo: "cdn/gym/rayear-bug-gym.jpg",
       name: "Rayear Bug GYM",
       number: "01833812829",
       wordNo: "অন্যান্য",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/gym/hasan-fitness-gym.jpg",
+      photo: "cdn/gym/hasan-fitness-gym.jpg",
       name: "Hasan Fitness Gym",
       number: "01771025000",
       wordNo: "অন্যান্য",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/gym/100-muscle-fit.png",
+      photo: "cdn/gym/100-muscle-fit.png",
       name: "100% Muscle Fit",
       number: "01945556782",
       wordNo: "অন্যান্য",

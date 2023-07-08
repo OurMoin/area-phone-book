@@ -2,7 +2,7 @@ const categoryData = [
   
     {
       id: 1,
-      photo: "../cdn/universities/university-grants-commission-of-bangladesh.png",
+      photo: "cdn/universities/university-grants-commission-of-bangladesh.png",
       name: "পাবলিক বিশ্ববিদ্যালয়",
       pageLink: "#",
       subCategory:
@@ -203,7 +203,7 @@ const categoryData = [
     },  
     {
       id: 2,
-      photo: "../cdn/universities/university-grants-commission-of-bangladesh.png",
+      photo: "cdn/universities/university-grants-commission-of-bangladesh.png",
       name: "প্রাইভেট বিশ্ববিদ্যালয়",
       pageLink: "#",
       subCategory:
@@ -292,7 +292,7 @@ const categoryData = [
     },
     {
       id: 3,
-      photo: "../cdn/universities/university-grants-commission-of-bangladesh.png",
+      photo: "cdn/universities/university-grants-commission-of-bangladesh.png",
       name: "ন্যাশনাল বিশ্ববিদ্যালয়",
       pageLink: "#",
       subCategory:

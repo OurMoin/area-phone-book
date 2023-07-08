@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/hospital/hospital.png",
+    photo: "cdn/hospital/hospital.png",
     name: "নিউ পপুলার জেনারেল হাসপাতাল",
     number: "01943424101",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/hospital/sufia-digital-hospital-and-diagnostic-center.jpg",
+    photo: "cdn/hospital/sufia-digital-hospital-and-diagnostic-center.jpg",
     name: "সুফিয়া ডিজিটাল হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
     number: "01943033165",
     wordNo: "অন্যান্য",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/hospital/islamia-hospital-bangladesh.jpg",
+    photo: "cdn/hospital/islamia-hospital-bangladesh.jpg",
     name: "ইসলামি হাসপাতাল বাংলাদেশ",
     number: "01979045504",
     wordNo: "অন্যান্য",

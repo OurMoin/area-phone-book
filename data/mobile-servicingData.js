@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/mobile-servicing/bismillah-mobile-servicing-center.jpg",
+    photo: "cdn/mobile-servicing/bismillah-mobile-servicing-center.jpg",
     name: "বিসমিল্লাহ মোবাইল সার্ভিসিং সেন্টার",
     number: "01830646675",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/mobile-servicing/sohail-servicing-center.jpg",
+    photo: "cdn/mobile-servicing/sohail-servicing-center.jpg",
     name: "সোহেল সার্ভিসিং সেন্টার",
     number: "01827279264",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/mobile-servicing/mobile-servicing.png",
+    photo: "cdn/mobile-servicing/mobile-servicing.png",
     name: "রুবেল টেলিকম এন্ড মোবাইল সার্ভিসিং সেন্টার",
     number: "01928008586",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/mobile-servicing/mobile-servicing.png",
+    photo: "cdn/mobile-servicing/mobile-servicing.png",
     name: "আলো ডিজিটাল স্টুডিও এন্ড কম্পিউটার",
     number: "01679191844",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/mobile-servicing/ismail-telecom.jpg",
+    photo: "cdn/mobile-servicing/ismail-telecom.jpg",
     name: "ইসমাইল টেলিকম",
     number: "01907078063",
     wordNo: "৬",

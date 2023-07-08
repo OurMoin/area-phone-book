@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/painter/md-gias-uddin.jpg",
+    photo: "cdn/painter/md-gias-uddin.jpg",
     name: "মোঃ গিয়াস উদ্দিন",
     number: "01768406740",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/painter/md-monir.jpg",
+    photo: "cdn/painter/md-monir.jpg",
     name: "মোঃ মনির",
     number: "01689004666",
     wordNo: "৫",

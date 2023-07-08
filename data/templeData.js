@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/temple/temple.png",
+      photo: "cdn/temple/temple.png",
       name: "দুর্গা মন্দির",
       number: "01798899911",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
         id: 2,
-        photo: "../cdn/temple/temple.png",
+        photo: "cdn/temple/temple.png",
         name: "পাগল নাথ মন্দির",
         number: "01798899911",
         wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
         id: 3,
-        photo: "../cdn/temple/temple.png",
+        photo: "cdn/temple/temple.png",
         name: "রাধা রানী জিউ মন্দির",
         number: "01798899911",
         wordNo: "৬",

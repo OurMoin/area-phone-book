@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/steel-and-plastic-door/steel-and-plastic-door.png",
+    photo: "cdn/steel-and-plastic-door/steel-and-plastic-door.png",
     name: "আলহামদুলিল্লাহ স্টিল এন্ড প্লাস্টিক ডোর স্টোর",
     number: "01631060424",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/steel-and-plastic-door/steel-and-plastic-door.png",
+    photo: "cdn/steel-and-plastic-door/steel-and-plastic-door.png",
     name: "ব্রাদার্স ডোর সেন্টার",
     number: "01918202484",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/steel-and-plastic-door/steel-and-plastic-door.png",
+    photo: "cdn/steel-and-plastic-door/steel-and-plastic-door.png",
     name: "হাওলাদার টাইলর্স গ্যালারী এন্ড ডোর",
     number: "01922026335",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/steel-and-plastic-door/steel-and-plastic-door.png",
+    photo: "cdn/steel-and-plastic-door/steel-and-plastic-door.png",
     name: "বায়রাহা",
     number: "01713905705",
     wordNo: "অন্যান্য",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/steel-and-plastic-door/mayer-doya-plastic-door.jpg",
+    photo: "cdn/steel-and-plastic-door/mayer-doya-plastic-door.jpg",
     name: "মায়ের দোয়া প্লাষ্টিক ডোর",
     number: "01929502595",
     wordNo: "৪",

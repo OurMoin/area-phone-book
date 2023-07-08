@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/mason/mason.png",
+      photo: "cdn/mason/mason.png",
       name: "আমির",
       number: "01734291768",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/mason/mason.png",
+      photo: "cdn/mason/mason.png",
       name: "এনায়েত হোসেন",
       number: "01964138822",
       wordNo: "৬",

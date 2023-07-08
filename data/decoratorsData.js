@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/decorators/decorators.png",
+    photo: "cdn/decorators/decorators.png",
     name: "মমতাজ ডেকোরেটর",
     number: "01923682241",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/decorators/decorators.png",
+    photo: "cdn/decorators/decorators.png",
     name: "মমতাজ ডেকোরেটর",
     number: "01920993042",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/decorators/ma-babar-doya-decorators.jpg",
+    photo: "cdn/decorators/ma-babar-doya-decorators.jpg",
     name: "মা-বাবার দোয়া ডেকোরেটর",
     number: "01813663955",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/decorators/royal-decor.jpg",
+    photo: "cdn/decorators/royal-decor.jpg",
     name: "রয়্যাল ডেকর",
     number: "01679511663",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/decorators/royal-decker-and-event.jpg",
+    photo: "cdn/decorators/royal-decker-and-event.jpg",
     name: "রয়্যাল ডেকর & ইভেন্ট",
     number: "01601478438",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/decorators/decorators.png",
+    photo: "cdn/decorators/decorators.png",
     name: "সুমাইয়া ইভেন্ট ম্যানেজমেন্ট",
     number: "01946616693",
     wordNo: "৬",

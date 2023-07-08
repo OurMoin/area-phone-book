@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/confectionary-and-bakery/confectionary-and-bakery.png",
+    photo: "cdn/confectionary-and-bakery/confectionary-and-bakery.png",
     name: "মনোয়ারা কনফেকশনারী",
     number: "01684291504",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/confectionary-and-bakery/confectionary-and-bakery.png",
+    photo: "cdn/confectionary-and-bakery/confectionary-and-bakery.png",
     name: "সিটি মার্ট",
     number: "01842620887",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/confectionary-and-bakery/haji-bakery-doi-misti.jpg",
+    photo: "cdn/confectionary-and-bakery/haji-bakery-doi-misti.jpg",
     name: "হাজী বেকারি দই মিষ্টি",
     number: "01748271952",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/confectionary-and-bakery/ms-tabassum-enterprise.jpg",
+    photo: "cdn/confectionary-and-bakery/ms-tabassum-enterprise.jpg",
     name: "কাটাবন এন্ড কোং",
     number: "01817081248",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/confectionary-and-bakery/confectionary-and-bakery.png",
+    photo: "cdn/confectionary-and-bakery/confectionary-and-bakery.png",
     name: "তাবিয়া টেলিকম এন্ড কনফেকশনারি",
     number: "01681475340",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/confectionary-and-bakery/confectionary-and-bakery.png",
+    photo: "cdn/confectionary-and-bakery/confectionary-and-bakery.png",
     name: "আল মদিনা জেনারেল ষ্টোর",
     number: "01914860097",
     wordNo: "৪",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/confectionary-and-bakery/ma-babar-doya-confectioner.jpg",
+    photo: "cdn/confectionary-and-bakery/ma-babar-doya-confectioner.jpg",
     name: "মা-বাবার দোয়া কনফেকশনারি",
     number: "01834531944",
     wordNo: "৫",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/confectionary-and-bakery/haji-food-suites-and-bakery.jpg",
+    photo: "cdn/confectionary-and-bakery/haji-food-suites-and-bakery.jpg",
     name: "হাজী ফুড সুইটস এন্ড বেকারি",
     number: "01310007609",
     wordNo: "৬",

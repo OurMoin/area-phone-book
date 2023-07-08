@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/fire-service/fire-service.png",
+    photo: "cdn/fire-service/fire-service.png",
     name: "ফতুল্লা ফায়ার স্টেশন",
     number: "01754052575",
     wordNo: "সমগ্র পাগলা",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/fire-service/postagola-fire-station.png",
+    photo: "cdn/fire-service/postagola-fire-station.png",
     name: "পোস্তগোলা ফায়ার স্টেশন",
     number: "027410771",
     wordNo: "সমগ্র পাগলা",

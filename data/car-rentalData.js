@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "আব্দুল রব মিয়ার গ্যারেজ",
     number: "01710569645",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "মীর রেন্ট-এ-কার",
     number: "01631092669",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "হোসেন রেন্ট-এ-কার",
     number: "01952835050",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "আব্দুর রব মিয়ার গ্যারেজ",
     number: "01687774539",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/car-rental/robin-and-brothers.jpg",
+    photo: "cdn/car-rental/robin-and-brothers.jpg",
     name: "রবিন এন্ড ব্রাদার্স",
     number: "01910707912",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "অনিক ট্রাভেল",
     number: "01986334181",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/car-rental/muhith-rent-a-car.jpg",
+    photo: "cdn/car-rental/muhith-rent-a-car.jpg",
     name: "মুহিত রেন্ট-এ-কার",
     number: "01716048411",
     wordNo: "৬",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "আলিফ রেন্ট এ কার",
     number: "01684882733",
     wordNo: "৬",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "সাগর রেন্ট-এ-কার",
     number: "01628326715",
     wordNo: "৫",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/car-rental/car-rental.png",
+    photo: "cdn/car-rental/car-rental.png",
     name: "মায়ের দোয়া রেন্ট-এ-কার",
     number: "01999560169",
     wordNo: "৬",

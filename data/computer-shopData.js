@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/computer-shop/sr-computer-center.jpg",
+      photo: "cdn/computer-shop/sr-computer-center.jpg",
       name: "SR Computer Center",
       number: "01518314865",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "আব্দুল কাদির কম্পিউটার",
       number: "01785808040",
       wordNo: "অন্যান্য",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "সামিয়া ফটোকপি এন্ড কম্পিউটার",
       number: "01954861447",
       wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "SB Electric And Computers",
       number: "01867411346",
       wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
     },
     {
       id: 5,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "মোঃ বেলায়েত হোসেন বাবুল",
       number: "01740849192",
       wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
     },
     {
       id: 6,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "মোহাম্মদ মনির",
       number: "01712737305",
       wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
     },
     {
       id: 7,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "বেস্ট ওয়ান ডিজিটাল কম্পিউটার",
       number: "01521409300",
       wordNo: "৮",
@@ -78,7 +78,7 @@ const userData = [
     },
     {
       id: 8,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "Hello Boss Technology",
       number: "01300886336",
       wordNo: "২",
@@ -89,7 +89,7 @@ const userData = [
     },
     {
       id: 9,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "Ma Computer And Training Center",
       number: "01938707042",
       wordNo: "৪",
@@ -100,7 +100,7 @@ const userData = [
     },
     {
       id: 10,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "Nur IT Zone",
       number: "01517019372",
       wordNo: "৬",
@@ -111,7 +111,7 @@ const userData = [
     },
     {
       id: 11,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "Jakir Telecom & Computers",
       number: "01518348589",
       wordNo: "৫",
@@ -122,7 +122,7 @@ const userData = [
     },
     {
       id: 12,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "হোসেন টেলিকম",
       number: "01975556364",
       wordNo: "১",
@@ -133,7 +133,7 @@ const userData = [
     },
     {
       id: 13,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "99shop",
       number: "01601133999",
       wordNo: "৮",
@@ -144,7 +144,7 @@ const userData = [
     },
     {
       id: 14,
-      photo: "../cdn/computer-shop/computer-shop.png",
+      photo: "cdn/computer-shop/computer-shop.png",
       name: "Brothers Telecom",
       number: "01629258771",
       wordNo: "৪",

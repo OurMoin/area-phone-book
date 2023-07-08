@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/chairman-member/haji-md-abu-hanifa.png",
+    photo: "cdn/chairman-member/haji-md-abu-hanifa.png",
     name: "হাজী মোঃ আবু হানিফা",
     number: "01924045053",
     wordNo: "সমগ্র কুতুবপুর",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/chairman-member/alhaj-md-monirul-alam-sentu.jpg",
+    photo: "cdn/chairman-member/alhaj-md-monirul-alam-sentu.jpg",
     name: "হাজী মোঃ মনিরুল আলম সেন্টু",
     number: "01715328866",
     wordNo: "সমগ্র কুতুবপুর",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/chairman-member/rashida-begum-rasu.png",
+    photo: "cdn/chairman-member/rashida-begum-rasu.png",
     name: "রাশিদা বেগম রাসু",
     number: "01798899911",
     wordNo: "১, ২, ৩",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/chairman-member/gm-amin-hossain-sagar.png",
+    photo: "cdn/chairman-member/gm-amin-hossain-sagar.png",
     name: "জি.এম আমিন হোসেন সাগর",
     number: "01798899911",
     wordNo: "১",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/chairman-member/gm-sagar.png",
+    photo: "cdn/chairman-member/gm-sagar.png",
     name: " জি.এম সাগর",
     number: "01798899911",
     wordNo: "৩",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/chairman-member/anamika-haque.png",
+    photo: "cdn/chairman-member/anamika-haque.png",
     name: "অনামিকা হক",
     number: "01960670663",
     wordNo: "৪, ৫, ৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/chairman-member/md-zaman.png",
+    photo: "cdn/chairman-member/md-zaman.png",
     name: "মোঃ জামান",
     number: "01718002093",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/chairman-member/haji-md-alauddin-hawladar.png",
+    photo: "cdn/chairman-member/haji-md-alauddin-hawladar.png",
     name: "মোঃ বাবুল মিয়া",
     number: "01922550818",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/chairman-member/haji-md-rokon.png",
+    photo: "cdn/chairman-member/haji-md-rokon.png",
     name: "হাজী মোঃ রোকন",
     number: "01919504988",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },    
   {
     id: 11,
-    photo: "../cdn/chairman-member/mosat-arjuda-khuku.png",
+    photo: "cdn/chairman-member/mosat-arjuda-khuku.png",
     name: "মোসাৎ আরজুদা খুকু",
     number: "01798899911",
     wordNo: "৭,৮,৯",
@@ -111,7 +111,7 @@ const userData = [
   },    
   {
     id: 12,
-    photo: "../cdn/chairman-member/md-montu-mia.png",
+    photo: "cdn/chairman-member/md-montu-mia.png",
     name: "মোঃ মন্টু মিয়া",
     number: "01798899911",
     wordNo: "৭",
@@ -122,7 +122,7 @@ const userData = [
   },    
   {
     id: 13,
-    photo: "../cdn/chairman-member/md-jahangir-alam.png",
+    photo: "cdn/chairman-member/md-jahangir-alam.png",
     name: "মোঃ জাহাঙ্গীর আলম",
     number: "01798899911",
     wordNo: "৮",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 14,
-    photo: "../cdn/chairman-member/md-ranju-khan.png",
+    photo: "cdn/chairman-member/md-ranju-khan.png",
     name: "মোঃ রঞ্জু খাঁন",
     number: "01798899911",
     wordNo: "৯",

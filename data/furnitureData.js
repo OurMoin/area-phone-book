@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/furniture/furniture.png",
+    photo: "cdn/furniture/furniture.png",
     name: "অভিজাত ফার্নিচার মার্ট",
     number: "01712654319",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/furniture/sanjida-furniture.jpg",
+    photo: "cdn/furniture/sanjida-furniture.jpg",
     name: "সানজিদা ফার্নিচার মার্ট",
     number: "01855003838",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/furniture/bikrampur-furniture-mart.jpg",
+    photo: "cdn/furniture/bikrampur-furniture-mart.jpg",
     name: "বিক্রমপুর ফার্নিচার মার্ট",
     number: "01714497326",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/furniture/shawon-furniture.jpg",
+    photo: "cdn/furniture/shawon-furniture.jpg",
     name: "সাওন ফার্নিচার",
     number: "01953502306",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/furniture/furniture.png",
+    photo: "cdn/furniture/furniture.png",
     name: "সুমাইয়া ফার্নিচার (সোলেমা)",
     number: "01736577204",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/furniture/liba-furniture-world.jpg",
+    photo: "cdn/furniture/liba-furniture-world.jpg",
     name: "লিবা ফার্নিচার ওয়ার্ল্ড",
     number: "01914875080",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/furniture/furniture.png",
+    photo: "cdn/furniture/furniture.png",
     name: "ইফা ফার্নিচার গ্যালারি",
     number: "01911588131",
     wordNo: "৬",

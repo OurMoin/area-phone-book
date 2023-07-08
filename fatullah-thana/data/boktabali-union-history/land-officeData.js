@@ -1,7 +1,7 @@
 // const userData = [
 //     {
 //       id: 1,
-//       photo: "../cdn/land-office/kutubpur-union-land-office.jpg",
+//       photo: "cdn/land-office/kutubpur-union-land-office.jpg",
 //       name: "কুতুবপুর ইউনিয়ন ভূমি অফিস",
 //       number: "01798899911",
 //       wordNo: "৬",

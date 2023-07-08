@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/gas-cylinder/gas-cylinder.png",
+    photo: "cdn/gas-cylinder/gas-cylinder.png",
     name: "মেসার্স মোরছালিন এন্টারপ্রাইজ",
     number: "01919757369",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/gas-cylinder/gas-cylinder.png",
+    photo: "cdn/gas-cylinder/gas-cylinder.png",
     name: "মুরসালিন এন্টারপ্রাইজ",
     number: "01401370444",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/gas-cylinder/messrs-rafiqul-enterprise.jpg",
+    photo: "cdn/gas-cylinder/messrs-rafiqul-enterprise.jpg",
     name: "মেসার্স রফিকুল এন্টারপ্রাইজ",
     number: "01619086445",
     wordNo: "৫",

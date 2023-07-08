@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "স্টামফোর্ড চাইল্ড ইন্সটিটিউট",
     number: "01712880933",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "ক্যামব্রিজ কিন্ডারগার্টেন স্কুল",
     number: "01619978717",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "আহসান উদ্দিন উচ্চ বিদ্যালয়",
     number: "01674066555",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "সিরাজ উদ্দিন আইডিয়াল ইনস্টিটিউট",
     number: "01846840146",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/school/daulatpur-ideal-school.jpg",
+    photo: "cdn/school/daulatpur-ideal-school.jpg",
     name: "দৌলতপুর আইডিয়াল স্কুল",
     number: "01951499180",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/school/imperial-kindergarten-and-school.jpg",
+    photo: "cdn/school/imperial-kindergarten-and-school.jpg",
     name: "ইম্পেরিয়াল কিন্ডারগার্টেন এন্ড স্কুল",
     number: "01671845456",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/school/anirban-adarsh-vidyapeeth.jpg",
+    photo: "cdn/school/anirban-adarsh-vidyapeeth.jpg",
     name: "অনির্বাণ আদর্শ বিদ্যাপীঠ",
     number: "01316900604",
     wordNo: "৬",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "কুমিল্লা সমিতি মডেল স্কুল এন্ড কলেজ",
     number: "01712276629",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "জুনিয়র স্কলার স্কুল",
     number: "01675984527",
     wordNo: "৫",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/school/prime-junior-school.jpg",
+    photo: "cdn/school/prime-junior-school.jpg",
     name: "প্রাইম জুনিয়র স্কুল",
     number: "01712424044",
     wordNo: "৫",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/school/school.png",
+    photo: "cdn/school/school.png",
     name: "স্বদেশ স্কুল এন্ড কলেজ",
     number: "01915702231",
     wordNo: "৫",
@@ -122,7 +122,7 @@ const userData = [
   },
   {
     id: 12,
-    photo: "../cdn/school/holy-ambition-international-school.jpg",
+    photo: "cdn/school/holy-ambition-international-school.jpg",
     name: "হলি অ্যাবিশন ইন্টারন্যাশনাল স্কুল",
     number: "01915702231",
     wordNo: "৫",

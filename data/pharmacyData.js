@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "জনসেবা ফার্মেসী",
         number: "01811017855",
         wordNo: "৫",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "ভাই ভাই ফার্মেসি",
         number: "01677255264",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/pharmacy/al-latif-drug-house.jpg",
+        photo: "cdn/pharmacy/al-latif-drug-house.jpg",
         name: "আল লতিফ ড্রাগ হাউস",
         number: "01880118922",
         wordNo: "৫",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "কালাম মেডিকেল হল",
         number: "01918934496",
         wordNo: "৫",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/pharmacy/ma-medical-hall.jpg",
+        photo: "cdn/pharmacy/ma-medical-hall.jpg",
         name: "মা মেডিকেল হল",
         number: "01712649188",
         wordNo: "৬",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "সেবা ফার্মেসি",
         number: "Hidden",
         wordNo: "৬",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/pharmacy/tajmir-pharma.jpg",
+        photo: "cdn/pharmacy/tajmir-pharma.jpg",
         name: "আজমির ফার্মা",
         number: "01886626026",
         wordNo: "৬",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/pharmacy/arafa-medicine-corner.jpg",
+        photo: "cdn/pharmacy/arafa-medicine-corner.jpg",
         name: "আরাফা মেডিসিন কর্নার",
         number: "01916061648",
         wordNo: "৪",
@@ -88,7 +88,7 @@ const userData = [{
     },
     {
         id: 9,
-        photo: "../cdn/pharmacy/ibn-sina-medicine-corner.jpg",
+        photo: "cdn/pharmacy/ibn-sina-medicine-corner.jpg",
         name: "ইবনে সিনা মেডিসিন কর্নার",
         number: "01916204618",
         wordNo: "৪",
@@ -99,7 +99,7 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "জনসেবা ফার্মেসী",
         number: "01902322132",
         wordNo: "৪",
@@ -110,7 +110,7 @@ const userData = [{
     },
     {
         id: 11,
-        photo: "../cdn/pharmacy/dewar-pharmacy.jpg",
+        photo: "cdn/pharmacy/dewar-pharmacy.jpg",
         name: "দেওয়ার ফার্মেসি",
         number: "01911798538",
         wordNo: "৪",
@@ -121,7 +121,7 @@ const userData = [{
     },
     {
         id: 12,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "মা মেডিকেল হল",
         number: "01682542020",
         wordNo: "৪",
@@ -132,7 +132,7 @@ const userData = [{
     },
     {
         id: 13,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "মানব কল্যাণ মেডিকেল",
         number: "01912987018",
         wordNo: "৫",
@@ -143,7 +143,7 @@ const userData = [{
     },
     {
         id: 14,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "সেতু ফার্মেসি",
         number: "01912247622",
         wordNo: "৬",
@@ -154,7 +154,7 @@ const userData = [{
     },
     {
         id: 15,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "জান্নাত মেডিসিন কর্নার",
         number: "01676284786",
         wordNo: "৬",
@@ -165,7 +165,7 @@ const userData = [{
     },
     {
         id: 16,
-        photo: "../cdn/pharmacy/rejia-medical-hall.jpg",
+        photo: "cdn/pharmacy/rejia-medical-hall.jpg",
         name: "রেজিয়া মেডিকেল হল",
         number: "01771230556",
         wordNo: "৬",
@@ -176,7 +176,7 @@ const userData = [{
     },
     {
         id: 17,
-        photo: "../cdn/pharmacy/abdullah-medical-hall.jpg",
+        photo: "cdn/pharmacy/abdullah-medical-hall.jpg",
         name: "আব্দুল্লাহ মেডিকেল হল",
         number: "01717833419",
         wordNo: "৫",
@@ -187,7 +187,7 @@ const userData = [{
     },
     {
         id: 18,
-        photo: "../cdn/pharmacy/bismillah-medicine-corner.jpg",
+        photo: "cdn/pharmacy/bismillah-medicine-corner.jpg",
         name: "বিসমিল্লাহ মেডিসিন কর্নার",
         number: "01999560168",
         wordNo: "৫",
@@ -198,7 +198,7 @@ const userData = [{
     },
     {
         id: 19,
-        photo: "../cdn/pharmacy/care-medicine-corner.jpg",
+        photo: "cdn/pharmacy/care-medicine-corner.jpg",
         name: "কেয়ার মেডিসিন কর্নার",
         number: "01630243900",
         wordNo: "৬",
@@ -209,7 +209,7 @@ const userData = [{
     },
     {
         id: 20,
-        photo: "../cdn/pharmacy/new-al-hassan-pharmacy.jpg",
+        photo: "cdn/pharmacy/new-al-hassan-pharmacy.jpg",
         name: "নিউ আল হাসান ফার্মেসী",
         number: "01777151142",
         wordNo: "৬",
@@ -220,7 +220,7 @@ const userData = [{
     },
     {
         id: 21,
-        photo: "../cdn/pharmacy/bisala-drug-house.jpg",
+        photo: "cdn/pharmacy/bisala-drug-house.jpg",
         name: "বিশাল ড্রাগ হাউজ",
         number: "01732839890",
         wordNo: "৪",
@@ -231,7 +231,7 @@ const userData = [{
     },
     {
         id: 22,
-        photo: "../cdn/pharmacy/bismillah-pharmacy.jpg",
+        photo: "cdn/pharmacy/bismillah-pharmacy.jpg",
         name: "বিসমিল্লাহ ফার্মেসি",
         number: "01864221924",
         wordNo: "৪",
@@ -242,7 +242,7 @@ const userData = [{
     },
     {
         id: 23,
-        photo: "../cdn/pharmacy/naim-medicine-corner.jpg",
+        photo: "cdn/pharmacy/naim-medicine-corner.jpg",
         name: "নাঈম মেডিসিন কর্নার",
         number: "01680034159",
         wordNo: "৬",
@@ -253,7 +253,7 @@ const userData = [{
     },
     {
         id: 24,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "মোল্লা মেডিকেল হল",
         number: "01914909753",
         wordNo: "৬",
@@ -264,7 +264,7 @@ const userData = [{
     },
     {
         id: 25,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "সৌরভ ফার্মেসি",
         number: "01711052055",
         wordNo: "৬",
@@ -275,7 +275,7 @@ const userData = [{
     },
     {
         id: 26,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "জনসেবা ফার্মেসি",
         number: "01917566006",
         wordNo: "৫",
@@ -286,7 +286,7 @@ const userData = [{
     },
     {
         id: 27,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "আল-ইহসান ফার্মা",
         number: "01672664134",
         wordNo: "৫",
@@ -297,7 +297,7 @@ const userData = [{
     },
     {
         id: 28,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "নিলকন্ঠ ফার্মেসি",
         number: "01672259059",
         wordNo: "৬",
@@ -308,7 +308,7 @@ const userData = [{
     },
     {
         id: 29,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "মা মেডিসিন কর্নার",
         number: "01824639560",
         wordNo: "৪",
@@ -319,7 +319,7 @@ const userData = [{
     },
     {
         id: 30,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "আল-মদিনা মেডিসিন কর্নার",
         number: "01964615001",
         wordNo: "৪",
@@ -330,7 +330,7 @@ const userData = [{
     },
     {
         id: 31,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "Abdullah Madical Hall",
         number: "01717833419",
         wordNo: "৫",
@@ -341,7 +341,7 @@ const userData = [{
     },
     {
         id: 32,
-        photo: "../cdn/pharmacy/pharmacy.png",
+        photo: "cdn/pharmacy/pharmacy.png",
         name: "মের্সাস মেডিসিন কর্ণার",
         number: "01918131773",
         wordNo: "৫",

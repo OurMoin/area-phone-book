@@ -1,6 +1,6 @@
 const userData = [{
         id: 12,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "ফটো স্টুডিও",
         number: "01635495085",
         wordNo: "৬",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 1,
-        photo: "../cdn/studio/ma-digital-studio.jpg",
+        photo: "cdn/studio/ma-digital-studio.jpg",
         name: "মা ডিজিটাল স্টুডিও",
         number: "01687133461",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/studio/ma-digital-photo-studio.jpg",
+        photo: "cdn/studio/ma-digital-photo-studio.jpg",
         name: "মা ডিজিটাল ফটো স্টুডিও",
         number: "01913836871",
         wordNo: "৬",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/studio/hasbi-digital-studio.jpg",
+        photo: "cdn/studio/hasbi-digital-studio.jpg",
         name: "হাসবি ডিজিটাল স্টুডিও",
         number: "01911856376",
         wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/studio/alif-studio.jpg",
+        photo: "cdn/studio/alif-studio.jpg",
         name: "আলিফ ডিজিটাল স্টুডিও",
         number: "01915577882",
         wordNo: "৫",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/studio/maria-digital-studio.jpg",
+        photo: "cdn/studio/maria-digital-studio.jpg",
         name: "মারিয়া ডিজিটাল স্টুডিও",
         number: "01918198064",
         wordNo: "৪",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "ম্যাগা ডিজিটাল স্টুডিও",
         number: "01611177749",
         wordNo: "৬",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "ছবিমেলা ডিজিটাল স্টুডিও",
         number: "01916416075",
         wordNo: "৬",
@@ -88,7 +88,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/studio/diana-digital-studio.jpg",
+        photo: "cdn/studio/diana-digital-studio.jpg",
         name: "ডায়না ডিজিটাল স্টুডিও",
         number: "01718940862",
         wordNo: "৬",
@@ -99,7 +99,7 @@ const userData = [{
     },
     {
         id: 9,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "মারিয়া ডিজিটাল স্টুডিও",
         number: "01673984967",
         wordNo: "৪",
@@ -110,7 +110,7 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "আলো ডিজিটাল স্টুডিও এন্ড কম্পিউটার",
         number: "01679191844",
         wordNo: "৫",
@@ -121,7 +121,7 @@ const userData = [{
     },
     {
         id: 11,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "ডিজিটাল স্টুডিও ছোঁয়া",
         number: "01711581882",
         wordNo: "৬",
@@ -132,7 +132,7 @@ const userData = [{
     },
     {
         id: 13,
-        photo: "../cdn/studio/studio.png",
+        photo: "cdn/studio/studio.png",
         name: "ফটোজোন ডিজিটাল স্টুডিও ও ফটোকপি",
         number: "01681396566",
         wordNo: "৬",

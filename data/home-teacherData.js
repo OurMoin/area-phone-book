@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/home-teacher/female-home-teacher.png",
+    photo: "cdn/home-teacher/female-home-teacher.png",
     name: "ফারিয়া জাহান পুষ্প",
     number: "01302880960",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/home-teacher/abbas-uddin.jpg",
+    photo: "cdn/home-teacher/abbas-uddin.jpg",
     name: "মোঃ আব্বাস উদ্দিন",
     number: "01927106412",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/home-teacher/rakibul-islam-bappi.jpg",
+    photo: "cdn/home-teacher/rakibul-islam-bappi.jpg",
     name: "রাকিবুল ইসলাম বাপ্পি",
     number: "01679472706",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/home-teacher/md-faisal-ahmed.jpg",
+    photo: "cdn/home-teacher/md-faisal-ahmed.jpg",
     name: "মো: ফয়সাল আহমেদ",
     number: "01984723748",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/home-teacher/female-home-teacher.png",
+    photo: "cdn/home-teacher/female-home-teacher.png",
     name: "মোমেনা আক্তার",
     number: "01571020438",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/home-teacher/asifur-rahman-mridul.jpg",
+    photo: "cdn/home-teacher/asifur-rahman-mridul.jpg",
     name: "আশিফুর রহমান মৃদুল",
     number: "01787178833",
     wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/home-teacher/ariful-baten-shaon.jpg",
+    photo: "cdn/home-teacher/ariful-baten-shaon.jpg",
     name: "আরিফুল বাতেন শাওন",
     number: "01624990613",
     wordNo: "৫",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/home-teacher/rifat-sardar-anik.jpg",
+    photo: "cdn/home-teacher/rifat-sardar-anik.jpg",
     name: "রিফাত সরদার অনিক",
     number: "01919963875",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/home-teacher/male-home-teacher.png",
+    photo: "cdn/home-teacher/male-home-teacher.png",
     name: "মোঃ ইয়াসিন মাহামুদ",
     number: "01886807431",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/home-teacher/muhammad-nayem-khan.jpg",
+    photo: "cdn/home-teacher/muhammad-nayem-khan.jpg",
     name: "মুহাম্মদ নাঈম খান",
     number: "01867059846",
     wordNo: "৫",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/home-teacher/farid-uddin.jpg",
+    photo: "cdn/home-teacher/farid-uddin.jpg",
     name: "ফরিদ উদ্দিন",
     number: "01782615910",
     wordNo: "৬",
@@ -122,7 +122,7 @@ const userData = [
   },
   {
     id: 12,
-    photo: "../cdn/home-teacher/male-home-teacher.png",
+    photo: "cdn/home-teacher/male-home-teacher.png",
     name: "মোঃ আশরাফুল ইসলাম",
     number: "01889693208",
     wordNo: "৬",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 13,
-    photo: "../cdn/home-teacher/female-home-teacher.png",
+    photo: "cdn/home-teacher/female-home-teacher.png",
     name: "তানজিদা আক্তার",
     number: "01865817203",
     wordNo: "৬",
@@ -144,7 +144,7 @@ const userData = [
   },
   {
     id: 14,
-    photo: "../cdn/home-teacher/male-home-teacher.png",
+    photo: "cdn/home-teacher/male-home-teacher.png",
     name: "হাফিজুর রাহমান",
     number: "01757165406",
     wordNo: "৬",

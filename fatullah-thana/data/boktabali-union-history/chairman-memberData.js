@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/boktabali-union-history/chairman-member/md-shawkat-ali.jpg",
+    photo: "cdn/boktabali-union-history/chairman-member/md-shawkat-ali.jpg",
     name: "মোঃ শওকত আলী",
     number: "01712785048",
     wordNo: "সমগ্র বক্তবলী",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/chairman-member/ward-no-1-2-3.png",
+    photo: "cdn/chairman-member/ward-no-1-2-3.png",
     name: "নূপুর",
     number: "01969778928",
     wordNo: "১, ২, ৩",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/chairman-member/ward-no-1.png",
+    photo: "cdn/chairman-member/ward-no-1.png",
     name: "মোঃ রশিদ আহমেদ",
     number: "01913224435 ",
     wordNo: "১",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/chairman-member/ward-no-2.png",
+    photo: "cdn/chairman-member/ward-no-2.png",
     name: "মোঃ আকিল উদ্দিন",
     number: "01712837045",
     wordNo: "২",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/boktabali-union-history/chairman-member/md-muhiuddin.png",
+    photo: "cdn/boktabali-union-history/chairman-member/md-muhiuddin.png",
     name: "মোঃ মুহিউদ্দিন",
     number: "01717750198",
     wordNo: "৩",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/chairman-member/ward-no-4-5-6.png",
+    photo: "cdn/chairman-member/ward-no-4-5-6.png",
     name: "পিংকি আক্তার",
     number: "01951732724",
     wordNo: "৪, ৫, ৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/boktabali-union-history/chairman-member/omor-faruk.jpg",
+    photo: "cdn/boktabali-union-history/chairman-member/omor-faruk.jpg",
     name: "ওমর ফারুক",
     number: "01768952222",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn//chairman-member/ward-no-5.png",
+    photo: "cdn//chairman-member/ward-no-5.png",
     name: "মীর আজিজুর রহমান",
     number: "01927386446",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },    
   {
     id: 9,
-    photo: "../cdn/boktabali-union-history/chairman-member/md-rasal.jpg",
+    photo: "cdn/boktabali-union-history/chairman-member/md-rasal.jpg",
     name: "মোঃ রাসেল",
     number: "01977223513",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },    
   {
     id: 10,
-    photo: "../cdn/chairman-member/ward-no-7-8-9.png",
+    photo: "cdn/chairman-member/ward-no-7-8-9.png",
     name: "মোসাঃ হাসনা ভানু",
     number: "01883223999",
     wordNo: "৭, ৮, ৯",
@@ -111,7 +111,7 @@ const userData = [
   },    
   {
     id: 11,
-    photo: "../cdn/boktabali-union-history/chairman-member/alamgir.jpg",
+    photo: "cdn/boktabali-union-history/chairman-member/alamgir.jpg",
     name: "আলমগীর",
     number: "01797563108",
     wordNo: "৭",
@@ -122,7 +122,7 @@ const userData = [
   },    
   {
     id: 12,
-    photo: "../cdn/chairman-member/ward-no-8.png",
+    photo: "cdn/chairman-member/ward-no-8.png",
     name: "মোঃ সেকান্দর আলী রানা",
     number: "01923233337",
     wordNo: "৮",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 13,
-    photo: "../cdn/boktabali-union-history/chairman-member/md-amjad-hossain.jpg",
+    photo: "cdn/boktabali-union-history/chairman-member/md-amjad-hossain.jpg",
     name: "মোঃ আমজাদ হোসেন",
     number: "01920720683",
     wordNo: "৯",

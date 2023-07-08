@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/nursery/vision-nursery.jpg",
+    photo: "cdn/nursery/vision-nursery.jpg",
     name: "ভিশন নার্সারী",
     number: "Hidden",
     wordNo: "৪",

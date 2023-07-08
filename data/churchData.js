@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/church/narayanganj-baptist-church.jpg",
+      photo: "cdn/church/narayanganj-baptist-church.jpg",
       name: "নারায়ণগঞ্জ ব্যাপ্টিষ্ট চার্চ",
       number: "01798899911",
       wordNo: "অন্যান্য",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/church/st-paul's-church.jpg",
+      photo: "cdn/church/st-paul's-church.jpg",
       name: "সাধু পৌলের গীর্জা",
       number: "01798899911",
       wordNo: "অন্যান্য",

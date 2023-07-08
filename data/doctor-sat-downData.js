@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/doctor-sat-down/new-doctors-diagnostic-lab-and-consultant-service.jpg",
+    photo: "cdn/doctor-sat-down/new-doctors-diagnostic-lab-and-consultant-service.jpg",
     name: "নিউ ডক্টরস ডায়াগনস্টিক ল্যাব এন্ড কনসালট্যান্ট সার্ভিস",
     number: "01772200965",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/doctor-sat-down/rima-dental-care.jpg",
+    photo: "cdn/doctor-sat-down/rima-dental-care.jpg",
     name: "রীমা ডেন্টাল কেয়ার",
     number: "01748585601",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
+    photo: "cdn/doctor-sat-down/doctor-sat-down.png",
     name: "আল-ইহসান ফার্মা",
     number: "01672664134",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
+    photo: "cdn/doctor-sat-down/doctor-sat-down.png",
     name: "শহিদুল মেডিকেল হল",
     number: "01916382877",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/doctor-sat-down/care-medicine-corner.jpg",
+    photo: "cdn/doctor-sat-down/care-medicine-corner.jpg",
     name: "কেয়ার মেডিসিন কর্নার",
     number: "01630243900",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/doctor-sat-down/dr-mujibur-rahman.jpg",
+    photo: "cdn/doctor-sat-down/dr-mujibur-rahman.jpg",
     name: "ডাঃ মুজিবুর রহমান",
     number: "01819271396",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/doctor-sat-down/himel-dental-care.jpg",
+    photo: "cdn/doctor-sat-down/himel-dental-care.jpg",
     name: "হিমেল ডেন্টাল কেয়ার",
     number: "01687014219",
     wordNo: "৬",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
+    photo: "cdn/doctor-sat-down/doctor-sat-down.png",
     name: "জনসেবা ফার্মেসি",
     number: "01917566006",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/doctor-sat-down/doctors-dental-surgery.jpg",
+    photo: "cdn/doctor-sat-down/doctors-dental-surgery.jpg",
     name: "ডক্টরস ডেন্টাল সার্জারী",
     number: "01779881842",
     wordNo: "৪",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/doctor-sat-down/dewar-pharmacy.jpg",
+    photo: "cdn/doctor-sat-down/dewar-pharmacy.jpg",
     name: "দেওয়ার ফার্মেসি",
     number: "01911798538",
     wordNo: "৪",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/doctor-sat-down/janaseba-pharmacy.jpg",
+    photo: "cdn/doctor-sat-down/janaseba-pharmacy.jpg",
     name: "জনসেবা ফার্মেসী",
     number: "01902322132",
     wordNo: "৪",
@@ -122,7 +122,7 @@ const userData = [
   },
   {
     id: 12,
-    photo: "../cdn/doctor-sat-down/ibn-sina-medicine-corner.jpg",
+    photo: "cdn/doctor-sat-down/ibn-sina-medicine-corner.jpg",
     name: "ইবনে সিনা মেডিসিন কর্নার",
     number: "01916204618",
     wordNo: "৪",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 13,
-    photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
+    photo: "cdn/doctor-sat-down/doctor-sat-down.png",
     name: "রাজু মেডিকেল হল এন্ড ডেন্টাল সার্জারী",
     number: "01750044133",
     wordNo: "৬",

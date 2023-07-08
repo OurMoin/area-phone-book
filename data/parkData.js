@@ -1,7 +1,7 @@
 const userData = [
     {
         id: 1,
-        photo: "../cdn/park/mary-anderson-park.jpg",
+        photo: "cdn/park/mary-anderson-park.jpg",
         name: "মেরি অ্যান্ডারসন পার্ক",
         number: "01745270306",
         wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/park/nom-park.jpg",
+      photo: "cdn/park/nom-park.jpg",
       name: "নম পার্ক",
       number: "01627393515",
       wordNo: "অন্যান্য",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/park/chourongi-fantasy-park.png",
+      photo: "cdn/park/chourongi-fantasy-park.png",
       name: "চৌরঙ্গী ফ্যান্টাসি পার্ক",
       number: "01675335782",
       wordNo: "অন্যান্য",

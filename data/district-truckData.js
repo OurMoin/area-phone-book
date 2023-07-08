@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/district-truck/district-truck.png",
+    photo: "cdn/district-truck/district-truck.png",
     name: "অনিক ট্রাভেল",
     number: "01986334181",
     wordNo: "6",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/district-truck/district-truck.png",
+    photo: "cdn/district-truck/district-truck.png",
     name: "ইমরান ট্রান্সপোট",
     number: "01962828307",
     wordNo: "6",

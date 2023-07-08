@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/performing-the-ceremony/humayuan-kabir.jpg",
+      photo: "cdn/performing-the-ceremony/humayuan-kabir.jpg",
       name: "হাজি মুহাম্মদ হুমায়ুন কবীর শেখ",
       number: "01718017273",
       wordNo: "৬",

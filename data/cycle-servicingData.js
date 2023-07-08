@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/cycle-servicing/cycle.png",
+    photo: "cdn/cycle-servicing/cycle.png",
     name: "হ্রদয় সাইকেল স্টোর",
     number: "01910109968",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/cycle-servicing/rasulpur-bicycle-shop.jpg",
+    photo: "cdn/cycle-servicing/rasulpur-bicycle-shop.jpg",
     name: "রসুলপুর সাইকেল শপ",
     number: "01933208850",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/cycle-servicing/saiful-cycle-mart.jpg",
+    photo: "cdn/cycle-servicing/saiful-cycle-mart.jpg",
     name: "সাইফুল সাইকেল মার্ট",
     number: "01952789987",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/cycle-servicing/cycle.png",
+    photo: "cdn/cycle-servicing/cycle.png",
     name: "ফিদা সাইকেল সার্ভিস",
     number: "01777826005",
     wordNo: "৫",

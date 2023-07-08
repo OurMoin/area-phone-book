@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    photo: "cdn/ac-fridge-servicing/ac-fridge-servicing.png",
     name: "মায়ের দোয়া রেফ্রিজারেশন এন্ড ওয়ার্কশপ",
     number: "01994956071",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    photo: "cdn/ac-fridge-servicing/ac-fridge-servicing.png",
     name: "সারা রেফ্রিজারেটর",
     number: "01706368048",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    photo: "cdn/ac-fridge-servicing/ac-fridge-servicing.png",
     name: "মেসার্স ওসমান রেফ্রিজারেশন, ওয়ার্কশপ",
     number: "01710580609",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/ac-fridge-servicing/ac-repining-centre-narayanganj.jpg",
+    photo: "cdn/ac-fridge-servicing/ac-repining-centre-narayanganj.jpg",
     name: "A/C Repining Centre Narayanganj",
     number: "01916497247",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    photo: "cdn/ac-fridge-servicing/ac-fridge-servicing.png",
     name: "ইউনিক রিফ্রিজারেশন ",
     number: "01704323150",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/ac-fridge-servicing/ac-fridge-servicing.png",
+    photo: "cdn/ac-fridge-servicing/ac-fridge-servicing.png",
     name: "ইউসুফ রেফ্রিজারেশন ",
     number: "01706317255",
     wordNo: "৬",

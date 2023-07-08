@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/ambulance/ambulance.png",
+    photo: "cdn/ambulance/ambulance.png",
     name: "বাফিন এম্বুল্যান্স সার্ভিস",
     number: "01865806372",
     wordNo: "অন্যান্য",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/ambulance/ambulance.png",
+    photo: "cdn/ambulance/ambulance.png",
     name: "মা-মায়া এ্যাম্বুলেন্স",
     number: "01716091972",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/ambulance/ambulance.png",
+    photo: "cdn/ambulance/ambulance.png",
     name: "মা এ্যাম্বুলেন্স সার্ভিস",
     number: "01759198347",
     wordNo: "সমগ্র পাগলা",

@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/land-for-sale/sarder-properties.png",
+      photo: "cdn/land-for-sale/sarder-properties.png",
       name: "সরদার প্রোপার্টিজ",
       number: "01674256410",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/land-for-sale/ariyaan-land-development.png",
+      photo: "cdn/land-for-sale/ariyaan-land-development.png",
       name: "Ariyaan Land Development",
       number: "01313600450",
       wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/land-for-sale/land-for-sale.png",
+      photo: "cdn/land-for-sale/land-for-sale.png",
       name: "প্যানারোমা হাউজিং লিমিটেড",
       number: "01726606663",
       wordNo: "৫",

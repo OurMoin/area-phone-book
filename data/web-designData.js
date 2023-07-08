@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/web-design/moinul-islam-moin.png",
+    photo: "cdn/web-design/moinul-islam-moin.png",
     name: "মোঃ মইনুল ইসলাম মঈন",
     number: "01303002226",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/web-design/shanto-chondro-mondol.jpg",
+    photo: "cdn/web-design/shanto-chondro-mondol.jpg",
     name: "শান্ত চন্দ্র মণ্ডল",
     number: "01890944368",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/web-design/md-tuhin.jpg",
+    photo: "cdn/web-design/md-tuhin.jpg",
     name: "মোঃ তুহিন",
     number: "01772750016",
     wordNo: "৫",

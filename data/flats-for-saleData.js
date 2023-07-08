@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/flats-for-sale/ariyaan-land-development.png",
+      photo: "cdn/flats-for-sale/ariyaan-land-development.png",
       name: "Ariyaan Land Development",
       number: "01313600450",
       wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/flats-for-sale/flats-for-sale.png",
+      photo: "cdn/flats-for-sale/flats-for-sale.png",
       name: "ট্রান্সমিন প্রোপার্টিজ",
       number: "01580449877",
       wordNo: "৬",

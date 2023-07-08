@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/web-development/monika-hossain-momi.jpg",
+    photo: "cdn/web-development/monika-hossain-momi.jpg",
     name: "মনিকা হোসেন মমি",
     number: "01943054316",
     wordNo: "৫",

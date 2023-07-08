@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/computer-training/niom-it.jpg",
+    photo: "cdn/computer-training/niom-it.jpg",
     name: "NIOM IT - নিয়ম আইটি",
     number: "01303002226",
     wordNo: "6",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/computer-training/computer-training.png",
+    photo: "cdn/computer-training/computer-training.png",
     name: "নেপচুন কম্পিউটার ট্রেনিং সেন্টার স্টুডিও এন্ড সাইবার ক্যাফে",
     number: "01918638692",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
  },
  {
     id: 3,
-    oto: "../cdn/computer-training/best-computer-training.jpg",
+    oto: "cdn/computer-training/best-computer-training.jpg",
     name: "বেষ্ট কম্পিউটার ট্রেনিং",
     number: "01673068354",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
  },
  {
     id: 4,
-    photo: "../cdn/computer-training/computer-training.png",
+    photo: "cdn/computer-training/computer-training.png",
     name: "Ma Computer And Training Center",
     number: "01938707042",
     wordNo: "৪",

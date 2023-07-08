@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/ophthalmology/ophthalmology.png",
+    photo: "cdn/ophthalmology/ophthalmology.png",
     name: "নয়ন অপটিক্স এবং ওয়াচ",
     number: "01407369470",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/ophthalmology/ophthalmology.png",
+    photo: "cdn/ophthalmology/ophthalmology.png",
     name: "ফিরোজ চক্ষু চিকিৎসা এন্ড আরজুদা অপটিক্স",
     number: "01934492731",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/ophthalmology/ibn-sina-medicine-corner.jpg",
+    photo: "cdn/ophthalmology/ibn-sina-medicine-corner.jpg",
     name: "ইবনে সিনা মেডিসিন কর্নার",
     number: "01916204618",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/ophthalmology/ophthalmology.png",
+    photo: "cdn/ophthalmology/ophthalmology.png",
     name: "জনসেবা ফার্মেসি",
     number: "01917566006",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/ophthalmology/islamia-eye-clinic.jpg",
+    photo: "cdn/ophthalmology/islamia-eye-clinic.jpg",
     name: "ইসলামিয়া চক্ষু চিকিৎসালয়",
     number: "01950094825",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/ophthalmology/ophthalmology.png",
+    photo: "cdn/ophthalmology/ophthalmology.png",
     name: "Moriom Optics and Watch",
     number: "01758161067",
     wordNo: "৬",

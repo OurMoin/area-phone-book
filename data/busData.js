@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/bus/bus.png",
+      photo: "cdn/bus/bus.png",
       name: "কর্ণফুলী এক্সপ্রেস",
       number: "01923519993",
       wordNo: "অন্যান্য",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/bus/bus.png",
+      photo: "cdn/bus/bus.png",
       name: "যাতায়াত সুপার লিঃ",
       number: "01788525117",
       wordNo: "৬",

@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/fast-food/afc-restaurant-and-fastfood.jpg",
+    photo: "cdn/fast-food/afc-restaurant-and-fastfood.jpg",
     name: "এ এফ সি রেস্টুরেন্ট এন্ড ফাস্টফুড",
     number: "01714275316",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/fast-food/grand-area-restaurant.jpg",
+    photo: "cdn/fast-food/grand-area-restaurant.jpg",
     name: "Grand Area fast-food",
     number: "01851596976",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/fast-food/fast-food.png",
+    photo: "cdn/fast-food/fast-food.png",
     name: "নিমকি ফাস্টফুড এবং কনফেকশনারী",
     number: "01984547441",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/fast-food/ahm-tasty-food.jpg",
+    photo: "cdn/fast-food/ahm-tasty-food.jpg",
     name: "AHM Tasty Food",
     number: "01934411439",
     wordNo: "৪",

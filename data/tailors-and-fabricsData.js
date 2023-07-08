@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    photo: "cdn/tailors-and-fabrics/tailors-and-fabrics.png",
     name: "বড় সাহেব টেইলার্স এন্ড ফেব্রিক্স",
     number: "019109933701",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    photo: "cdn/tailors-and-fabrics/tailors-and-fabrics.png",
     name: "বিসমিল্লাহ টেইলার্স",
     number: "01631281711",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/tailors-and-fabrics/babu-tailors-and-fabrics.jpg",
+    photo: "cdn/tailors-and-fabrics/babu-tailors-and-fabrics.jpg",
     name: "বাবু টেইলার্স এন্ড ফেব্রিক্স",
     number: "01790131415",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/tailors-and-fabrics/shanto-tailors-and-fabrics.jpg",
+    photo: "cdn/tailors-and-fabrics/shanto-tailors-and-fabrics.jpg",
     name: "শান্ত টেইলার্স এন্ড ফেব্রিক্স",
     number: "01924093442",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/tailors-and-fabrics/decent-ladies-tailors.jpg",
+    photo: "cdn/tailors-and-fabrics/decent-ladies-tailors.jpg",
     name: "ডিসেন্ট লেডিস টেইলার্স",
     number: "01937770224",
     wordNo: "৪",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/tailors-and-fabrics/tuhin-tailors-and-fabrics.jpg",
+    photo: "cdn/tailors-and-fabrics/tuhin-tailors-and-fabrics.jpg",
     name: "তুহিন টেইলার্স এন্ড ফেব্রিক্স",
     number: "01923220146",
     wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/tailors-and-fabrics/al-medina-burqa-house.jpg",
+    photo: "cdn/tailors-and-fabrics/al-medina-burqa-house.jpg",
     name: "আল-মদিনা বোরকা হাউজ",
     number: "01748600069",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    photo: "cdn/tailors-and-fabrics/tailors-and-fabrics.png",
     name: "জিসান টেইলার্স",
     number: "01917409407",
     wordNo: "৬",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    photo: "cdn/tailors-and-fabrics/tailors-and-fabrics.png",
     name: "সান ফ্লাওয়ার টেইলার্স অ্যান্ড ক্লথ স্টোর",
     number: "01920915116",
     wordNo: "৪",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/tailors-and-fabrics/tailors-and-fabrics.png",
+    photo: "cdn/tailors-and-fabrics/tailors-and-fabrics.png",
     name: "A.Mannan fabrics & tailors",
     number: "01913002264",
     wordNo: "৬",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/tailors-and-fabrics/fatema-fashion.jpg",
+    photo: "cdn/tailors-and-fabrics/fatema-fashion.jpg",
     name: "Fatema Fashion",
     number: "01817294119",
     wordNo: "৫",

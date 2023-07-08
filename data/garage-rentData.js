@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/garage-rent/garage-rent.png",
+    photo: "cdn/garage-rent/garage-rent.png",
     name: "আব্দুল রব মিয়ার গ্যারেজ",
     number: "01710569645",
     wordNo: "৬",

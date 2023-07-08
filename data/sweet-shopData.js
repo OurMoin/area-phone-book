@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/sweet-shop/sweet-shop.png",
+    photo: "cdn/sweet-shop/sweet-shop.png",
     name: "শ্রী দূর্গা মিষ্টান্ন ভান্ডার",
     number: "01732643373",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/sweet-shop/haji-bakery-doi-sweet.jpg",
+    photo: "cdn/sweet-shop/haji-bakery-doi-sweet.jpg",
     name: "হাজী বেকারী দই মিষ্টি",
     number: "01748271952",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/sweet-shop/sweet-shop.png",
+    photo: "cdn/sweet-shop/sweet-shop.png",
     name: "পাগল নাথ মিষ্টান্ন ভাণ্ডার",
     number: "01715226896",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/sweet-shop/haji-food-sweet-and-bakery.jpg",
+    photo: "cdn/sweet-shop/haji-food-sweet-and-bakery.jpg",
     name: "হাজী ফুড সুইস্ট এন্ড বেকারী",
     number: "01986030787",
     wordNo: "৫",

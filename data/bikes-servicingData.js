@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/bikes-servicing/bike-servicing-and-wash.jpg",
+    photo: "cdn/bikes-servicing/bike-servicing-and-wash.jpg",
     name: "বাইক সার্ভিসিং এন্ড ওয়াশ",
     number: "01969194948",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/bikes-servicing/bikes-servicing.png",
+    photo: "cdn/bikes-servicing/bikes-servicing.png",
     name: "Motorcycle Services",
     number: "01682541843",
     wordNo: "৬",

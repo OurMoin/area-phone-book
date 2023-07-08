@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/water-office/dhaka-wasa.jpg",
+      photo: "cdn/water-office/dhaka-wasa.jpg",
       name: "ঢাকা ওয়াসা",
       number: "16162",
       wordNo: "অন্যান্য",

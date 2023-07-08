@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/dental-care/rezia-dental-care.jpg",
+    photo: "cdn/dental-care/rezia-dental-care.jpg",
     name: "রেজিয়া ডেন্টাল কেয়ার",
     number: "01799889007",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/dental-care/doctors-dental-surgery.jpg",
+    photo: "cdn/dental-care/doctors-dental-surgery.jpg",
     name: "ডক্টরস ডেন্টাল সার্জারী",
     number: "01779881842",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/dental-care/care-medicine-corner.jpg",
+    photo: "cdn/dental-care/care-medicine-corner.jpg",
     name: "কেয়ার মেডিসিন কর্নার",
     number: "01630243900",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/dental-care/dental-care.png",
+    photo: "cdn/dental-care/dental-care.png",
     name: "জনসেবা ফার্মেসি",
     number: "01917566006",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/dental-care/himel-dental-care.jpg",
+    photo: "cdn/dental-care/himel-dental-care.jpg",
     name: "হিমেল ডেন্টাল কেয়ার",
     number: "01687014219",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/dental-care/asha-dental-care.png",
+    photo: "cdn/dental-care/asha-dental-care.png",
     name: "Asha Dental Care",
     number: "01937710893",
     wordNo: "৩",

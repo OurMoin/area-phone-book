@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/chef/chef.png",
+    photo: "cdn/chef/chef.png",
     name: "বাবুর্চি এক্সপ্রেস",
     number: "01712800378",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/chef/chef.png",
+    photo: "cdn/chef/chef.png",
     name: "বাদশা বাবুর্চি",
     number: "01728700570",
     wordNo: "৩",

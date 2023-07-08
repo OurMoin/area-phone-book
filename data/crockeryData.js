@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/crockery/crockery.png",
+    photo: "cdn/crockery/crockery.png",
     name: "লাবনী ক্রোকারিজ স্টোর",
     number: "01815709903",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/crockery/crockery.png",
+    photo: "cdn/crockery/crockery.png",
     name: "RFL GARDEN & 99+",
     number: "01927408560",
     wordNo: "৫",

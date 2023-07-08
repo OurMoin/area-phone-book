@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/sewing-machine-servicing/sewing-machine-servicing.png",
+    photo: "cdn/sewing-machine-servicing/sewing-machine-servicing.png",
     name: "মেসার্স মায়ের দোয়া সেলাই মেশিন সাভির্সিং সেন্টার ও কেচি সান ঘর-২",
     number: "01600140988",
     wordNo: "৬",

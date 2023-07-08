@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/construction-engineering/construction-engineering.png",
+        photo: "cdn/construction-engineering/construction-engineering.png",
         name: "IDEAL ARCHITECTURE & CONSUTANT",
         number: "01922302302",
         wordNo: "৪",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/construction-engineering/saiful-islam-shamim.jpg",
+        photo: "cdn/construction-engineering/saiful-islam-shamim.jpg",
         name: "Blue Plan Constitution Consultant",
         number: "01625086098",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/construction-engineering/construction-engineering.png",
+        photo: "cdn/construction-engineering/construction-engineering.png",
         name: "নুসরাত  কনস্ট্রাশন",
         number: "01743839322",
         wordNo: "৩",

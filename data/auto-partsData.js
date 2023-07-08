@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/auto-parts/mahbubia-auto-parts.jpg",
+    photo: "cdn/auto-parts/mahbubia-auto-parts.jpg",
     name: "মাহবুবিয়া অটো পার্টস",
     number: "01674006301",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/auto-parts/auto-parts.png",
+    photo: "cdn/auto-parts/auto-parts.png",
     name: "মাদবর হার্ডওয়্যার স্যানিটারি এন্ড অটো পার্টস",
     number: "01610717869",
     wordNo: "৫",

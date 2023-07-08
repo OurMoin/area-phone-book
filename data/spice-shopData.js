@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/spice-shop/spice-shop.png",
+      photo: "cdn/spice-shop/spice-shop.png",
       name: "সাত্তার গাজী এন্ড সন্স",
       number: "01779884945",
       wordNo: "৪",

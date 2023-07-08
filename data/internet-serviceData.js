@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/internet-service/internet-service.png",
+    photo: "cdn/internet-service/internet-service.png",
     name: " দেলপাড়া ব্রডব্যান্ড",
     number: "01600230210",
     wordNo: "৪",

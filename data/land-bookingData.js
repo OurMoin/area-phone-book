@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/land-booking/sarder-properties.png",
+      photo: "cdn/land-booking/sarder-properties.png",
       name: "সরদার প্রোপার্টিজ",
       number: "01674256410",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/land-booking/ariyaan-land-development.png",
+      photo: "cdn/land-booking/ariyaan-land-development.png",
       name: "Ariyaan Land Development",
       number: "01313600450",
       wordNo: "৪",

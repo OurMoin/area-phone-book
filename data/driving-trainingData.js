@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/driving-training/driving-training.png",
+    photo: "cdn/driving-training/driving-training.png",
     name: "মা বাবার দোয়া কার ড্রাইভিং ট্রেনিং",
     number: "01941724006",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/driving-training/driving-training.png",
+    photo: "cdn/driving-training/driving-training.png",
     name: "আর এফ এম ড্রাইভিং ট্রেনিং সেন্টার এন্ড অটো মোবাইলস",
     number: "01823758754",
     wordNo: "সমগ্র কুতুবপুর",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/driving-training/driving-training.png",
+    photo: "cdn/driving-training/driving-training.png",
     name: "SUJON এন্ড APON কার ট্রেনিং সেন্টার",
     number: "01823758754",
     wordNo: "৬",

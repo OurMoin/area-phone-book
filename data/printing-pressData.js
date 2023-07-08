@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/printing-press/printing-press.png",
+    photo: "cdn/printing-press/printing-press.png",
     name: "মা গ্রাফিক্স এন্ড সোহাগ এড",
     number: "01818218137",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/printing-press/printing-press.png",
+    photo: "cdn/printing-press/printing-press.png",
     name: "মা-আলিফ প্রিন্টিং প্রেস",
     number: "01675227780",
     wordNo: "অন্যান্য",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/printing-press/printing-press.png",
+    photo: "cdn/printing-press/printing-press.png",
     name: "A. ALI PRINTING PRESS",
     number: "01924716856",
     wordNo: "৬",

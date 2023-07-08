@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/flower-shop/event-and-mitu-flower-saj.jpg",
+    photo: "cdn/flower-shop/event-and-mitu-flower-saj.jpg",
     name: "ইভেন্ট এন্ড মিতু ফুল সাজ",
     number: "01680392277",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/flower-shop/sumaiya-event-management.jpg",
+    photo: "cdn/flower-shop/sumaiya-event-management.jpg",
     name: "সুমাইয়া ইভেন্ট ম্যানেজমেন্ট",
     number: "01946616693",
     wordNo: "6",

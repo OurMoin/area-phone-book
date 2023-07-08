@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/police-station/police-station.png",
+    photo: "cdn/police-station/police-station.png",
     name: "ওসি ফতুল্লা মডেল থানা",
     number: "01320-090403",
     wordNo: "সমগ্র, ফতুল্লা",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/police-station/police-station.png",
+    photo: "cdn/police-station/police-station.png",
     name: "তদন্ত অফিসার, ফতুল্লা থানা",
     number: "01320-090404",
     wordNo: "সমগ্র, ফতুল্লা",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/police-station/police-station.png",
+    photo: "cdn/police-station/police-station.png",
     name: "সাব ইন্সপেক্টর, ফতুল্লা থানা",
     number: "01320-090408",
     wordNo: "সমগ্র, ফতুল্লা",

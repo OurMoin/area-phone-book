@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/parlor/any's-parlour-&-training-center.jpg",
+      photo: "cdn/parlor/any's-parlour-&-training-center.jpg",
       name: "Any's parlour and training center",
       number: "01960199806",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/parlor/womens-beauty-corner.jpg",
+      photo: "cdn/parlor/womens-beauty-corner.jpg",
       name: "জেসিকা পার্লার ট্রেনিং",
       number: "01756815338",
       wordNo: "৬",

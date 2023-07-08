@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/agent-bank/agent-bank.png",
+    photo: "cdn/agent-bank/agent-bank.png",
     name: "ইসলামী ব্যাংক এজেন্ট ব্যাংকিং",
     number: "01736767076",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/agent-bank/agent-bank.png",
+    photo: "cdn/agent-bank/agent-bank.png",
     name: "DBBL এজেন্ট ব্যাংকিং",
     number: "01917304037",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/agent-bank/agent-bank.png",
+    photo: "cdn/agent-bank/agent-bank.png",
     name: "IFIC Agent Bank",
     number: "Hidden",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/agent-bank/al-arafah-islamic-bank.jpg",
+    photo: "cdn/agent-bank/al-arafah-islamic-bank.jpg",
     name: "আল-আরাফাহ ইসলামী ব্যাংক",
     number: "01408340381",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/agent-bank/agent-bank.png",
+    photo: "cdn/agent-bank/agent-bank.png",
     name: "ডাচ্-বাংলা ব্যাংক লিমিটেড, এজেন্ট ব্যাংকি",
     number: "01923339944",
     wordNo: "৫",

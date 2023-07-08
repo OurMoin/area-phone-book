@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "Easha's Beauty Zone & SPA",
         number: "01948324475",
         wordNo: "৪",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "জয়া বিউটি পার্লার ও কসমেটিক্স",
         number: "01610717908",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "কনফিডেন্স হারবাল বিউটি পার্লার এন্ড কসমেটিক সেন্টার",
         number: "01676037240",
         wordNo: "৫",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "Women's land Beauty salon & Spa",
         number: "01909547850",
         wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/parlor/delpara-friends-gents-parlor.jpg",
+        photo: "cdn/parlor/delpara-friends-gents-parlor.jpg",
         name: "দেলপাড়া ফ্রেন্ডস জেন্টস পার্লার",
         number: "01819322730",
         wordNo: "৪",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/parlor/saaj-beauty-parlor-and-cosmetics.jpg",
+        photo: "cdn/parlor/saaj-beauty-parlor-and-cosmetics.jpg",
         name: "সাজ বিউটি পার্লার এন্ড কসমেটিক্স",
         number: "01941938236",
         wordNo: "৫",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/parlor/young-star-gents-parlor-&-ac-salon.jpg",
+        photo: "cdn/parlor/young-star-gents-parlor-&-ac-salon.jpg",
         name: "ইয়াং স্টার জেন্টস পার্লার & এসি সেলুন",
         number: "01635242481",
         wordNo: "৬",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "সোহা বিউটি ওয়ার্ল্ড",
         number: "01681767839",
         wordNo: "৬",
@@ -88,7 +88,7 @@ const userData = [{
     },
     {
         id: 9,
-        photo: "../cdn/parlor/any's-parlour-&-training-center.jpg",
+        photo: "cdn/parlor/any's-parlour-&-training-center.jpg",
         name: "Any's parlour and training center",
         number: "01960199806",
         wordNo: "৬",
@@ -99,7 +99,7 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/parlor/womens-beauty-corner.jpg",
+        photo: "cdn/parlor/womens-beauty-corner.jpg",
         name: "ওমেন্স বিউটি কর্ণার",
         number: "01617990097",
         wordNo: "৫",
@@ -110,7 +110,7 @@ const userData = [{
     },
     {
         id: 11,
-        photo: "../cdn/parlor/parlor.png",
+        photo: "cdn/parlor/parlor.png",
         name: "জেসিকা বিউটি পার্লার",
         number: "01756815338",
         wordNo: "৬",

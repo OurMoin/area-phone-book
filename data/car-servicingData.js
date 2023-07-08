@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/car-servicing/aranyo-autos.jpg",
+    photo: "cdn/car-servicing/aranyo-autos.jpg",
     name: "অরণ্য অটোস",
     number: "01915620433",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/car-servicing/car-servicing.png",
+    photo: "cdn/car-servicing/car-servicing.png",
     name: "মায়ের দোয়া অটো সার্ভিস সেন্টার",
     number: "01913779865",
     wordNo: "৪",

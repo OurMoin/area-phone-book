@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/house-rent/md-alauddin.jpg",
+    photo: "cdn/house-rent/md-alauddin.jpg",
     name: "মোঃ আলাউদ্দিন",
     number: "01816818562",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/house-rent/sikdar-vila.jpg",
+    photo: "cdn/house-rent/sikdar-vila.jpg",
     name: "সিকদার ভিলা",
     number: "01715293295",
     wordNo: "৬",

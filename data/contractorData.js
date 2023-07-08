@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/contractor/blue-plan-construction-consultant.png",
+    photo: "cdn/contractor/blue-plan-construction-consultant.png",
     name: "Blue Plan construction consultant",
     number: "01625086098",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/contractor/blue-plan-construction-consultant.png",
+    photo: "cdn/contractor/blue-plan-construction-consultant.png",
     name: "মোঃ বাবু",
     number: "01670057936",
     wordNo: "৫",

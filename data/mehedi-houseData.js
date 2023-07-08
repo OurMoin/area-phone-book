@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/mehedi-house/puspo's-mehedi-world.jpg",
+    photo: "cdn/mehedi-house/puspo's-mehedi-world.jpg",
     name: "Puspo's Mehedi World",
     number: "01302880960",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/mehedi-house/taha-mehendi-dairy.jpg",
+    photo: "cdn/mehedi-house/taha-mehendi-dairy.jpg",
     name: "Taha's Mehendi Dairy",
     number: "01989521599",
     wordNo: "৬",

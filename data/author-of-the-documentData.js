@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/author-of-the-document/author-of-the-document.png",
+        photo: "cdn/author-of-the-document/author-of-the-document.png",
         name: "মোঃ মহিউদ্দিন মাসুদ (দলিল লেখক)",
         number: "01715451258, 01671772881",
         wordNo: "৫",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/author-of-the-document/author-of-the-document.png",
+        photo: "cdn/author-of-the-document/author-of-the-document.png",
         name: "মোঃ তামজিদুর রহমান ভূইয়া (দলিল লেখক)",
         number: "01766815620",
         wordNo: "৪",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/author-of-the-document/md-shofikul-islam.png",
+        photo: "cdn/author-of-the-document/md-shofikul-islam.png",
         name: " মোঃ শফিকুল ইসলাম",
         number: "01718351886",
         wordNo: "অন্যান্য",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/lawyer/lawyer.png",
+        photo: "cdn/lawyer/lawyer.png",
         name: "মোঃ রাশেদুর রহমান (মিন্টু)",
         number: "01913508023",
         wordNo: "৫",

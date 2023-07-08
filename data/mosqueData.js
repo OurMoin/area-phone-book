@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "সরদার বাড়ি জমে মসজিদে (দেলপাড়া)",
         number: "#",
         wordNo: "৪",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/mosque/shahi-madina-jame-mosque.jpg",
+        photo: "cdn/mosque/shahi-madina-jame-mosque.jpg",
         name: "শাহী মদীনা জামে মসজিদ",
         number: "01671432099",
         wordNo: "৫",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পাগলা বাজার জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বায়তুল ফালাহ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল আফিয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "তালতলা মাদ্রাসা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দক্ষিণ নায়ামাটি জামে মসজিদ",
         number: "01798899911",
         wordNo: "6",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পশ্চিম নায়ামাটি রেললাইন জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -88,7 +88,7 @@ const userData = [{
     },
     {
         id: 9,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "প্যারাডাইস সিটি জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -99,7 +99,7 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পাগলা পূর্বপাড়া ইসলামিয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -110,7 +110,7 @@ const userData = [{
     },
     {
         id: 11,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল আমান জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -121,7 +121,7 @@ const userData = [{
     },
     {
         id: 12,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নয়ামাটি কেন্দ্রীয় জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -132,7 +132,7 @@ const userData = [{
     },
     {
         id: 13,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল জান্নাত জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -143,7 +143,7 @@ const userData = [{
     },
     {
         id: 14,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল নূর জাহান জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -154,7 +154,7 @@ const userData = [{
     },
     {
         id: 15,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "ফাতেমা নূর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -165,7 +165,7 @@ const userData = [{
     },
     {
         id: 16,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "রসুলপুর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -176,7 +176,7 @@ const userData = [{
     },
     {
         id: 17,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুত তোফাজ্জল জমে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -187,7 +187,7 @@ const userData = [{
     },
     {
         id: 18,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পশ্চিম রসুলপুর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -198,7 +198,7 @@ const userData = [{
     },
     {
         id: 19,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বায়তুস সালাম জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -209,7 +209,7 @@ const userData = [{
     },
     {
         id: 20,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মদিনাতুল জান্নাত জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -220,7 +220,7 @@ const userData = [{
     },
     {
         id: 21,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল আমান জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -231,7 +231,7 @@ const userData = [{
     },
     {
         id: 22,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "জান্নাতুল মাওয়া জামে মসজিদ",
         number: "01940197441",
         wordNo: "৮",
@@ -242,7 +242,7 @@ const userData = [{
     },
     {
         id: 23,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "উত্তর রসুলপুর বায়তুন নূর জামে মসজিদ",
         number: "01622163263",
         wordNo: "৬",
@@ -253,7 +253,7 @@ const userData = [{
     },
     {
         id: 24,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "রাসুল পাক (সঃ) জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -264,7 +264,7 @@ const userData = [{
     },
     {
         id: 25,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুশ শরীফ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৬",
@@ -275,7 +275,7 @@ const userData = [{
     },
     {
         id: 26,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "শরীফবাগ জামে মসজিদ ",
         number: "01798899911",
         wordNo: "৫",
@@ -286,7 +286,7 @@ const userData = [{
     },
     {
         id: 27,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "শাহী মদিনা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -297,7 +297,7 @@ const userData = [{
     },
     {
         id: 28,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "শাহীবাজার কবরস্থান জামে মাসজিদ ",
         number: "01798899911",
         wordNo: "৫",
@@ -308,7 +308,7 @@ const userData = [{
     },
     {
         id: 29,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "শাহী বাজার জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -319,7 +319,7 @@ const userData = [{
     },
     {
         id: 30,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "সালমান ফারসী জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -330,7 +330,7 @@ const userData = [{
     },
     {
         id: 31,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল মামুর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -341,7 +341,7 @@ const userData = [{
     },
     {
         id: 32,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আল আকসা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -352,7 +352,7 @@ const userData = [{
     },
     {
         id: 33,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "PWD কোয়ার্টার জামে মসজিদ",
         number: "01798899911",
         wordNo: "৭",
@@ -363,7 +363,7 @@ const userData = [{
     },
     {
         id: 34,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আলিগঞ্জ রেললাইন জামে মসজিদ",
         number: "01798899911",
         wordNo: "৭",
@@ -374,7 +374,7 @@ const userData = [{
     },
     {
         id: 35,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আলিগঞ্জ কেন্দ্রীয় জামে মসজিদ",
         number: "01798899911",
         wordNo: "৭",
@@ -385,7 +385,7 @@ const userData = [{
     },
     {
         id: 36,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পিলকুনি মোল্লা বাড়ি জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -396,7 +396,7 @@ const userData = [{
     },
     {
         id: 37,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নন্দলালপুর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -407,7 +407,7 @@ const userData = [{
     },
     {
         id: 38,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুন নূর জামে মসজিদ",
         number: "01309954767",
         wordNo: "৮",
@@ -418,7 +418,7 @@ const userData = [{
     },
     {
         id: 39,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নন্দলালপুর কবরস্থান জামে মসজিদ",
         number: "01712504840",
         wordNo: "৮",
@@ -429,7 +429,7 @@ const userData = [{
     },
     {
         id: 40,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নন্দলালপুর পুরাতন জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -440,7 +440,7 @@ const userData = [{
     },
     {
         id: 41,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মসজিদ এ নূর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -451,7 +451,7 @@ const userData = [{
     },
     {
         id: 42,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নন্দলালপুর নতুন জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -462,7 +462,7 @@ const userData = [{
     },
     {
         id: 43,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "প্রাইম জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -473,7 +473,7 @@ const userData = [{
     },
     {
         id: 44,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আল মাদীনা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -484,7 +484,7 @@ const userData = [{
     },
     {
         id: 45,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মাদানী জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -495,7 +495,7 @@ const userData = [{
     },
     {
         id: 46,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "কুতুব শাহ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -506,7 +506,7 @@ const userData = [{
     },
     {
         id: 47,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দেলপাড়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -517,7 +517,7 @@ const userData = [{
     },
     {
         id: 48,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "হাজী মাওলা বক্স জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -528,7 +528,7 @@ const userData = [{
     },
     {
         id: 49,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "উত্তর দেলপাড়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -539,7 +539,7 @@ const userData = [{
     },
     {
         id: 50,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "শারাফাত আলি জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -550,7 +550,7 @@ const userData = [{
     },
     {
         id: 51,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দেলপাড়া কেন্দ্রীয় জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -561,7 +561,7 @@ const userData = [{
     },
     {
         id: 52,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আল মাদীনা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -572,7 +572,7 @@ const userData = [{
     },
     {
         id: 53,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দেলপাড়া উচ্চ বিদ্যালয় জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -583,7 +583,7 @@ const userData = [{
     },
     {
         id: 54,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দেলপাড়া পশ্চিম পারা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -594,7 +594,7 @@ const userData = [{
     },
     {
         id: 55,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "খুদাই বাড়ি জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -605,7 +605,7 @@ const userData = [{
     },
     {
         id: 56,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "জামিয়া হযরত ওমর(রা) জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -616,7 +616,7 @@ const userData = [{
     },
     {
         id: 57,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "পশ্চিম দেলপাড়া খালপার জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -627,7 +627,7 @@ const userData = [{
     },
     {
         id: 58,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "কুসুমবাগ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -638,7 +638,7 @@ const userData = [{
     },
     {
         id: 59,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "দারুসসালাম জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -649,7 +649,7 @@ const userData = [{
     },
     {
         id: 60,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মোহাম্মদিয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -660,7 +660,7 @@ const userData = [{
     },
     {
         id: 61,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আল আকসা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৪",
@@ -671,7 +671,7 @@ const userData = [{
     },
     {
         id: 62,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মুসলিম পাড়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -682,7 +682,7 @@ const userData = [{
     },
     {
         id: 63,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মে'রাজ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -693,7 +693,7 @@ const userData = [{
     },
     {
         id: 64,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "সা'দাতীয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -704,7 +704,7 @@ const userData = [{
     },
     {
         id: 65,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আদর্শনগর বাইতুল আমান জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -715,7 +715,7 @@ const userData = [{
     },
     {
         id: 66,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "হযরত বেলাল (রা) জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -726,7 +726,7 @@ const userData = [{
     },
     {
         id: 68,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নুরবাগ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -737,7 +737,7 @@ const userData = [{
     },
     {
         id: 69,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মসজিদ ই বাইতুল মামুর",
         number: "01798899911",
         wordNo: "৫",
@@ -748,7 +748,7 @@ const userData = [{
     },
     {
         id: 70,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মুহাম্মদীয়া তাকওয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৫",
@@ -759,7 +759,7 @@ const userData = [{
     },
     {
         id: 71,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "জান্নাতুল ফেরদৌস জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -770,7 +770,7 @@ const userData = [{
     },
     {
         id: 72,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল জাকির শাহীজামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -781,7 +781,7 @@ const userData = [{
     },
     {
         id: 73,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "হাজি রেকমত উল্লাহ বাইতুন নুর জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -792,7 +792,7 @@ const userData = [{
     },
     {
         id: 74,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আল হাজ মোহাম্মদ আলি জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -803,7 +803,7 @@ const userData = [{
     },
     {
         id: 75,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "জামিয়া জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -814,7 +814,7 @@ const userData = [{
     },
     {
         id: 76,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "মদিনা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৮",
@@ -825,7 +825,7 @@ const userData = [{
     },
     {
         id: 77,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "আমির হামজা জামে মসজিদ",
         number: "01798899911",
         wordNo: "৩",
@@ -836,7 +836,7 @@ const userData = [{
     },
     {
         id: 78,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "ভূইগড় পশ্চিম জামে মসজিদ",
         number: "01798899911",
         wordNo: "৩",
@@ -847,7 +847,7 @@ const userData = [{
     },
     {
         id: 79,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "ভূইগড় মাঝিরবাগ জামে মসজিদ",
         number: "01798899911",
         wordNo: "৩",
@@ -858,7 +858,7 @@ const userData = [{
     },
     {
         id: 80,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "রামারবাগ শাহী জামে জামে মসজিদ",
         number: "01798899911",
         wordNo: "৯",
@@ -869,7 +869,7 @@ const userData = [{
     },
     {
         id: 81,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল হাসান কেন্দ্রীয় জামে মসজিদ",
         number: "01924833943",
         wordNo: "৫",
@@ -880,7 +880,7 @@ const userData = [{
     },
     {
         id: 82,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "নন্দলালপুর কেন্দ্রীয় পুরাতন সুন্নি জামে মাসজিদ",
         number: "01924833943",
         wordNo: "৮",
@@ -891,7 +891,7 @@ const userData = [{
     },
     {
         id: 83,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "বাইতুল আমান কেন্দ্রীয় জামে মসজিদ মুসলিমপাড়া",
         number: "01915118892",
         wordNo: "৫",
@@ -902,7 +902,7 @@ const userData = [{
     },
     {
         id: 84,
-        photo: "../cdn/mosque/mosque.png",
+        photo: "cdn/mosque/mosque.png",
         name: "জান্নাতুল মাওয়া জামে মসজিদ মুসলিমপাড়া",
         number: "01987205237",
         wordNo: "৫",

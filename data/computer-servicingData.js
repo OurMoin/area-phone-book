@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/computer-servicing/best-computer-training.jpg",
+    photo: "cdn/computer-servicing/best-computer-training.jpg",
     name: "বেষ্ট কম্পিউটার ট্রেনিং",
     number: "01673068354",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/computer-servicing/computer-servicing.png",
+    photo: "cdn/computer-servicing/computer-servicing.png",
     name: "আলো ডিজিটাল স্টুডিও এন্ড কম্পিউটার",
     number: "01679191844",
     wordNo: "৫",

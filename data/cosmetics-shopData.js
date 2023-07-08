@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/cosmetics-shop/cosmetics-shop.png",
+    photo: "cdn/cosmetics-shop/cosmetics-shop.png",
     name: "জয়া বিউটি পার্লার ও কসমেটিক্স",
     number: "01610717908",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/cosmetics-shop/cosmetics-shop.png",
+    photo: "cdn/cosmetics-shop/cosmetics-shop.png",
     name: "কনফিডেন্স হারবাল বিউটি পার্লার এন্ড কসমেটিক সেন্টার",
     number: "01676037240",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/cosmetics-shop/cosmetics-shop.png",
+    photo: "cdn/cosmetics-shop/cosmetics-shop.png",
     name: "ভাই ভাই কসমেটিক্স",
     number: "01795812955",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/cosmetics-shop/cosmetics-shop.png",
+    photo: "cdn/cosmetics-shop/cosmetics-shop.png",
     name: "আল্লার দান কসমেটিক এন্ড চকলেট হোম",
     number: "01822764978",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/cosmetics-shop/cosmetics-shop.png",
+    photo: "cdn/cosmetics-shop/cosmetics-shop.png",
     name: "নাবিল কসমেটিক এন্ড গিফট কর্নার",
     number: "01533820421",
     wordNo: "৪",

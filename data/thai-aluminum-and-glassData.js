@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    photo: "cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
     name: "নুর থাই এ্যালুমিনিয়াম এন্ড গ্লাস হাউস",
     number: "01711461306",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    photo: "cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
     name: "সুমাইয়া গ্লাস এন্ড থাই এ্যালুমিনিয়াম",
     number: "01912573771",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/thai-aluminum-and-glass/neha-thai-aluminum-glass-and-ss.jpg",
+    photo: "cdn/thai-aluminum-and-glass/neha-thai-aluminum-glass-and-ss.jpg",
     name: "নেহার থাই এ্যালুমিনিয়াম গ্লাস এন্ড এস. এস",
     number: "0191487766",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    photo: "cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
     name: "আল্লাহর দান থাই এ্যালুমিনিয়াম এন্ড কাচ ঘর",
     number: "01993441151",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    photo: "cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
     name: "মোল্লা গ্লাস এন্ড থাই এ্যালুমিনিয়াম",
     number: "01826663010",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/thai-aluminum-and-glass/rajadhani-glass-and-hardware-sanitary.jpg",
+    photo: "cdn/thai-aluminum-and-glass/rajadhani-glass-and-hardware-sanitary.jpg",
     name: "রাজধানী গ্লাস এন্ড হার্ডওয়ার স্যানিটারি",
     number: "01918131775",
     wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    photo: "cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
     name: "তুহিন হোসেন পিন্টু",
     number: "01887200125",
     wordNo: "৫",

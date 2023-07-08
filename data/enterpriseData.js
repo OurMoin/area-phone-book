@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/enterprise/messrs-saif-enterprise.jpg",
+    photo: "cdn/enterprise/messrs-saif-enterprise.jpg",
     name: "মেসার্স সাইফ এন্টারপ্রাইজ",
     number: "01676946051",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/enterprise/al-rafi-enterprise.jpg",
+    photo: "cdn/enterprise/al-rafi-enterprise.jpg",
     name: "আল-রাফি এন্টারপ্রাইজ",
     number: "01861864519",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "মেসার্স মোরছালিন এন্টারপ্রাইজ",
     number: "01919757369",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "মুরসালিন এন্টারপ্রাইজ",
     number: "01401370444",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
     number: "01734547676",
     wordNo: "৫",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/enterprise/messrs-rafiqul-enterprise.jpg",
+    photo: "cdn/enterprise/messrs-rafiqul-enterprise.jpg",
     name: "মেসার্স রফিকুল এন্টারপ্রাইজ",
     number: "01619086445",
     wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "মেসার্স শাওন এন্টারপ্রাইজ",
     number: "01677047244",
     wordNo: "৪",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "ফয়সাল এন্টারপ্রাইজ",
     number: "01684611605",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "বুড়িগঙ্গা নেইল এন্ড ওয়্যার",
     number: "01642424234",
     wordNo: "৮",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/enterprise/enterprise.png",
+    photo: "cdn/enterprise/enterprise.png",
     name: "চয়েজ এন্টারপ্রাইজ",
     number: "01613317431",
     wordNo: "৭",

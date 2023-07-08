@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/coaching-center/udayan-academic-care.png",
+    photo: "cdn/coaching-center/udayan-academic-care.png",
     name: "উদয়ন একাডেমিক কেয়ার",
     number: "01608060915",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "ডিসেন্ট কেয়ার কোচিং",
     number: "01927106412",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "M.M Academy",
     number: "01718479907",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "নেয়ার ইস্ট কোচিং সেন্টার",
     number: "01969700990",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/coaching-center/z.m-educare.jpg",
+    photo: "cdn/coaching-center/z.m-educare.jpg",
     name: "Z.M Educare",
     number: "01647246305",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "Accounting Zone",
     number: "01984723748",
     wordNo: "৫",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/coaching-center/ucchas-coaching-center.jpg",
+    photo: "cdn/coaching-center/ucchas-coaching-center.jpg",
     name: "উচ্ছ্বাস কোচিং",
     number: "01732716207",
     wordNo: "৫",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "কনফিডেন্স একাডেমি",
     number: "01770075381",
     wordNo: "৫",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/coaching-center/quantum-academic-and-admission-care.jpg",
+    photo: "cdn/coaching-center/quantum-academic-and-admission-care.jpg",
     name: "কোয়ান্টাম একাডেমিক এন্ড এডমিশন কেয়ার",
     number: "01995544427",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "কমার্স কোচিং সেন্টার",
     number: "01984723748",
     wordNo: "৫",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/coaching-center/coaching-center.png",
+    photo: "cdn/coaching-center/coaching-center.png",
     name: "Independent English",
     number: "01677050544",
     wordNo: "৬",

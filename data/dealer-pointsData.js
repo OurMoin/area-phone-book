@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/dealer-points/dealer-points.png",
+    photo: "cdn/dealer-points/dealer-points.png",
     name: "বসুন্ধরা ও মেঘনা গ্রুপ",
     number: "01979126418",
     wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/dealer-points/dealer-points.png",
+    photo: "cdn/dealer-points/dealer-points.png",
     name: "ACI, মমতাজ",
     number: "01961695060",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/dealer-points/dealer-points.png",
+    photo: "cdn/dealer-points/dealer-points.png",
     name: "SMC,জয়া",
     number: "01961695060",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/dealer-points/dealer-points.png",
+    photo: "cdn/dealer-points/dealer-points.png",
     name: "কুমারিকা, কোকোলা",
     number: "01961695060",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/dealer-points/dealer-points.png",
+    photo: "cdn/dealer-points/dealer-points.png",
     name: "উনিভারসেল, ট্রিট ব্লেড",
     number: "01961695060",
     wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/dealer-points/niyamat-enterprise.jpg",
+    photo: "cdn/dealer-points/niyamat-enterprise.jpg",
     name: "নিয়ামত এন্টারপ্রাইজ",
     number: "01832451262",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/dealer-points/niyamat-enterprise.jpg",
+    photo: "cdn/dealer-points/niyamat-enterprise.jpg",
     name: "মেসার্স মায়ের দোয়া সেলাই মেশিন সাভির্সিং সেন্টার ও কেচি সান ঘর-২",
     number: "01832451262",
     wordNo: "৬",

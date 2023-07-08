@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/super-shop/super-shop.png",
+      photo: "cdn/super-shop/super-shop.png",
       name: "স্বপ্ন বাজার",
       number: "01407777433",
       wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/super-shop/super-shop.png",
+      photo: "cdn/super-shop/super-shop.png",
       name: "এম এস তাবাসসুম এন্টারপ্রাইজ",
       number: "01817081248",
       wordNo: "৬",

@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/rod-shop/rod-shop.png",
+      photo: "cdn/rod-shop/rod-shop.png",
       name: "Al-Muhaimin Steel",
       number: "01779481943",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/rod-shop/rod-shop.png",
+      photo: "cdn/rod-shop/rod-shop.png",
       name: "ফয়সাল এন্টারপ্রাইজ",
       number: "01684611605",
       wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/rod-shop/rod-shop.png",
+      photo: "cdn/rod-shop/rod-shop.png",
       name: "মেসার্স তাহমিনা এন্টারপ্রাইজ",
       number: "01734547676",
       wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/rod-shop/rod-shop.png",
+      photo: "cdn/rod-shop/rod-shop.png",
       name: "ভাই ভাই ট্রেডাস",
       number: "01835289646",
       wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
     },
     {
       id: 5,
-      photo: "../cdn/rod-shop/rod-shop.png",
+      photo: "cdn/rod-shop/rod-shop.png",
       name: "মেসার্স সাগর এন্টারপ্রাইজ",
       number: "01683128010",
       wordNo: "৫",

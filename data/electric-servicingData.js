@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/electric-servicing/shahanur-electronics-and-servicing.jpg",
+    photo: "cdn/electric-servicing/shahanur-electronics-and-servicing.jpg",
     name: "শাহানুর ইলেকট্রনিক্স এন্ড সার্ভিসিং",
     number: "01913070140",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/electric-servicing/maer-dowa-electronics.jpg",
+    photo: "cdn/electric-servicing/maer-dowa-electronics.jpg",
     name: " মায়ের দোয়া ইলেকট্রনিক",
     number: "01863060356",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/electric-servicing/electric-servicing.png",
+    photo: "cdn/electric-servicing/electric-servicing.png",
     name: "সততা ইলেকট্রনিক্স",
     number: "01957558560",
     wordNo: "৫",

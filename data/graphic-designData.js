@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/graphic-design/md-sharif-imtaz.jpg",
+    photo: "cdn/graphic-design/md-sharif-imtaz.jpg",
     name: "মোঃ শরীফ ইমতাজ",
     number: "01521216013",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/graphic-design/mohsin-alam-rabbi.jpg",
+    photo: "cdn/graphic-design/mohsin-alam-rabbi.jpg",
     name: "মহসিন আলম রাব্বি",
     number: "01688202988",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/graphic-design/md-jahid-hasan.jpg",
+    photo: "cdn/graphic-design/md-jahid-hasan.jpg",
     name: "মোঃ জাহিদ হাসান",
     number: "01679038086",
     wordNo: "৫",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/graphic-design/omor-faruk.png",
+    photo: "cdn/graphic-design/omor-faruk.png",
     name: "ওমর ফারুক",
     number: "01407757364",
     wordNo: "৬",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/graphic-design/sajjad-hossain.jpg",
+    photo: "cdn/graphic-design/sajjad-hossain.jpg",
     name: "Sajjad Hossain",
     number: "01308390001",
     wordNo: "৪",
@@ -56,7 +56,7 @@ const userData = [
   },
   {
     id: 6,
-    photo: "../cdn/graphic-design/graphic-design.png",
+    photo: "cdn/graphic-design/graphic-design.png",
     name: "Rubel Ahmed",
     number: "0130088636",
     wordNo: "২",

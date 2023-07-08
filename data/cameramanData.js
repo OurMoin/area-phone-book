@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/cameraman/md-rasel.jpg",
+    photo: "cdn/cameraman/md-rasel.jpg",
     name: "মোঃ রাসেল",
     number: "01687133461",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/cameraman/cameraman.png",
+    photo: "cdn/cameraman/cameraman.png",
     name: "মোঃ সকাল আহমেদ",
     number: "01816635936",
     wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/cameraman/cameraman.png",
+    photo: "cdn/cameraman/cameraman.png",
     name: "Jabin Photography",
     number: "01624214416",
     wordNo: "৬",

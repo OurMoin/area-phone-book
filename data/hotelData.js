@@ -1,7 +1,7 @@
 const userData = [
     {
       id: 1,
-      photo: "../cdn/hotel/hotel.png",
+      photo: "cdn/hotel/hotel.png",
       name: "শ্রী দূর্গা মিষ্টান্ন ভান্ডার",
       number: "01732643373",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
     },
     {
       id: 2,
-      photo: "../cdn/hotel/bikrampur-sweets-store.jpg",
+      photo: "cdn/hotel/bikrampur-sweets-store.jpg",
       name: "বিক্রমপুর মিষ্টান্ন ভাণ্ডার",
       number: "01715226896",
       wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
     },
     {
       id: 3,
-      photo: "../cdn/hotel/hotel.png",
+      photo: "cdn/hotel/hotel.png",
       name: "পাগল নাথ মিষ্টান্ন ভাণ্ডার",
       number: "01715226896",
       wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
     },
     {
       id: 4,
-      photo: "../cdn/hotel/hotel.png",
+      photo: "cdn/hotel/hotel.png",
       name: "সোনালী হোটেল এন্ড সুইট মিট",
       number: "01813883337",
       wordNo: "৬",

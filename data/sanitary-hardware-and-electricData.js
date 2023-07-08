@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "মাদবর হার্ডওয়্যার স্যানিটারি এন্ড অটো পার্টস",
     number: "01610717869",
     wordNo: "৫",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "মেসার্স মিজান স্যানিটারি হার্ডওয়্যার এন্ড ইলেকট্রিক",
     number: "01931968588",
     wordNo: "৪",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "আর. এস ইলেকট্রনিক্স",
     number: "01893799669",
     wordNo: "৪",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "মেসার্স খান ইলেকট্রিক ও হার্ডওয়্যার",
     number: "01912059199",
     wordNo: "৪",
@@ -45,7 +45,7 @@ const userData = [
   },
   // {
   //   id: 5,
-  //   photo: "../cdn/sanitary-hardware-and-electric/allahar-dan-electronic-hardware.jpg",
+  //   photo: "cdn/sanitary-hardware-and-electric/allahar-dan-electronic-hardware.jpg",
   //   name: "আল্লাহর দান ইলেকট্রনিক, হার্ডওয়ার",
   //   number: "01922444913",
   //   wordNo: "৬",
@@ -56,7 +56,7 @@ const userData = [
   // },
   {
     id: 6,
-    photo: "../cdn/sanitary-hardware-and-electric/m.a-mannan-hardware.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/m.a-mannan-hardware.jpg",
     name: "এম এ মান্নান হার্ডওয়ার",
     number: "01961229822",
     wordNo: "৬",
@@ -67,7 +67,7 @@ const userData = [
   },
   {
     id: 7,
-    photo: "../cdn/sanitary-hardware-and-electric/janani-electronics-media.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/janani-electronics-media.jpg",
     name: "জননী ইলেকট্রনিক্স মিডিয়া",
     number: "01964778395",
     wordNo: "৬",
@@ -78,7 +78,7 @@ const userData = [
   },
   {
     id: 8,
-    photo: "../cdn/sanitary-hardware-and-electric/rafi-electronics-and-hardware.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/rafi-electronics-and-hardware.jpg",
     name: "রাফি ইলেকট্রনিক্স এন্ড হার্ডওয়ার",
     number: "01771946744",
     wordNo: "৬",
@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 9,
-    photo: "../cdn/sanitary-hardware-and-electric/shariatpur-hardware-and-electronics.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/shariatpur-hardware-and-electronics.jpg",
     name: "শরীয়তপুর হার্ডওয়ার এন্ড ইলেকট্রনিক্স",
     number: "01707332091",
     wordNo: "৬",
@@ -100,7 +100,7 @@ const userData = [
   },
   {
     id: 10,
-    photo: "../cdn/sanitary-hardware-and-electric/rajadhani-glass-and-hardware-sanitary.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/rajadhani-glass-and-hardware-sanitary.jpg",
     name: "রাজধানী গ্লাস এন্ড হার্ডওয়ার স্যানিটারি",
     number: "01918131775",
     wordNo: "৫",
@@ -111,7 +111,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/sanitary-hardware-and-electric/rajadhani-hardware.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/rajadhani-hardware.jpg",
     name: "মেসার্স রাজধানী হার্ডওয়্যার",
     number: "01918502660",
     wordNo: "৬",
@@ -122,7 +122,7 @@ const userData = [
   },
   {
     id: 12,
-    photo: "../cdn/sanitary-hardware-and-electric/juyel-hardware-and-electronics.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/juyel-hardware-and-electronics.jpg",
     name: "জুয়েল হার্ডওয়্যার এন্ড ইলেকট্রনিক্স",
     number: "01968734459",
     wordNo: "৪",
@@ -133,7 +133,7 @@ const userData = [
   },
   {
     id: 13,
-    photo: "../cdn/sanitary-hardware-and-electric/bahar-hardware-and-sanitary.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/bahar-hardware-and-sanitary.jpg",
     name: "বাহার হার্ডওয়ার এন্ড সেনেটারী",
     number: "01915867582",
     wordNo: "৪",
@@ -144,7 +144,7 @@ const userData = [
   },
   {
     id: 14,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "SINGER",
     number: "01936660195",
     wordNo: "৬",
@@ -155,7 +155,7 @@ const userData = [
   },
   {
     id: 15,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "আকরাম ট্রেডার্স",
     number: "01736940999",
     wordNo: "৪",
@@ -166,7 +166,7 @@ const userData = [
   },
   {
     id: 16,
-    photo: "../cdn/sanitary-hardware-and-electric/ati-machine-ghar.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/ati-machine-ghar.jpg",
     name: "এই টি মেশিন ঘর",
     number: "01817084851",
     wordNo: "৪",
@@ -177,7 +177,7 @@ const userData = [
   },
   {
     id: 17,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "মেসার্স নিউ জান্নাত",
     number: "01770184207",
     wordNo: "৫",
@@ -188,7 +188,7 @@ const userData = [
   },
   {
     id: 18,
-    photo: "../cdn/sanitary-hardware-and-electric/u-sha-electronic.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/u-sha-electronic.jpg",
     name: "ইউ-শা ইলেকট্রনিক",
     number: "01912064880",
     wordNo: "৬",
@@ -199,7 +199,7 @@ const userData = [
   },
   {
     id: 19,
-    photo: "../cdn/sanitary-hardware-and-electric/arsad-telecom.jpg",
+    photo: "cdn/sanitary-hardware-and-electric/arsad-telecom.jpg",
     name: "আরসাদ টেলিকম",
     number: "01811114551",
     wordNo: "৪",
@@ -210,7 +210,7 @@ const userData = [
   },
   {
     id: 20,
-    photo: "../cdn/sanitary-hardware-and-electric/bristy-glass-sanitary-and-hardware.png",
+    photo: "cdn/sanitary-hardware-and-electric/bristy-glass-sanitary-and-hardware.png",
     name: "বৃষ্টি গ্লাস, স্যানেটারী এন্ড হার্ডওয়্যার",
     number: "01716785867",
     wordNo: "অন্যান্য",
@@ -221,7 +221,7 @@ const userData = [
   },
   {
     id: 21,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "সততা মোহাম্মদিয়া ইলেকট্রিক স্যানিটারি এন্ড হার্ডওয়ার",
     number: "01933660000",
     wordNo: "৫",
@@ -232,7 +232,7 @@ const userData = [
   },
   {
     id: 22,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "Nur Senitary Electric and Paint Store",
     number: "01796268860",
     wordNo: "৬",
@@ -243,7 +243,7 @@ const userData = [
   },
   {
     id: 23,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "আল্লাহর দান ইলেকট্রিক এন্ড ইলেকট্রনিক্স",
     number: "01917156665",
     wordNo: "৬",
@@ -254,7 +254,7 @@ const userData = [
   },
   {
     id: 24,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "নূর সেনিটারী হার্ডওয়্যার ইলেকট্রনিক এন্ড পেইন্ট স্টোর",
     number: "01796268860",
     wordNo: "৬",
@@ -265,7 +265,7 @@ const userData = [
   },
   {
     id: 25,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "আরিফ চৌধুরী ইলেকট্রিক",
     number: "01950535507",
     wordNo: "৫",
@@ -276,7 +276,7 @@ const userData = [
   },
   {
     id: 26,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "আরিফ ইলেকট্রিক",
     number: "01940963399",
     wordNo: "৫",
@@ -287,7 +287,7 @@ const userData = [
   },
   {
     id: 27,
-    photo: "../cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
+    photo: "cdn/sanitary-hardware-and-electric/sanitary-hardware-and-electric.png",
     name: "সনেট স্টোর এন্ড সিকিউরিটি সিস্টেম",
     number: "01677228930",
     wordNo: "৬",

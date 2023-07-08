@@ -1,6 +1,6 @@
 const userData = [{
         id: 1,
-        photo: "../cdn/telecom-center/arsad-telecom.jpg",
+        photo: "cdn/telecom-center/arsad-telecom.jpg",
         name: "আরসাদ টেলিকম",
         number: "01811114551",
         wordNo: "৪",
@@ -11,7 +11,7 @@ const userData = [{
     },
     {
         id: 2,
-        photo: "../cdn/telecom-center/maa-telecom.jpg",
+        photo: "cdn/telecom-center/maa-telecom.jpg",
         name: "Maa Telecom",
         number: "01923339944",
         wordNo: "৪",
@@ -22,7 +22,7 @@ const userData = [{
     },
     {
         id: 3,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "Rifat Telecom Centre",
         number: "01621819131",
         wordNo: "৪",
@@ -33,7 +33,7 @@ const userData = [{
     },
     {
         id: 4,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "রুজি টেলিকম",
         number: "01718106400",
         wordNo: "৬",
@@ -44,7 +44,7 @@ const userData = [{
     },
     {
         id: 5,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "ফাতেমা টেলিকম এন্ড কম্পিউটার",
         number: "01911906734",
         wordNo: "৭",
@@ -55,7 +55,7 @@ const userData = [{
     },
     {
         id: 6,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "জান্নাত লাইব্রেরি এন্ড টেলিকম সেন্টার",
         number: "01624214577",
         wordNo: "৫",
@@ -66,7 +66,7 @@ const userData = [{
     },
     {
         id: 7,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "It Zone Library",
         number: "01913255077",
         wordNo: "৬",
@@ -77,7 +77,7 @@ const userData = [{
     },
     {
         id: 8,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "মারুফা টেলিকম সেন্টার",
         number: "01910254846",
         wordNo: "৬",
@@ -88,7 +88,7 @@ const userData = [{
     },
     {
         id: 9,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "গাংচিল টেলিমিডিয়া & মোবাইল সাভিসিং সেন্টার",
         number: "01911861115",
         wordNo: "৬",
@@ -99,7 +99,7 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "মা টেলিকম",
         number: "01718805813",
         wordNo: "৫",
@@ -110,7 +110,7 @@ const userData = [{
     },
     {
         id: 11,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "ভাই ভাই টেলিকম",
         number: "01989051143",
         wordNo: "৫",
@@ -121,7 +121,7 @@ const userData = [{
     },
     {
         id: 12,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "তাক্বওয়া এন্টারপ্রাইজ",
         number: "01767821130",
         wordNo: "৬",
@@ -132,7 +132,7 @@ const userData = [{
     },
     {
         id: 13,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "সাদিয়া টেলিকম",
         number: "01601005090",
         wordNo: "৯",
@@ -143,7 +143,7 @@ const userData = [{
     },
     {
         id: 14,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "Brothers Telecom",
         number: "01629258771",
         wordNo: "৪",
@@ -154,7 +154,7 @@ const userData = [{
     },
     {
         id: 15,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "ফারুক টেলিকম",
         number: "01610209080",
         wordNo: "৬",
@@ -165,7 +165,7 @@ const userData = [{
     },
     {
         id: 16,
-        photo: "../cdn/telecom-center/telecom-center.png",
+        photo: "cdn/telecom-center/telecom-center.png",
         name: "কনফিডেন্স টেলিকম",
         number: "01632062839",
         wordNo: "৬",

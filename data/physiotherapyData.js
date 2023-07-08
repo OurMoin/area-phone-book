@@ -1,7 +1,7 @@
 const userData = [
   {
     id: 1,
-    photo: "../cdn/physiotherapy/nurbagh-physiotherapy-center.jpg",
+    photo: "cdn/physiotherapy/nurbagh-physiotherapy-center.jpg",
     name: "নুরবাগ ফিজিওথেরাপি সেন্টার",
     number: "01915669696",
     wordNo: "৪",
@@ -12,7 +12,7 @@ const userData = [
   },
   {
     id: 2,
-    photo: "../cdn/physiotherapy/physiotherapy.png",
+    photo: "cdn/physiotherapy/physiotherapy.png",
     name: "আল ইহসান ফিজিওথেরাপি",
     number: "01672664134",
     wordNo: "৫",
@@ -23,7 +23,7 @@ const userData = [
   },
   {
     id: 3,
-    photo: "../cdn/physiotherapy/physiotherapy.png",
+    photo: "cdn/physiotherapy/physiotherapy.png",
     name: "ডি এস এস কম্বাইন্ড",
     number: "01732748317",
     wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
   },
   {
     id: 4,
-    photo: "../cdn/physiotherapy/physiotherapy.png",
+    photo: "cdn/physiotherapy/physiotherapy.png",
     name: "গোল্ডেন হাউজ",
     number: "01911475520",
     wordNo: "৫",
@@ -45,7 +45,7 @@ const userData = [
   },
   {
     id: 5,
-    photo: "../cdn/physiotherapy/bondhon-diagnostic-center.png",
+    photo: "cdn/physiotherapy/bondhon-diagnostic-center.png",
     name: "বন্ধন ডায়াগনষ্টিক সেন্টার",
     number: "01755744042",
     wordNo: "অন্যান্য",

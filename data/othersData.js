@@ -1,7 +1,7 @@
 const userData = [
    {
       id: 1,
-      photo: "../cdn/others/addo.jpg",
+      photo: "cdn/others/addo.jpg",
       name: "Addo",
       number: "01715522396",
       wordNo: "৬",
@@ -12,7 +12,7 @@ const userData = [
    },
    {
       id: 2,
-      photo: "../cdn/others/shefa's-collection.png",
+      photo: "cdn/others/shefa's-collection.png",
       name: "Shefa's Collection",
       number: "01681767839",
       wordNo: "৬",
@@ -23,7 +23,7 @@ const userData = [
    },
    {
       id: 3,
-      photo: "../cdn/others/sunnahpoint.jpg",
+      photo: "cdn/others/sunnahpoint.jpg",
       name: "Sunnah Point /সুন্নাহ্ পয়েন্ট",
       number: "01782262822",
       wordNo: "৬",
@@ -34,7 +34,7 @@ const userData = [
    },
    {
       id: 4,
-      photo: "../cdn/others/tongarlight.jpg",
+      photo: "cdn/others/tongarlight.jpg",
       name: "Tong Ar light",
       number: "01814996959",
       wordNo: "৮",
