@@ -1,7 +1,7 @@
 const categoryData = [  
   // {
   //   id: 1,
-  //   photo: "../resources/icons/kutubpur-union.png",
+  //   photo: "resources/icons/kutubpur-union.png",
   //   name: "আমাদের কুতুবপুর",
   //   pageLink: "our-kutubpur",
   //   subCategory:
@@ -54,7 +54,7 @@ const categoryData = [
   // },  
   // {
   //   id: 2,
-  //   photo: "../resources/icons/train-time-table.png",
+  //   photo: "resources/icons/train-time-table.png",
   //   name: "বর্তমান ট্রেনের সময়সূচি",
   //   pageLink: "current-train-schedule",
   //   subCategory:
@@ -75,7 +75,7 @@ const categoryData = [
   // },
   {
     id: 3,
-    photo: "../resources/icons/emergency-services.png",
+    photo: "resources/icons/emergency-services.png",
     name: "জরুরী সেবা",
     pageLink: "emergency-services",
     subCategory:
@@ -120,7 +120,7 @@ const categoryData = [
   },
   // {
   //   id: 4,
-  //   photo: "../resources/icons/blood-donation.png",
+  //   photo: "resources/icons/blood-donation.png",
   //   name: "রক্ত দান",
   //   pageLink: "blood-donation",
   //   subCategory:
@@ -141,7 +141,7 @@ const categoryData = [
   // },
   {
     id: 5,
-    photo: "../resources/icons/medical-services.png",
+    photo: "resources/icons/medical-services.png",
     name: "চিকিৎসা সেবা",
     pageLink: "medical-services",
     subCategory:
@@ -190,7 +190,7 @@ const categoryData = [
   },
   {
     id: 6,
-    photo: "../resources/icons/food-corner_food-store.png",
+    photo: "resources/icons/food-corner_food-store.png",
     name: "ফুড কর্নার / খাবার দোকান",
     pageLink: "food-corner_food-store",
     subCategory:
@@ -231,7 +231,7 @@ const categoryData = [
   },
   {
     id: 7,
-    photo: "../resources/icons/shop.png",
+    photo: "resources/icons/shop.png",
     name: "দোকান",
     pageLink: "shop",
     subCategory:
@@ -292,7 +292,7 @@ const categoryData = [
   },
   {
     id: 8,
-    photo: "../resources/icons/education-services.png",
+    photo: "resources/icons/education-services.png",
     name: "শিক্ষা সেবা",
     pageLink: "education-services",
     subCategory:
@@ -329,7 +329,7 @@ const categoryData = [
   },
   {
     id: 9,
-    photo: "../resources/icons/training-center.png",
+    photo: "resources/icons/training-center.png",
     name: "প্রশিক্ষণ কেন্দ্র",
     pageLink: "training-center",
     subCategory:
@@ -378,7 +378,7 @@ const categoryData = [
   },
   {
     id: 10,
-    photo: "../resources/icons/servicing-center.png",
+    photo: "resources/icons/servicing-center.png",
     name: "সার্ভিসিং সেন্টার",
     pageLink: "servicing-center",
     subCategory:
@@ -423,7 +423,7 @@ const categoryData = [
   },
   {
     id: 11,
-    photo: "../resources/icons/rental-services.png",
+    photo: "resources/icons/rental-services.png",
     name: "ভাড়া সেবা",
     pageLink: "rental-services",
     subCategory:
@@ -460,7 +460,7 @@ const categoryData = [
   },
   {
     id: 12,
-    photo: "../resources/icons/parlor-salon.png",
+    photo: "resources/icons/parlor-salon.png",
     name: "পার্লার / সেলুন",
     pageLink: "parlor-salon",
     subCategory:
@@ -485,7 +485,7 @@ const categoryData = [
   },
   {
     id: 13,
-    photo: "../resources/icons/area-based-online-service.png",
+    photo: "resources/icons/area-based-online-service.png",
     name: "এলাকাভিত্তিক অনলাইন সেবা",
     pageLink: "area-based-online-service",
     subCategory:
@@ -514,7 +514,7 @@ const categoryData = [
   },
   {
     id: 14,
-    photo: "../resources/icons/studio-computer-shop.png",
+    photo: "resources/icons/studio-computer-shop.png",
     name: "স্টুডিও / কম্পিউটার দোকান",
     pageLink: "studio-computer-shop",
     subCategory:
@@ -539,7 +539,7 @@ const categoryData = [
   },
   {
     id: 15,
-    photo: "../resources/icons/mechanic.png",
+    photo: "resources/icons/mechanic.png",
     name: "মিস্ত্রী",
     pageLink: "mechanic",
     subCategory:
@@ -572,7 +572,7 @@ const categoryData = [
   },
   {
     id: 16,
-    photo: "../resources/icons/transportation-services.png",
+    photo: "resources/icons/transportation-services.png",
     name: "পরিবহন সেবা",
     pageLink: "transportation-services",
     subCategory:
@@ -621,7 +621,7 @@ const categoryData = [
   },
   // {
   //   id: 17,
-  //   photo: "../resources/icons/hardware-sanitary-electronics.png",
+  //   photo: "resources/icons/hardware-sanitary-electronics.png",
   //   name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
   //   pageLink: "hardware-sanitary-electronics",
   //   subCategory:
@@ -654,7 +654,7 @@ const categoryData = [
   // },
   {
     id: 18,
-    photo: "../resources/icons/gift-corner.png",
+    photo: "resources/icons/gift-corner.png",
     name: "গিফট কর্নার",
     pageLink: "gift-corner",
     subCategory:
@@ -675,7 +675,7 @@ const categoryData = [
   },
   {
     id: 19,
-    photo: "../resources/icons/decorator.png",
+    photo: "resources/icons/decorator.png",
     name: "ডেকোরেটর",
     pageLink: "decorator",
     subCategory:
@@ -700,7 +700,7 @@ const categoryData = [
   },
   // {
   //   id: 20,
-  //   photo: "../resources/icons/it-support.png",
+  //   photo: "resources/icons/it-support.png",
   //   name: "আইটি সেবা",
   //   pageLink: "it-support",
   //   subCategory:
@@ -733,7 +733,7 @@ const categoryData = [
   // },
   // {
   //   id: 21,
-  //   photo: "../resources/icons/cyber-bullying.png",
+  //   photo: "resources/icons/cyber-bullying.png",
   //   name: "সাইবার বুলিং / ভোক্তা অধিকার",
   //   pageLink: "cyber-bullying-and-consumer-rights",
   //   subCategory:
@@ -766,7 +766,7 @@ const categoryData = [
   // },
   {
     id: 22,
-    photo: "../resources/icons/civic-service.png",
+    photo: "resources/icons/civic-service.png",
     name: "নাগরিক সেবা",
     pageLink: "civic-service",
     subCategory:
@@ -811,7 +811,7 @@ const categoryData = [
   },
   // {
   //   id: 23,
-  //   photo: "../resources/icons/service-organization.png",
+  //   photo: "resources/icons/service-organization.png",
   //   name: "সেবামূলক সংগঠন",
   //   pageLink: "service-organization",
   //   subCategory:
@@ -840,7 +840,7 @@ const categoryData = [
   // },
   // {
   //   id: 24,
-  //   photo: "../resources/icons/materials-under-construction.png",
+  //   photo: "resources/icons/materials-under-construction.png",
   //   name: "নির্মাণাধীন সামগ্রী",
   //   pageLink: "materials-under-construction",
   //   subCategory:
@@ -873,7 +873,7 @@ const categoryData = [
   // },
   // {
   //   id: 25,
-  //   photo: "../resources/icons/market.png",
+  //   photo: "resources/icons/market.png",
   //   name: "মার্কেট",
   //   pageLink: "market",
   //   subCategory:
@@ -902,7 +902,7 @@ const categoryData = [
   // },
   // {
   //   id: 26,
-  //   photo: "../resources/icons/banking-services.png",
+  //   photo: "resources/icons/banking-services.png",
   //   name: "ব্যাংকিং সেবা",
   //   pageLink: "banking-services",
   //   subCategory:
@@ -927,7 +927,7 @@ const categoryData = [
   // },
   // {
   //   id: 27,
-  //   photo: "../resources/icons/religious-place.png",
+  //   photo: "resources/icons/religious-place.png",
   //   name: "ধর্মীয় স্থান",
   //   pageLink: "religious-place",
   //   subCategory:
@@ -952,7 +952,7 @@ const categoryData = [
   // },
   // {
   //   id: 28,
-  //   photo: "../resources/icons/tourist-spot.png",
+  //   photo: "resources/icons/tourist-spot.png",
   //   name: "ঘোরার জায়গা",
   //   pageLink: "visitors-place",
   //   subCategory:
@@ -977,7 +977,7 @@ const categoryData = [
   // },
   // {
   //   id: 29,
-  //   photo: "../resources/icons/car-stand.png",
+  //   photo: "resources/icons/car-stand.png",
   //   name: "গাড়ী স্ট্যান্ড",
   //   pageLink: "car-stand",
   //   subCategory:
@@ -1003,7 +1003,7 @@ const categoryData = [
   ,
   {
     id: 30,
-    photo: "../resources/icons/land-development.png",
+    photo: "resources/icons/land-development.png",
     name: "ল্যান্ড ডেভেলপমেন্ট",
     pageLink: "land-development",
     subCategory:
@@ -1024,7 +1024,7 @@ const categoryData = [
   },
   // {
   //   id: 31,
-  //   photo: "../resources/icons/mills-factory-garments.png",
+  //   photo: "resources/icons/mills-factory-garments.png",
   //   name: "মিলস / ফ্যাক্টরি / গার্মেন্ট",
   //   pageLink: "mills-factory-garments",
   //   subCategory:

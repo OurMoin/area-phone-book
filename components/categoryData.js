@@ -2,7 +2,7 @@ const categoryData = [
 
   {
     id: 1,
-    photo: "/resources/icons/kutubpur-union.png",
+    photo: "resources/icons/kutubpur-union.png",
     name: "পেশাজীবী",
     pageLink: "our-kutubpur",
     subCategory:
@@ -23,7 +23,7 @@ const categoryData = [
   }, 
   {
     id: 14,
-    photo: "../resources/icons/area-based-online-service/news.png",
+    photo: "resources/icons/area-based-online-service/news.png",
     name: "খবর",
     pageLink: "studio-computer-shop",
     subCategory:
@@ -80,7 +80,7 @@ const categoryData = [
   }, 
   {
     id: 5,
-    photo: "../resources/icons/medical-services.png",
+    photo: "resources/icons/medical-services.png",
     name: "চিকিৎসা",
     pageLink: "medical-services",
     subCategory:
@@ -129,7 +129,7 @@ const categoryData = [
   },
   {
     id: 6,
-    photo: "../resources/icons/food-corner_food-store.png",
+    photo: "resources/icons/food-corner_food-store.png",
     name: "ফুড",
     pageLink: "food-corner_food-store",
     subCategory:
@@ -162,7 +162,7 @@ const categoryData = [
   },
   {
     id: 10,
-    photo: "../resources/icons/servicing-center.png",
+    photo: "resources/icons/servicing-center.png",
     name: "সার্ভিস",
     pageLink: "servicing-center",
     subCategory:
@@ -207,7 +207,7 @@ const categoryData = [
   },
   {
     id: 8,
-    photo: "../resources/icons/education-services.png",
+    photo: "resources/icons/education-services.png",
     name: "শিক্ষা",
     pageLink: "education-services",
     subCategory:
@@ -244,7 +244,7 @@ const categoryData = [
   },
   {
     id: 9,
-    photo: "../resources/icons/training-center.png",
+    photo: "resources/icons/training-center.png",
     name: "প্রশিক্ষণ",
     pageLink: "training-center",
     subCategory:
@@ -294,7 +294,7 @@ const categoryData = [
 
   {
     id: 12,
-    photo: "../resources/icons/parlor-salon.png",
+    photo: "resources/icons/parlor-salon.png",
     name: "সৌন্দর্য",
     pageLink: "parlor-salon",
     subCategory:
@@ -319,7 +319,7 @@ const categoryData = [
   },
   {
     id: 13,
-    photo: "../resources/icons/area-based-online-service.png",
+    photo: "resources/icons/area-based-online-service.png",
     name: "ই-কমার্স",
     pageLink: "area-based-online-service",
     subCategory:
@@ -348,7 +348,7 @@ const categoryData = [
   },
   {
     id: 11,
-    photo: "../resources/icons/rental-services.png",
+    photo: "resources/icons/rental-services.png",
     name: "ভাড়া",
     pageLink: "rental-services",
     subCategory:
@@ -397,7 +397,7 @@ const categoryData = [
   },
   {
     id: 18,
-    photo: "../resources/icons/shop/cash-on-delivery.png",
+    photo: "resources/icons/shop/cash-on-delivery.png",
     name: "বেচা-কেনা",
     pageLink: "gift-corner",
     subCategory:
@@ -418,7 +418,7 @@ const categoryData = [
   },
   {
     id: 99,
-    photo: "../resources/icons/training-center/skill-training.png",
+    photo: "resources/icons/training-center/skill-training.png",
     name: "চাকরি",
     pageLink: "gift-corner",
     subCategory:
@@ -439,7 +439,7 @@ const categoryData = [
   },
   {
     id: 98,
-    photo: "../resources/icons/marriage/couple.png",
+    photo: "resources/icons/marriage/couple.png",
     name: "বিবাহ",
     pageLink: "gift-corner",
     subCategory:
@@ -484,7 +484,7 @@ const categoryData = [
   },
   {
     id: 97,
-    photo: "../resources/icons/training-center/computer-training.png",
+    photo: "resources/icons/training-center/computer-training.png",
     name: "ফ্রিলন্সার",
     pageLink: "gift-corner",
     subCategory:
