@@ -2,7 +2,7 @@ const categoryData = [
 
   {
     id: 1,
-    photo: "../resources/icons/kutubpur-union.png",
+    photo: "/resources/icons/kutubpur-union.png",
     name: "পেশাজীবী",
     pageLink: "our-kutubpur",
     subCategory:
